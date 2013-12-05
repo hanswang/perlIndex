@@ -1,0 +1,246 @@
+19,20c19,20
+< <meta name="description" content="Communications is the fastest growing industry sector in the world. The past few years have seen rapid and extensive developments in all aspects of telecommunications." />
+< <meta name="keywords" content="Telecommunications, engineering, communications, digital, optical fibre, engineer, planning, systems, network management,  undergraduate, bachelor" />
+---
+> <meta name="description" content="The postgraduate telecommunications engineering coursework program at La Trobe focuses on the major aspects of computer, internet, multimedia and telecommunication technology, from high-level specification of telecommunications systems through to realisation of communication circuits." />
+> <meta name="keywords" content="Telecommunications engineering, postgraduate, Master's, coursework" />
+34c34
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+42c42
+< <!-- 108338 -->
+---
+> <!-- 108909 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/telecommunications-engineering"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="canonical" href="http://www.latrobe.edu.au/courses/telecommunications-engineering/postgraduate"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+74c74
+<   Page generated: 10 November 2013 20:23:30
+---
+>   Page generated: 11 November 2013 10:34:00
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/telecommunications-engineering">Telecommunications engineering</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/telecommunications-engineering">Telecommunications engineering</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/telecommunications-engineering/postgraduate">Postgraduate</a></div>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/telecommunications-engineering">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/telecommunications-engineering/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/telecommunications-engineering">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/telecommunications-engineering/postgraduate">Postgraduate</a></li>
+155d154
+< 
+157c156,161
+< <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0006/447126/Engineering_4.jpg" width="249" height="166" alt="" title="Telecommunications engineering" />Why study Telecommunications engineering?</h2>
+---
+> <div class="feature feature-big">
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0004/119920/Telecommunication.jpg" width="250" height="166" alt="" title="Telecommunication.jpg" />Why study Telecommunications engineering?</h2>
+> 
+>   <p>Our coursework program focuses on computer, internet, multimedia and telecommunication technology from high-level specification of telecommunications systems through to the realisation of communication circuits.</p>
+> 
+>   <p>Core subjects include broadband digital communications, personal mobile communications, antennas and propagation, current experimental practice in electronics and a telecommunications project. We have a wide range of advanced telecommunications electives.&nbsp;</p>
+159c163
+< <p>Communications is the fastest growing industry sector in the world. The past few years have seen rapid and extensive developments in all aspects of telecommunications.</p>
+---
+>   <p>You may combine studies in telecommunications engineering with a MBA.</p>
+161c165,166
+< <p>For example, the introduction of optical fibres has improved long-distance communications and the move to digital techniques has allowed many new features to be introduced to the telephone network. Communications is an area of great importance everyone.<br /></p>
+---
+>   <p>See the Research tab for information about Masters by research, or PhD.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /></p>
+> </div>
+168c173,175
+< <p>You will be well prepared to meet the challenges of a rapidly developing industry. Opportunities include engineering positions involving planning, design, implementation, operation and management of telecommunications systems and networks. Completing the combined Master’s level program will give you a significant advantage when seeking employment.</p>
+---
+> <p>Telecommunications is a global industry and graduates are prepared for diverse opportunities in Australia and overseas.</p>
+> 
+> <p>Graduates with combined studies in network engineering can work in the design and development of new systems including computer networks, signal processing, wireless systems, and hardware and software development.</p>
+170c177
+< <p>Our programs are accredited with <a href="http://www.engineersaustralia.org.au/">Engineers Australia</a>.<br /></p>
+---
+> <p>Graduates with a MBA can progress into senior management or form their own company.</p>
+177,178c184,189
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Electronic Engineering (Honours)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">61.65</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Modern electronic engineering creates sophisticated instruments and devices for use in all branches of physical and biological sciences, in engineering and manufacturing, and in the home.<br />
+< This course focuses on the electronic systems we use daily, from simple circuits to complex devices and expensive biomedical equipment in hospitals. It also aims to give you an appreciation of the role of engineers in the community, and an awareness of the social and environmental effects of their decisions.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Business Administration / Master of Telecommunication Engineering </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>In this double Master's program, gradauates gain various professional skills that are highly sought after by the telecommunications industry. Graduates can fast-track their careers into senior management positions in high-technology companies, or to form their own technology start-up company.</dd><dt>Prerequisite</dt><dd>Four-year electronic or communication/telecommunication engineering degree, or approved equivalent, covering the fundamentals of analogue and digital communication techniques and systems.</dd><dt>Fee amount</dt><dd>Indicative (2012): $17,890 per 120 credit points. <br />
+> <br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/szbate.htm"><span class="off-screen">Business Administration/Telecommunication Engineering </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Telecommunication and Network Engineering </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or 4 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Rapid changes in computer, internet, multimedia and communication technologies have created many challenges in the field of telecommunications engineering. We will equip you with the necessary skills,<br />
+> knowledge and practical experience you need to excel in this demanding industry.<br />
+> <br />
+> This course focuses on all aspects of telecommunication engineering, from highlevel specifications of telecommunications systems, through to the realisation of communication circuits.<br />
+180c191
+< The curriculum provides a broad introduction to electronics, with the opportunity to specialise in sustainability in energy production, or biomedical, microelectronic, optical or electronic systems engineering.<br />
+---
+> Core subjects areas include: broadband digital communications, personal mobile communications, antennas and propagation, plus current experimental practice in electronics and telecommunications projects.<br />
+182c193,195
+< Visit the <a href="http://www.latrobe.edu.au/scitecheng/study">Faculty's industry experience and student support programs.</a><br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: English (any) and either Mathematical Methods or Specialist Mathematics</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+---
+> You will also have a wide range of advanced telecommunications electives to choose from. You can choose to combine your studies with a Master of Business Administration.</dd><dt>Prerequisite</dt><dd>A four-year Bachelor of Engineering degree or international equivalent, in electronic engineering, computer engineering or communication/telecommunication engineering, or a four-year (Honours) degree in an appropriate field, or equivalent. Applicants with a three-year Bachelor of Science (in an appropriate field), or Bachelor of Engineering degree in another field, may also be considered for admission following the successful completion of the Postgraduate Diploma in Electronic Engineering. Enrolment in this program is subject to approval from the course coordinator.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points. <br />
+> <br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Download and complete and submit a <a href="http://www.latrobe.edu.au/postgrad-coursework/apply">form</a></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smtne.htm"><span class="off-screen">Telecommunication and Network Engineering (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Electronic Engineering</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to update your skills or to specialise in biomedical, communication, electronic systems or optical engineering.<br />
+184c197,202
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Successful completion of Physics or Specialist Mathematics gives you an additional 1.5 aggregate points for each area of study. Performance in prerequisite studies is also considered.</dd><dt>Additional information</dt><dd>Students must complete at least 12 weeks' certified practical experience to be deemed to have completed the course. This is usually undertaken during the vacation following third or fourth year, but may be done at the end of final year.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>The course is accredited by Engineers Australia. Graduates with a biomedical engineering specialty can apply for registration with the College of Biomedical Engineers (Engineers Australia), after holding a position of professional responsibility in biomedical engineering.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/svee.htm"><span class="off-screen">Electronic Engineering</span>Melbourne</a></dd></dl></div></div></div>
+---
+> It also offers you the opportunity to prepare for further study in the Master of Electronic Engineering, or the Master of Engineering (by research).<br />
+> <br />
+> If you have a four-year degree in engineering or science (with an electronics major), this course is a means to expand your knowledge and keep up-to-date with developments in these specialist areas.</dd><dt>Prerequisite</dt><dd>A Bachelor's degree in a relevant area: computer science,<br />
+> electrical/civil/mechanical engineering, or a degree in physical<br />
+> sciences with advanced maths and physics in the curriculum.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points. <br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Download, complete and submit a <a href="http://www.latrobe.edu.au/students/postgrad-coursework/apply">postgraduate coursework application form</a>. Please ensure you also provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The course is accredited by Engineers Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/spee.htm"><span class="off-screen">Electronic Engineering (Postgraduate Diploma)</span>Melbourne</a></dd></dl></div></div></div>
+187,188c205,206
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+190c208
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+194c212
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+196c214
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+201,202c219,220
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Electronic Engineering (Honours) (069556E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Modern electronic engineering creates sophisticated instruments and devices for use in all branches of physical and biological sciences, in engineering and manufacturing, and in the home.<br />
+< This course focuses on the electronic systems we use daily, from simple circuits to complex devices and expensive biomedical equipment in hospitals. It also aims to give you an appreciation of the role of engineers in the community, and an awareness of the social and environmental effects of their decisions.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Telecommunication and Network Engineering  (050071D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Rapid changes in computer, internet, multimedia and communication technologies have created many challenges in the field of telecommunications engineering. We will equip you with the necessary skills,<br />
+> knowledge and practical experience you need to excel in this demanding industry.<br />
+204c222
+< The curriculum provides a broad introduction to electronics, with the opportunity to specialise in sustainability in energy production, or biomedical, microelectronic, optical or electronic systems engineering.<br />
+---
+> This course focuses on all aspects of telecommunication engineering, from highlevel specifications of telecommunications systems, through to the realisation of communication circuits.<br />
+206c224
+< Visit the <a href="http://www.latrobe.edu.au/scitecheng/study">Faculty's industry experience and student support programs.</a><br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> Core subjects areas include: broadband digital communications, personal mobile communications, antennas and propagation, plus current experimental practice in electronics and telecommunications projects.<br />
+208c226
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> You will also have a wide range of advanced telecommunications electives to choose from. You can choose to combine your studies with a Master of Business Administration.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+210c228
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+212c230
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+214c232
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+216c234,236
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+218c238
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+222c242,250
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+> <br />
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>A four-year Australian Bachelor's degree in electronics, telecommunications, or computer engineering, or an Honours degree in science in an appropriate field, or approved international equivalent. A minimum background in digital logic, computer architecture, mathematics at second year level and basic programming skills in C or C++. If you do not strictly meet these requirements, you may be considered for admission following successful completion of the Postgraduate Diploma in Electronic Engineering.</dd><dt>Additional information</dt><dd>This course may be offered in 2013 subject to CRICOS approval. International students need to check the course status before making an application.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smtne.htm"><span class="off-screen">Telecommunication and Network Engineering (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Electronic Engineering (019480A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to update your skills or to specialise in biomedical, communication, electronic systems or optical engineering.<br />
+> <br />
+> It also offers you the opportunity to prepare for further study in the Master of Electronic Engineering, or the Master of Engineering (by research).<br />
+> <br />
+> If you have a four-year degree in engineering or science (with an electronics major), this course is a means to expand your knowledge and keep up-to-date with developments in these specialist areas.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+> <br />
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+224,239c252
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 61.65<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 60<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+241c254,266
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4 Mathematical Methods (CAS) or Specialist Mathematics and English (any).</dd><dt>Additional information</dt><dd>Students with Advanced Standing (credit) may commence in Semester 2 (July).</dd><dt>Professional recognition</dt><dd>The course is accredited by Engineers Australia and graduates are eligible for professional membership.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/svee.htm"><span class="off-screen">Electronic Engineering</span>Melbourne</a></dd></dl></div></div></div>
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+> <br />
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+> <br />
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+> <br />
+> Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+> <br />
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+> <br />
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree, or approved international equivalent, in a relevant area.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/spee.htm"><span class="off-screen">Electronic Engineering (Postgraduate Diploma)</span>Melbourne</a></dd></dl></div></div></div>
+244c269
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+247c272
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+258c283
+< <div id="related_study_options">
+---
+> <div id="study_options">
+262c287
+<   <li><a href="http://www.latrobe.edu.au/courses/electronic-engineering">Electronic engineering</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/electronic-engineering/postgraduate">Electronic engineering</a></li>
+266,267d290
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=260675"> <img src="http://www.latrobe.edu.au/student-profiles/images/AdrianClark_web.jpg/thumbnail.jpg" width="53" height="80" alt="" title="clark_adrian" /></a><cite><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=260675"> Adrian <strong>Clark</strong>,</a>  <br />Bachelor of Electronic Engineering</cite></p><p class="testimonial">"I can see myself working in any number of electronic, electrical and communications engineering jobs."</p>
+269,271c292
+< 
+< </blockquote>
+< <div id="related_study_options">
+---
+> <div id="new_div_106813">
+274,277d294
+< <h3>Alternative pathways</h3>
+< 
+< <p>Alternative pathways include TAFE; transferring from another degree or campus at La&nbsp;Trobe; transferring from another university where you are enrolled in a related degree, provided you meet the entry requirements; or enrol in a degree through our special mature age entry scheme or via single subject enrolment. See <a href="http://www.latrobe.edu.au/study">undergraduate pathways</a> or <a href="http://www.latrobe.edu.au/international">information for international students</a>.</p>
+< 
+278a296,299
+> <h3>Overseas study opportunities</h3>
+> <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+> <div id="content_div_70640">
+> <h3>Student and graduate profiles</h3>
+280,281c301
+< <div id="new_div_106809">
+< <h3>Telecommunications engineering placements</h3>
+---
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+284,286d303
+< <p>The industry cadetship program allows you to gain paid workplace experience between semesters, giving you the chance to build on your skills and build your career. See <a href="http://www.latrobe.edu.au/scitecheng/study/cadetships">cadetship program</a>.</p><h3>Overseas study opportunities</h3>
+< <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+< <div id="staff_profile_nest">
+291,293c308
+< <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Telecommunications engineering&amp;submit=submit&amp;showform=no">staff in Telecommunications engineering</a>.</p-->
+< </div>
+< <!-- Content end -->
+---
+> <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Telecommunications engineering&amp;submit=submit&amp;showform=no">staff in Telecommunications engineering</a>.</p--><!-- Content end -->

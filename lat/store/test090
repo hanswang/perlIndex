@@ -1,0 +1,302 @@
+19,20c19,20
+< <meta name="description" content="Develop skills in business information systems and the software used to store data records." />
+< <meta name="keywords" content="business, information, systems, software, data, technology, management, accredited,scholarships, experience, bachelor, undergraduate" />
+---
+> <meta name="description" content="Our Master’s program emphasises the management of information systems and the computer technology that helps managers make decisions." />
+> <meta name="keywords" content="Information systems, data modelling, database, computer systems, artificial intelligence, games technology, network engineering, software, web development, ACS, postgraduate, Master" />
+34c34
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+38c38
+< Information systems, 
+---
+> Information Systems, 
+42c42
+< <!-- 107336 -->
+---
+> <!-- 107376 -->
+67c67
+< <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/information-systems"/>		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/information-systems/postgraduate"/>		
+74c74
+<   Page generated: 10 November 2013 23:05:47
+---
+>   Page generated: 11 November 2013 19:20:43
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/information-systems">Information systems</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/information-systems">Information systems</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/information-systems/postgraduate">Postgraduate</a></div>
+144c144
+< <h1>Information systems</h1>
+---
+> <h1>Information Systems</h1>
+150c150
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/information-systems">Undergraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/information-systems">Undergraduate</a></li>
+152c152
+<   <li><a href="http://www.latrobe.edu.au/courses/information-systems/postgraduate">Postgraduate</a></li>
+---
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/information-systems/postgraduate">Postgraduate</a></li>
+156d155
+< 
+159,211c158
+<   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0007/119923/Info-Sys.jpg" width="250" height="166" alt="" title="Info-Sys.jpg" />Why study Information systems?</h2>
+< 
+<   <p>Business relies heavily on the use of information systems - that is, the specific software used to store data records.</p>
+< 
+<   <p>Established in response to strong industry demand, this course aims to give you a thorough understanding of information technology tool and specialist knowledge in management, marketing or accounting. It offers you the opportunity to develop a mixture of skills in the two complementary areas of information systems and business/management.</p>
+< 
+<   <p>You will study various information processing techniques and how to use them efficiently to manage large-scale businesses and resources. You can also choose from various electives to tailor your studies to meet your individual interests.<br /></p>
+< 
+<   <h3>Scholarships</h3>
+< 
+<   <p>In addition to existing Commonwealth and university-funded scholarships, the <a href="http://www.latrobe.edu.au/computer-science-and-computer-engineering">Department of Computer Science and Computer Engineering</a> offers up to A$6000 per annum to high-achieving students. You may also have an opportunity to receive a small scholarship sponsored by one of our industry partners.<br /></p>
+< 
+<   <h3>Professional recognition<br /></h3>
+< 
+<   <p>This course is accredited by the <a href="http://www.acs.org.au/">Australian Computer Society</a> (ACS) and graduates are eligible for professional membership. You may also be able to gain Cisco or Microsoft certification.<br /></p>
+< </div>
+< 
+< </div>
+< <div class="video-thumb">
+< 	<div>
+< 		<img class="video-on" style="background:transparent url(http://webmedia.latrobe.edu.au/production1/video1524.jpg.thumb.jpg) no-repeat 0 0" src="http://webmedia.latrobe.edu.au/images/view-video-overlay-thumb.png" alt="" width="80" height="53" />
+< 		<h2 class="video-on">Business Information Systems</h2>
+< 		<p>Find out more about the Bachelor of Business Information Systems at La Trobe University.</p>
+< 	</div>
+<   <div class="webmedia reveal-video">
+< 
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:02:32',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/ekBoLTU_2_BIS_v6.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/ekBoLTU_2_BIS_v6.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1524.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'1524', 'name':'1524'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1524', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< 
+< 
+< <div id="v1524">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1524.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/EywBLTU_2_BIS_v6_1.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< 
+< </div>
+< 
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/EywBLTU_2_BIS_v6_1.mp4"><span
+< class="off-screen">Business Information Systems</span> MP4 [14.34 MB]</a></li>
+---
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0007/119923/Info-Sys.jpg" width="250" height="166" alt="" title="Info-Sys.jpg" /> Why study Information Systems?</h2>
+213c160
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/gJe4LTU_2_BIS_v6.mp3"><span class="off-screen">Business Information Systems</span> MP3 [1.75 MB]</a></li>
+---
+>   <p>Our Master’s program emphasises the management of information systems and the computer technology that helps managers make decisions. Study the design, maintenance and use of software and applications in organisations as well as data modelling, databases, data communication systems and software engineering.</p>
+215,216c162
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/0cr7Business information systems.doc"><span class="off-screen transcript-link">Business Information Systems</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1524"><span class="off-screen">Business Information Systems</span> Permalink</a></li>
+---
+>   <p>Specialised subjects include intelligent computing systems, cooperating computer systems, artificial intelligence, games technology, network engineering, software systems and web development. This course leads to professional level membership of the <a href="http://www.acs.org.au/">Australian Computer Society</a> (ACS).</p>
+218,219c164
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video format request: http://webmedia.latrobe.edu.au/webmedia/perma.php?1524">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+---
+>   <p>See Research for information about Master&#39;s by research, or PhD.&nbsp;<br /></p>
+222,224d166
+< 
+< 
+< 	</div>
+230,232c172
+< <p>Graduates should be able to critically analyse business problems and develop innovative solutions through the effective use of information systems, fitting roles that bridge the gap between technical and management personnel.</p>
+< 
+< <p>You're likely to find a variety of industry sectors that rely on the effective use of information systems and management to maximise their profit. A typical role for graduates is systems analyst, where you apply your expertise in analysing business information system requirements and system deployment methods.<br /></p>
+---
+> <p>Graduates are prepared for careers in IT consultancy, business strategy, systems analysis, business analysis, project management, information systems management, database management, IT sales and marketing.</p>
+239c179,183
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business Information Systems</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">60.65</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The design and use of software to store data records, a thorough understanding of information technology (IT) tools, and specialist knowledge in information systems and business management, marketing or accounting are the key elements of this course.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Diploma in Information Technology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or up to 5 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to provide a general professional qualification in information technology (IT) to graduates with a grounding in the discipline who seek to broaden or deepen their knowledge of using computers. Core subjects provide a foundation in information systems, software development and computer networking.</dd><dt>Prerequisite</dt><dd>Australian Bachelors degree in any discipline, or approved<br />
+> international equivalent</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points.<br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The course is accredited for associate level membership of the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/sgdit.htm"><span class="off-screen">Information Technology (Graduate Diploma)</span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Biocomputing and Biometric Security</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or 4 years part-time. </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This innovative course is designed to meet growing industry demands. It places students at the forefront of the emerging field of biocomputing and biometric security.<br />
+> <br />
+> The course offers students with various technical backgrounds an excellent opportunity to move their research focus to their popular and practical working fields. Students will learn advanced computing techniques necessary for work in bioinformatics and biometric security.<br />
+241,245c185,195
+< The curriculum covers software applications helping you develop professional business management skills. Upon graduation, you should have extensive<br />
+< knowledge of business and information systems concepts, and be able to critically analyse and develop innovative solutions for business problems.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: a study score of 25 English (ESL) or 20 in any<br />
+< other English.<br />
+< VCE Units 1and 2: General Mathematics or Mathematical Methods<br />
+< (any combination).</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.</dd><dt>Middle band</dt><dd>La Trobe considers Special Entry Access Scheme (SEAS) criteria; and a regional bonus may apply. Performance in prerequisite studies is also considered.</dd><dt>Fee amount</dt><dd>Indicative (2011) CSP student contribution: $7752 (per 120 credit points). </dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>This course is fully accredited by the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbiy.htm"><span class="off-screen">Business Information Systems</span>Melbourne</a></dd></dl></div></div></div>
+---
+> Core subjects cover the fundamentals of bioinformatic technologies, advanced biocomputing, biometric security, computational intelligence systems, visual information systems and data mining techniques. Students can also choose two electives from a selected list.<br />
+> <br />
+> All students with demonstrated capabilities are strongly encouraged to take further study after completing this course.<br />
+> <br />
+> Please note: this course is not offered in 2014. It will be offered in Semester 1, 2015.</dd><dt>Prerequisite</dt><dd>Australian Bachelor's degree or equivalent, in one or more of: computer science, information systems, information technology, biomedicine, electronic engineering, mathematics and statistics.</dd><dt>Fee amount</dt><dd>TBC: new course in 2012. </dd><dt>Additional information</dt><dd>Please note: this course is not offered in 2014. It will be offered in Semester 1, 2015.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply direct to the University</a> . Please ensure you also provide all supplementary information required.<br /></dd><dt>Professional recognition</dt><dd>The Department of Computer Science and Computer Engineering is currently applying for accreditation with the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smbbs.htm"><span class="off-screen">Biocomputing and Biometric Security (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Information Technology (Computer Networks)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or up to 4 years part time.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The combination of core and specialised subjects in this course is aimed at giving students the skills to work in network administration. It encompasses the knowledge necessary for roles in data communications and networks, networks and systems security, network design and network management, application protocol and wireless networks.<br />
+> <br />
+> Students may complete the degree entirely by coursework, or include an industrial team project or undertake a minor thesis in the area of computer networks if they wish to progress to a PhD. Core studies include fundamental and intermediate programming using Java, fundamental IT-related mathematics, algorithms and data structures, system design engineering fundamentals, and a software engineering project.</dd><dt>Prerequisite</dt><dd>Australian Bachelors degree in any discipline.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points. <br />
+> <br />
+> </dd><dt>Additional information</dt><dd>Students without the appropriate computer science background may be required to commence three weeks earlier than semester start dates to undertake accelerated first-year computer science subjects.<br />
+> <br />
+> A seminar program is an integral part of the course. It covers ethical, professional, and social issues relevant to the IT industry. Compulsory tutorials are held throughout the year; students who do not attend are not permitted to graduate.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>This course is accredited for professional level membership of the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smitcn.htm"><span class="off-screen">Information Technology (Computer Networks) (Master)</span>Melbourne</a></dd></dl></div></div></div>
+248,249c198,199
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+251c201
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+255c205
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+257c207
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+262c212
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business Information Systems (075223J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 140</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The design and use of software to store data records, a thorough understanding of information technology (IT) tools, and specialist knowledge in information systems and business management, marketing or accounting are the key elements of this course.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Information Technology (Computer Networks) (049142D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The combination of core and specialised subjects in this course is aimed at giving students the skills to work in network administration. It encompasses the knowledge necessary for roles in data communications and networks, networks and systems security, network design and network management, application protocol and wireless networks.<br />
+264,265c214
+< The curriculum covers software applications helping you develop professional business management skills. Upon graduation, you should have extensive<br />
+< knowledge of business and information systems concepts, and be able to critically analyse and develop innovative solutions for business problems.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> Students may complete the degree entirely by coursework, or include an industrial team project or undertake a minor thesis in the area of computer networks if they wish to progress to a PhD. Core studies include fundamental and intermediate programming using Java, fundamental IT-related mathematics, algorithms and data structures, system design engineering fundamentals, and a software engineering project.</dd><dt>English Language Requirements</dt><dd>ELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+267c216
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+269c218
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+271c220
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+273c222,224
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+275,277c226
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+281,298c230
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 60.65<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 60<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+300,301c232
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br /></dd><dt>Subject prerequisite</dt><dd>Equivalent to the Australian VCE Units 3 and 4, a minimum study score of at least 25 in English (ESL) or 20 in any other English.</dd><dt>Professional recognition</dt><dd>This course is fully accredited by the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbiy.htm"><span class="off-screen">Business Information Systems</span>Melbourne</a></dd></dl></div></div></div>
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree or approved international equivalent of three years or longer in any discipline. Knowledge of C programming is an advantage.</dd><dt>Additional information</dt><dd>A seminar program is an integral part of the course. It covers ethical, professional, and social issues relevant to the IT industry. Tutorials are held throughout the year and attendance is required. Students who have not met this requirement will not be permitted to graduate.</dd><dt>Professional recognition</dt><dd>This course is accredited for professional level membership of the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smitcn.htm"><span class="off-screen">Information Technology (Computer Networks) (Master)</span>Melbourne</a></dd></dl></div></div></div>
+304c235
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+307c238
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+318c249
+< <div id="related_study_options">
+---
+> <div id="study_options">
+322c253,255
+<   <li><a href="http://www.latrobe.edu.au/courses/computer-science">Computer science</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/business/postgraduate">Business</a></li>
+> 
+>   <li><a href="http://www.latrobe.edu.au/courses/computer-science/postgraduate">Computer science</a></li>
+324c257
+<   <li><a href="http://www.latrobe.edu.au/courses/computer-systems-engineering">Computer systems</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/computer-systems-engineering/postgraduate">Computer systems</a></li>
+326c259
+<   <li><a href="http://www.latrobe.edu.au/courses/games-technology">Games technology</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/games-technology/postgraduate">Games technology</a></li>
+328c261
+<   <li><a href="http://www.latrobe.edu.au/courses/information-technology">Information technology</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/information-technology/postgraduate">Information technology</a></li>
+332,333d264
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=141626"> <img src="http://www.latrobe.edu.au/__data/assets/image/0020/141626/varieties/thumbnail.jpg" width="53" height="80" alt="" title="vajira_abeyratna.jpg" /></a><cite><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=141626">Mr Vajira <strong>Abeyratna</strong>,</a>  <br />Bachelor of Information Systems</cite></p><p class="testimonial">"As an international student, I find that La Trobe offers me the best facilities and even better staff."</p>
+335,337c266
+< 
+< </blockquote>
+< <div id="related_study_options">
+---
+> <div id="new_div_106813">
+340,343d268
+< <h3>Alternative pathways</h3>
+< 
+< <p>Alternative pathways include TAFE; transferring from another degree or campus at La&nbsp;Trobe; transferring from another university where you are enrolled in a related degree, provided you meet the entry requirements; or enrol in a degree through our special mature age entry scheme or via single subject enrolment. See <a href="http://www.latrobe.edu.au/study">undergraduate pathways</a> or <a href="http://www.latrobe.edu.au/international">information for international students</a>.</p>
+< 
+344a270,273
+> <h3>Overseas study opportunities</h3>
+> <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+> <div id="content_div_70640">
+> <h3>Student and graduate profiles</h3>
+346,354c275
+< <div id="new_div_106809">
+< <h3>Information systems placements</h3>
+< 
+< </div>
+< 
+< <div id="new_div_461043">
+< <p>Computer Science and Computer Engineering students can apply for the <a href="http://www.latrobe.edu.au/scitecheng/study/industry-based-learning">industry-based learning program</a>, which provides successful applicants with paid, full-time employment in industry as well as credit towards your degree.</p>
+< 
+< <p>The IT branded cadetship program also offers IT students the chance to work full-time and study part-time, while gaining mentoring and support from an Industry Partner workplace coach.<br /></p>
+---
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+357,359d277
+< <h3>Overseas study opportunities</h3>
+< <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+< <div id="staff_profile_nest">
+362c280
+< <p>You&#39;ll get to meet a large number of academic staff during your studies, from tutors through to lecturers and supervisors. You can view <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Information systems&amp;submit=submit&amp;showform=no">staff in Information systems</a> or <a href="http://www.latrobe.edu.au/scitecheng/about/staff">search all staff</a> in the Faculty of Science, Technology and Engineering.</p>
+---
+> <p>You&#39;ll get to meet a large number of academic staff during your studies, from tutors through to lecturers and supervisors. You can view <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Information Systems&amp;submit=submit&amp;showform=no">staff in Information Systems</a> or <a href="http://www.latrobe.edu.au/scitecheng/about/staff">search all staff</a> in the Faculty of Science, Technology and Engineering.</p>
+364,366c282
+< <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Information systems&amp;submit=submit&amp;showform=no">staff in Information systems</a>.</p-->
+< </div>
+< <!-- Content end -->
+---
+> <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Information Systems&amp;submit=submit&amp;showform=no">staff in Information Systems</a>.</p--><!-- Content end -->

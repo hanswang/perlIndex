@@ -1,0 +1,869 @@
+19,20c19,20
+< <meta name="description" content="Whether you’re interested in working in the public or private sectors, accounting graduates are amongst the most employable of all university graduates. This is due to the key role they play in organisational strategy and business management. A La Trobe accounting degree helps you develop highly sought after skills and qualifies you for membership of prestigious professional organisations like, Chartered Practicing Accountants Australia and the Institute of Chartered Accountants." />
+< <meta name="keywords" content="business school, latrobe business school,  Accounting, commerce, economics, management information systems, law, statistics, CPA Australia, Institute of Chartered Accountants, undergraduate" />
+---
+> <meta name="description" content="Postgraduate degrees for graduates of accounting and other disciplines. Many courses are accredited by CPA Australia and other professional organisations." />
+> <meta name="keywords" content="accounting, Master's, coursework, postgraduate" />
+37,38c37,38
+< <meta name="Campus" content="Campuses,Albury-Wodonga,Bendigo,Melbourne,Mildura,Shepparton" />
+< <meta name="Related.School.or.Department" content="Department of Accounting,Department of Finance" />
+---
+> <meta name="Campus" content="Campuses,Albury-Wodonga,Bendigo,Melbourne,Shepparton" />
+> <meta name="Related.School.or.Department" content="Faculties" />
+43c43
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+51c51
+< <!-- 86610 -->
+---
+> <!-- 86644 -->
+76c76
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/accounting"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/accounting/postgraduate"/>		
+83c83
+<   Page generated: 11 November 2013 08:19:44
+---
+>   Page generated: 11 November 2013 11:48:01
+124c124
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/accounting">Accounting</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/accounting">Accounting</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/accounting/postgraduate">Postgraduate</a></div>
+158,161c158,161
+< 		
+< <div id="pagetabs">
+< <ul id="tabbed-menu">
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/accounting">Undergraduate</a></li>
+---
+> 		<ul id="tabbed-menu"> <li><a href="http://www.latrobe.edu.au/courses/accounting">Undergraduate</a></li><li><a href="http://www.latrobe.edu.au/courses/accounting/honours">Honours</a></li>  <li><a class="current" href="http://www.latrobe.edu.au/courses/accounting/postgraduate">Postgraduate</a></li> <li><a href="http://www.latrobe.edu.au/courses/accounting/research">Research degrees</a></li> <li><a href="http://www.latrobe.edu.au/courses/accounting/short-courses">Short courses</a></li> </ul> 
+> <div id="intro_txt">
+> <div class="feature feature-big">
+>   <h2>Why study Accounting?</h2>
+163c163,164
+<   <li><a href="http://www.latrobe.edu.au/courses/accounting/honours">Honours</a></li>
+---
+>   <p>Accounting has been called the language of business and its graduates play a key role in organisational management and strategy. Develop professional accounting skills, or extend your knowledge to an advanced level if you are an accounting graduate.&nbsp;Our courses have been accredited by CPA Australia, the Institute of Chartered Accountants in Australia, the National Institute of Accountants and the Association of Chartered Certified Accountants. Our Master of Professional Accounting and Master of Accounting and Financial Management meet the requirements for associate membership of CPA Australia and the Professional Year of the Institute of Chartered Accountants in Australia. The Professional Year Program can be done overseas and is recognised by the Association of Chartered Certified Accountants in the UK.</p>
+> </div>
+165c166
+<   <li><a href="http://www.latrobe.edu.au/courses/accounting/postgraduate">Postgraduate</a></li>
+---
+> </div>
+167c168,170
+<   <li><a href="http://www.latrobe.edu.au/courses/accounting/research">Research degrees</a></li>
+---
+> <div id="new_div_151334">
+> <div class="webmedia">
+> <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+169,170c172,189
+<   <li><a href="http://www.latrobe.edu.au/courses/accounting/short-courses">Short courses</a></li>
+< </ul>
+---
+> <script type="text/javascript">
+> var params = {
+> 'videotitle':'00:02:04',
+> 'captionfile':'http://webmedia.latrobe.edu.au/media/ZhNCJulie-Margaret.xml',
+> 'mediafile':'http://webmedia.latrobe.edu.au/vod/ZhNCJulie-Margaret.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video667.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+> var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+> }
+> var attributes = {
+> 'id':'v667', 'name':'667'};
+> swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v667', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+> <h2 class="video-title">Dr Julie Margret - School of Accounting</h2>
+> 
+> 
+> <div id="v667">
+>   <video poster="http://webmedia.latrobe.edu.au/production1/video667.jpg" controls="controls">
+>         <source src="http://webstat.latrobe.edu.au/webmedia/media/fxb4Julie-Margaret.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+>         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+>   </video>
+174,178c193,201
+< <div id="intro_txt">
+< <div class="feature feature-big">
+<   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0019/92134/Undergraduate,-Honours,-SC.jpg" width="250" height="166" alt="Accounting" title="accounting" />Why study Accounting?</h2>
+< 
+<   <p>Accounting has been called the language of business and its graduates are amongst the most employable. At La Trobe, you will complete a well-rounded degree, developing a strong foundation in business knowledge. The Bachelor of Accounting is a flexible degree, available throughout La Trobe's metropolitan and Regional campus network.</p>
+---
+> <div class="jump-list">
+> <ul>
+> <li class="initial webmedia">Other formats</li>
+> <li><a href="http://webstat.latrobe.edu.au/webmedia/media/fxb4Julie-Margaret.mp4"><span
+> class="off-screen">Dr Julie Margret - School of Accounting</span> MP4 [11.22 MB]</a></li>
+> 
+> <li><a href='https://webstat.latrobe.edu.au/webmedia/media/GIg3Julie-Margaret.mp3'><span class='off-screen'>Dr Julie Margret - School of Accounting</span> MP3 [1.43 MB]</a></li>
+> <li><a href="http://webstat.latrobe.edu.au/webmedia/media/FOZaJulie-Margret.doc"><span class="off-screen transcript-link">Dr Julie Margret - School of Accounting</span> Transcript</a></li>
+> <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=667"><span class="off-screen">Dr Julie Margret - School of Accounting</span> Permalink</a></li>
+180c203,206
+<   <p>The Bachelor of Accounting offers you the flexibility to enhance your business skills by adding to your final degree an additional business major in Management, Financial Management, Financial Planning, and Management Information Systems, depending on the campus. We also offer popular minors in the growing areas of Forensic Accounting, Management Accounting and Public Sector Accounting at the Melbourne campus.</p>
+---
+> <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?667">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+> </ul>
+> </div>
+> </div>
+182c208
+<   <p>These courses have been accredited by CPA Australian and the Institute of Chartered Accountants in Australia (ICCA) and is also recognised by other professional groups such as the National Institute of Accountants (NIA) and the Association of Chartered Certified Accountants (ACCA) in the UK.</p>
+---
+> </div>
+184c210,211
+<   <p>Accounting at La Trobe was rated as world standard in the excellence in research for Australia ERA rankings released in January 2011 and was ranked one of the top three accounting groups amongst Victorian universities.&nbsp;This expertise informs and enhances the content of our courses and&nbsp; our teaching.</p>
+---
+> <div id="new_div_151336">
+> <p>&nbsp;</p>
+186c213
+<   <p>The Top 200 <a href="http://www.topuniversities.com/subject-rankings">QS World University Rankings by Subject</a> for 2013 has placed Accounting highest among La Trobe Business School's subjects, featuring within the 101-150 range.</p>
+---
+> <p>Accounting at La Trobe was rated as world standard in the excellence in research for Australia “ERA” rankings released in January 2011 and was ranked one of the top three accounting groups amongst Victorian universities.&nbsp;This expertise informs and enhances the content of our courses and&nbsp; our teaching.</p>
+188,189c215
+<   <p>We seek to ensure that our programs are characterised by business, industry, professional, and social relevance and is committed to embedding sustainability and environmental issues into our core accounting curriculum.&nbsp;We have strong links with professional bodies and the business community. The School of Accounting’s Advisory Board comprises senior staff from Deloitte, PwC, Australia Post, ANZ Bank and Hayes Knight Melbourne who advise the school on courses, curriculum and other activities. A vibrant guest lecture program exposes our students to cutting edge practical insights into our discipline. Recent guest lecturers include the Managing Partner Ernst Young, the Victorian Auditor-General, a Director from PwC and a team from Deloitte Forensics.<br /></p>
+< </div>
+---
+> <p>We seek to ensure that our programs are characterised by business, industry, professional, and social relevance and is committed to embedding sustainability and environmental issues into our core accounting curriculum.&nbsp;We have strong links with professional bodies and the business community. The School of Accounting’s Advisory Board comprises senior staff from Deloitte, PwC, Australia Post, ANZ Bank and Hayes Knight Melbourne who advise the school on courses, curriculum and other activities.<br /></p>
+196,198c222
+< <p>Accounting and business skills are highly sought after by employers. A Bachelor of Accounting gives you multiple points of entry into the professional workforce. Build a career in the finance, mining and resources, manufacturing and education sectors. Work in auditing, costing, investigative accounting, taxation, financial planning, strategic management and management consulting. Many company directors and managers began their careers as accounting graduates, and accountants continue to play a key role in organisational strategy and management.</p>
+< 
+< <p>Our focus at La Trobe is much broader than the potential of employment in the private sector. La Trobe University’s Bachelor of Accounting offers a minor in public sector accounting that prepares graduates for careers in the high demand areas of government, councils and non-government organisations (NGO).</p>
+---
+> <p>Accounting and business skills are highly sought after by employers. A postgraduate qualification can help you advance your career in the private, public or not-for-profit sectors. Specialise in auditing, costing, investigative accounting, taxation, financial advice, strategic management and management consulting. Many company directors and managers have graduated with accounting qualifications.</p>
+200c224
+< <p><a href="http://www.latrobe.edu.au/students/careers/career-planning">Visit our Career Development Centre website and start planning your career</a>.&nbsp;</p>
+---
+> <p><a href="http://www.latrobe.edu.au/students/careers/career-planning">Visit our Career Development Centre website and start planning your career</a>.&nbsp;&nbsp;</p>
+207,220c231
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Accounting</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">70</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is designed to prepare you for a wide range of careers in Australia and abroad. It covers career-specific areas including accounting, auditing, finance, business law, public sector accounting and taxation. In addition to fulfilling requirements for membership of key professional bodies (see 'Professional recognition'), you can choose advanced subjects in management, marketing, finance and economics and complete an accounting work placement.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< <br />
+< For more information about VTAC Personal Statement please visit our Extra Requirements page.</dd><dt>Middle band</dt><dd>Performance in prerequisite studies is also considered.<br />
+< <br />
+< Special Entry Access Scheme (SEAS) criteria are also considered. A <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com">Apply direct to the University</a> until 14 February 2014.<br /></dd><dt>Professional recognition</dt><dd>The course is accredited by CPA Australia and the Institute of Chartered Accountants in Australia (ICAA). Graduates are also eligible for membership of other professional groups such as National Institute of Public Accountants (IPA) and Association of Chartered Certified Accountants (ACCA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbc.htm
+< "><span class="off-screen">Accounting</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Accounting/Bachelor of Economics</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">72.5</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to complement a professional accounting qualification with the study of economic theory and practice. The accounting qualification covers various career-specific areas, including accounting, auditing, finance, business law and taxation. You also study core areas of economics, and its application to particular areas and policy issues.</dd><dt>Prerequisite</dt><dd>Units 3 and 4: a study score of at least 25 in English (ESL) or 20 in any other English, and 20 in any Mathematics. If you have comparable qualifications, you will also be considered.<br />
+< <br /></dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>You may wish to provide other documentation in support of your application. If you are a non-Year 12 applicant, you must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br />
+< <br />
+< <br />
+< For more information about VTAC Personal Statement please visit our Extra Requirements page.</dd><dt>Middle band</dt><dd>Completion of economics gives you 1 additional aggregate point. Performance in prerequisite studies and Business Studies (any) is also considered, along with SEAS criteria.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>Successful completion of the appropriate choice of subjects qualifies graduates for membership of the following professional accounting bodies: CPA Australia, Institute of Chartered Accountants in Australia (ICAA), National Institute of Public Accountants (IPA) and the Association of Chartered Certified Accountants (ACCA).<br />
+< <br />
+< By completing approved subjects, you may satisfy the educational requirements of the Financial Services Institute of Australasia (FINSIA). See Student Services in the Faculty of Business, Economics and Law for details.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lzace.htm"><span class="off-screen">Accounting/Economics </span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Accounting/Bachelor of Finance</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">70.75</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to do complementary studies in accounting and finance. The accounting component offers subjects from career-specific areas, including accounting, auditing, business law and taxation while attaining professional accreditation as an accountant. The finance component is specifically designed to meet academic and vocational requirements for a career in the finance industry.</dd><dt>Prerequisite</dt><dd>Units 3 and 4: a study score of at least 25 in English (ESL) or 20 in English other than ESL; and a study score of at least 20 in any Mathematics. Applicants with comparable qualifications will be considered.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-year 12 applicants must complete and submit a VTAC Personal Statement to be considered during the selection process. This includes details of work experience or reasons for applying. Applicants may wish to provide other documentation in support of their application.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Accounting and Financial Management </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to achieve a professional accounting qualification and to extend your studies beyond the minimum requirement for membership of professional accounting bodies, particularly if you did not major in accounting or financial management.</dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience. In making an offer to an applicant, the University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants with demonstrated prior learning in the form of an Australian Bachelor's degree in a business related field or an approved equivalent qualification will be eligible to apply for advanced standing for the four subjects of the first semester of the course. Applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant and cognate business experience will be eligible to apply for advanced standing for the four subjects of the first semester of the course. In making an offer of advanced standing to an applicant, the University may give consideration to a range of factors including English proficiency, academic record, employment experience, and/or satisfactory completion of a challenge exam for any one or all of the four first semester subjects.</dd><dt>Fee amount</dt><dd>Indicative (2012): $19,110 per 120 credit points.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The degree satisfies the academic requirements for associate membership of CPA Australia (the professional body for Certified Practising Accountants in Australia) and admission to the Professional Year of the Institute of Chartered Accountants in Australia. It is also recognised by the international accounting body, the Association of Chartered Certified Accountants (ACCA) based in London.<br />
+222,223c233
+< Selection may also involve GPA or STAT Multiple Choice</dd><dt>Middle band</dt><dd>Completion of Economics facilitates 1 additional aggregate point. Performance in prerequisite studies is also considered, along with SEAS criteria.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>Successful completion of the appropriate choice of subjects qualifies graduates for membership of the following professional accounting bodies: CPA Australia, Institute of Chartered Accountants in Australia (ICAA), National Institute of Public Accountants (IPA), and the Association of Chartered Certified Accountants (ACCA).<br />
+< An appropriate choice of subjects within the Bachelor of Finance can lead to professional accreditation with the Financial Services Institute of Australasia (FINSIA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lzacf.htm "><span class="off-screen">Accounting/Finance</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Accounting/Bachelor of Information Technology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4.5 years full-time (4 years in accelerated program) or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar">73</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Combining professional accreditation in IT with a professional qualification in accounting can give graduates a huge range of career options in the business and IT arenas. Whether your interests lie in computer systems management, systems design, forensic accounting or beyond, this course aims to give you a powerful skill-set in an increasingly competitive environment, equipping you to meet current industry demands. Along with comprehensive theoretical studies, this course includes extensive industry-based studies. See individual course entries for further detail.<br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English; and at least 20 in and Mathematics (any). Minimum ATAR of 70.<br /></dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Guaranteed Entry - Year 12 applicants only. Applicants with an ATAR of 80 or above receive a first-round offer; those with lower ATARs are considered through normal selection processes.<br />
+---
+> Students can undertake the Professional Year Program in some countries outside Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/accounting/lmafm.htm"><span class="off-screen">Accounting and Financial Management (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Accounting (Research Studies)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1.5 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides you with an articulated pathway to complete appropriate research training, demonstrate competence at the H1 or H2A level and qualify for admittance to PhD candidature.</dd><dt>Prerequisite</dt><dd>Postgraduate accounting qualification with minimum 65% grade average, or professional qualification equivalent to CA or CPA, or coursework Master's in accounting or cognate discipline.<br />
+225c235
+< Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.</dd><dt>Middle band</dt><dd>Re-ranking is based on study scores achieved in prerequisite studies and Business Studies. Consideration is given to Special Entry Access Scheme (SEAS) criteria. A <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>The Bachelor of Information Technology is accredited by the Australian Computer Society.<br />
+---
+> <br /></dd><dt>Fee amount</dt><dd>Indicative (2012): $19,110 per 120 credit points.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/accounting/lmaccr.htm"><span class="off-screen">Accounting - Research Studies (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Financial Analysis/Master of Professional Accounting</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2.5 years full time or equivalent part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This program is an ideal route to internationally recognised professional accreditations in accounting and finance. The curriculum is jointly based on the finance industry endorsed CFA Institute Candidate Body of Knowledge (TM) and the professional accrediting organisations for accountants.<br />
+227,228c237
+< The Bachelor of Accounting is accredited by CPA Australia and the Institute of Chartered Accountants in Australia. Graduates are eligible for membership with either professional accounting body or other professional groups such as the National Institute of Accountants (NIA) and the Association of Chartered Certified Accountants (ACCA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/szitcb.htm
+< "><span class="off-screen">Accounting/Information Technology</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Arts/Bachelor of Accounting</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree allows you to undertake complementary studies from humanities, social sciences and accounting. The professionally-accredited accounting component offers subjects from career-specific areas including financial and management accounting, auditing, finance, business law and taxation. The arts component allows you to pursue an area of intellectual interest, such as a language, politics, or the social context in which you may choose to practice as an accountant.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 30 in English (ESL) or 25 in any other English</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+---
+> The program focuses on financial analysis, security valuation and portfolio management, together with financial and management accounting. It builds on a broad foundation of study in economics and quantitative methods. Lecturers and practitioners help students to develop the knowledge, skills and analytical thinking suitable for professional accreditation as a charterholder with the CFA and the Institute of Chartered Accountants in Australia (ICAA).</dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience. In making an offer to an applicant, the University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants with demonstrated prior learning in the form of an Australian Bachelor's degree in a business related field or an approved equivalent qualification will be eligible to apply for advanced standing for the four subjects of the first semester of the course. Applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant and cognate business experience will be eligible to apply for advanced standing for the four subjects of the first semester of the course. In making an offer of advanced standing to an applicant, the University may give consideration to a range of factors including English proficiency, academic record, employment experience, and/or satisfactory completion of a challenge exam for any one or all of the four first semester subjects.</dd><dt>Fee amount</dt><dd>Indicative (2012): $19,110 per 120 credit points. </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The course is accredited by CPA Australia and the Institute of Chartered Accountants in Australia (ICAA) as well as the UK Association of Chartered Certified Accountants (ACCA). Completion provides graduates with Associate membership of CPA Australia and entry into the CPA program and the CA Program of the ICAA.<br />
+230c239
+< Selection may also involve GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Performance in prerequisite studies is also considered, along with SEAS criteria.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>Successful completion of the appropriate choice of subjects qualifies graduates for membership in the following professional accounting bodies: CPA Australia, Institute of Chartered Accountants in Australia (ICAA), National Institute of Public Accountants (IPA), and the Association of Chartered Certified Accountants (ACCA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lzaac.htm"><span class="off-screen">Arts/Accounting </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Accounting)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar"> n/a</span></dd><dd>Bendigo <span class="atar">51.4</span></dd><dd>Melbourne <span class="atar">61</span></dd><dd>Mildura <span class="atar"> n/a</span></dd><dd>Shepparton <span class="atar">52.05</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Bachelor of Business (Accounting) fulfils the requirements for membership of key professional bodies. You'll be qualified to work as an accountant in a broader business context, across career-specific areas including auditing, business law, finance, forensic accounting, public sector accounting and taxation.<br />
+---
+> The Master of Financial Analysis is a CFA Program Partner. The CFA charter is the most widely recognised professional accreditation in finance in the world. Established in 1962, the CFA charter sets the global standard for investment knowledge, standards and ethics. The CFA charter is obtained by successfully completing examinations at three levels set by the CFA Institute and having four years of work experience in the investment industry.<br />
+232c241
+< The Bachelor of Business (Accounting) offers advanced subjects in management, marketing, finance and economics, so you'll be well-placed to seek management and leadership positions in accounting and business.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English. Applicants with comparable qualifications will be considered. A limited number of students may also be considered under Special Entry Schemes.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+---
+> In addition, the Financial Services Institute of Australasia (FINSIA) and the Finance and Treasury Association (FTA) offer membership at the level of Senior Associate to accredited Masters' graduates who have three years of experience in the industry.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/finance/lyfapa.htm"><span class="off-screen">Financial Analysis/Professional Accounting (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Professional Accounting</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you dont have an undergraduate accounting major, you are suited to this course. You will combine foundation studies in economics, management, business law, information systems and statistics with more advanced studies in finance, management accounting, financial accounting, auditing and taxation. You will also be required to master some quantitative skills.<br />
+234,239c243,244
+< Some Non-Year 12 applicants and all applicants applying for Mature-Age Special Entry must complete the STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Re-ranking based on performance in prerequisite studies and criteria associated with the La Trobe University Rural and Regional Student Access Scheme (RRSAS) and to SEAS applicants.</dd><dt>How to apply</dt><dd>VTAC/UAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC/UAC.<br /></dd><dt>Professional recognition</dt><dd>If you complete the appropriate subjects, you'll be qualified for membership of the following professional accounting bodies: CPA Australia, Institute of Chartered Accountants Australia (ICAA), National Institute of Public Accountants (IPA), and the Association of Chartered Certified Accountants (ACCA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbc.htm
+< "><span class="off-screen">Business (Accounting)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lbbcb.htm
+< "><span class="off-screen">Business (Accounting)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/mildura/fbel/lbbcm.htm
+< "><span class="off-screen">Business (Accounting)</span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/shepparton/fbel/lbbcs.htm
+< "><span class="off-screen">Business (Accounting)</span>Shepparton</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/albury-wodonga/fbel/lbbcw.htm
+< "><span class="off-screen">Business (Accounting)</span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Accounting and Finance)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full time or part time equivilent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">62.1</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This accredited degree provides the foundation knowledge and skills for a career in accounting and finance. The course aims to prepare you to practice both finance and accounting and is accredited by both CPA Australia and the Institute of Chartered Accountants in Australia.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: a study score of at least 25 in English (ESL) or 20 in any other English and a study score of at least 20 in mathematics (any). Applicants with comparable qualifications will be considered. A limited number of students may also be considered under Special Entry Schemes.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+---
+> You will complete 16 subjects including Principles of Economics, Statistics for Business and Finance, Accounting for Managers, Financial Accounting Information Systems, Company and Commercial Law, Management and Cost<br />
+> Reporting, Corporate Reporting, Accounting and Assurance Services and Advanced Accounting Issues.<br />
+241,278c246
+< Some Non-Year 12 applicants and all applicants applying for Mature-Age Special Entry must complete the STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Re-ranking based on completing economics gives you an additional aggregate point. Consideration will be given to performance in prerequisite studies, business studies (any) and to SEAS applicants.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br />
+< <br /></dd><dt>Professional recognition</dt><dd>Graduates who successfully complete the appropriate subjects will be eligible for membership of the following professional accounting bodies: CPA Australia, Institute of Chartered Accountants Australia (ICAA), National Institute of Public Accountants (IPA), and the Association of Chartered Certified Accountants (ACCA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbaf.htm
+< "><span class="off-screen">Business (Accounting and Finance)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Financial Services)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full time or part time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course will introduce you to the financial services industry, providing a broad set of skills, abilities and technical knowledge. You'll sample a wide range of financial disciplines such as wealth management, investments, financial risk management, banking, international banking and finance, and corporate finance.<br />
+< <br />
+< The course consists of a general business core, along with subjects across a broad range of financial services discipline areas leading to possible careers in corporate finance, banking, financial planning, superannuation, funds management and stockbroking. You'll gain the theory and practical knowledge base required of a professional within financial services, and develop important problem-solving and decision-making skills relevant to any<br />
+< business professional.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English. Applicants with comparable qualifications will be considered. A limited number of students may also be considered under Special Entry Schemes.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< <br />
+< Some Non-Year 12 applicants and all applicants applying for Mature-Age Special Entry must complete the STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Completion of business management, accounting and/or economics gives you 1 additional aggregate point per study to a maximum of 2 points. Consideration will be given to performance in prerequisite studies, business studies (any) and to SEAS applicants.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbfs.htm
+< "><span class="off-screen">Business (Financial Services)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business Information Systems</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">60.65</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The design and use of software to store data records, a thorough understanding of information technology (IT) tools, and specialist knowledge in information systems and business management, marketing or accounting are the key elements of this course.<br />
+< <br />
+< The curriculum covers software applications helping you develop professional business management skills. Upon graduation, you should have extensive<br />
+< knowledge of business and information systems concepts, and be able to critically analyse and develop innovative solutions for business problems.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: a study score of 25 English (ESL) or 20 in any<br />
+< other English.<br />
+< VCE Units 1and 2: General Mathematics or Mathematical Methods<br />
+< (any combination).</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.</dd><dt>Middle band</dt><dd>La Trobe considers Special Entry Access Scheme (SEAS) criteria; and a regional bonus may apply. Performance in prerequisite studies is also considered.</dd><dt>Fee amount</dt><dd>Indicative (2011) CSP student contribution: $7752 (per 120 credit points). </dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>This course is fully accredited by the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbiy.htm"><span class="off-screen">Business Information Systems</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Computer Science/Bachelor of Accounting</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4.5 years full-time (4 years in accelerated program) or up to 9 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree is designed to meet an industry demand for combined computer science and business skills. Offering industry based project work, advanced studies in accounting, and a choice of streams in computer science, such as software engineering, data engineering, artificial intelligence or network engineering, this course provides diverse career opportunities where science and business intersect. See individual course entries for further detail.<br />
+< <br />
+< Visit <a href="http://www.latrobe.edu.au/scitecheng/study">the Faculty's industry experience and student support programs.</a><br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 25 in English (ESL) or 20 in any other English, and 25 in Mathematical Methods (either) or 20 in Specialist Mathematics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Successful completion of Mathematical Methods or Specialist Mathematics gives you an additional 1.5 aggregate points.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>The Bachelor of Computer Science is accredited by the Australian Computer Society (ACS), and graduates are eligible for professional membership.<br />
+< <br />
+< The Bachelor of Accounting is accredited by CPA Australia and the Institute of Chartered Accountants in Australia (ICAA). Graduates are eligible for membership with either professional accounting body or other professional groups such as National Institute of Accountants (NIA) and Association of Chartered Certified Accountants (ACCA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szcsc.htm"><span class="off-screen">Computer Science/Accounting</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws/Bachelor of Accounting</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">93.05</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This program offers an innovative, high-quality legal education with a strong global and social justice perspective and a real emphasis on hands-on experiences. It includes all the compulsory law subjects required by the Council of Legal Education for admission to practice in Victoria and a wide range of electives. The course also includes compulsory specialised subjects relevant to business such as Banking and Finance Law and Competition Policy and Law. See the Bachelor of Laws (Undergraduate Entry) for details on the law component<br />
+< <br />
+< The accounting component aims to provide a professional accounting qualification comprising the skills and knowledge for accounting practice and management of large and small enterprises in the government and private sectors. Electives are available in a range of areas including financial management, financial planning, and management.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 35 in English (ESL) or 30 in English (any) .</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> detailing prior educational experience and reasons for interest in the course.<br />
+< <br />
+< Selection may also be based on ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Consideration is given to performance in prerequisite studies, Business Studies (any) and Humanities (any), and Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).Successful completion of the appropriate choice of subjects qualifies graduates for membership of the following professional accounting bodies: CA Australia, Institute of Chartered Accountants in Australia (ICAA), National Institute of Public Accountants (IPA), and the Association of Chartered Certified Accountants (ACCA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlac.htm
+< "><span class="off-screen">Laws/Accounting</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Science/Bachelor of Accounting</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4.5 years full-time (4 years in accelerated program) or up to 9 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar">88.1</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Combining science studies with a Bachelor of Accounting can expand your career options, particularly in the management sector of scientific enterprise. For details on general aims and content of these two courses, see individual entries.<br />
+< <br />
+< You'll have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>.<br />
+< <br />
+< Access the Faculty's <a href="http://www.latrobe.edu.au/scitecheng/study">industry experience and student support programs</a>.<br />
+< <br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL), or 20 in any other English, and 20 in Mathematical Methods or Specialist Mathematics</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Successful completion of Chemistry, Physics, or Specialist Mathematics gives you an additional 1.5 points per subject, to a maximum of 3 points. Consideration is also given to Special Entry Access Scheme (SEAS) criteria. A <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property. Additional costs for fieldtrips - food, travel and accommodation - may also be incurred.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>The Bachelor of Accounting is accredited by CPA Australia and the Institute of Chartered Accountants in Australia (ICAA).<br />
+< <br />
+< Graduates are eligible for membership of either body, and other professional groups such as National Institute of Accountants<br />
+< (NIA) and Association of Chartered Certified Accountants (ACCA).<br />
+< Depending on their individual subjects, graduates may also be eligible for accreditation with a relevant professional science association.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szsc.htm"><span class="off-screen">Science/Accounting</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/szscb.htm
+< "><span class="off-screen">Science/Accounting</span>Bendigo</a></dd></dl></div></div></div>
+---
+> If you have an undergraduate degree in management or a related field (cognate), you will be eligible to apply for Advanced Standing for the first semester of the course, reducing the degrees duration to 1.5 years.</dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience. In making an offer to an applicant, the University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants with demonstrated prior learning in the form of an Australian Bachelor's degree in a business related field or an approved equivalent qualification will be eligible to apply for advanced standing for the four subjects of the first semester of the course. Applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant and cognate business experience will be eligible to apply for advanced standing for the four subjects of the first semester of the course. In making an offer of advanced standing to an applicant, the University may give consideration to a range of factors including English proficiency, academic record, employment experience, and/or satisfactory completion of a challenge exam for any one or all of the four first semester subjects.</dd><dt>Fee amount</dt><dd>Indicative (2012): $19,110 per 120 credit points. </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The course satisfies the academic requirements for associate membership of CPA Australia (the professional body for Certified Practicing Accountants in Australia), and admission to the Professional Year of the Institute of Chartered Accountants in Australia (ICAA). Students may undertake the Professional Year Program in some countries outside Australia. The course is also recognised by the international accounting body, the Association of Chartered Certified Accountants (ACCA) based in London.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/accounting/lmpa.htm"><span class="off-screen">Professional Accounting (Master)</span>Melbourne</a></dd></dl></div></div></div>
+281,282c249,250
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+284c252
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+288c256
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+290c258
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+295,521c263
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Accounting (066343J  )</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is designed to prepare you for a wide range of careers in Australia and abroad. It covers career-specific areas including accounting, auditing, finance, business law, public sector accounting and taxation. In addition to fulfilling requirements for membership of key professional bodies (see 'Professional recognition'), you can choose advanced subjects in management, marketing, finance and economics and complete an accounting work placement.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - Melbourne: 70.30<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Professional recognition</dt><dd>This course has been accredited by CPA Australia and the Institute of Chartered Accountants in Australia (ICAA). Graduates are eligible for membership to either professional accounting bodies or with other professional groups such as the National Institute of Public Accountants (IPA) and Association of Chartered Certified Accountants (ACCA) in London.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbc.htm
+< "><span class="off-screen">Accounting</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Accounting/Bachelor of Economics (078693K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>23 510</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to complement a professional accounting qualification with the study of economic theory and practice. The accounting qualification covers various career-specific areas, including accounting, auditing, finance, business law and taxation. You also study core areas of economics, and its application to particular areas and policy issues.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe University Language Centre; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 70<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - n/a<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 9<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - BCC<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 70<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 9<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to VCE Units 3 &amp; 4 (any) with a minimum study score of 20.</dd><dt>Professional recognition</dt><dd>The Bachelor of Accounting has been accredited by CPA Australia and the Institute of Chartered Accountants in Australia (ICAA). Graduates are eligible for membership in either professional accounting body or other professional groups such as the National Institute of Public Accountants (IPA) and Association of Chartered Certified Accountants (ACCA) in London.<br />
+< <br />
+< An appropriate choice of subjects within the Bachelor of Economics can lead to professional accreditation with the Financial Services Institute of Australasia (FINSIA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lzace.htm"><span class="off-screen">Accounting/Economics </span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Accounting/Bachelor of Finance (066341M)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>23 510</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to do complementary studies in accounting and finance. The accounting component offers subjects from career-specific areas, including accounting, auditing, business law and taxation while attaining professional accreditation as an accountant. The finance component is specifically designed to meet academic and vocational requirements for a career in the finance industry.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe University Language Centre. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0; or<br />
+< <br />
+< TOEFL Paper-based Test: a minimum score of 550 with a score of 5 or better in the Test of Written English; or<br />
+< <br />
+< TOEFL Computer-based Test: a minimum score of 213 with a score of 5 in essay writing; or<br />
+< <br />
+< TOEFL Internet-based Test: a minimum score of 80 with no individual score less than 20; or<br />
+< <br />
+< Satisfactory completion of an English language subject at Year 12 or equivalent level. This must have been completed in the past two years and at an academic level acceptable to the University; or approved equivalent.</dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 70<br />
+< Aust. Yr 12 (ATAR) 2011 (indicative only) - 70.75<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 9<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - BCC<br />
+< MICSS (UEC) - 4.5<br />
+< STPM - 8.67<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 70<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">La Trobe's academic entry requirements.</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program.<br />
+< <br />
+< For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne/a&gt; website.</a></dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to VCE Units 3 &amp; 4 (any) with a minimum study score of 20.</dd><dt>Professional recognition</dt><dd>The Bachelor of Accounting has been accredited by CPA Australia and the Institute of Chartered Accountants in Australia (ICAA). Graduates are eligible for membership in either professional accounting body or other professional groups such as the National Institute of Public Accountants (IPA) and Association of Chartered Certified Accountants (ACCA) in London. An appropriate choice of subjects within the Bachelor of Finance can lead to professional accreditation with the Financial Services Institute of Australasia (FINSIA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lzacf.htm "><span class="off-screen">Accounting/Finance</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Accounting/Bachelor of Information Technology (067180D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4.5 years (or 4 years in an accelerated learning program)</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 040</dd><dt id="campus">Campus</dt><dd>Bendigo</dd></dl><div class="course-detail" id="course_i-3"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Combining professional accreditation in IT with a professional qualification in accounting can give graduates a huge range of career options in the business and IT arenas. Whether your interests lie in computer systems management, systems design, forensic accounting or beyond, this course aims to give you a powerful skill-set in an increasingly competitive environment, equipping you to meet current industry demands. Along with comprehensive theoretical studies, this course includes extensive industry-based studies. See individual course entries for further detail.<br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 70<br />
+< Aust. Yr 12 (ATAR) 2012 (indicative only) - not available<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 7<br />
+< Hong Kong A Levels - 7<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 73<br />
+< Norway Upper Secondary Certificate - 3.7<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8.4<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's <b>Foundation Studies and Diploma Programs</b>, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>25 in English (ESL) or 20 in any other English.</dd><dt>Professional recognition</dt><dd>The Bachelor of Information Technology has Australian Computer Society accreditation and graduates are eligible for professional level membership.<br />
+< <br />
+< The Bachelor of Accounting has been accredited by both CPA Australia and the Institute of Chartered Accountants in Australia. Graduates are eligible for membership with either professional accounting body or with other professional groups such as the National Institute of Accountants (NIA) and the Association of Chartered Accountants (ACCA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/szitcb.htm
+< "><span class="off-screen">Accounting/Information Technology</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Arts/Bachelor of Accounting (078691A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>23 510</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-4"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree allows you to undertake complementary studies from humanities, social sciences and accounting. The professionally-accredited accounting component offers subjects from career-specific areas including financial and management accounting, auditing, finance, business law and taxation. The arts component allows you to pursue an area of intellectual interest, such as a language, politics, or the social context in which you may choose to practice as an accountant.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe University Language Centre; for more information please visit the <a href="http://www.latrobemelbourne.edu.au/">La Trobe Melbourne website</a> .<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0; or<br />
+< <br />
+< TOEFL Paper-based Test: a minimum score of 550 with a score of 5 or better in the Test of Written English; or<br />
+< <br />
+< TOEFL Computer-based Test: a minimum score of 213 with a score of 5 in essay writing; or<br />
+< <br />
+< TOEFL Internet-based Test: a minimum score of 80 with no individual score less than 20; or<br />
+< <br />
+< Satisfactory completion of an English language subject at Year 12 or equivalent level. This must have been completed in the past two years and at an academic level acceptable to the University; or approved equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 70<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - n/a<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 9<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - BCC<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 70<br />
+< Indonesia (SMA) - 9<br />
+< Vietnam (Year 12) - 8<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to VCE Units 3 and 4 (any) with a minimum study score of 20.</dd><dt>Professional recognition</dt><dd>Bachelor of Arts/Bachelor of Accounting has been accredited by CPA Australia and the Institute of Chartered Accountants in Australia (ICAA). Graduates are eligible for membersip in either professional accounting body or other professional groups such as the National Institute of Public Accountants (IPA) and Association of Chartered Certified Accountants (ACCA) in London.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lzaac.htm"><span class="off-screen">Arts/Accounting </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Accounting) (075225G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne, Mildura, Shepparton</dd></dl><div class="course-detail" id="course_i-5"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Bachelor of Business (Accounting) fulfils the requirements for membership of key professional bodies. You'll be qualified to work as an accountant in a broader business context, across career-specific areas including auditing, business law, finance, forensic accounting, public sector accounting and taxation.<br />
+< <br />
+< The Bachelor of Business (Accounting) offers advanced subjects in management, marketing, finance and economics, so you'll be well-placed to seek management and leadership positions in accounting and business.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website;<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - Melbourne: 61. Albury-Wodonga, Mildura, Shepparton, Bendigo: 51.40.<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< HKDSE - 2 x Level 4<br />
+< Canada Secondary School (or CPU) - Melbourne: 65. Albury-Wodonga, Mildura, Shepparton, Bendigo: 60.<br />
+< Norway Upper Secondary Certificate - Melbourne: 3.5. Albury-Wodonga, Mildura, Shepparton, Bendigo: 3<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - Melbourne: 60. Albury-Wodonga, Mildura, Shepparton, Bendigo: 55.<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - Melbourne: 7.5. Albury-Wodonga, Mildura, Shepparton, Bendigo: 7<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br /></dd><dt>Professional recognition</dt><dd>Successful completion of the appropriate choice of subjects qualifies Bachelor of Accounting graduates for membership of the following professional accounting bodies: CPA Australia, Institute of Chartered Accountants Australia (ICAA), National Institute of Public Accountants (IPA), and the Association of Chartered Certified Accountants (ACCA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbc.htm
+< "><span class="off-screen">Business (Accounting)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lbbcb.htm
+< "><span class="off-screen">Business (Accounting)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/mildura/fbel/lbbcm.htm
+< "><span class="off-screen">Business (Accounting)</span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/shepparton/fbel/lbbcs.htm
+< "><span class="off-screen">Business (Accounting)</span>Shepparton</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/albury-wodonga/fbel/lbbcw.htm
+< "><span class="off-screen">Business (Accounting)</span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Accounting and Finance) (075177K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-6"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This accredited degree provides the foundation knowledge and skills for a career in accounting and finance. The course aims to prepare you to practice both finance and accounting and is accredited by both CPA Australia and the Institute of Chartered Accountants in Australia.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne.<br />
+< La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website;<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Accounting and Financial Management  (052343B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to achieve a professional accounting qualification and to extend your studies beyond the minimum requirement for membership of professional accounting bodies, particularly if you did not major in accounting or financial management.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+523,589c265
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 62.10<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< HKDSE - 2 x Level 4<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br /></dd><dt>Professional recognition</dt><dd>Successful completion of the appropriate choice of subjects qualifies Bachelor of Accounting graduates for membership of the following professional accounting bodies: CPA Australia, Institute of Chartered Accountants Australia (ICAA), National Institute of Public Accountants (IPA), and the Association of Chartered Certified Accountants (ACCA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbaf.htm
+< "><span class="off-screen">Business (Accounting and Finance)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Financial Services) (075178J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-7"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course will introduce you to the financial services industry, providing a broad set of skills, abilities and technical knowledge. You'll sample a wide range of financial disciplines such as wealth management, investments, financial risk management, banking, international banking and finance, and corporate finance.<br />
+< <br />
+< The course consists of a general business core, along with subjects across a broad range of financial services discipline areas leading to possible careers in corporate finance, banking, financial planning, superannuation, funds management and stockbroking. You'll gain the theory and practical knowledge base required of a professional within financial services, and develop important problem-solving and decision-making skills relevant to any<br />
+< business professional.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website;<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - n/a<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br /></dd><dt>Subject prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbfs.htm
+< "><span class="off-screen">Business (Financial Services)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business Information Systems (075223J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 140</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-8"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The design and use of software to store data records, a thorough understanding of information technology (IT) tools, and specialist knowledge in information systems and business management, marketing or accounting are the key elements of this course.<br />
+< <br />
+< The curriculum covers software applications helping you develop professional business management skills. Upon graduation, you should have extensive<br />
+< knowledge of business and information systems concepts, and be able to critically analyse and develop innovative solutions for business problems.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+591c267
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+593c269
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+595c271,273
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+597c275
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+601,618c279
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 60.65<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 60<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+620,621c281,282
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br /></dd><dt>Subject prerequisite</dt><dd>Equivalent to the Australian VCE Units 3 and 4, a minimum study score of at least 25 in English (ESL) or 20 in any other English.</dd><dt>Professional recognition</dt><dd>This course is fully accredited by the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbiy.htm"><span class="off-screen">Business Information Systems</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Computer Science/Bachelor of Accounting (067179G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4.5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 100</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-9"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree is designed to meet an industry demand for combined computer science and business skills. Offering industry based project work, advanced studies in accounting, and a choice of streams in computer science, such as software engineering, data engineering, artificial intelligence or network engineering, this course provides diverse career opportunities where science and business intersect. See individual course entries for further detail.<br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with five or more years of relevant work experience. In making an offer to an applicant, the university may give consideration to a range of factors including English proficiency, academic record and employment experience.<br />
+> <br /></dd><dt>Professional recognition</dt><dd>This course satisfies the academic requirements for associate membership of CPA Australia (the professional body for Certified Practicing Accountants in Australia) and admission to the Professional Year of the Institute of Chartered Accountants in Australia (ICAA).<br />
+623c284
+< Visit <a href="http://www.latrobe.edu.au/scitecheng/study">the Faculty's industry experience and student support programs.</a><br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> The Professional Year Program may be undertaken in some countries outside Australia. The course is also recognised by the Institute of Public Accountants (IPA) and the Association of Chartered Certified Accountants (ACCA), based in London.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/accounting/lmafm.htm"><span class="off-screen">Accounting and Financial Management (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Accounting (Research Studies) (072757C)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1.5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides you with an articulated pathway to complete appropriate research training, demonstrate competence at the H1 or H2A level and qualify for admittance to PhD candidature.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+625c286
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+627c288
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+629c290
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information, visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+631c292
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+633c294,295
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+635c297
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+639,657c301
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 75<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - not available<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 9<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - BBB<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 75<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 80<br />
+< Vietnam (Year 12) - 8.5<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4 with a minimum score of 25 in Mathematical Methods (CAS) or 20 in Specialist Mathematics. VCE Units 3 and 4: English (any).</dd><dt>Additional information</dt><dd>Students without an appropriate computer science background may be required to commence three weeks early than the semester start dates to undertake accelerated first year computer science subjects.</dd><dt>Professional recognition</dt><dd>Graduates of the Bachelor of Computer Science are eligible for professional membership of the Australian Computer Society (ACS).<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+659c303,304
+< The Bachelor of Accounting has been accredited by both CPA Australia and the Institute of Chartered Accountants in Australia (ICAA). Graduates are eligible for membership with either professional accounting body, or with other professional groups such as the National Institute of Accountants (NIA) and the Association of Chartered Certified Accountants (ACCA).<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szcsc.htm"><span class="off-screen">Computer Science/Accounting</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws/Bachelor of Accounting (075233G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-10"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This program offers an innovative, high-quality legal education with a strong global and social justice perspective and a real emphasis on hands-on experiences. It includes all the compulsory law subjects required by the Council of Legal Education for admission to practice in Victoria and a wide range of electives. The course also includes compulsory specialised subjects relevant to business such as Banking and Finance Law and Competition Policy and Law. See the Bachelor of Laws (Undergraduate Entry) for details on the law component<br />
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>Completion (with at least a 65 per cent average) of a postgraduate accounting qualification such as a Graduate Diploma, a professional qualification equivalent to CA or CPA or a coursework Masters degree in accounting or a cognate discipline. Equivalent qualifications will be assessed by the Director of the program.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/accounting/lmaccr.htm"><span class="off-screen">Accounting - Research Studies (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Financial Analysis/Master of Professional Accounting (073459E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years
+> </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This program is an ideal route to internationally recognised professional accreditations in accounting and finance. The curriculum is jointly based on the finance industry endorsed CFA Institute Candidate Body of Knowledge (TM) and the professional accrediting organisations for accountants.<br />
+661c306
+< The accounting component aims to provide a professional accounting qualification comprising the skills and knowledge for accounting practice and management of large and small enterprises in the government and private sectors. Electives are available in a range of areas including financial management, financial planning, and management.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> The program focuses on financial analysis, security valuation and portfolio management, together with financial and management accounting. It builds on a broad foundation of study in economics and quantitative methods. Lecturers and practitioners help students to develop the knowledge, skills and analytical thinking suitable for professional accreditation as a charterholder with the CFA and the Institute of Chartered Accountants in Australia (ICAA).</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+669,670d313
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+< <br />
+681,699c324
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 95<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 93.05<br />
+< International Baccalaureate - 34<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - not eligible<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Additional information</dt><dd>Applicants should seek assurance of recognition of the course by relevant professional bodies in their country of intended practice.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).<br />
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelors degree in any discipline or an approved equivalent qualification. Admission may be granted if you dont have an undergraduate degree but have five or more years of relevant work experience. The University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Additional information</dt><dd>This course is based on a defined body of knowledge of proven relevance to the finance industry. It is designed as a pathway to the Chartered Financial Analyst (CFA) charter - the designation of professional excellence within the global investment industry.<br />
+701,702c326
+< Successful completion of the appropriate choice of subjects qualifies graduates for membership of the following professional accounting bodies: CA Australia, Institute of Chartered Accountants in Australia (ICAA), National Institute of Public Accountants (IPA), and the Association of Chartered Certified Accountants (ACCA).<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlac.htm
+< "><span class="off-screen">Laws/Accounting</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Science/Bachelor of Accounting (067183A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4.5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 100</dd><dt id="campus">Campus</dt><dd>Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-11"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Combining science studies with a Bachelor of Accounting can expand your career options, particularly in the management sector of scientific enterprise. For details on general aims and content of these two courses, see individual entries.<br />
+---
+> Many of our programs also qualify you to meet the Australian Securities Investment Commission (ASIC) RG 146 compliance requirements. This allows you to offer financial advice to retail clients (individuals) in Australia.</dd><dt>Professional recognition</dt><dd>This course satisfies the academic requirements for associate membership of CPA Australia (the professional body for Certified Practising Accountants in Australia) and admission to the Professional Year of the Institute of Chartered Accountants in Australia (ICAA).<br />
+704c328
+< You'll have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>.<br />
+---
+> This Professional Year Program may be be undertaken in some countries outside Australia. The course is also recognised by the Institute of Public Accountants (IPA) and the Association of Chartered Certified Accountants (ACCA) based in London.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/finance/lyfapa.htm"><span class="off-screen">Financial Analysis/Professional Accounting (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Professional Accounting (079547A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-3"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you dont have an undergraduate accounting major, you are suited to this course. You will combine foundation studies in economics, management, business law, information systems and statistics with more advanced studies in finance, management accounting, financial accounting, auditing and taxation. You will also be required to master some quantitative skills.<br />
+706,707c330,331
+< Access the Faculty's <a href="http://www.latrobe.edu.au/scitecheng/study">industry experience and student support programs</a>.<br />
+< <br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> You will complete 16 subjects including Principles of Economics, Statistics for Business and Finance, Accounting for Managers, Financial Accounting Information Systems, Company and Commercial Law, Management and Cost<br />
+> Reporting, Corporate Reporting, Accounting and Assurance Services and Advanced Accounting Issues.<br />
+709c333
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> If you have an undergraduate degree in management or a related field (cognate), you will be eligible to apply for Advanced Standing for the first semester of the course, reducing the degrees duration to 1.5 years.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+711c335
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+713c337
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+715c339
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+717c341,343
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+719c345
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+723c349
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+725,740c351
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 75<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 88.10<br />
+< International Baccalaureate - 31<br />
+< GCE A Levels - 9<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - BBC<br />
+< STPM - 9<br />
+< MICSS (UEC) - 4<br />
+< Canada Secondary School (or CPU) - 75<br />
+< Norway Upper Secondary Certificate - 3.8<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 75<br />
+< Vietnam (Year 12) - 8.5<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted if you don't have an undergraduate degree but have five or more years of relevant work experience. The University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Professional recognition</dt><dd>This course satisfies the academic requirement for associate membership of CPA Australia (the professional body for Certified Practising Accountants in Australia) and admission to the Professional Year of the Institute of Chartered Accountants in Australia (ICAA).<br />
+742c353
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4 with a minimum score of 20 in Mathematical Methods or Specialist Mathematics and 25 in English (ESL) or 20 in any other English.</dd><dt>Additional costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property. Additional costs for fieldtrips - food, travel and accommodation - may also be incurred.</dd><dt>Professional recognition</dt><dd>The Bachelor of Accounting has been accredited by CPA Australia and by the Institute of Chartered Accountants in Australia (ICAA). Graduates are eligible for membership with either professional accounting bodies or with other professional groups such as the National Institute of Accountants (NIA) and the Association of Chartered Certified Accountants (ACCA).<br />
+---
+> This Professional Year Program may be undertaken in some countries outside Australia.<br />
+744,745c355
+< Depending on the specific studies chosen, accreditation with the relevant science professional association is also possible.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szsc.htm"><span class="off-screen">Science/Accounting</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/szscb.htm
+< "><span class="off-screen">Science/Accounting</span>Bendigo</a></dd></dl></div></div></div>
+---
+> The course is also recognised by the Institute of Public Accountant (IPA) and the Association of Chartered Certified Accountants (ACCA) based in London.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/accounting/lmpa.htm"><span class="off-screen">Professional Accounting (Master)</span>Melbourne</a></dd></dl></div></div></div>
+748c358
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+751c361
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+762c372
+< <div id="related_study_options">
+---
+> <div id="study_options">
+768c378
+<   <li><a href="http://www.latrobe.edu.au/courses/economics">Economics</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/economics/postgraduate">Economics</a>&nbsp;</li>
+770c380
+<   <li><a href="http://www.latrobe.edu.au/courses/finance">Finance</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/finance/postgraduate">Finance</a></li>
+778c388
+< <h3>Accounting placement opportunities</h3>
+---
+> <h3>Accounting placements</h3>
+780c390
+< <p>As part of our commitment to innovating curriculum design and development, we have recently appointed several Work Integrated Learning Coordinators at our Melbourne and Regional campuses. Work integrated learning means you&#39;ll get to apply your skills in the workplace, as you study. You can earn credit towards your degree through work placements or simulations. Work integrated learning is endorsed by the Federal Government and industry groups such as the Australian Chamber of Commerce and Industry. It will assist to increase your employability potential when you graduate.</p>
+---
+> <p>Our Masters programs include entry to the Professional Year of the Institute of Chartered Accountants in Australia. You can undertake this year overseas.</p>
+783a394,395
+> <div id="overseas_nest">
+> 
+791,793d402
+< <div id="overseas_extra">
+< <p>We offer a specialised accounting study tour to Europe. The International Accounting Study Tour visits key international accounting practices. You can see the practical application of your studies in a global context. Past study tours have visited Axel Springer Verlag (major newspaper publisher), German Accounting Standards Board, Volkswagen, Siemens, BMW, International Accounting Standards Board, Tesco, Sainsburys, Nestlé and the French Accounting Standards Board. The highly popular tour counts as credit towards your degree.</p>&nbsp;
+< 
+796,801c405,406
+< <div id="new_div_89924">
+< 
+< <div id="alt_pathways_ug">
+< <h3>Alternative pathways</h3>
+< 
+< <p>Going straight from school to university isn’t an option for everyone. There may be other pathways to help you gain entry into this course. <a href="http://www.latrobe.edu.au/business/study/business">See alternative course pathways</a>.</p>
+---
+> <div id="content_div_113937">
+> <h3>About the academic staff</h3>
+803c408
+< </div>
+---
+> <p>You&#39;ll get to meet a large number of academics during your course, from tutors through to lecturers. You can <a href="http://www.latrobe.edu.au/fbel/about/staff">view all the staff</a> from the Faculty of Business, Economics and Law or focus on <a href="http://www.latrobe.edu.au/law/about/staff/study-option?areaofstudy=Accounting">staff in Accounting</a>.</p>
+810c415
+< <p>Find out about the experiences of one of our Accounting students.</p>
+---
+> <p>Find out about the experiences of one of our Accounting postgraduate students.</p>
+814c419
+< <p><a href="http://www.latrobe.edu.au/fbel/full-profile?mode=results&amp;queries_id_query=90222"> <img src="http://www.latrobe.edu.au/student-profiles/images/alex-cross.jpg/thumbnail.jpg" width="53" height="80" alt="" title="Alex Cross" /></a></p>
+---
+> <p><a href="http://www.latrobe.edu.au/fbel/full-profile?mode=results&amp;queries_id_query=141484"> <img src="http://www.latrobe.edu.au/__data/assets/image/0004/141484/varieties/thumbnail.jpg" width="53" height="80" alt="" title="ustashia_pillay.jpg" /></a></p>
+816c421
+< <p class="testimonial">This course provides me with the ability to apply the theoretical learning in the business environment.</p>
+---
+> <p class="testimonial">I enjoy being an ambassador because I get to work with groups of people from different backgrounds, interests and educational fields while completing my degree.</p>
+818c423
+< <p><cite><a href="http://www.latrobe.edu.au/fbel/full-profile?mode=results&amp;queries_id_query=90222">Mr Alex <strong>Cross</strong></a>,  Business, Economics and Law </cite></p>
+---
+> <p><cite><a href="http://www.latrobe.edu.au/fbel/full-profile?mode=results&amp;queries_id_query=141484"> Ustashia <strong>Pillay</strong></a>,  Business, Economics and Law </cite></p>
+821,827d425
+< 
+< <div id="content_div_113937">
+< <h3>About the academic staff</h3>
+< 
+< <p>You&#39;ll get to meet a large number of academics during your course, from tutors through to lecturers. You can <a href="http://www.latrobe.edu.au/fbel/about/staff">view all the staff</a> from the Faculty of Business, Economics and Law or focus on <a href="http://www.latrobe.edu.au/law/about/staff/study-option?areaofstudy=Accounting">staff in Accounting</a>.</p>
+< 
+< </div>
+925,957c523
+< <!-- Google Code for Find a course Conversion Page -->
+< <script type="text/javascript">
+< /* <![CDATA[ */
+< var google_conversion_id = 1063865565;
+< var google_conversion_language = "en";
+< var google_conversion_format = "2";
+< var google_conversion_color = "ffffff";
+< var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+< var google_conversion_value = 0;
+< var google_remarketing_only = false;
+< /* ]]> */
+< </script>
+< <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+< </script>
+< <noscript>
+< <div style="display:inline;">
+< <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+< </div>
+< </noscript><!-- 
+< /lawman/areas-of-study/accounting-and-business/accounting
+< /lawman/areas-of-study/accounting-and-business/business
+< /lawman/areas-of-study/economics-and-finance/finance
+< /lawman/about/events/new-courses-in-2012
+< --> 
+< <!-- Begin ad tag --> 
+< <script language= "JavaScript"  type="text/javascript">
+< ord=Math.random()*10000000000000000;
+< document.write('<img src="http://ad.doubleclick.net/activity;src=2832605;dcnet=6411;boom=59074;sz=1x1;ord='+ ord +'?"width="1" height="1" border="0" alt="">');
+< </script>
+< <noscript>
+< <img src="http://ad.doubleclick.net/activity;src=2832605;dcnet=6411;boom=59074;sz=1x1;ord=1?"width="1" height="1" border="0" alt="">
+< </noscript>
+< <!-- End ad tag --><!-- Includes sei-event-calendar.js for related events -->
+---
+> <!-- Includes sei-event-calendar.js for related events -->
+979a546,563
+> </div>
+> </noscript><!-- Google Code for Find a course Conversion Page -->
+> <script type="text/javascript">
+> /* <![CDATA[ */
+> var google_conversion_id = 1063865565;
+> var google_conversion_language = "en";
+> var google_conversion_format = "2";
+> var google_conversion_color = "ffffff";
+> var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+> var google_conversion_value = 0;
+> var google_remarketing_only = false;
+> /* ]]> */
+> </script>
+> <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+> </script>
+> <noscript>
+> <div style="display:inline;">
+> <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>

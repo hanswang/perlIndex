@@ -1,0 +1,400 @@
+19,20c19,20
+< <meta name="description" content="Computer science offers you a balanced blend of theory and practice, covering a wide range of topics, including computer systems and design, databases, artificial intelligence, computer architecture, networks, multimedia systems and games technology." />
+< <meta name="keywords" content="Computer science, software, programming, systems, multimedia, games, engineering, artificial intelligence, network, database, bachelor, undergraduate" />
+---
+> <meta name="description" content="We offer coursework programs for graduates seeking advanced training, those wishing to do Master’s level study and students from other disciplines." />
+> <meta name="keywords" content="Computer science, Master's, postgraduate, coursework" />
+34c34
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+42c42
+< <!-- 107033 -->
+---
+> <!-- 107103 -->
+67c67
+< <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/computer-science"/>		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/computer-science/postgraduate"/>		
+74c74
+<   Page generated: 10 November 2013 18:50:53
+---
+>   Page generated: 11 November 2013 19:05:13
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/computer-science">Computer science</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/computer-science">Computer science</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/computer-science/postgraduate">Postgraduate</a></div>
+150c150
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/computer-science">Undergraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/computer-science">Undergraduate</a></li>
+152c152
+<   <li><a href="http://www.latrobe.edu.au/courses/computer-science/postgraduate">Postgraduate</a></li>
+---
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/computer-science/postgraduate">Postgraduate</a></li>
+156d155
+< 
+158,203c157,158
+< <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0009/447291/computerscience2.jpg" width="250" height="166" alt="" title="Computer Science" />Why study Computer science?</h2>
+< 
+< <p>Computer science offers you a balanced blend of theory and practice, covering a wide range of topics, including computer systems and design, databases, artificial intelligence, computer architecture, networks, multimedia systems and games technology.</p>
+< 
+< <p>You will study object-orientated programming, Java and C++ in your first year, undertake industry-based project work and industry placements throughout your course and have the option to select subjects from other disciplines.<br /></p>
+< 
+< <h3>Industry enterprise practices</h3>
+< 
+< <p>The <a href="http://www.latrobe.edu.au/computer-science-and-computer-engineering">Department of Computer Science and Computer Engineering</a> offers the opportunity to gain industry-standard qualifications with CISCO and Microsoft as part of your degree. <!--div>See <a href="http://www.latrobe.edu.au/computer-science-and-computer-engineering/career">career&nbsp;possibilities</a>.</div--></p>
+< 
+< </div>
+< <div class="video-thumb">
+< 	<div>
+< 		<img class="video-on" style="background:transparent url(http://webmedia.latrobe.edu.au/production1/video1525.jpg.thumb.jpg) no-repeat 0 0" src="http://webmedia.latrobe.edu.au/images/view-video-overlay-thumb.png" alt="" width="80" height="53" />
+< 		<h2 class="video-on">Computer Science</h2>
+< 		<p>Computer science students train in programming, database, data structure and software engineering.</p>
+< 	</div>
+<   <div class="webmedia reveal-video">
+< 
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:02:03',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/LnxKLTU_3_CS_v6.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/LnxKLTU_3_CS_v6.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1525.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'1525', 'name':'1525'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1525', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< 
+< 
+< <div id="v1525">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1525.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/Mqx3LTU_3_CS_v6_1.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< 
+< </div>
+< 
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/Mqx3LTU_3_CS_v6_1.mp4"><span
+< class="off-screen">Computer Science</span> MP4 [11.67 MB]</a></li>
+---
+> <div class="feature feature-big">
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0005/119921/Comp-Sci.jpg" width="250" height="166" alt="" title="Comp-Sci.jpg" />Why study Computer science?</h2>
+205c160
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/DjQaLTU_3_CS_v6.mp3"><span class="off-screen">Computer Science</span> MP3 [1.42 MB]</a></li>
+---
+>   <p>We offer coursework programs for graduates seeking advanced training, those wishing to do Master’s level study and students from other disciplines. Study areas include web development, web engineering and web services, computer networks, data communication, databases, mathematics, network security, object-oriented application development, artificial Intelligence, games technology, network engineering, software engineering and software systems.</p>
+207,208c162
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/LkuGComputer Science.doc"><span class="off-screen transcript-link">Computer Science</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1525"><span class="off-screen">Computer Science</span> Permalink</a></li>
+---
+>   <p>&nbsp;</p>
+210,211c164
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video format request: http://webmedia.latrobe.edu.au/webmedia/perma.php?1525">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+---
+>   <p>See the Research tab for information about Master&#39;s by research, or PhD.&nbsp;<br /></p>
+214,216d166
+< 
+< 
+< 	</div>
+222,226c172
+< <p>Our students find work in major companies such as Telstra, Qantas, Oracle Australia, Ericsoon Australia, Oakton Consulting Technology and the Victorian and Federal Government.</p>
+< 
+< <p>You can work as a systems analyst, analyst programmer, developer programmer, software engineer, database engineer, security and network expert and multimedia and game designer.</p>
+< 
+< <p>This degree is accredited by the <a href="http://www.acs.org.au/">Australian Computer Society (ACS)</a>. Graduates are eligible for professional membership.<br /></p>
+---
+> <p>Web technology graduates are prepared for careers in internet services and in organisations using web browser interfaces. Advanced-level computer science graduates may work as network managers, research and development managers, network consultants and systems engineers. Opportunities exist in systems development, systems analysis, database development, software engineering, information systems management and computer networks management. Entry-level computer science graduates may work as ICT professionals, teachers or apply their skills and knowledge to their own professions.</p>
+233c179
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Computer Science</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or up to 6 years part-time </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">60.65</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course offers a balanced blend of theory and practice, covering a wide range of topics, including computer systems and design, databases, artificial intelligence, computer architecture, networks, multimedia systems and games technology. Distinctive features include object-oriented programming using Java and C++ from first year, industry-based project work and industry placements, and the option to take up to 25 per cent of subjects from other disciplines. The course also includes an opportunity for industry-recognised CISCO certification in computer networks.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: English (any) and either Mathematical Methods (CAS) or Specialist Mathematics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> if they wish other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may wish to provide other documentation in support of their application. They may also be asked to complete a <a href="http://www.latrobe.edu.au/matureage/">maths test.</a><br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Diploma in Information Technology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course trains computing professionals in advanced and innovative areas of computer science and information. You'll have the opportunity either to upgrade your knowledge and skills in a broad range of areas or to specialise in key areas such as artificial intelligence, games technology, software engineering and software systems, and computer communications and networking. The course forms the first year of the Master of Computer Science.</dd><dt>Prerequisite</dt><dd>Bachelor's degree with a major in computer science (three years), the Graduate Diploma in Information Technology, or equivalent. Applicants should also have good skills in a modern programming language (such as C, C++, Java) and be familiar with an operating system such as UNIX or NT.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20, 580 per 120 credit points.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>This course is accredited by the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/sgdcs.htm"><span class="off-screen">Information Technology (Graduate Diploma)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Biocomputing and Biometric Security</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or 4 years part-time. </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This innovative course is designed to meet growing industry demands. It places students at the forefront of the emerging field of biocomputing and biometric security.<br />
+235c181
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Completion of Specialist Mathematics gives you an additional 1.5 aggregate points.</dd><dt>Additional information</dt><dd>Students without the appropriate computer science background may be required to commence three weeks early to undertake accelerated first-year computer science subjects.<br />
+---
+> The course offers students with various technical backgrounds an excellent opportunity to move their research focus to their popular and practical working fields. Students will learn advanced computing techniques necessary for work in bioinformatics and biometric security.<br />
+237c183
+< A CISCO certification training program is available for students who pass the network engineering subjects in their undergraduate studies. For more information, contact the Department of Computer Science and Computer Engineering at the beginning of first semester.<br /></dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>The degree is accredited by the Australian Computer Society, and graduates are eligible for professional membership.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbcs.htm"><span class="off-screen">Computer Science </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Computer Science/Bachelor of Accounting</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4.5 years full-time (4 years in accelerated program) or up to 9 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree is designed to meet an industry demand for combined computer science and business skills. Offering industry based project work, advanced studies in accounting, and a choice of streams in computer science, such as software engineering, data engineering, artificial intelligence or network engineering, this course provides diverse career opportunities where science and business intersect. See individual course entries for further detail.<br />
+---
+> Core subjects cover the fundamentals of bioinformatic technologies, advanced biocomputing, biometric security, computational intelligence systems, visual information systems and data mining techniques. Students can also choose two electives from a selected list.<br />
+239c185
+< Visit <a href="http://www.latrobe.edu.au/scitecheng/study">the Faculty's industry experience and student support programs.</a><br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 25 in English (ESL) or 20 in any other English, and 25 in Mathematical Methods (either) or 20 in Specialist Mathematics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+---
+> All students with demonstrated capabilities are strongly encouraged to take further study after completing this course.<br />
+241c187
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Successful completion of Mathematical Methods or Specialist Mathematics gives you an additional 1.5 aggregate points.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>The Bachelor of Computer Science is accredited by the Australian Computer Society (ACS), and graduates are eligible for professional membership.<br />
+---
+> Please note: this course is not offered in 2014. It will be offered in Semester 1, 2015.</dd><dt>Prerequisite</dt><dd>Australian Bachelor's degree or equivalent, in one or more of: computer science, information systems, information technology, biomedicine, electronic engineering, mathematics and statistics.</dd><dt>Fee amount</dt><dd>TBC: new course in 2012. </dd><dt>Additional information</dt><dd>Please note: this course is not offered in 2014. It will be offered in Semester 1, 2015.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply direct to the University</a> . Please ensure you also provide all supplementary information required.<br /></dd><dt>Professional recognition</dt><dd>The Department of Computer Science and Computer Engineering is currently applying for accreditation with the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smbbs.htm"><span class="off-screen">Biocomputing and Biometric Security (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Computer Science</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or up to 4 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides training in the software technologies required by information and communications technology (ICT) professionals to design, program, manage, maintain and enhance computer systems - particularly knowledge-based systems.<br />
+243c189,191
+< The Bachelor of Accounting is accredited by CPA Australia and the Institute of Chartered Accountants in Australia (ICAA). Graduates are eligible for membership with either professional accounting body or other professional groups such as National Institute of Accountants (NIA) and Association of Chartered Certified Accountants (ACCA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szcsc.htm"><span class="off-screen">Computer Science/Accounting</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Computer Science (Honours)/Bachelor of Electronic Engineering (Honours)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>6 years full-time (5 years in an accelerated program), or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">89.2</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>A course designed to give you many career options across two fields - and the areas where they intersect. You can choose computer science specialisations in artificial intelligence, data engineering, network engineering, and software engineering. In electronic engineering, students can specialise in sustainable energy production, or biomedical, communications, electronic systems or optical engineering.<br />
+---
+> Upon completion you should possess research skills gained from your independent research project, an appreciation of the pertinent social, legal and ethical issues faced by todays computing professionals, and an ability to lead and engage in lifelong learning.</dd><dt>Prerequisite</dt><dd>Australian Bachelor's degree in computer science (three years), or a four year engineering degree with substantial computer science content, equivalent to a three-year computer science course. Demonstrated skills using a modern programming language such as C, C++ or Java and some familiarity with an operating system such as UNIX or Windows is required. Full-fee international students are required to have equivalent qualifications.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points. <br />
+> <br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply direct to the University.</a> . Please ensure you also provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>This course is fully accredited by the Australian Computer Society, and graduates are eligible for professional level membership.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smcsc.htm"><span class="off-screen">Computer Science (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Information Technology (Computer Networks)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or up to 4 years part time.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The combination of core and specialised subjects in this course is aimed at giving students the skills to work in network administration. It encompasses the knowledge necessary for roles in data communications and networks, networks and systems security, network design and network management, application protocol and wireless networks.<br />
+245c193,195
+< This includes an opportunity for industryrecognised CISCO certification in computer networks, an incorporated Honours year, industry experience, and practical learning. See individual course entries for further detail.<br />
+---
+> Students may complete the degree entirely by coursework, or include an industrial team project or undertake a minor thesis in the area of computer networks if they wish to progress to a PhD. Core studies include fundamental and intermediate programming using Java, fundamental IT-related mathematics, algorithms and data structures, system design engineering fundamentals, and a software engineering project.</dd><dt>Prerequisite</dt><dd>Australian Bachelors degree in any discipline.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points. <br />
+> <br />
+> </dd><dt>Additional information</dt><dd>Students without the appropriate computer science background may be required to commence three weeks earlier than semester start dates to undertake accelerated first-year computer science subjects.<br />
+247,251c197
+< See the <a href="http://www.latrobe.edu.au/scitecheng/study%3Eopportunities%20for%20industry-based%20project%20work%3C/a%3E%20in%20both%20disciplines,%20as%20well%20as%20the%20%3Ca%20href=">Faculty's industry experience and student support programs.</a></dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 25 in English (ESL) or 20 in any other English, and 25 in Mathematical Methods or 20 in Specialist Mathematics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Guaranteed Entry (Year 12 applicants only): applicants with an ATAR of 80 or above receive a first-round offer; those with lower ATARs are considered through normal selection processes.<br />
+< <br />
+< Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">VTAC Personal History online</a> for other information to be considered during the selection process, e.g. details on work experience or reason for applying. This may include information such as work experience or reasons for applying. Applicants may wish to provide other documentation in support of their application. You may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Successful completion of Physics or Specialist Mathematics gives you an additional 1.5 aggregate points for each area of study.</dd><dt>Additional information</dt><dd>A CISCO certification training program is available for students who pass the network engineering subjects in their undergraduate studies. Any students interested in obtaining full details of this CISCO program should contact the Department of Computer Science and Computer Engineering at the beginning of first semester.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>Graduates are eligible for professional membership of the Australian Computer Society and the Institute of Electrical and Electronics Engineers (IEEE).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/swcsee.htm"><span class="off-screen">Computer Science/Electronic Engineering </span>Melbourne</a></dd></dl></div></div></div>
+---
+> A seminar program is an integral part of the course. It covers ethical, professional, and social issues relevant to the IT industry. Compulsory tutorials are held throughout the year; students who do not attend are not permitted to graduate.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>This course is accredited for professional level membership of the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smitcn.htm"><span class="off-screen">Information Technology (Computer Networks) (Master)</span>Melbourne</a></dd></dl></div></div></div>
+254,255c200,201
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+257c203
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+261c207
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+263c209
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+268,270c214
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Computer Science (022037E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 100</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course offers a balanced blend of theory and practice, covering a wide range of topics, including computer systems and design, databases, artificial intelligence, computer architecture, networks, multimedia systems and games technology. Distinctive features include object-oriented programming using Java and C++ from first year, industry-based project work and industry placements, and the option to take up to 25 per cent of subjects from other disciplines. The course also includes an opportunity for industry-recognised CISCO certification in computer networks.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Graduate Diploma in Information Technology (002096D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 100</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course trains computing professionals in advanced and innovative areas of computer science and information. You'll have the opportunity either to upgrade your knowledge and skills in a broad range of areas or to specialise in key areas such as artificial intelligence, games technology, software engineering and software systems, and computer communications and networking. The course forms the first year of the Master of Computer Science.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+272c216
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+274c218
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+276c220
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+278c222,224
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+280c226
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+284c230
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+286,301c232
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 60.65<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 60<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>Bachelor's degree with a major in computer science (three years), the Graduate Diploma in Information Technology, or equivalent. Applicants should also have good skills in a modern programming language (such as C, C++, Java) and be familiar with an operating system such as UNIX or NT.</dd><dt>Professional recognition</dt><dd>This course is accredited by the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/sgdcs.htm"><span class="off-screen">Information Technology (Graduate Diploma)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Computer Science (001728G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides training in the software technologies required by information and communications technology (ICT) professionals to design, program, manage, maintain and enhance computer systems - particularly knowledge-based systems.<br />
+303c234
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4, English (any) Mathematical Methods (CAS) or Specialist Mathematics or Physics.</dd><dt>Professional recognition</dt><dd>This course is accredited by the Australian Computer Society, and graduates are eligible for professional membership.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbcs.htm"><span class="off-screen">Computer Science </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Computer Science/Bachelor of Accounting (067179G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4.5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 100</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree is designed to meet an industry demand for combined computer science and business skills. Offering industry based project work, advanced studies in accounting, and a choice of streams in computer science, such as software engineering, data engineering, artificial intelligence or network engineering, this course provides diverse career opportunities where science and business intersect. See individual course entries for further detail.<br />
+---
+> Upon completion you should possess research skills gained from your independent research project, an appreciation of the pertinent social, legal and ethical issues faced by todays computing professionals, and an ability to lead and engage in lifelong learning.</dd><dt>English Language Requirements</dt><dd>ELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+305c236
+< Visit <a href="http://www.latrobe.edu.au/scitecheng/study">the Faculty's industry experience and student support programs.</a><br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+307c238
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+309c240
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+311c242,244
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+313,317c246
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+321,343c250
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 75<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - not available<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 9<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - BBB<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 75<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 80<br />
+< Vietnam (Year 12) - 8.5<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4 with a minimum score of 25 in Mathematical Methods (CAS) or 20 in Specialist Mathematics. VCE Units 3 and 4: English (any).</dd><dt>Additional information</dt><dd>Students without an appropriate computer science background may be required to commence three weeks early than the semester start dates to undertake accelerated first year computer science subjects.</dd><dt>Professional recognition</dt><dd>Graduates of the Bachelor of Computer Science are eligible for professional membership of the Australian Computer Society (ACS).<br />
+< <br />
+< The Bachelor of Accounting has been accredited by both CPA Australia and the Institute of Chartered Accountants in Australia (ICAA). Graduates are eligible for membership with either professional accounting body, or with other professional groups such as the National Institute of Accountants (NIA) and the Association of Chartered Certified Accountants (ACCA).<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szcsc.htm"><span class="off-screen">Computer Science/Accounting</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Computer Science (Honours)/Bachelor of Electronic Engineering (Honours) (077919E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>6 years 
+< 
+< </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>27 220</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>A course designed to give you many career options across two fields - and the areas where they intersect. You can choose computer science specialisations in artificial intelligence, data engineering, network engineering, and software engineering. In electronic engineering, students can specialise in sustainable energy production, or biomedical, communications, electronic systems or optical engineering.<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+345c252
+< This includes an opportunity for industryrecognised CISCO certification in computer networks, an incorporated Honours year, industry experience, and practical learning. See individual course entries for further detail.<br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>A three-year Australian Bachelors degree in computer science or a four-year engineering degree with substantial computer science content (equivalent to third-year computer science), or an approved international equivalent. If you have Honours in a four-year computer science or computer systems engineering degree, you are eligible for direct entry into second year.<br />
+347c254
+< See the <a href="http://www.latrobe.edu.au/scitecheng/study%3Eopportunities%20for%20industry-based%20project%20work%3C/a%3E%20in%20both%20disciplines,%20as%20well%20as%20the%20%3Ca%20href=">Faculty's industry experience and student support programs.</a></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> If you have completed the Postgraduate Diploma in Computer Science or an Honours degree in computer science, engineering, or equivalent, you may be given Advanced Standing (credit) for some subjects.</dd><dt>Additional information</dt><dd>You can specialise in computer networks and software engineering streams by choosing appropriate subjects.</dd><dt>Professional recognition</dt><dd>This course is accredited by the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smcsc.htm"><span class="off-screen">Computer Science (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Information Technology (Computer Networks) (049142D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The combination of core and specialised subjects in this course is aimed at giving students the skills to work in network administration. It encompasses the knowledge necessary for roles in data communications and networks, networks and systems security, network design and network management, application protocol and wireless networks.<br />
+349c256
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> Students may complete the degree entirely by coursework, or include an industrial team project or undertake a minor thesis in the area of computer networks if they wish to progress to a PhD. Core studies include fundamental and intermediate programming using Java, fundamental IT-related mathematics, algorithms and data structures, system design engineering fundamentals, and a software engineering project.</dd><dt>English Language Requirements</dt><dd>ELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+351c258
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+353c260
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+355c262
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+357c264,266
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+359c268
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+363c272
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+365,381c274
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 80<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 89.20<br />
+< International Baccalaureate - 32<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2x Level 5<br />
+< Sri Lankan A Levels - BBB<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 75<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 80<br />
+< Vietnam (Year 12) - 8.6<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information, visit the <a href="http://www.latrobe.edu.au/icollege">La Trobe International College</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4 with a minimum score of 25 in Mathematical Methods (CAS) or 20 in Specialist Mathematics. VCE Units 3 and 4: minimum score of 25 in English (ESL) or 20 in any other English.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for professional membership of the Australian Computer Society and the Institute of Electrical and Electronics Engineers (IEEE).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/swcsee.htm"><span class="off-screen">Computer Science/Electronic Engineering </span>Melbourne</a></dd></dl></div></div></div>
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree or approved international equivalent of three years or longer in any discipline. Knowledge of C programming is an advantage.</dd><dt>Additional information</dt><dd>A seminar program is an integral part of the course. It covers ethical, professional, and social issues relevant to the IT industry. Tutorials are held throughout the year and attendance is required. Students who have not met this requirement will not be permitted to graduate.</dd><dt>Professional recognition</dt><dd>This course is accredited for professional level membership of the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smitcn.htm"><span class="off-screen">Information Technology (Computer Networks) (Master)</span>Melbourne</a></dd></dl></div></div></div>
+384c277
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+387c280
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+398c291
+< <div id="related_study_options">
+---
+> <div id="study_options">
+402c295
+<   <li><a href="http://www.latrobe.edu.au/courses/computer-systems-engineering">Computer systems</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/computer-systems-engineering/postgraduate">Computer systems</a></li>
+404c297
+<   <li><a href="http://www.latrobe.edu.au/courses/games-technology">Games technology</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/games-technology/postgraduate">Games technology</a></li>
+406c299
+<   <li><a href="http://www.latrobe.edu.au/courses/information-systems">Information systems</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/information-systems/postgraduate">Information systems</a></li>
+408c301
+<   <li><a href="http://www.latrobe.edu.au/courses/information-technology">Information technology</a><br /></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/information-technology/postgraduate">Information technology</a><br /></li>
+412,414d304
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=258800"> <img src="http://www.latrobe.edu.au/student-profiles/images/AidenNibali_web.jpg/thumbnail.jpg" width="53" height="80" alt="" title="nibali_aiden" /></a><cite><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=258800"> Aiden <strong>Nibali</strong>,</a>  <br />Bachelor of Electronic Engineering / Bachelor of Computer Science</cite></p><p class="testimonial">"It is very satisfying to see the code I write actually control real hardware."</p>
+< 
+416,417c306
+< </blockquote>
+< <div id="related_study_options">
+---
+> <div id="new_div_106813">
+420,423d308
+< <h3>Alternative pathways</h3>
+< 
+< <p>Alternative pathways include TAFE; transferring from another degree or campus at La&nbsp;Trobe; transferring from another university where you are enrolled in a related degree, provided you meet the entry requirements; or enrol in a degree through our special mature age entry scheme or via single subject enrolment. See <a href="http://www.latrobe.edu.au/study">undergraduate pathways</a> or <a href="http://www.latrobe.edu.au/international">information for international students</a>.</p>
+< 
+424a310,313
+> <h3>Overseas study opportunities</h3>
+> <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+> <div id="content_div_70640">
+> <h3>Student and graduate profiles</h3>
+426,427c315
+< <div id="new_div_106809">
+< <h3>Computer science placements</h3>
+---
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+430,435d317
+< <p>Computer Science and Computer Engineering students can apply for the industry-based learning program, that provides successful applicants with paid, full-time employment in industry as well as credit towards their degree. See <a href="http://www.latrobe.edu.au/scitecheng/study/industry-based-learning">Industry-based learning (IBL) program</a>
+< <p>The IT branded cadetship program also offers IT students the chance to work full-time and study part-time, whilst gaining mentoring and support from an Industry Partner workplace coach. See <a href="http://www.latrobe.edu.au/computer-science-and-computer-engineering/industry-experience/it-cadetships">IT branded cadetship program</a></p>
+< 
+< <p><!--<p>The Industry Cadetship Program is also offered by our IT and  engineering company partners during the summer and winter study breaks. Gain  hands-on skills in your study area and enhance your resume. See <a href="./?a=119948">cadetships</a>.--> <p>In addition, work experience and industry  project work is part of many of our courses.</p><h3>Overseas study opportunities</h3>
+< <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+< <div id="staff_profile_nest">
+440,442c322
+< <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Computer science&amp;submit=submit&amp;showform=no">staff in Computer science</a>.</p-->
+< </div>
+< <!-- Content end -->
+---
+> <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Computer science&amp;submit=submit&amp;showform=no">staff in Computer science</a>.</p--><!-- Content end -->

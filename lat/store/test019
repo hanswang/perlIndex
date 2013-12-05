@@ -1,0 +1,326 @@
+20c20
+< <meta name="Campus" content="Albury-Wodonga,Bendigo,Melbourne,Mildura,Shepparton" />
+---
+> <meta name="Campus" content="Melbourne" />
+26c26
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+31,32c31,32
+< <meta name="description" content="Our program gives you the skills and knowledge to prevent and treat disorders of the foot ankle and leads to professional registration as a podiatrist." />
+< <meta name="keywords" content="Podiatry, podiatrist, podiatric, paediatrics, undergraduate, bachelor" />
+---
+> <meta name="description" content="Our postgraduate coursework program provides graduates of health sciences or related disciplines with the skills and knowledge to prevent and treat disorders of the foot and ankle and leads to professional registration." />
+> <meta name="keywords" content="Podiatry, podiatrist, podiatric practice, paediatrics, sports injuries, postgraduate, Master" />
+42c42
+< <!-- 126241 -->
+---
+> <!-- 126261 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/podiatry"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="canonical" href="http://www.latrobe.edu.au/courses/podiatry/postgraduate"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+74c74
+<   Page generated: 11 November 2013 14:46:49
+---
+>   Page generated: 11 November 2013 12:33:06
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/podiatry">Podiatry</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/podiatry">Podiatry</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/podiatry/postgraduate">Postgraduate</a></div>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/podiatry">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/podiatry/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/podiatry">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/podiatry/postgraduate">Postgraduate</a></li>
+155d154
+< 
+160,166c159
+<   <p>We are the oldest and largest Podiatry School in Australia, currently training&nbsp;over one-third&nbsp;of Australia&#8217;s podiatry students*</p>
+< 
+<   <p>Our practical hands on program gives you the skills and knowledge to prevent and treat disorders of the foot and ankle and leads to professional registration as a podiatrist. Learn assessment and management skills used in podiatric practice and how to treat patients with complex medical conditions. Know how to work in different areas of podiatry such as paediatrics, surgery and sport injuries.</p>
+< 
+<   <p><em>* Podiatry Board of Australia -&nbsp;Student Enrolment&nbsp;Data, July 2012</em></p>
+< </div>
+< 
+---
+>   <p>Our postgraduate coursework program provides graduates of health sciences or related disciplines with the knowledge and skills to prevent and treat disorders of the foot and ankle and leads to professional registration as a podiatrist. Learn the assessment and management skills used in podiatric practice and how to treat patients with complex medical conditions. Know how to work in different areas of podiatry such as paediatrics, surgery and sports injuries.</p>
+168,188d160
+< <div class="webmedia">
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:01:34',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/gYMoPodiatry_V3.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/gYMoPodiatry_V3.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video723.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'v723', 'name':'723'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v723', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< <h2 class="video-title">Podiatry at La Trobe</h2>
+< 
+< 
+< <div id="v723">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video723.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/gRPVPodiatry_V3.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+192,206d163
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/gRPVPodiatry_V3.mp4"><span
+< class="off-screen">Podiatry at La Trobe</span> MP4 [12.11 MB]</a></li>
+< 
+< <li><a href='https://webstat.latrobe.edu.au/webmedia/media/dgL8Podiatry_V3.mp3'><span class='off-screen'>Podiatry at La Trobe</span> MP3 [1.08 MB]</a></li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/veeupodiatryvidtranscript.docx"><span class="off-screen transcript-link">Podiatry at La Trobe</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=723"><span class="off-screen">Podiatry at La Trobe</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?723">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+< </div>
+< </div>
+< 
+210,212c167
+< <p>Podiatrists work in a variety of settings, including public and private practice, community health centres, hospitals and academia.&nbsp; They work with people of all ages in a wide range of clinical settings, such as paediatrics, surgery and sports.<br />
+< &nbsp;<br />
+< Graduates are also eligible to register as a Podiatrist and work overseas in countries like the United Kingdom, Singapore, Canada and New Zealand.&nbsp;<br /></p>
+---
+> <p>You may work as a sole practitioner or as part of a multidisciplinary team. Opportunities also exist in community health centres and hospitals.</p>
+219,223c174
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Health Sciences and Master of Podiatric Practice </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar"> n/a</span></dd><dd>Bendigo <span class="atar">72.2</span></dd><dd>Melbourne <span class="atar">78.3</span></dd><dd>Mildura <span class="atar"> n/a</span></dd><dd>Shepparton <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give you skills and knowledge related to the prevention and treatment of disorders of the foot and ankle, through practical experience in podiatry.<br />
+< <br />
+< As well as covering common healthcare problems, you'll learn about podiatry treatment involved in complex medical conditions such as diabetes or rheumatoid arthritis. The curriculum encompasses specialised areas of podiatry such as sports injuries, paediatrics and surgery.<br />
+< <br />
+< Extensive clinical training helps you apply theoretical knowledge: you'll treat patients in specialised on-campus clinical teaching environments, and do external placements at hospitals, health centres and private practices.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Podiatric Practice</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Melbourne</dd><dd>Bendigo</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>We are the longest-established and largest podiatry school in Australia, currently training 41 per cent of Australia's podiatry students.*<br />
+225c176
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZHPOD">Frequently Asked Questions site</a>.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 30 in English (ESL) or 25 in English (any) and at least 25 in two of Biology, Chemistry, Mathematics (any), Physical Education or Physics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Current Year 12 applicants with relevant work experience or employment with a podiatrist/podiatry department during and/or subsequent to school may provide these details on a VTAC Personal History online (if applicable).<br />
+---
+> Our hands-on program gives you the skills and knowledge to prevent and treat disorders of the foot and ankle. Podiatrists treat and manage issues relating to bone and joint disorders, such as arthritis, soft.tissue and muscular pathologies, as well as neurological and circulatory diseases.<br />
+227c178,179
+< Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying. Applicants may wish to provide other documentation in support of their application.<br />
+---
+> You'll also learn how to work in different areas of podiatry such as paediatrics,<br />
+> surgery and sport injuries. The Department of Podiatry conducts its own clinic at our Melbourne Campus, where you'll be directly involved in treating patients. You'll gain further clinical experience through external placements at hospitals, health centres and private practices.<br />
+229c181
+< Selection may be based on ATAR, VTAC Personal History online, GPA, or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>La Trobe considers Special Entry Access Scheme (SEAS) criteria; and a <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Costs</dt><dd>Instruments approximately A$600 in second year and safety equipment for which prices are variable. Students must purchase a Podiatry Department shirt for clinical placements (A$60) along with a name tag (A$12) and approved leather shoes. Proof of current immunisations and National Police Check (A$15.50) may be required for some placements. Immunisation costs may vary,  A$250-$470. Accommodation costs for clinical placements will vary according to location. Materials can be purchased from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain your personal property. You'll also need to obtain a Working with Children (WWC) Check - no cost - before undertaking a clinical professional placement. Prior to commencing third year, students will be required to undertake a first aid course (as per Podiatry Board of Australia requirements) including CPR, anaphylaxis and defibrillation training at an approximate cost of A$150. </dd><dt>Additional information</dt><dd>NOTE: students at Albury-Wodonga, Mildura and Shepparton campuses must transfer to Bendigo after first year.<br />
+---
+> For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HMPOD/">Frequently Asked Questions</a> webpage.<br />
+231c183,200
+< This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br /></dd><dt>How to apply</dt><dd>VTAC/UAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December for our Mildura Campus. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC/UAC.<br /></dd><dt>Professional recognition</dt><dd>Graduates are eligible for registration in all Australian states and New Zealand. You may also find opportunities for voluntary and paid work overseas, with registration criteria varying from country to country.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhpod.htm "><span class="off-screen">Health Sciences/Podiatry</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhpod.htm "><span class="off-screen">Health Sciences/Podiatry</span>Bendigo</a></dd></dl></div></div></div>
+---
+> *Podiatry Board of Australia. National Podiatry Data, November 2011</dd><dt>Prerequisite</dt><dd>Bachelor's degree completed within the past five years with a minimum grade average of 70 per cent. Relevant degrees include: Health Science (in relevant streams such as Allied Health or Anatomy &amp; Physiology), Medicine, Pre-Medicine, Medical or Biomedical Science, Nursing and Dentistry degrees which were awarded within the last five (5) years. Applicants will be selected on academic merit and the degree to which pre-requisite capabilities can be demonstrated. Professional experience in related fields will be considered. English language requirements apply.<br />
+> Entrance into the Podiatry Graduate Entry Masters (GEMs) program requires pre-existing knowledge, skills and attributes in the following core areas:<br />
+> - Human anatomy of the lower extremity (in particular the foot)<br />
+> - Human physiology<br />
+> - Human pathology<br />
+> - Microbiology<br />
+> - Pharmacology.<br /></dd><dt>Fee amount</dt><dd>Indicative (2013): $23,600 per 120 credit points</dd><dt>Costs</dt><dd>Instruments (A$600) and safety equipment are required in first year; prices vary. Students must purchase a Podiatry Department shirt to wear for<br />
+> clinical activities (A$60), as well as a name tag (A$15) and approved leather<br />
+> shoes. Proof of current immunisation and National Police Check (A$15) may<br />
+> be required for some placements.<br />
+> Accommodation costs for clinical placements vary according to venue,<br />
+> and not all students incur the same costs. Students can buy equipment, materials etc, from any supplier and these items remain students personal property.</dd><dt>Additional information</dt><dd>All students enrolled in this program are required to successfully complete a bridging course in the summer semester prior to commencing the course. Cost and dates are to be confirmed.</dd><dt>How to apply</dt><dd><a href="http://www.latrobe.edu.au/apply-direct/apply-now/how-to-apply-direct">Apply online</a> by 31 October 2013.<br />
+> <br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0010/540847/podiatry-gemsupp-form2014.docx">Supplementary Form</a>.<br />
+> <br />
+> Please see our <a href="http://www.latrobe.edu.au/health/downloads/2014-podiatry-self-assessment-checklist.pdf">Self-Assessment Checklist to see if you are eligible to apply.</a></dd><dt>Professional recognition</dt><dd>This course enables professional registration in Australian and New Zealand. Overseas registration criteria may vary.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-podiatric-practice.htm"><span class="off-screen">Podiatric Practice (Master)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-podiatric-practice.htm"><span class="off-screen">Podiatric Practice (Master)</span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Health Research Methodology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Albury-Wodonga</dd><dd>Bendigo</dd><dd>Melbourne</dd><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give graduates without substantial previous research experience the necessary preparation for higher degree studies. It is expected that graduates will proceed to a higher degree by research, provided they meet minimum average grade requirements. However, the course also aims to facilitate professional advancement and progression to further postgraduate coursework studies after full or partial completion. For public health major, please note that classes are held at the Franklin Street Campus.</dd><dt>Prerequisite</dt><dd>Bachelor's degree in relevant discipline. In certain circumstances, consideration is given to relevant clinical or academic experience, and demonstrated potential to undertake research.</dd><dt>Fee amount</dt><dd>Indicative (2012): $24,190 per 120 credit points.<br />
+> </dd><dt>Additional information</dt><dd>Public Health discipline commences early February.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Applications close on Thursday 31 October.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+234,235c203,204
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+237c206
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+241c210
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+243c212
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+248,250c217
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Health Sciences and Master of Podiatric Practice  (062598G/ 062806D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 040</dd><dt id="campus">Campus</dt><dd>Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give you skills and knowledge related to the prevention and treatment of disorders of the foot and ankle, through practical experience in podiatry.<br />
+< <br />
+< As well as covering common healthcare problems, you'll learn about podiatry treatment involved in complex medical conditions such as diabetes or rheumatoid arthritis. The curriculum encompasses specialised areas of podiatry such as sports injuries, paediatrics and surgery.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Health Research Methodology (072025F/072024G/072008G/072007G/072026E/072005K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 300</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Franklin Street</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give graduates without substantial previous research experience the necessary preparation for higher degree studies. It is expected that graduates will proceed to a higher degree by research, provided they meet minimum average grade requirements. However, the course also aims to facilitate professional advancement and progression to further postgraduate coursework studies after full or partial completion. For public health major, please note that classes are held at the Franklin Street Campus.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+252c219
+< Extensive clinical training helps you apply theoretical knowledge: you'll treat patients in specialised on-campus clinical teaching environments, and do external placements at hospitals, health centres and private practices.<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+254c221
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZHPOD">Frequently Asked Questions site</a>.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+256c223
+< TOEFL Paper-based Test - A minimum score of 600 with a score of 6 or more in the Test of Written English;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+258c225,227
+< TOEFL Internet-based Test - A minimum score of 94 with a minimum for SLR 24; W27;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+260c229
+< Pearson Test of English (Academic) (PTE): minimum score of 72 with no communicative skill score less than 68.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+262c231
+< Cambridge Certificate of Advanced English (CAE): a grade of A or higher.<br />
+---
+> Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+264c233
+< Cambridge Certificate of Proficiency in English (CPE): A grade of B or higher.<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+266c235,236
+< or approved international equivalent.<br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>A relevant Australian Bachelor's degree or approved international equivalent in health sciences or related area. Entry requirements also vary based on the chosen major - please contact the faculty for more information.</dd><dt>Additional information</dt><dd>Public Health discipline commences early February.<br />
+> Please note this course is held at the Franklin Street Campus, which is located in the CBD. You might like to consider finding accommodation close to your campus.<br />
+268,283c238
+< Please note the Podiatry Board of Australias Standard for English Language proficiency to register as a Podiatrist in Australia is an IELTS of 7.0 overall with a minimum score of 7.0 in all components (Listening, Reading, Writing and Speaking) or a minimum OET score of A or B in every component, achieved at the one sitting. The test must be taken no longer than 2 years prior to applying for registration. Please read the <a href="%20http://www.podiatryboard.gov.au/Registration-Standards.aspx%20=" registration="" standard="" for="" podiatry=""></a>.</dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 80 and at least an A in English<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 78.30<br />
+< International Baccalaureate - 27<br />
+< GCE A Levels - 11<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - ABB<br />
+< STPM - 9.33<br />
+< MICSS (UEC) - 4<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Canada Secondary School/or CPU - 75<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 75<br />
+< Vietnam (Year 12) - 8.2<br />
+< Indonesia (SMA) - 8.2<br />
+< GAC Cert. IV - GPA 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br /></dd><dt>Subject prerequisite</dt><dd>Two of Biology, Chemistry, Year 12 Mathematics or Physics.</dd><dt>Additional costs</dt><dd>Instruments approximately A$600 in second year and safety equipment for which prices are variable. Students must purchase a Podiatry Department shirt for clinical placements (A$60) along with a name tag (A$12) and approved leather shoes. Proof of current immunisations and National Police Check (A$15.50) may be required for some placements. Immunisation costs may vary, A$250-$470. Accommodation costs for clinical placements will vary according to location. Materials can be purchased from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain your personal property. You'll also need to obtain a Working with Children (WWC) Check - no cost - before undertaking a clinical professional placement. Prior to commencing third year, students will be required to undertake a first aid course (as per Podiatry Board of Australia requirements) including CPR, anaphylaxis and defibrillation training at an approximate cost of A$150.</dd><dt>Additional information</dt><dd><br /></dd><dt>Professional recognition</dt><dd>Graduates are eligible for registration in all Australian states and New Zealand. They may also find opportunities for voluntary and paid work overseas, with registration criteria varying from country to country.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhpod.htm "><span class="off-screen">Health Sciences/Podiatry</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhpod.htm "><span class="off-screen">Health Sciences/Podiatry</span>Bendigo</a></dd></dl></div></div></div>
+---
+> You must review the Supplementary Checklist before applying.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+286c241
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+289c244
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+312c267
+< <h3>Alternative pathways</h3>
+---
+> <h3>Podiatry placements</h3>
+314c269
+< <p>If you have completed common first-year subjects in another degree within our faculty, there are a small number of places available to transfer into the second year of the Bachelor of Health Sciences/Master of Podiatric Practice degree.</p>
+---
+> <p>We have our own clinic at the Melbourne campus where you will be directly involved in the treatment of patients. Further clinical experience is gained through external placement in hospitals, health centres and private practice under the supervision of a clinician. Placements are available in metropolitan Melbourne, rural and regional Victoria, interstate and overseas. You must do placements in Melbourne and in rural or regional Victoria.</p>
+316c271
+< <h3>Podiatry placements</h3>
+---
+> <h2>Alternative Pathways</h2>
+318c273
+< <p>We have our own <a href="http://www.latrobe.edu.au/health/professional/public-clinics/podiatry-clinic">podiatry clinic</a> at the Melbourne campus where you will be directly involved in the treatment of patients. Further clinical experience is gained through external placement in hospitals, health centres and private practice under the supervision of a clinician. Placements are available in metropolitan Melbourne, rural and regional Victoria, interstate and overseas. You must do placements in Melbourne and in rural or regional Victoria.</p>
+---
+> <p>If you are not offered a place in the graduate-entry Masters program you may apply through VTAC:</p>
+320c275,279
+< <h3>Regional campus transfer</h3>
+---
+> <ul>
+>   <li>for the four-year combined Bachelor of Health Sciences/Master of Podiatric Practice course.</li>
+> 
+>   <li>for the Bachelor of Health Sciences degree majoring in Anatomy and Physiology and meet the entry academic requirements of GPA of at least H2A (70% or above) in the program and successfully complete the essential pre-requisite tertiary level subjects:</li>
+> </ul>
+322c281,283
+< <p>Students at Albury-Wodonga, Mildura and Shepparton campuses must transfer to the Bendigo campus for the last three years of the course.</p>
+---
+> <p>Second Year: Essential MIC2MMP (Medical Microbiology for Podiatry)<br />
+> Third Year: Desirable: HBS3NPM (Biomechanics of Normal and Pathological Movement)<br />
+> Third Year: Essential HBS3PCY (Foundations in Pharmacology)<br /></p>
+333,334c294,295
+< <div id="new_div_132481">
+< <p>We also offer opportunities for some <a href="http://www.latrobe.edu.au/health/study/overseas-study-opportunities">overseas clinical placements</a>.</p>
+---
+> <div id="content_div_70640">
+> <h3>Student profiles</h3>
+336,339c297
+< </div>
+< <P>Find out about the experiences of one of our students.</P>
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=94243"> <img src="http://www.latrobe.edu.au/student-profiles/images/leech_alison.jpg/thumbnail.jpg" width="53" height="80" alt="" title="leech_alison" /></a></p>
+---
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+341c299
+< <p class="testimonial">I think this course gives us excellent career opportunities.</p>
+---
+> </div>
+343c301,302
+< <p><cite><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=94243">Ms Alison <strong>Leech</strong>, </a>  </cite></p>
+---
+> <div id="new_div_132481">
+> <p>We also offer opportunities for some <a href="http://www.latrobe.edu.au/health/study/overseas-study-opportunities">overseas clinical placements</a>.</p>
+345c304
+< </blockquote>
+---
+> </div>
+462,464c421,428
+< </script><!-- Google Code for La Trobe Health Sciences Campaign Remarketing List 
+< Insertion Guide: https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=115794
+< -->
+---
+> </script><!-- Includes sei-event-calendar.js for related events -->
+> <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+> <script type="text/javascript">
+>   var eventCalendarPath = "/events/";
+> </script>
+> <script type="text/javascript" src="/__data/assets/js_file/0003/125724/coursefinder-ui.js"></script>
+> 
+> <!-- Google Code for La Trobe International Remarketing List -->
+467c431
+< var google_conversion_id = 1063865565;
+---
+> var google_conversion_id = 1048882750;
+471c435
+< var google_conversion_label = "oaJ9CO-OrwIQ3Zml-wM";
+---
+> var google_conversion_label = "WXTXCLSWggIQvtyS9AM";
+479c443
+< <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1063865565/?label=oaJ9CO-OrwIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+---
+> <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1048882750/?label=WXTXCLSWggIQvtyS9AM&amp;guid=ON&amp;script=0"/>
+481,488c445,447
+< </noscript><!-- Includes sei-event-calendar.js for related events -->
+< <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+< <script type="text/javascript">
+<   var eventCalendarPath = "/events/";
+< </script>
+< <script type="text/javascript" src="/__data/assets/js_file/0003/125724/coursefinder-ui.js"></script>
+< 
+< <!-- Google Code for La Trobe International Remarketing List -->
+---
+> </noscript><!-- Google Code for La Trobe Health Sciences Campaign Remarketing List 
+> Insertion Guide: https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=115794
+> -->
+491c450
+< var google_conversion_id = 1048882750;
+---
+> var google_conversion_id = 1063865565;
+495c454
+< var google_conversion_label = "WXTXCLSWggIQvtyS9AM";
+---
+> var google_conversion_label = "oaJ9CO-OrwIQ3Zml-wM";
+503c462
+< <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1048882750/?label=WXTXCLSWggIQvtyS9AM&amp;guid=ON&amp;script=0"/>
+---
+> <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1063865565/?label=oaJ9CO-OrwIQ3Zml-wM&amp;guid=ON&amp;script=0"/>

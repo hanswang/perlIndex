@@ -1,0 +1,415 @@
+23a24,35
+> <!-- Brokenlinks //-->
+> 
+> <!-- Info //-->
+> <meta name="TotalPages" content="Nil" />
+> <meta name="Links" content="" />
+> <meta name="TotalLinks" content="" />
+> 
+> <!-- Total Info //-->
+> <meta name="Num_Subsites_With_Broken_Links" content="" />
+> <meta name="Last_Update_Time" content="" />
+> <meta name="Num_Total_Broken_Links_Sitewide" content="" />
+> 
+37c49
+< <meta name="Campus" content="Campuses,Bendigo,Mildura" />
+---
+> <meta name="Campus" content="Campuses,Bendigo" />
+43c55
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+51c63
+< <!-- 103741 -->
+---
+> <!-- 103858 -->
+76c88
+< <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/planning"/>		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/planning/postgraduate"/>		
+83c95
+<   Page generated: 11 November 2013 10:01:12
+---
+>   Page generated: 11 November 2013 16:04:07
+124c136
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/planning">Planning</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/planning">Planning</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/planning/postgraduate">Postgraduate</a></div>
+159c171
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/planning">Undergraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/planning">Undergraduate</a></li>
+161c173
+<   <li><a href="http://www.latrobe.edu.au/courses/planning/postgraduate">Postgraduate</a></li>
+---
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/planning/postgraduate">Postgraduate</a></li>
+167d178
+< 
+169,171c180,181
+< <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0003/120864/planning_250x166_study_option.jpg" width="253" height="166" alt="Planning" title="Planning" />Why study Planning?</h2>
+< 
+< <p>If you care about the neighbourhood you live in; the time it takes to get to work; or just the fact that water from your tap is drinkable &#8211; if you care about any of those things, then you care about planning. Planning is the opportunity to change the way we live for the better, by studying our, local environments, cities, geography and community priorities.</p>
+---
+> <div class="feature feature-big">
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0010/239509/Sri-Lanka-Study-Tour-2010.jpg" width="250" height="166" alt="Sri Lanka Study Tour 2010" title="Planning - postgraduate" />Why study Planning?</h2>
+173c183
+< <p>Australia is currently experiencing a shortage of qualified planners, and graduates enjoy excellent starting salaries and work prospects.</p>
+---
+>   <p>Our courses place an emphasis on understanding contemporary issues such as facilitating change, sustainable development, climate change, indigenous communities and water management within the context of a changing society in both urban and rural areas.</p>
+175,179c185,186
+< <p>Planners combine their knowledge of planning practice and theory with a fundamental understanding of a range of subjects to help develop better ways to live in cities and regional areas. Graduates work in local and state government, private firms, research organisations and regional authorities and must develop strong communication and analytical skills to thrive in their careers.</p>
+< 
+< <h2>Planning Excellence 2012 Victorian Awards<br /></h2>
+< 
+< <p>The Community Planning and Development Program picked up the award for 'Cutting Edge Teaching and Research' based on our extensive fieldwork and international study tour program at the Planning Institute of Australia (Victorian Division) Annual Awards Ceremony, 2012.</p>
+---
+>   <p>We give strong recognition to the growing importance of understanding and working with communities, of community development agendas and of the need to achieve social, economic and environmental improvements with a focus on supporting and facilitating sustainable development for liveable communities in rural and regional areas in Australia and overseas with a particular emphasis on the countries of South and South East Asia.</p>
+> </div><img style="BORDER-BOTTOM: rgb(0,0,0) 0px solid; BORDER-LEFT: rgb(0,0,0) 0px solid; BORDER-TOP: rgb(0,0,0) 0px solid; BORDER-RIGHT: rgb(0,0,0) 0px solid" alt="pia-logo" src="http://www.latrobe.edu.au/__data/assets/image/0019/162343/pia-logo.jpg" width="250" height="166" />
+183,185c190
+< <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0020/215129/pia-thumb.jpg" alt="pia-thumb" style="border: 0px solid rgb(0, 0, 0);" height="53" width="80" /></h2>
+< 
+< <p>The Bachelor of Urban, Rural and Environmental Planning is accredited by the Planning Institute of Australia (PIA). Graduates would be eligible for membership of the Urban and Regional Planning Chapter of the Institute. PIA course accreditation means that La Trobe's courses in planning provide a strong foundation of theory, skills, and knowledge to allow graduates to work as planners in the field of urban and regional planning.</p>
+---
+> <p>The Master of Community Planning and Development (Urban and Rural Planning stream) is accredited by the <a href="http://www.planning.org.au/">Planning Institute of Australia (PIA)</a>. The Master of Spatial Planning, Management and Design has been granted interim accreditation by the Planning Institute of Australia. The PIA course accreditation means that La Trobe&#39;s courses in planning provide a strong foundation of theory, skills, and knowledge to allow graduates to work as planners in the field of urban and regional planning.</p>
+192,233d196
+< <div id="video">
+< <div class="webmedia">
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:02:16',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/hAu8Andrew_Butt.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/hAu8Andrew_Butt.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video806.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'v806', 'name':'806'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v806', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< <h2 class="video-title">Andrew Butt – Planning</h2>
+< 
+< 
+< <div id="v806">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video806.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/Yn23Andrew_Butt.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< 
+< </div>
+< 
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/Yn23Andrew_Butt.mp4"><span
+< class="off-screen">Andrew Butt – Planning</span> MP4 [8.72 MB]</a></li>
+< 
+< <li><a href='https://webstat.latrobe.edu.au/webmedia/media/Bwo1Andrew_Butt.mp3'><span class='off-screen'>Andrew Butt – Planning</span> MP3 [1.57 MB]</a></li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/qwzYTranscript Andrew Butt.docx"><span class="off-screen transcript-link">Andrew Butt – Planning</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=806"><span class="off-screen">Andrew Butt – Planning</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?806">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+< </div>
+< </div>
+< 
+< </div>
+< 
+244,274c207,208
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Arts </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">51.9</span></dd><dd>Bendigo <span class="atar">51.35</span></dd><dd>Melbourne <span class="atar">70.6</span></dd><dd>Mildura <span class="atar">52.8</span></dd><dd>Shepparton <span class="atar">61.7</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>La Trobe's Bachelor of Arts is an ideal avenue for developing strong analytical and communication skills, and broad-ranging knowledge suited to careers in many fields. You'll have the option to take a new Work Ready stream, which allows you to add subjects to the standard curriculum to specifically prepare you for the workforce. You can also do volunteer placements or study overseas. These new subjects and opportunities make this degree one of the most flexible in Australia.<br />
+< <br />
+< In the standard curriculum, you'll choose to major in at least one discipline. You can also choose a minor specialisation to develop a secondary area of expertise. Electives are available in a huge range of areas, not only in the humanities and social sciences but also in areas such as accounting, computer science, economics and psychology (subject to prerequisites), giving you the flexibility to tailor your course to your specific interests.</dd><dt>Prerequisite</dt><dd>Melbourne<br />
+< VCE Units 3 and 4: study score of at least 30 in English (ESL) or 25 in any other English.<br />
+< Regional campuses<br />
+< VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English<br /></dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Guaranteed Entry for Melbourne campus: Year 12 applicants only. Applicants with an ATAR of 75 or more will be made a first-round offer. Applicants whose ATAR is below 75 will be considered through normal selection processes.<br />
+< <br />
+< Guaranteed Entry for regional campuses: Year 12 applicants only. Applicants with an ATAR of 60 or more will be offered a Commonwealth supported place. Applicants whose ATAR is below 60 will be considered through normal selection processes.<br />
+< <br />
+< Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.</dd><dt>Middle band</dt><dd>Melbourne<br />
+< Completion of Classical Societies and Cultures, Contemporary Australian Society, English language, History (any), Politics, International Studies, Literature, LOTE (any), Philosophy, National Politics, Religion and Society, or Texts and Traditions equals 1 additional aggregate point per study, to a maximum of 3 points. Re-ranking is based on performance in English (any), Humanities (any), LOTE (any), Drama, Theatre Studies, Legal Studies and Psychology. Consideration is also given to Special Entry Access Scheme (SEAS) criteria.<br />
+< <br />
+< Regional campuses<br />
+< Re-ranking is based on English (any), Humanities (any), LOTE (any), Drama, Theatre Studies, Legal studies and Psychology. Consideration is also given to Special Entry Access Scheme (SEAS) criteria. A <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.<br /></dd><dt>Fee amount</dt><dd>Indicative (2010): CSP student contribution $5310 (per 120 credit points).<br />
+< <br />
+< </dd><dt>Additional information</dt><dd>Mid-year entry may be available.<br />
+< <br />
+< For more information about the Work Ready Bachelor of Arts contact the Faculty Office on (03) 9479 2023.<br />
+< <br /></dd><dt>How to apply</dt><dd>VTAC/UAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC/UAC.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/humanities/single-degrees/aba.htm"><span class="off-screen">Arts </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/humanities/rba.htm"><span class="off-screen">Arts </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/mildura/humanities/husbam.htm"><span class="off-screen">Arts </span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/shepparton/humanities/bebap.htm"><span class="off-screen">Arts </span>Shepparton</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/albury-wodonga/humanities/husbaw.htm"><span class="off-screen">Arts </span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Urban, Rural and Environmental Planning</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar">65.35</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Whether you want to reduce the traffic snarls in Jakarta, plan greener homes for London or map new ways for communities to grow closer to home, there are abundant work opportunities for planners around the world.<br />
+< <br />
+< This course, only one of two accredited undergraduate planning courses in Victoria, equips students with a fundamental understanding of the forces that shape society and the environment in order to make informed decisions about the layout and design of cities and towns, as well as sustainable management of resources.<br />
+< <br />
+< You'll learn the history and theory of planning while also developing extensive practical skills in project management, urban design, communication, negotiation and development. Students are also actively involved in investigating how the urban form can be improved to embrace healthy urban design, child-friendly and active environments.<br />
+< <br />
+< You'll have opportunities to travel on a wide range of field trips both within Australia and internationally as part of your studies, learning best-practice planning first-hand from a wide range of communities.<br />
+< <br />
+< Graduates are recognised as qualified planners by the Planning Institute of Australia. The current shortage of qualified planners in Australia means students can look forward to excellent work prospects and starting salaries.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Guaranteed Entry (Year 12 applicants only). Applicants with an ATAR of 75 or above receive a first-round offer. Those with lower ATARs are considered through normal selection processes.<br />
+< <br />
+< If you didn't get the ATAR, there are <a href="%E2%80%9Dhttp://www.latrobe.edu.au/humanities/study/pathways%E2%80%9C">other ways to get into this course</a>.<br />
+< <br />
+< Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Certificate in Community Planning and Development</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>6 months full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Bendigo</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Community planning and development is about shaping and working with cities, towns and rural areas to improve them physically, socially and economically. If you do not have formal planning qualifications, this course is designed to provide you with training in the discipline, creating a pathway into the profession. It emphasises contemporary issues such as change facilitation, sustainable development, climate change, planning for healthy communities, childrens environments, indigenous communities and water management within the context of a changing society in both urban and rural areas.</dd><dt>Prerequisite</dt><dd>An approved Bachelors degree</dd><dt>Fee amount</dt><dd>Indicative (2012): $6260 (60 credit points). </dd><dt>Additional information</dt><dd>Mid-year entry (July intake) is also available.<br />
+> <br /></dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 26 February 2014. Download, complete and submit a <a href="http://www.latrobe.edu.au/students/enrolment/documents/admission-pg-coursework.pdf">postgraduate coursework application form (PDF 77KB)</a>. Please ensure you also provide all supplementary information required.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/bendigo/humanities/agccpd.htm"><span class="off-screen">Community Planning and Development (Graduate Certificate)</span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Diploma in Community Planning and Development </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Bendigo</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Community planning and development is about shaping and working with cities, towns and rural areas to improve them as places to live physically, socially and economically. This course is designed specifically to provide training in the discipline from sub-professional to post-professional level, creating a pathway for those without formal planning qualifications. It emphasises contemporary issues such as change facilitation, sustainable development, climate change, planning for healthy communities, childrens environments, indigenous communities and water management within the context of a changing society in both urban and rural areas.<br /></dd><dt>Prerequisite</dt><dd>An approved Bachelors degree</dd><dt>Fee amount</dt><dd>Indicative (2012): $12,520 per 120 credit points. </dd><dt>Additional information</dt><dd>Mid-year entry (July intake) is also available.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 26 February 2014. Download, complete and submit a <a href="http://www.latrobe.edu.au/students/enrolment/documents/admission-pg-coursework.pdf">postgraduate coursework application form (PDF 77KB)</a>. Please ensure you also provide all supplementary information required.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/bendigo/humanities/agccpd.htm"><span class="off-screen">Community Planning and Development (Graduate Diploma)</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Community Planning and Development</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Bendigo</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course will have you working with communities in urban, regional and rural areas, with community development planning agencies and in an international setting. You will also work with nongovernment organisations on rural and regional development issues, community development, healthy urban design, child friendly and active environments, land use planning and environmental and social policy at local, regional, national and international levels.</dd><dt>Prerequisite</dt><dd>An approved Bachelors degree</dd><dt>Fee amount</dt><dd>Indicative (2012): $12,520 per 120 credit points. </dd><dt>Additional information</dt><dd>Mid-year entry (July intake) is also available.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 26 February 2014. Download, complete and submit a <a href="http://www.latrobe.edu.au/students/enrolment/documents/admission-pg-coursework.pdf">postgraduate coursework application form (PDF 77KB)</a>. Please ensure you also provide all supplementary information required.<br /></dd><dt>Professional recognition</dt><dd>The Master of Community Planning and Development (urban and rural planning stream) is nationally accredited by the Planning Institute of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/bendigo/humanities/amcpd.htm"><span class="off-screen">Community Planning and Development (Master)</span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Spatial Planning, Management and Design </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time. </dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Bendigo</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This unique planning course examines the management and governance of cities and towns, applied urban design including regional and rural settings, and issues faced by developing countries. It has a significant international component and is offered as part of a joint cross-cultural degree with the University of Moratuwa, Sri Lanka, where students can opt to undertake two semesters of study.<br />
+276,279c210
+< Selection may also be based on GPA, STAT Multiple Choice, and/or an essay.</dd><dt>Middle band</dt><dd>Re-ranking is based on English (any), Humanities (any), LOTE (any), Drama, Theatre Studies, Legal Studies and Psychology and Business Management.<br />
+< <br />
+< Consideration is also given to Special Entry Access Scheme (SEAS) criteria, and a <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Fee amount</dt><dd>Indicative (2010): CSP student contribution $5,310 (per 120 credit points).</dd><dt>Costs</dt><dd>Students undertake fieldwork trips that incur some minor costs.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>The course is accredited by the Planning Institute of Australia. It's one of only two accredited undergraduate planning courses in Victoria.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/humanities/abure.htm"><span class="off-screen">Urban, Rural and Environmental Planning </span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Diploma of Arts</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar"> n/a</span></dd><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Mildura <span class="atar"> n/a</span></dd><dd>Shepparton <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This program offers an introduction to post-secondary study of humanities and<br />
+< social sciences with a wide choice of majors (depending on the campus of study). You'll learn in a supportive environment, with structured assistance throughout your studies. Once you've successfully completed the Diploma, you'll be eligible to enter the second year of La Trobe's Bachelor of Arts.</dd><dt>Prerequisite</dt><dd>N/A</dd><dt>Middle band</dt><dd>N/A</dd><dt>Costs</dt><dd>Students choosing to study subjects in visual arts or graphic design may incur additional equipment costs. Students can purchase these items from any supplier; they remain students' personal property. </dd><dt>Additional information</dt><dd>Mid-year entry may be available.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 26 February 2013. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd></dl></div></div></div>
+---
+> The curriculum aims to develop your planning skills and knowledge, with specific attention to management and design skills. It is also designed to help students understand other cultures, planning systems, and new problem-solving strategies; and to enable them to operate in diverse communities and environments.</dd><dt>Prerequisite</dt><dd>A Bachelor's degree in planning, accredited by the Planning Institute of Australia, or other approved degree combined with practical experience in planning or related fields.</dd><dt>Fee amount</dt><dd>Indicative (2013):  $13,770 per 120 credit points.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 26 February 2014. Download, complete and submit a <a href="http://www.latrobe.edu.au/students/enrolment/documents/admission-pg-coursework.pdf">postgraduate coursework application form (PDF 77KB)</a>. Please ensure you also provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>This course has been granted interim accreditation by the Planning Institute of Australia.</dd></dl></div></div></div>
+282,283c213,214
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+285c216
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+289c220
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+291c222
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+296,301c227
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Arts  (002080A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>21 350</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne, Mildura, Shepparton</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>La Trobe's Bachelor of Arts is an ideal avenue for developing strong analytical and communication skills, and broad-ranging knowledge suited to careers in many fields. You'll have the option to take a new Work Ready stream, which allows you to add subjects to the standard curriculum to specifically prepare you for the workforce. You can also do volunteer placements or study overseas. These new subjects and opportunities make this degree one of the most flexible in Australia.<br />
+< <br />
+< In the standard curriculum, you'll choose to major in at least one discipline. You can also choose a minor specialisation to develop a secondary area of expertise. Electives are available in a huge range of areas, not only in the humanities and social sciences but also in areas such as accounting, computer science, economics and psychology (subject to prerequisites), giving you the flexibility to tailor your course to your specific interests.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe Melbourne;<br />
+< for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Graduate Certificate in Community Planning and Development (064198G           )</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>6 months</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>21 350</dd><dt id="campus">Campus</dt><dd>Bendigo</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Community planning and development is about shaping and working with cities, towns and rural areas to improve them physically, socially and economically. If you do not have formal planning qualifications, this course is designed to provide you with training in the discipline, creating a pathway into the profession. It emphasises contemporary issues such as change facilitation, sustainable development, climate change, planning for healthy communities, childrens environments, indigenous communities and water management within the context of a changing society in both urban and rural areas.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+303c229
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+305c231
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+307c233
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+309c235,237
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+311c239
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+315,336c243
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 70<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 70.60<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 7<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Indonesia (SMA) - 7.5<br />
+< Vietnam (Year 12) - 8<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">our website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/humanities/single-degrees/aba.htm"><span class="off-screen">Arts </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/humanities/rba.htm"><span class="off-screen">Arts </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/mildura/humanities/husbam.htm"><span class="off-screen">Arts </span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/shepparton/humanities/bebap.htm"><span class="off-screen">Arts </span>Shepparton</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/albury-wodonga/humanities/husbaw.htm"><span class="off-screen">Arts </span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Urban, Rural and Environmental Planning (057439J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>21 350</dd><dt id="campus">Campus</dt><dd>Bendigo</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Whether you want to reduce the traffic snarls in Jakarta, plan greener homes for London or map new ways for communities to grow closer to home, there are abundant work opportunities for planners around the world.<br />
+< <br />
+< This course, only one of two accredited undergraduate planning courses in Victoria, equips students with a fundamental understanding of the forces that shape society and the environment in order to make informed decisions about the layout and design of cities and towns, as well as sustainable management of resources.<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+338c245
+< You'll learn the history and theory of planning while also developing extensive practical skills in project management, urban design, communication, negotiation and development. Students are also actively involved in investigating how the urban form can be improved to embrace healthy urban design, child-friendly and active environments.<br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree or an approved international equivalent.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/bendigo/humanities/agccpd.htm"><span class="off-screen">Community Planning and Development (Graduate Certificate)</span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Community Planning and Development (064233J            )</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 750</dd><dt id="campus">Campus</dt><dd>Bendigo</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course will have you working with communities in urban, regional and rural areas, with community development planning agencies and in an international setting. You will also work with nongovernment organisations on rural and regional development issues, community development, healthy urban design, child friendly and active environments, land use planning and environmental and social policy at local, regional, national and international levels.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+340c247
+< You'll have opportunities to travel on a wide range of field trips both within Australia and internationally as part of your studies, learning best-practice planning first-hand from a wide range of communities.<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+342c249
+< Graduates are recognised as qualified planners by the Planning Institute of Australia. The current shortage of qualified planners in Australia means students can look forward to excellent work prospects and starting salaries.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+343a251
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+345c253,255
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+347c257
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+349,353c259
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+355c261
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+357c263
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree, or approved international equivalent, or approved relevant work experience.</dd><dt>Professional recognition</dt><dd>If you choose the urban and rural planning stream, you must take specific subjects to facilitate accreditation by the Planning Institute of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/bendigo/humanities/amcpd.htm"><span class="off-screen">Community Planning and Development (Master)</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Spatial Planning, Management and Design  (075398G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 750</dd><dt id="campus">Campus</dt><dd>Bendigo</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This unique planning course examines the management and governance of cities and towns, applied urban design including regional and rural settings, and issues faced by developing countries. It has a significant international component and is offered as part of a joint cross-cultural degree with the University of Moratuwa, Sri Lanka, where students can opt to undertake two semesters of study.<br />
+359c265
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> The curriculum aims to develop your planning skills and knowledge, with specific attention to management and design skills. It is also designed to help students understand other cultures, planning systems, and new problem-solving strategies; and to enable them to operate in diverse communities and environments.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+361,384c267
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM - Foundation Studies - 70<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 65.35<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 7<br />
+< HKDSE - 3x Level 4<br />
+< Sri Lankan A Levels - CCD<br />
+< STPM - 7<br />
+< MICSS (UEC) - 5.5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Additional costs</dt><dd>Students undertake fieldwork trips that incur some minor costs.</dd><dt>Additional information</dt><dd>The Academic Skills Unit at Bendigo offers you the opportunity to improve your language and learning skills. In particular, you are provided with help in your writing of essays and reports and your understanding of critical and analytical texts. The unit also offers specialist assistance in English as a second language (ESL). For further information please view <a href="http://www.latrobe.edu.au/asu">the website</a></dd><dt>Professional recognition</dt><dd>This course is accredited by the Planning Institute of Australia: one of only two accredited undergraduate planning courses in Victoria.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/humanities/abure.htm"><span class="off-screen">Urban, Rural and Environmental Planning </span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Diploma of Arts (075107B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>21 350</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Mildura, Shepparton</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This program offers an introduction to post-secondary study of humanities and<br />
+< social sciences with a wide choice of majors (depending on the campus of study). You'll learn in a supportive environment, with structured assistance throughout your studies. Once you've successfully completed the Diploma, you'll be eligible to enter the second year of La Trobe's Bachelor of Arts.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS UG (60%) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+386c269
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+388c271
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+390c273,275
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+392c277
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+396c281
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+398,406c283
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - n/a<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 50<br />
+< International Baccalaureate - 22<br />
+< GCE A Levels - 2<br />
+< All Indian Sen SC (Best 5 Subjects) - 50<br />
+< Vietnam (Year 12) - 6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Additional costs</dt><dd>Students choosing to study subjects in visual arts or graphic design may incur additional equipment costs. Students can purchase these items from any supplier; they remain students' personal property.</dd></dl></div></div></div>
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An undergraduate degree specialising in planning accredited by the Planning Institute of Australia; or relevant undergraduate degree or Postgraduate Diploma recognised by the University and accepted as a prelude to a planning program, with practical experience in planning or in a field relating to planning; or other accepted qualifications.</dd><dt>Professional recognition</dt><dd>This course has been granted interim accreditation by the Planning Institute of Australia.</dd></dl></div></div></div>
+409c286
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+412c289
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+423c300
+< <div id="related_study_options">
+---
+> <div id="study_options">
+436,438c313
+< <div id="other_ways_nest">
+< 
+< <div id="other_ways_ug">
+---
+> <div id="other_ways_pg">
+441,443c316
+< <h3>Other ways into undergraduate study</h3>
+< 
+< <p>Learn how you can <a href="http://www.latrobe.edu.au/humanities/study/pathways">plan a pathway</a> into your preferred degree, including <a href="http://www.latrobe.edu.au/humanities/study/pathways#singlesubject">single subject entry</a>. See also <a href="http://www.latrobe.edu.au/access/" target="_BLANK">La Trobe University Access and Equity programs</a> which support a variety of ways into undergraduate study for applicants who have experienced educational disadvantage.</p>
+---
+> <h3>Other ways into postgraduate study</h3>
+445,456c318
+< </div>
+< 
+< </div>
+< 
+< <div id="new_div_177946">
+< <h3>Professional practice<br /></h3>
+< 
+< <p>The course includes site visits, field trips and assignments that are related to practical situations found in urban, rural and environmental planning. Students are required to participate in projects negotiated with workplaces such as local governments and to prepare material for public presentations. This experience is further developed with work experience placements in the third and fourth years.</p>
+< 
+< </div>
+< <div class="webmedia">
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+---
+> <p>Contact&nbsp;the <a href="http://www.latrobe.edu.au/humanities/contact-us">faculty office</a> to find out about other ways into postgraduate study.</p>
+458,491d319
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:04:51',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/v4YVFlinders.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/v4YVFlinders.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video901.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'v901', 'name':'901'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v901', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< <h2 class="video-title">Planning students visit Flinders Island</h2>
+< 
+< 
+< <div id="v901">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video901.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/CoTMFlinders.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< 
+< </div>
+< 
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/CoTMFlinders.mp4"><span
+< class="off-screen">Planning students visit Flinders Island</span> MP4 [28.37 MB]</a></li>
+< 
+< <li><a href='https://webstat.latrobe.edu.au/webmedia/media/zqkZFlinders.mp3'><span class='off-screen'>Planning students visit Flinders Island</span> MP3 [4.44 MB]</a></li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/AWCKFlinders-trans.docx"><span class="off-screen transcript-link">Planning students visit Flinders Island</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=901"><span class="off-screen">Planning students visit Flinders Island</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?901">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+< </div>
+497c325
+< <p>There are many opportunities for La Trobe students to study overseas. Students from overseas can come to La Trobe and do a short term Study Abroad program. Some short courses are also available to international students. Short courses are also available to international students. Visit International Students for more information.</p>
+---
+> <p>There are many opportunities for La Trobe students to study overseas. Students from overseas can come to La Trobe and do a short term Study Abroad program. Some short courses are also available to international students.&nbsp; Short courses are also available to international students. Visit International Students for more information.<br /></p>

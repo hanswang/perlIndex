@@ -1,0 +1,702 @@
+20c20
+< <meta name="Campus" content="Campuses,Melbourne,Bendigo" />
+---
+> <meta name="Campus" content="Campuses,Melbourne,Franklin Street" />
+26c26
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+31,32c31,32
+< <meta name="description" content="Whether you wish to work in legal practice or beyond, an undergraduate degree in law at La Trobe University will provide you with the necessary foundations to develop your analytical, problem-solving and critical research skills. Choose from eleven professionally accredited law programs." />
+< <meta name="keywords" content="law, legal, double degree, accredited, undergraduate, bachelor, Honours, law school" />
+---
+> <meta name="description" content="Postgraduate law programs are offered to law and non-law graduates. Choose from three main specialisations: global business law, commercial law or public interest law." />
+> <meta name="keywords" content="postgraduate, law, legal, global business law, commercial law, public interest law, coursework" />
+42c42
+< <!-- 88884 -->
+---
+> <!-- 89014 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/law"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/law/postgraduate"/>		
+74c74
+<   Page generated: 11 November 2013 04:11:56
+---
+>   Page generated: 11 November 2013 10:58:43
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/law">Law</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/law">Law</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/law/postgraduate">Postgraduate</a></div>
+150c150
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/law">Undergraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/law">Undergraduate</a></li>
+152c152
+<   <li><a href="http://www.latrobe.edu.au/courses/law/postgraduate">Postgraduate</a></li>
+---
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/law/postgraduate">Postgraduate</a></li>
+158d157
+< 
+161,164c160
+<   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0018/120168/law-ug.jpg" width="250" height="166" alt="law" title="law-ug" />Why study Law?</h2>
+< 
+<   <p>We offer an innovative and high-quality legal education. There is a strong commitment to social justice, interdisciplinary enquiry, an international perspective and practical experience that links learning with legal practice. You will be prepared for employment in a global legal economy. Study the law in its broad social, political and economic context. Develop analytical, problem-solving and critical research skills. Choose from eleven professionally accredited law programs, with nine leading to double degrees. Top students can go on to do an Honours year. This involves close supervision, access to a research and writing skills program, and a 10,000 word thesis.</p>
+< </div>
+---
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0017/120167/law-pg.jpg" width="250" height="166" alt="law" title="law-pg" />Why study Law?</h2>
+166c162
+< </div>
+---
+>   <p>We offer law programs for law and non-law graduates to develop their knowledge and skills in specific and general areas. There are three areas of specialisation: Global Business Law, Fraud Investigation and Public Interest Law.</p>
+168,169c164
+< <div id="intro_txt_2">
+< <h2>Career opportunities</h2>
+---
+>   <p><strong>Global Business Law&nbsp;</strong></p>
+171c166
+< <p>Graduates can work in legal practice and beyond. Roles include solicitor, barrister, judge&#39;s associate, litigation manager, patent attorney, law librarian, lecturer, equal opportunities officer, intelligence analyst, industrial relations officer, immigration officer, taxation officer, ministerial, legal or policy adviser, and in dispute resolution and compliance.</p>
+---
+>   <p>Global Business Law develops your knowledge of American, European and Asian-Pacific business law. It is taught by some of the world’s leading academics and commercial practitioners.</p>
+173c168
+< <p><a href="http://www.latrobe.edu.au/students/careers/career-planning">Visit our Career Development Centre website and start planning your career</a>.&nbsp;</p>
+---
+>   <p><strong>Public Interest Law&nbsp;</strong></p>
+175c170
+< <p>&nbsp;</p>
+---
+>   <p>Public Interest Law studies the intersection between law and the public interest. It explores a range of public interest topics like the environment, inquests, inquiries and commissions, health regulation, disability and human rights. Many subjects are available as separate professional development units.</p>
+177c172
+< </div>
+---
+>   <p><strong>Fraud Investigation</strong></p>
+179,180c174
+< <div id="new_div_261857">
+< <h2>Mid-year entry – Bendigo Campus</h2>
+---
+>   <p>The unique Fraud Investigation program have been developed as a joint initiative of the School of Law and the Major Fraud Investigation Division (Victoria Police). They have input from experienced lawyers as well as members of major chartered accounting firms.</p>
+182c176
+< <p>Mid-year entry to law courses at La Trobe’s Bendigo Campus require attendance at one foundational law class at La Trobe’s Melbourne campus. Full details will be provided upon enrolment.</p>
+---
+>   <p>The program is practically oriented, incorporating case studies, scenarios and practical training and is taught by experienced professionals.</p>
+184,185c178
+< <div>
+<   <br />
+---
+>   <p>&nbsp;</p>
+188c181
+< <h2>All mid-year and direct applications</h2>
+---
+> </div>
+190c183,184
+< <p>All direct applications must be accompanied by a personal statement addressing work experience, community involvement, personal circumstances and accomplishments and career goals.&nbsp;</p>
+---
+> <div id="intro_txt_2">
+> <h2>Career opportunities</h2>
+192,194c186
+< <div>
+<   <br />
+< </div>
+---
+> <p>Global business law and commercial law graduates can build careers in the legal profession, politics, business and commerce, government service, public administration and academia. Public interest law graduates&nbsp;find opportunities in pro bono or public interest practice, regulatory agencies, community legal centres, legal aid agencies and as policy makers. Graduates of our Fraud Investigation programs will be able to bring these keys skills to large and complex organisations in the public and private sectors, including, banking, legal and accounting firms.</p>
+201,257c193
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent  </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar">93.05</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is designed for school leavers and tertiary students who have not yet completed an undergraduate degree.<br />
+< It is an accredited professional qualification in law, but also requires students to complete subjects in another non-law discipline, for example, science, media or marketing, without having to complete a separate degree in that discipline. The program offers you an innovative, high-quality legal education with a strong global and social justice perspective and emphasis on practical experience. It includes all the compulsory subjects required for admission to practice law in Victoria. You can choose from a broad range of electives, many with a practical skills component, for example: Clinical Legal Education, International Advocacy, Mediation and Negotiation.<br />
+< <br />
+< Students commencing their studies at Bendigo normally transfer to Melbourne after two years of study where they complete the remainder of their course(this is only available to local students). However, students who wish to remain in Bendigo are offered the ability to complete their later year core law subjects and a limited number of law electives through blended learning/video conferencing.<br />
+< <br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 35 in English (ESL) or 30 in English (any other).<br /></dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Consideration is given to performance in prerequisite studies and humanities (any), and to Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practise. Admission to practise as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lvlue.htm"><span class="off-screen">Laws (Undergraduate Entry)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lvlueb.htm"><span class="off-screen">Laws (Undergraduate Entry)</span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws/Bachelor of Accounting</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">93.05</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This program offers an innovative, high-quality legal education with a strong global and social justice perspective and a real emphasis on hands-on experiences. It includes all the compulsory law subjects required by the Council of Legal Education for admission to practice in Victoria and a wide range of electives. The course also includes compulsory specialised subjects relevant to business such as Banking and Finance Law and Competition Policy and Law. See the Bachelor of Laws (Undergraduate Entry) for details on the law component<br />
+< <br />
+< The accounting component aims to provide a professional accounting qualification comprising the skills and knowledge for accounting practice and management of large and small enterprises in the government and private sectors. Electives are available in a range of areas including financial management, financial planning, and management.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 35 in English (ESL) or 30 in English (any) .</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> detailing prior educational experience and reasons for interest in the course.<br />
+< <br />
+< Selection may also be based on ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Consideration is given to performance in prerequisite studies, Business Studies (any) and Humanities (any), and Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).Successful completion of the appropriate choice of subjects qualifies graduates for membership of the following professional accounting bodies: CA Australia, Institute of Chartered Accountants in Australia (ICAA), National Institute of Public Accountants (IPA), and the Association of Chartered Certified Accountants (ACCA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlac.htm
+< "><span class="off-screen">Laws/Accounting</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws/Bachelor of Arts</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar">93</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree allows you to combine an innovative, high-quality legal education with a solid grounding in the humanities. You'll gain a strong global and social justice perspective with a real emphasis on hands-on experiences. You'll study all the compulsory law subjects required for admission to practise law in Victoria. You'll also be able to choose from a wide range of law electives, many with a practical skills component. See the Bachelor of Laws for details on the law component.<br />
+< <br />
+< You can select a major from a wide range of disciplines offered by the Faculty of Humanities and Social Sciences, including languages and the performing arts. You can also choose to complete law electives that complement your arts specialisation.<br />
+< <br />
+< Students commencing their studies at Bendigo normally transfer to Melbourne after two full-time years of study where they complete the remainder of their course (this is only available to local students). However, students who wish to remain in Bendigo are offered the ability to complete their later year core law subjects and a limited number of law electives through blended learning/video conferencing.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 35 in English (ESL) or 30 in any other English</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Consideration is given to study scores in prerequisite studies and in Classical Societies and Cultures, History (any), International Politics, International Studies, Literature, LOTE (any), and International Politics.<br />
+< <br />
+< Consideration is given to Special Entry Access Scheme (SEAS) criteria. In addition, a <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practise as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlat.htm
+< "><span class="off-screen">Laws/Arts </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lwlatb.htm
+< "><span class="off-screen">Laws/Arts </span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws/Bachelor of Business</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar">93.15</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Bachelor of Laws/Bachelor of Business provides an accredited professional qualification in law as well as a degree in business. You'll gain an innovative, high-quality legal education with a strong global and social justice perspective and a real emphasis on hands-on experiences. The course includes all the compulsory law subjects required for admission to practise law in Victoria. You'll also choose from a wide range of law electives, including subjects complementary to business such as banking and finance law, income taxation law and global business law.<br />
+< <br />
+< The degree allows you to complete a major in business, economics, financial management, financial planning, human resource management, macroeconomics, management information systems, international management, management or marketing. See individual course entries for more details.<br />
+< <br />
+< Please note: if you commence your studies at Bendigo, you'll normally transfer to Melbourne after two years of full-time study, where you'll complete the remainder of your course.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 35 in English (ESL) or 30 in any other English.<br /></dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a VTAC Personal History online for other information to be considered during the selection process, e.g. details on work experience or reason for applying.</dd><dt>Middle band</dt><dd>Re-ranking is based on results in prerequisite studies, Business (any), and Humanities (any). A <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Additional information</dt><dd>Please note: Bendigo students normally transfer to Melbourne after two years of full-time study. However, students who wish to remain in Bendigo are offered the ability to complete their later year core subjects and some electives through e-learning and/or intensive courses. Bendigo students who want to major in accounting can apply to transfer into the Bachelor of Laws/Bachelor of Accounting at Melbourne.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practise as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).<br />
+< <br />
+< Graduates with a marketing major are eligible for associate membership of the Australian Marketing Institute or the Australian Market and Social Research Society. Graduates with a human resource management major are eligible for admission to the Australian Human Resource Institute (subject to relevant work experience).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlbus.htm
+< "><span class="off-screen">Laws/Business</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lwlbusb.htm
+< "><span class="off-screen">Laws/Business</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws/Bachelor of Economics</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">94.55</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree offers an innovative, high-quality legal education alongside a core foundation in economics, enabling you to pursue a variety of careers in legal and business environments. With a strong global and social justice perspective and a real emphasis on hands-on experiences, the course includes all the compulsory law subjects required for admission to practice in Victoria. You'll also be able to choose from a wide range of law electives, many with a practical skills component. See the Bachelor of Laws for details on the law component. The economics component includes compulsory specialised subjects relevant such as Banking and Finance Law, Competition Law and Policy, or an approved subject from the Master of Laws in Global Business Law. See the Bachelor of Economics for more details.</dd><dt>Prerequisite</dt><dd>VCE Unit 3 and 4: study score of at least 35 in English (ESL) or 30 in any other English, and at least 20 in Mathematics (any).</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Consideration is given to study scores in prerequisite studies, Business (any) and Humanities (any).</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practise as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).<br />
+< <br />
+< The appropriate choice of subjects in the Bachelor of Economics can lead to membership of the Australasian Institute of Banking and Finance.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlec.htm
+< "><span class="off-screen">Laws/Economics</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws/Bachelor of Finance</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">95.2</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This five-year combined degree provides an accredited professional qualification in law, as well as a degree in finance, giving you the skills to pursue lucrative opportunities where these areas intersect. The course includes all the compulsory law subjects for admission to practise law in Victoria, as well as and specialised finance subjects such as Banking and Finance Law, Competition Law and Policy or an approved subject from the Master of Laws in Global Business Law.<br />
+< <br />
+< In the finance component, you'll study four major areas: corporate finance, international finance, investment and portfolio management and risk management, giving you a strong grounding in financial skills and knowledge.<br />
+< See individual course entries for further details.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 35 in English (ESL) or 30 in any other English, and at least 20 in Mathematics (any).</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Consideration is given to study scores achieved in prerequisite studies, Business (any), and Humanities (any).</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practise as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria). The appropriate choice of subjects in the Bachelor of Finance can lead to membership of the Financial Services Institute of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlfi.htm
+< "><span class="off-screen">Laws/Finance </span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws/Bachelor of International Relations </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">93.15</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This combined degree provides complementary studies in the fields of law and international relations. You'll gain the skills to work with and for prominent organisations within international politics or as a lawyer in the public, private or community sector.<br />
+< <br />
+< The course includes subjects on key issues of international relations, such as Human Rights Law, Public International Law and Organised and International Crime. You'll also study core subjects in politics and international public policy, and gain the professional competency needed to transition to the workplace. You may also choose to complement your studies with subjects from other disciplines, including economics, history, sociology, anthropology and sociology. See individual course entries for more details.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 35 in English (ESL) or 30 in any other English.<br />
+< <br /></dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Consideration is given to performance in prerequisite studies and Humanities (any), and to Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practise as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlint.htm
+< "><span class="off-screen">Laws/International Relations </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws/Bachelor of Media</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Combining an accredited professional qualification in law with studies in media, this recently revised double degree offers an innovative, high quality legal education with a strong global and social justice perspective and a real emphasis on hands-on experience. It includes all the compulsory law subjects required by the Council of Legal Education for admission to practice in Victoria, compulsory specialised subjects relevant to media such as Intellectual Property Law and a wide range of law electives, many with a practical skills component. See the Bachelor of Laws (Undergraduate Entry) for details on the law component.<br />
+< <br />
+< The Bachelor of Media offers you a flexible and forward-looking approach to the converging fields of film, radio, television and new media. In core subjects you will develop strong foundations in the creative use of media, gain a critical understanding of the role of media in social and cultural life and knowledge of the operation and regulation of the media. You will develop skills in collaborative productions for small and big screens, radio and audio design and digital media.<br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 35 in English (ESL) or 30 in any other English.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> detailing prior educational experience and reasons for interest in the course.</dd><dt>Middle band</dt><dd>Consideration is given to performance in prerequisite studies and Humanities (any), and to Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlme.htm"><span class="off-screen">Laws/Media Studies</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws/ Bachelor of Psychological Science  </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar">94.5</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree aims to prepare you for a career in the law, psychology or mental health fields, and the fascinating area where these disciplines intersect. You'll choose from a wide range of law electives, many with a practical skills component, and compulsory specialised law subjects relevant to psychology, such as Mental Disorder and Criminal Responsibility.<br />
+< <br />
+< The Bachelor of Psychological Science aims to provide students with broad knowledge and skills in psychology as well as biological and social aspects of behaviour. Note that this course does not qualify graduates for registration to work as a psychologist - you'll also need to complete specific postgraduate studies. See individual course entries for more details.<br />
+< <br />
+< Students commencing their studies at Bendigo normally transfer to Melbourne after two years of study where they complete the remainder of their course (this is only available to local students). However, students who wish to remain in Bendigo are offered the ability to complete their later year core law subjects and a limited number of law electives through blended learning/video conferencing.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 30 in English (any)</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Consideration is given to study scores in prerequisite studies, Humanities (any) Biology, Psychology, and to Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practise as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an<br />
+< approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria). Eligibility for membership of Australian Psychological Society and Victorian registration as a psychologist requires at least two more years study beyond fourth year, such as a Master of Psychology or a Doctor of Psychology professional training program.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlps.htm"><span class="off-screen">Laws/Psychological Science </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lwlpsb.htm"><span class="off-screen">Laws/Psychological Science </span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws/Bachelor of Science</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar">93.1</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Combined expertise in law and a specific science discipline is likely to give you outstanding career options across many fields, including policy development, regulatory affairs, environmentalprotection, patents, and the expanding field of scientific/industrial ethics. This double degree offers an accredited law qualification (see the Bachelor of Laws for details) that includes science-related electives like Intellectual Property Law and Law and Medicine. You can also choose from specialisations in chemistry, computer science, electronics, genetics, psychology, and mathematics. See individual course entries for more details.<br />
+< <br />
+< Please note: if you commence your studies at Bendigo, you'll normally transfer to Melbourne after two years of full-time study, where you'll complete the remainder of your course. However, if you wish to remain in Bendigo you'll be able to complete your later year core law subjects and a limited number of law electives through blended learning/video conferencing.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study scores of at least 35 in English (ESL) or 30 in English (any other) and at least 30 in either Mathematical Methods or Specialist Mathematics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Consideration is given to study scores in prerequisite studies, Chemistry, Physics, and Humanities (any). Consideration is also given to Special Entry Access Scheme (SEAS) criteria. A <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Costs</dt><dd>Depending on subjects, approximate costs include: laboratory coat - A$30, dissecting kit - A$40. Students can purchase these items from any supplier; they remain students' personal property. </dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practise as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria). Science graduates can apply for membership of professional associations as determined by their major studies.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlsc.htm"><span class="off-screen">Laws/Science</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lwlscb.htm"><span class="off-screen">Laws/Science</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws (Graduate Entry)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Designed especially for people with existing degrees, this course offers a high quality professionally-accredited legal qualification with a strong global and social justice perspective. It had a real emphasis on practical experience and offers a broad range of electives, many with a practical skills component such as Clinical Legal Education, International Advocacy, and Mediation and Negotiation.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Diploma in Law </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows graduates from any discipline to undertake studies in law, conflict resolution, global business law and public interest law. It will appeal to non-lawyers seeking legal skills in a specific area, but who do not wish to complete a Bachelor of Laws and seek admission to practice. It may also be used by overseas lawyers as a vehicle for admission to practice in Victoria. See Special Requirements.<br />
+259,265c195,198
+< Students commencing their studies at Bendigo normally transfer to Melbourne after two full-time years of study where they complete the remainder of their course (this is only available to local students). However, students who wish to remain in Bendigo are offered the ability to complete their later year core law subjects and a limited number of law electives through blended learning/video conferencing.<br />
+< <br />
+< You can also access subjects from the Master of Laws in Global Business Law taught by some of the world's leading scholars and practitioners. These are offered in block release mode in summer and winter school, outside standard University semester dates.</dd><dt>Prerequisite</dt><dd>Successful completion of an Australian Bachelor's degree or equivalent. Applicants who have completed an undergraduate degree in a language other than English must submit an IELTS (or equivalent) test result with a minimum overall band score of 6.5 with no individual score less than 6.0.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Selection based on prior studies/experience.<br />
+< <br />
+< Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< <br />
+< Some applicants only: applicants who have completed a degree in a language other than English must submit a certified hardcopy of their IELTS (or equivalent) test results to VTAC by 13 December.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practise as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lvlge.htm "><span class="off-screen">Laws (Graduate Entry)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lvlge.htm "><span class="off-screen">Laws (Graduate Entry)</span>Bendigo</a></dd></dl></div></div></div>
+---
+> While the course is not intended to provide an entry point to the Bachelor of Laws or higher degree studies, students who later transfer to the law program generally receive Advanced Standing (credit) previous law subjects.</dd><dt>Prerequisite</dt><dd>Australian Bachelor's degree or an approved international equivalent.</dd><dt>Fee amount</dt><dd>Indicative (2012): $21,790 per 120 credit points. </dd><dt>Additional information</dt><dd>Students who commence in February with no prior LLB studies must enrol in the subject Legal Institutions and Methods (LAW1LIM). Students who commence in July with no prior LLB studies must enrol in the subject Common Law and the Australian Legal System(LAW5CLM) which is run in a five-day block release mode.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/law/lgl.htm"><span class="off-screen">Law (Graduate Diploma)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Commercial Law</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Master of Commercial Law is open to graduates from any non-law discipline. Corporations increasingly require an understanding of commercial law issues, in preparation for a career in an international business or a legal environment. Students may study in subject areas of global interest, including international business and arbitration law, and US business and corporations law.</dd><dt>Prerequisite</dt><dd>Applicants must have completed a four-year non-law undergraduate degree or international equivalent and satisfy the minimum English language proficiency requirements.</dd><dt>Fee amount</dt><dd>Indicative (2013): $24 070 for 120 credit points.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> to the University for mid-year entry. Applications close on Friday 12 July.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/law/master-of-commercial-law.htm"><span class="off-screen">Commercial Law (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of International Business and Law</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full time or 2 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The current global economy requires people with a legal background to have an understanding of business. This course aims to provide an understanding of the links between major business functions and the legal framework, and prepare students for careers in the international business and legal environment.</dd><dt>Prerequisite</dt><dd>Australian Bachelor of Laws or approved international equivalent.<br /></dd><dt>Fee amount</dt><dd>Indicative (2012): $22,290 per 120 credit points. <br />
+> </dd><dt>Additional information</dt><dd>Subjects are offered in five-day block release mode between teaching period one and teaching period two (June-July) and over summer (Dec-Feb); and are normally assessed by a month-long take-home exam. The International Business program runs during teaching period one (Feb-May) and teaching period two (July-October). The University normally offers an introductory program in teaching period one to assist transition to postgraduate studies.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/law/lmibl.htm"><span class="off-screen">International Business and Law - Master</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Laws in Global Business Law</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to explore key issues and challenges in commercial law and practice in areas of global interest. Youll be taught by some of the worlds leading academics and practitioners. The broad range of offerings<br />
+> will build on your knowledge and skills in an existing area of interest or specialisation, such as Asian or US law, or move into an international<br />
+> business environment for the first time.</dd><dt>Prerequisite</dt><dd>Australian Bachelor of Laws or international equivalent, or full membership of the Institute of Chartered Accountants Australia and CPA Australia, or progression from the Graduate Certificate in Global Business Law with appropriate grade average.</dd><dt>Fee amount</dt><dd>Indicative (2012): $22,290 per 120 credit points. </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/law/lmlgbl.htm"><span class="off-screen">Laws in Global Business Law (Master)</span>Melbourne</a></dd></dl></div></div></div>
+268,269c201,202
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+271c204
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+275c208
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+277c210
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+282,283c215,216
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws  (075236D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>23 510</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is designed for school leavers and tertiary students who have not yet completed an undergraduate degree.<br />
+< It is an accredited professional qualification in law, but also requires students to complete subjects in another non-law discipline, for example, science, media or marketing, without having to complete a separate degree in that discipline. The program offers you an innovative, high-quality legal education with a strong global and social justice perspective and emphasis on practical experience. It includes all the compulsory subjects required for admission to practice law in Victoria. You can choose from a broad range of electives, many with a practical skills component, for example: Clinical Legal Education, International Advocacy, Mediation and Negotiation.<br />
+---
+> <h3 class="accordion-title">2013 - Mid year entry</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Graduate Certificate in Global Business Law (059370J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>6 months</dd><dt>Semester starts :</dt><dd>January, June, December</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2013</dd><dt>Course description</dt><dd>This program offers law graduates and certified practising accountants the opportunity to study commercial law in areas of global interest, taught by some of the world's leading academics and commercial practitioners. An extensive range of subjects in US, European and Asian law prepares graduates for a career in an international business and legal environment.</dd><dt>English Language Requirements</dt><dd><br />
+> IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+285,286c218
+< Students commencing their studies at Bendigo normally transfer to Melbourne after two years of study where they complete the remainder of their course(this is only available to local students). However, students who wish to remain in Bendigo are offered the ability to complete their later year core law subjects and a limited number of law electives through blended learning/video conferencing.<br />
+< <br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written<br />
+288c220
+< TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+---
+> English).<br />
+292,302c224
+< La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted.<br />
+< Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+< for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage<br />
+304c226
+< Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+---
+> 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information<br />
+306,335c228,229
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 95<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - Melbourne: 93.05<br />
+< International Baccalaureate - 34<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - not eligible<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).<br />
+< International applicants are advised to obtain assurance of recognition of the course by relevant professional bodies in their preferred country of practice.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lvlue.htm"><span class="off-screen">Laws (Undergraduate Entry)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lvlueb.htm"><span class="off-screen">Laws (Undergraduate Entry)</span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws/Bachelor of Accounting (075233G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This program offers an innovative, high-quality legal education with a strong global and social justice perspective and a real emphasis on hands-on experiences. It includes all the compulsory law subjects required by the Council of Legal Education for admission to practice in Victoria and a wide range of electives. The course also includes compulsory specialised subjects relevant to business such as Banking and Finance Law and Competition Policy and Law. See the Bachelor of Laws (Undergraduate Entry) for details on the law component<br />
+< <br />
+< The accounting component aims to provide a professional accounting qualification comprising the skills and knowledge for accounting practice and management of large and small enterprises in the government and private sectors. Electives are available in a range of areas including financial management, financial planning, and management.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+< <br />
+< TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+< <br />
+< TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+< <br />
+< La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+---
+> please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne<br />
+> <br /></a> website.<br />
+338,339c232
+< Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+< for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> Please note: English as the language of instruction in previous study will not be<br />
+341c234,235
+< Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+---
+> accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no<br />
+343,345c237
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+---
+> band score lower than 6.0.<br />
+347,363c239
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 95<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 93.05<br />
+< International Baccalaureate - 34<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - not eligible<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative<br />
+365,386c241
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Additional information</dt><dd>Applicants should seek assurance of recognition of the course by relevant professional bodies in their country of intended practice.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).<br />
+< <br />
+< Successful completion of the appropriate choice of subjects qualifies graduates for membership of the following professional accounting bodies: CA Australia, Institute of Chartered Accountants in Australia (ICAA), National Institute of Public Accountants (IPA), and the Association of Chartered Certified Accountants (ACCA).<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlac.htm
+< "><span class="off-screen">Laws/Accounting</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws/Bachelor of Arts (075232G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree allows you to combine an innovative, high-quality legal education with a solid grounding in the humanities. You'll gain a strong global and social justice perspective with a real emphasis on hands-on experiences. You'll study all the compulsory law subjects required for admission to practise law in Victoria. You'll also be able to choose from a wide range of law electives, many with a practical skills component. See the Bachelor of Laws for details on the law component.<br />
+< <br />
+< You can select a major from a wide range of disciplines offered by the Faculty of Humanities and Social Sciences, including languages and the performing arts. You can also choose to complete law electives that complement your arts specialisation.<br />
+< <br />
+< Students commencing their studies at Bendigo normally transfer to Melbourne after two full-time years of study where they complete the remainder of their course (this is only available to local students). However, students who wish to remain in Bendigo are offered the ability to complete their later year core law subjects and a limited number of law electives through blended learning/video conferencing.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+< <br />
+< TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+< <br />
+< TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+< <br />
+< La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted.<br />
+< Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+< for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+---
+> skill score less than 59.<br />
+392,416c247
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 95<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 93<br />
+< International Baccalaureate - 34<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - not eligible<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Additional information</dt><dd>The relevant visa is required to complete a supervised workplace traineeship in Australia. Graduates should seek assurance or recognition of the course by relevant professional bodies in their preferred country of practice.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlat.htm
+< "><span class="off-screen">Laws/Arts </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lwlatb.htm
+< "><span class="off-screen">Laws/Arts </span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws/Bachelor of Business (075229C)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-3"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Bachelor of Laws/Bachelor of Business provides an accredited professional qualification in law as well as a degree in business. You'll gain an innovative, high-quality legal education with a strong global and social justice perspective and a real emphasis on hands-on experiences. The course includes all the compulsory law subjects required for admission to practise law in Victoria. You'll also choose from a wide range of law electives, including subjects complementary to business such as banking and finance law, income taxation law and global business law.<br />
+< <br />
+< The degree allows you to complete a major in business, economics, financial management, financial planning, human resource management, macroeconomics, management information systems, international management, management or marketing. See individual course entries for more details.<br />
+< <br />
+< Please note: if you commence your studies at Bendigo, you'll normally transfer to Melbourne after two years of full-time study, where you'll complete the remainder of your course.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor of Laws or approved international equivalent, or full membership of the Institute of Chartered Accountants Australia (ICAA) and the CPA (the professional body for Certified Practising Accountants in Australia).</dd><dt>Additional information</dt><dd>This course has intakes in January, June and December (depending on the subjects chosen). All subjects in this program are offered in five-day block release mode: normally between teaching period one and Australian winter teaching period (June to July) and over summer (December to February) so students should time their arrival date accordingly.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/law/lcgbl.htm"><span class="off-screen">Global Business Law (Graduate Certificate)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Global Business Law (059365F)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>January, June, December</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-3"><dl class="course-summary"><dt>Year</dt><dd>2013</dd><dt>Course description</dt><dd>Globalisation increasingly requires people with business and other backgrounds to have an understanding of commercial law issues. This program presents an opportunity for non-lawyers to be equipped with an understanding of domestic and international commercial law in preparation for a career in an international business and legal environment. Students study in subject areas of global interest, including international business and arbitration law, and US business and corporations law.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+424,425d254
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+< <br />
+436,459c265
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 95<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - Melbourne 93.15<br />
+< International Baccalaureate - 34<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - not eligible<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Additional information</dt><dd>The relevant visa is required to complete a supervised workplace traineeship in Australia. Graduates should seek assurance or recognition of the course by relevant professional bodies in their preferred country of practice.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).<br />
+< International graduates: the relevant visa is required to complete a supervised workplace traineeship in Australia. You should seek assurance of recognition of the course by relevant professional bodies in the country of intended practice.<br />
+< <br />
+< Graduates with a marketing major: associate membership of the Australian Marketing Institute or the Marketing Research Society of Australia. Graduates with a human resource management major: admission to the Australian Human Resource Institute (subject to relevant work experience).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlbus.htm
+< "><span class="off-screen">Laws/Business</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lwlbusb.htm
+< "><span class="off-screen">Laws/Business</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws/Bachelor of Economics (075230K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-4"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree offers an innovative, high-quality legal education alongside a core foundation in economics, enabling you to pursue a variety of careers in legal and business environments. With a strong global and social justice perspective and a real emphasis on hands-on experiences, the course includes all the compulsory law subjects required for admission to practice in Victoria. You'll also be able to choose from a wide range of law electives, many with a practical skills component. See the Bachelor of Laws for details on the law component. The economics component includes compulsory specialised subjects relevant such as Banking and Finance Law, Competition Law and Policy, or an approved subject from the Master of Laws in Global Business Law. See the Bachelor of Economics for more details.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree, or approved international equivalent. Applicants are also expected to have two years of professional experience, which might be demonstrated by full membership of the Institute of Chartered Accountants in Australia or CPA Australia.</dd><dt>Additional information</dt><dd>This course has intakes in January, June and December (the start date depends on the subjects chosen). All subjects in this program are offered in five-day block-release mode: normally between teaching period one and Australian winter teaching period one and Australian winter teaching period (June to July) and over summer (December to February) so students should time their arrival date accordingly.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/law/lmgb.htm"><span class="off-screen">Global Business Law (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Laws in Global Business Law (059366E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>January, June, December</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-5"><dl class="course-summary"><dt>Year</dt><dd>2013</dd><dt>Course description</dt><dd>This course presents an opportunity for law graduates and certified practising accountants to study commercial law in areas of global interest, taught by some of the worlds leading academics and commercial practitioners. An extensive range of subjects in US, European and Asian Law prepares graduates for a career in an international business and legal environment. Students may also take public interest law subjects (with approval).</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+467,468d272
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+< <br />
+479,495c283,284
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 95<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 94.55<br />
+< International Baccalaureate - 35<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - not eligible<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor of Laws degree or approved international equivalent, full membership of the Institute of Chartered Accountants in Australia and CPA Australia (the professional body for Certified Practising Accountants in Australia), or progression from the Graduate Certificate in Global Business Law with an appropriate grade average.</dd><dt>Additional information</dt><dd>All subjects in this program are offered in five-day block release mode: normally between teaching period one and Australian winter teaching period (June to July) and over summer (December to February) so students should time their arrival accordingly..</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/law/lmlgbl.htm"><span class="off-screen">Laws in Global Business Law (Master)</span>Melbourne</a></dd></dl></div></div></div>
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Graduate Diploma in Law  (061756F)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>23 300</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows graduates from any discipline to undertake studies in law, conflict resolution, global business law and public interest law. It will appeal to non-lawyers seeking legal skills in a specific area, but who do not wish to complete a Bachelor of Laws and seek admission to practice. It may also be used by overseas lawyers as a vehicle for admission to practice in Victoria. See Special Requirements.<br />
+497,501c286
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics equivalent to Australian VCE (Year 12) Units 3 &amp; 4 (any), with a minimum study score of 20.</dd><dt>Professional recognition</dt><dd>Law, business, economics, business economics, business models and forecasting, international trade and finance, macroeconomic analysis and policy, microeconomic analysis and policy, resource and environmental economics. International graduates would need the relevant visa to complete a supervised workplace traineeship in Australia. International applicants are advised to obtain assurance of recognition of the course by relevant professional bodies in their preferred country of practice. The appropriate choice of subjects in the Bachelor of Economics can lead to membership of the Australasian Institute of Banking and Finance.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlec.htm
+< "><span class="off-screen">Laws/Economics</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws/Bachelor of Finance (075228D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-5"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This five-year combined degree provides an accredited professional qualification in law, as well as a degree in finance, giving you the skills to pursue lucrative opportunities where these areas intersect. The course includes all the compulsory law subjects for admission to practise law in Victoria, as well as and specialised finance subjects such as Banking and Finance Law, Competition Law and Policy or an approved subject from the Master of Laws in Global Business Law.<br />
+< <br />
+< In the finance component, you'll study four major areas: corporate finance, international finance, investment and portfolio management and risk management, giving you a strong grounding in financial skills and knowledge.<br />
+< See individual course entries for further details.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> While the course is not intended to provide an entry point to the Bachelor of Laws or higher degree studies, students who later transfer to the law program generally receive Advanced Standing (credit) previous law subjects.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+509,510d293
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+< <br />
+521,542c304
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 95<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 95.20<br />
+< International Baccalaureate - 36<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - not eligible<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to VCE Units 3 &amp; 4 (any) with a minimum score of 20.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria). International graduates would need the relevant visa to complete a supervised workplace traineeship in Australia. International students are advised to obtain assurance of recognition of the course by relevant professional bodies in their preferred country of practice. International graduates would need the relevant visa to complete a supervised workplace traineeship in Australia. The appropriate choice of subjects in the Bachelor of Finance can lead to membership of the Financial Services Institute of Australasia (FINSIA).<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlfi.htm
+< "><span class="off-screen">Laws/Finance </span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws/Bachelor of International Relations  (075231J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-6"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This combined degree provides complementary studies in the fields of law and international relations. You'll gain the skills to work with and for prominent organisations within international politics or as a lawyer in the public, private or community sector.<br />
+< <br />
+< The course includes subjects on key issues of international relations, such as Human Rights Law, Public International Law and Organised and International Crime. You'll also study core subjects in politics and international public policy, and gain the professional competency needed to transition to the workplace. You may also choose to complement your studies with subjects from other disciplines, including economics, history, sociology, anthropology and sociology. See individual course entries for more details.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor degree or approved international equivalent.<br /></dd><dt>Additional information</dt><dd>Students who commence in March with no prior LLB studies must enrol in Legal Institutions and Methods; those who commence in July with no prior LLB studies must enrol in Common Law and the Australian Legal System, run in five-day block release model.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/law/lgl.htm"><span class="off-screen">Law (Graduate Diploma)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Commercial Law (059364G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>See additional information</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Master of Commercial Law is open to graduates from any non-law discipline. Corporations increasingly require an understanding of commercial law issues, in preparation for a career in an international business or a legal environment. Students may study in subject areas of global interest, including international business and arbitration law, and US business and corporations law.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+550,551d311
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+< <br />
+562,611c322
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 95<br />
+< Aust. Yr 12 (ATAR): 2013 (indicative only) - 93.15<br />
+< International Baccalaureate - 35<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - not eligible<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Additional information</dt><dd>International students are advised to obtain assurance of recognition of the course by relevant professional bodies in their preferred country of practice.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria). International graduates would need the relevant visa to complete a supervised workplace traineeship in Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlint.htm
+< "><span class="off-screen">Laws/International Relations </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws/Bachelor of Media (036246C)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 980</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-7"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Combining an accredited professional qualification in law with studies in media, this recently revised double degree offers an innovative, high quality legal education with a strong global and social justice perspective and a real emphasis on hands-on experience. It includes all the compulsory law subjects required by the Council of Legal Education for admission to practice in Victoria, compulsory specialised subjects relevant to media such as Intellectual Property Law and a wide range of law electives, many with a practical skills component. See the Bachelor of Laws (Undergraduate Entry) for details on the law component.<br />
+< <br />
+< The Bachelor of Media offers you a flexible and forward-looking approach to the converging fields of film, radio, television and new media. In core subjects you will develop strong foundations in the creative use of media, gain a critical understanding of the role of media in social and cultural life and knowledge of the operation and regulation of the media. You will develop skills in collaborative productions for small and big screens, radio and audio design and digital media.<br /></dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe University Language Centre; for more information please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0; or<br />
+< <br />
+< TOEFL Paper-based Test: a minimum score of 550 with a score of 5 or better in the Test of Written English; or<br />
+< <br />
+< TOEFL Computer-based Test: a minimum score of 213 with a score of 5 in essay writing; or<br />
+< <br />
+< TOEFL Internet-based Test: a minimum score of 80 with no individual score less than 20; or<br />
+< <br />
+< Satisfactory completion of an English language subject at Year 12 or equivalent level. This must have been completed in the past two years and at an academic level acceptable to the University; or<br />
+< <br />
+< Approved equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 70<br />
+< Aust. Yr 12 (ATAR) 2011 (indicative only) - 76<br />
+< International Baccalaureate - 28<br />
+< GCE A Levels - 9<br />
+< Hong Kong A Levels - 7<br />
+< HKDSE - 8,4<br />
+< Sri Lankan A Levels - BCC<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 3A 3B<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 70<br />
+< Vietnam (Year 12) - 8<br />
+< Thailand (Matayoma 6) - GPA 2.8<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements<br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>Applicants must have completed a four year non-law undergraduate degree or international equivalent and satisfy the minimum English language proficiency requirements.</dd><dt>Additional information</dt><dd>All subjects in this program are offered in Semester 1, Semester 2, and September, in five-day block release mode usually between teaching period one and teaching period two (June to July), and over summer (December-February), so students should plan their arrival accordingly.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/law/master-of-commercial-law.htm"><span class="off-screen">Commercial Law (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of International Business and Law (054163A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>27 620</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-4"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The current global economy requires people with a legal background to have an understanding of business. This course aims to provide an understanding of the links between major business functions and the legal framework, and prepare students for careers in the international business and legal environment.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) - minimum overall band score of 6.5 with no individual band score less than 6.0; or<br />
+613c324
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Additional information</dt><dd>The relevant visa is required to complete a supervised traineeship in Australia. You are advised to obtain assurance of recognition of the course by relevant professional bodies in your preferred country of practice.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria). International graduates would need the relevant visa to complete a supervised workplace traineeship in Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlme.htm"><span class="off-screen">Laws/Media Studies</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws/ Bachelor of Psychological Science   (075227E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 420</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-8"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree aims to prepare you for a career in the law, psychology or mental health fields, and the fascinating area where these disciplines intersect. You'll choose from a wide range of law electives, many with a practical skills component, and compulsory specialised law subjects relevant to psychology, such as Mental Disorder and Criminal Responsibility.<br />
+---
+> TOEFL Computer-Based Test - A minimum score of 233 with a score of 5 in essay writing; or<br />
+615c326
+< The Bachelor of Psychological Science aims to provide students with broad knowledge and skills in psychology as well as biological and social aspects of behaviour. Note that this course does not qualify graduates for registration to work as a psychologist - you'll also need to complete specific postgraduate studies. See individual course entries for more details.<br />
+---
+> TOEFL Paper-based Test - A minimum score of 575 with a score of 5 or more in the test of Written English; or<br />
+617c328
+< Students commencing their studies at Bendigo normally transfer to Melbourne after two years of study where they complete the remainder of their course (this is only available to local students). However, students who wish to remain in Bendigo are offered the ability to complete their later year core law subjects and a limited number of law electives through blended learning/video conferencing.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> TOEFL Internet-based Test - A minimum score of 88 with no individual score less than 22; or<br />
+619c330
+< TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+---
+> Completion of the English for Further Studies Advanced Stage 5B certificate at PG (postgraduate) level available from La Trobe Melbourne; or<br />
+621c332,333
+< TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+---
+> Approved equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor of Laws degree or approved international equivalent.<br />
+> <br /></dd><dt>Additional information</dt><dd>Subjects in the Global Business Law program are offered in five-day block release mode between teaching periods one and Australian winter teaching period (June to July) and over summer (December-February) so students should time their arrival accordingly.<br />
+623,658c335,337
+< La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted.<br />
+< Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+< for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+< <br />
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 95<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 94.5<br />
+< International Baccalaureate - 35<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - not eligible<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Australian VCE Units 3 and 4, a study score of at least 35 in English (ESL) or 30 in any other English.</dd><dt>Additional information</dt><dd>International students are advised to obtain assurance of recognition of the course by relevant professional bodies in their preferred country of practice.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).<br />
+< Graduates can complete a suitable fourth-year program (e.g. Honours) to qualify for associate membership of the Australian Psychological Society (APS), such as specialised Postgraduate Diploma courses. Eligibility for membership of the APS and for Victorian registration as a psychologist require at least two more years of appropriate study beyond fourth year, such as a Master's or Doctorate in psychology.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlps.htm"><span class="off-screen">Laws/Psychological Science </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lwlpsb.htm"><span class="off-screen">Laws/Psychological Science </span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws/Bachelor of Science (075226F)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 420</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-9"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Combined expertise in law and a specific science discipline is likely to give you outstanding career options across many fields, including policy development, regulatory affairs, environmentalprotection, patents, and the expanding field of scientific/industrial ethics. This double degree offers an accredited law qualification (see the Bachelor of Laws for details) that includes science-related electives like Intellectual Property Law and Law and Medicine. You can also choose from specialisations in chemistry, computer science, electronics, genetics, psychology, and mathematics. See individual course entries for more details.<br />
+< <br />
+< Please note: if you commence your studies at Bendigo, you'll normally transfer to Melbourne after two years of full-time study, where you'll complete the remainder of your course. However, if you wish to remain in Bendigo you'll be able to complete your later year core law subjects and a limited number of law electives through blended learning/video conferencing.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> Subjects are usually assessed by a month-long take-home exam.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/law/lmibl.htm"><span class="off-screen">International Business and Law - Master</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Laws in Global Business Law (059366E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1.5 years</dd><dt>Semester starts :</dt><dd>January, June, December</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 580</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-6"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to explore key issues and challenges in commercial law and practice in areas of global interest. Youll be taught by some of the worlds leading academics and practitioners. The broad range of offerings<br />
+> will build on your knowledge and skills in an existing area of interest or specialisation, such as Asian or US law, or move into an international<br />
+> business environment for the first time.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+666,667d344
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+< <br />
+678,694c355,358
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 95<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 93.10<br />
+< International Baccalaureate - 34<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 75<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - 9<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>You must have a law degree or approved international equivalent. Advanced Standing is available for up to four subjects if you hold a TEQSA level 8 law qualification or international equivalent. Advanced Standing may also be awarded if have been admitted<br />
+> to practice as a barrister or solicitor in Australia or equivalent in your home jurisdiction (these applications will be dealt with on a case-by-case basis). With Advanced Standing the program could<br />
+> then be completed in 12 months.</dd><dt>Additional information</dt><dd>All subjects in this program are offered in five-day block release mode: normally between June to July and December to February, so you should time their arrival accordingly.<br />
+> Prospective students applying for the this course must provide evidence of their admission to practice in their home jurisdiction.</dd><dt>Full course details</dt><dd>Course structures and subject information for the following cours(es):<br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/law/lmlgbl.htm"><span class="off-screen">Laws in Global Business Law (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Laws International (045901B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>See additional information</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-7"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The degree is only available to overseas lawyers who have a law degree from their home jurisdiction. Students can combine subjects from different programs including the Bachelor of Laws, the Master of Laws in Global Business Law and Public Interest Law subjects. The Global Business Law program presents an opportunity to study commercial law in areas of global interest taught by some of the world's leading academics and commercial practitioners. The public interest Law subjects offer students the opportunity to study the intersection of law and the public interest in areas including human rights, inquests, commissions and inquiries, and health regulation.<br />
+696c360
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to VCE Units 3 &amp; 4 (Mathematical Methods or Specialist Mathematics) with a study score of at least 20. Units 3 and 4, a study score of at least 35 in English (ESL) or 30 in any other English.</dd><dt>Additional costs</dt><dd>Depending on subjects, approximate costs include: laboratory coat - A$30, dissecting kit - A$40. Students can purchase these items from any supplier; they remain students' personal property.</dd><dt>Additional information</dt><dd>International students are advised to obtain assurance of recognition of the course by relevant professional bodies in their preferred country of practice.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria). International graduates would need the relevant visa to complete the articles of clerkship in Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlsc.htm"><span class="off-screen">Laws/Science</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lwlscb.htm"><span class="off-screen">Laws/Science</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws (Graduate Entry) (075233G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>23 510</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-10"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Designed especially for people with existing degrees, this course offers a high quality professionally-accredited legal qualification with a strong global and social justice perspective. It had a real emphasis on practical experience and offers a broad range of electives, many with a practical skills component such as Clinical Legal Education, International Advocacy, and Mediation and Negotiation.<br />
+---
+> The program may also be used as a vehicle for completing some of the Council of Legal Education subjects required for admission to practise in Victoria (up to 120 credit points) while receiving a postgraduate qualification.<br />
+698,700c362
+< Students commencing their studies at Bendigo normally transfer to Melbourne after two full-time years of study where they complete the remainder of their course (this is only available to local students). However, students who wish to remain in Bendigo are offered the ability to complete their later year core law subjects and a limited number of law electives through blended learning/video conferencing.<br />
+< <br />
+< You can also access subjects from the Master of Laws in Global Business Law taught by some of the world's leading scholars and practitioners. These are offered in block release mode in summer and winter school, outside standard University semester dates.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> For more information visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/LMIB/">Frequently Asked Questions</a> page.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+708,709d369
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+< <br />
+720,721c380
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>Successful completion of an Australian Bachelor's degree or approved international equivalent.<br /></dd><dt>Subject prerequisite</dt><dd>Selection based on prior studies and experience.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute). International graduates would need the relevant visa to complete a supervised workplace traineeship in Australia. International applicants are advised to obtain assurance of recognition of the course by relevant professional bodies in their preferred country of practice.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lvlge.htm "><span class="off-screen">Laws (Graduate Entry)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lvlge.htm "><span class="off-screen">Laws (Graduate Entry)</span>Bendigo</a></dd></dl></div></div></div>
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>A Bachelor of Laws degree or approved international equivalent from a jurisdiction other than Australia.</dd><dt>Additional information</dt><dd>Semester 1 and 2, January, June, December. All subjects in this program are offered in five-day block release mode: normally between teaching period one and Australian winter teaching period (June to July) and over summer (December to February) so students should time their arrival accordingly.</dd><dt>Professional recognition</dt><dd>Overseas lawyers will be ineligible for admission to practise as a barrister and solicitor in Victoria until they have met the requirements of any ruling made by the Council of Legal Education in Victoria or other certifying body. In some instances, the Council of Legal Education may decline to make a ruling and the applicant must then complete a further Bachelor of Laws degree in Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/law/international.htm"><span class="off-screen">Laws International (Master)</span>Melbourne</a></dd></dl></div></div></div>
+724c383
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+727c386
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+738c397
+< <div id="related_study_options">
+---
+> <div id="study_options">
+744c403
+<   <li><a href="http://www.latrobe.edu.au/courses/business">Business</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/business/postgraduate">Business</a></li>
+746c405
+<   <li><a href="http://www.latrobe.edu.au/handbook/2011/undergraduate/humanities/single-degrees/lbls.htm">Legal studies</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/handbook/2011/postgraduate/humanities/disciplines/legal-studies.htm">Legal studies</a></li>
+754,759c413
+< <div class="accordion">
+<   <h3 class="accordion-title">Law honours information</h3>
+< 
+<   <div class="content">
+<     <p>&nbsp;The School of Law offers a unique honours program in Victoria. Theses of exceptional quality have been published in key national journals and some have been cited in Australian law reform measures. Within the Bachelor of Laws program, honours is generally undertaken as part of the final year of law studies. The honours year is by application and includes the research and writing of a 10,000 word thesis (which counts as two law electives). &nbsp; &nbsp;&nbsp;</p>
+<   </div>
+---
+> <h3>Overseas study opportunities</h3>
+761c415
+<   <h3 class="accordion-title">Law placement opportunities</h3>
+---
+> <p>Gain valuable overseas experience by taking part in the student exchange program for 6-12 months. We have over 22 exchange partners in Canada, the US, South America, Europe and the UK. See <a href="http://www.latrobe.edu.au/international/edabroad/exchange">student exchange</a>.</p>
+763,798c417
+<   <div class="content">
+<     <p>You can shadow a magistrate or judge for a semester through our judicial mentoring program. An internship subject lets students organise a placement interstate or overseas. Five Clinical Legal Education (CLE) programs allow you to work under supervision in a range of legal environments with real clients and real legal work. You can work for Victoria Legal Aid, West Heidelberg Community Legal Service, the Environmental Defender’s Office, the Public Interest Law Clearinghouse, the Consumer Action Law Centre, and the Office of the Public Advocate or the Federation of Community Legal Centres.</p>
+< 
+<     <p>Our communication and advocacy subject gives you hands-on experience in court appearance work. To learn more about our Clinical Legal Education program.</p>
+<   </div>
+< 
+<   <h3 class="accordion-title">Overseas study opportunities</h3>
+< 
+<   <div class="content">
+<     <p>Gain valuable overseas experience by taking part in the student exchange program for 6-12 months. We have over 22 exchange partners in Canada, the US, South America, Europe and the UK. Students in double degrees can complete a combination of law and non law subjects. See <a href="http://www.latrobe.edu.au/international/edabroad/exchange">student exchange</a>.</p>
+< 
+<     <p>We also offer a winter school program in Shanghai, Introduction to Chinese Law, led by Professor Jianfu Chen. Study in Hong Kong or Geneva as part of the Duke University Summer School program. There are four half-fee remission scholarships each year.</p>
+<   </div>
+< 
+<   <h3 class="accordion-title">Skills training and mooting</h3>
+< 
+<   <div class="content">
+<     <p>There are opportunities to participate in simulated legal activities, such as client interviewing, witness examinations and negotiation. The School has an outstanding record in competitive mooting at both national and international levels.</p>
+< 
+<     <p>The School of Law placed first in the prestigious 2009 International Investment Arbitration moot in Frankfurt; first and second in the 2009 Castan Centre for human rights moot; and third equal in the International Willem C Vis (Far East) Commercial Arbitration moot in Hong Kong.</p>
+<   </div>
+< 
+<   <h3 class="accordion-title">Law Students’ Association &nbsp;</h3>
+< 
+<   <div class="content">
+<     <p>Our Law Students’ Association (LSA) runs activities, careers, competitions, education and marketing. The LSA provides students with the opportunity to take on leadership roles within the School and to engage with the wider legal community.<br />
+<     &nbsp; &nbsp;<br />
+<     LSA members run an orientation and mentoring program for first year students, organise competitions, career and social events and publish a Careers Guide.&nbsp;</p>
+<   </div>
+< 
+<   <h3 class="accordion-title">Dedicated Careers and Placement officer</h3>
+< 
+<   <div class="content">
+<     <p>The School of Law has a highly experienced Careers and Placement officer who works to assist with obtaining seasonal clerkships, internships and supervised workplace traineeships. Assistance with preparation and development of resumes, applications and interview skills is also available.</p><br />
+<   </div>
+< </div>
+---
+> <p>We also offer a winter school program in Shanghai, Introduction to Chinese Law, led by Professor Jianfu Chen. Study in Hong Kong or Geneva as part of the Duke University Summer School program.</p>
+802c421,422
+< <div id="alt_pathways_nest">
+---
+> <div id="content_div_113937">
+> <h3>About the academic staff</h3>
+804,809c424
+< <div id="alt_pathways_ug">
+< <h3>Alternative pathways</h3>
+< 
+< <p>Going straight from school to university isn’t an option for everyone. There may be other pathways to help you gain entry into this course. <a href="http://www.latrobe.edu.au/business/study/business">See alternative course pathways</a>.</p>
+< 
+< </div>
+---
+> <p>You&#39;ll get to meet a large number of academics during your course, from tutors through to lecturers. You can <a href="http://www.latrobe.edu.au/fbel/about/staff">view all the staff</a> from the Faculty of Business, Economics and Law or focus on <a href="http://www.latrobe.edu.au/law/about/staff/study-option?areaofstudy=Law">staff in Law</a>.</p>
+816c431
+< <p>Find out about the experiences of one of our Law students.</p>
+---
+> <p>Find out about the experiences of one of our Law postgraduate students.</p>
+820c435
+< <p><a href="http://www.latrobe.edu.au/fbel/full-profile?mode=results&amp;queries_id_query=90348"> <img src="http://www.latrobe.edu.au/student-profiles/images/christina-kouppi.jpg/thumbnail.jpg" width="53" height="80" alt="" title="christina-kouppi" /></a></p>
+---
+> <p><a href="http://www.latrobe.edu.au/fbel/full-profile?mode=results&amp;queries_id_query=90172"> <img src="http://www.latrobe.edu.au/student-profiles/images/florian-schwarz.jpg/thumbnail.jpg" width="53" height="80" alt="" title="Florian Schwarz" /></a></p>
+822c437
+< <p class="testimonial">The La Trobe environment is relaxed with students from all types of cultural backgrounds.</p>
+---
+> <p class="testimonial">After finishing my German Law Degree in 2004 I was keen to try something new.</p>
+824c439
+< <p><cite><a href="http://www.latrobe.edu.au/fbel/full-profile?mode=results&amp;queries_id_query=90348"> Christina <strong>Kouppi</strong></a>,  Business, Economics and Law </cite></p>
+---
+> <p><cite><a href="http://www.latrobe.edu.au/fbel/full-profile?mode=results&amp;queries_id_query=90172">Mr Florian <strong>Schwarz</strong></a>,  Business, Economics and Law </cite></p>

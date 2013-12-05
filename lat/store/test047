@@ -1,0 +1,376 @@
+26c26
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+38c38
+< Social work, 
+---
+> Social Work, 
+42c42
+< <!-- 126820 -->
+---
+> <!-- 133833 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/social-work"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="canonical" href="http://www.latrobe.edu.au/courses/social-work/postgraduate"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+74c74
+<   Page generated: 11 November 2013 02:45:11
+---
+>   Page generated: 11 November 2013 18:07:01
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/social-work">Social work</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/social-work">Social work</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/social-work/postgraduate">Postgraduate</a></div>
+144c144
+< <h1>Social work</h1>
+---
+> <h1>Social Work</h1>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/social-work">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/social-work/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/social-work">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/social-work/postgraduate">Postgraduate</a></li>
+158c158
+<   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0005/132881/department-social-work.jpg" width="250" height="166" alt="" title="department-social-work.jpg" />Why study social work?</h2>
+---
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0005/132881/department-social-work.jpg" width="250" height="166" alt="" title="department-social-work.jpg" />Why study Social Work?</h2>
+160,166c160
+<   <p>Make a difference by helping people thrive. With the practical skills and knowledge from a social work course, you can help work towards a socially just and equitable society. The strong human rights and social justice focus of our accredited course will prepare you for range of leadership roles, and is widely regarded by employers as offering a contemporary and highly sought after qualification.</p>
+< 
+<   <p>We have an extensive network of prospective employers in Australia and overseas, which offers a greater diversity of practical work placement as part of the course - we have community services partners in the Philippines, Indonesia, Cambodia and across Europe.</p>
+< 
+<   <h2>Accreditation<br /></h2>
+< 
+<   <p>Our social work courses are accredited by the Australian Association of Social Workers. It is an entry qualification into the social work profession and has been determined to meet the Australian Social Work Education and Accreditation Standards (ASWEAS).</p>
+---
+>   <p>Our postgraduate coursework program is for graduates of other disciplines who wish to move into social work from a related area. We offer a Master qualification and two specialised courses in child and family practice. You will be prepared for key social work roles in community work, social policy, social research, and organisational planning and administration. Our curriculum is based on a social justice philosophy and you will develop the knowledge and skills to work effectively in complex organisations. Practical placement allows you to gain valuable practical skills and experience in the field.</p>
+172,174c166
+< <h2>Career opportunities in social work<br /></h2>
+< 
+< <p>90-95% of graduates find employment in their field within six months of graduation.*<br /></p>
+---
+> <h2>Career opportunities</h2>
+176,213c168
+< <p>You can expect to work in schools, hospitals, community health centres and government departments&nbsp; in the areas of child and family services, counseling, child protection, disability, aging, mental health, refugees and settlement, youth, substance abuse, mediation and rehabilitation.</p>
+< 
+< <p>*<em>Annual survey of graduates conducted by our School of Social Work and Social Policy<br /></em></p>
+< 
+< </div>
+< <div class="webmedia">
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:04:42',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/XHkcSocial-Work.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/XHkcSocial-Work.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1140.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'v1140', 'name':'1140'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1140', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< <h2 class="video-title">Social Work Graduates</h2>
+< 
+< 
+< <div id="v1140">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1140.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/yAgVSocial-Work.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< 
+< </div>
+< 
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/yAgVSocial-Work.mp4"><span
+< class="off-screen">Social Work Graduates</span> MP4 [101.79 MB]</a></li>
+< 
+< <li><a href='https://webstat.latrobe.edu.au/webmedia/media/QZLsSocial-Work.mp3'><span class='off-screen'>Social Work Graduates</span> MP3 [3.29 MB]</a></li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/eCdztranscript-social-work-graduates.docx"><span class="off-screen transcript-link">Social Work Graduates</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1140"><span class="off-screen">Social Work Graduates</span> Permalink</a></li>
+---
+> <p>Social workers are employed in a range of social policy, community and direct practice areas in public and non-government agencies. Areas include hospitals and community based health services, disability, substance abuse, child protection and family care, aged care, indigenous support, housing services, mental health, family services, psychiatric services, protective services, refugee and asylum seeker support services, local government, community work, social justice advocacy, and counselling services.</p>
+215,217d169
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?1140">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+< </div>
+223c175,183
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Human Services and Master of Social Work</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent. </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">50.6</span></dd><dd>Bendigo <span class="atar">51.35</span></dd><dd>Melbourne <span class="atar">60.3</span></dd><dd>Mildura <span class="atar">55.45</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Social work creatively brings about positive change for individuals, families, groups and communities - either directly or through research, policy work, organisational and program planning, and community development.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Certificate in Child and Family Practice</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year part-time </dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is aimed at experienced practitioners keen to further their<br />
+> understanding of child and family services. You'll develop competencies and skills by working in child protection, placement and family services. You'll also develop greater confidence in working with children and families, expand on critical thinking and problem-solving skills and improve your<br />
+> communication skills. Our staff are highly trained, experienced, and very well-regarded within the sector. You'll participate and jointly complete some assessment as part of an enquiry-based learning group with a mix of<br />
+> professionals from different organisations.<br />
+> <br />
+> The course is offered jointly by La Trobe, The Bouverie Centre and the Department of Human Services, in partnership with the University of Melbourne's School of Social Work, Berry Street Take Two and the Victorian<br />
+> Aboriginal Child Care Agency (VACCA).<br />
+> <br />
+> Please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HGCCFP/">Frequently Asked Questions</a> for more information.</dd><dt>Prerequisite</dt><dd>Bachelor's degree or equivalent, at least two years of child and family practice experience, current employment in child protection, family services and/ or Aboriginal community control organisation. Students receive full sponsorship by the Department of Human Services.</dd><dt>Fee amount</dt><dd>Indicative (2013): $5560 (60 credit points). Successful applicants are offered a full scholarship.</dd><dt>Costs</dt><dd>You may need to pay for travel and accommodation to attend seminars in Melbourne. </dd><dt>How to apply</dt><dd>Apply <a href="http://latrobe-apply.custhelp.com/">Online</a> to the University by the closing date of 22 November 2013. Applicants must also complete our <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0013/543100/2014supp-form-child-family.doc">Supplementary Form</a> outlining previous studies and experience. Successful applicants are sponsored by the Department of Human Services.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hgccfp.htm"><span class="off-screen">Child and Family Practice (Graduate Certificate)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Diploma in Child and Family Practice Leadership</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years part-time </dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to produce responsive and dynamic leaders for the child protection, placement and family services sector in Victoria. It's designed for supervisors and frontline managers who want to become confident and effective leaders in this sector.<br />
+225,227c185
+< This course aims to make you reflective, responsive and flexible social work<br />
+< professionals, able to excel in the constantly changing social care sector.<br />
+< The curriculum explores ideas about how individuals, families, communities and societies operate and develop, the ethical and legal frameworks behind social work, research and its interpretation, and how organisations operate and respond to different areas of social need. The program integrates theory and practice.<br />
+---
+> The course is offered jointly by La Trobe's Department of Social Work and Social Policy, The Bouverie Centre and the Department of Human Services, in partnership with the University of Melbourne's School of Social Work, Berry Street Take Two and the Victorian Aboriginal Child Care Agency (VACCA).<br />
+229c187
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZSK">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 30 in English (ESL) or 25 in any other English NSW HSC: any two units of English (Band 3).</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Current Year 12 applicants with work experience must complete and submit a VTAC Personal Statement.<br />
+---
+> Please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HGDCFP">Frequently Asked Questions</a> for more information.</dd><dt>Prerequisite</dt><dd>Bachelor's degree or equivalent, current employment in child protection, family services and/ or Aboriginal community control organisations, and at least two years of child and family practice experience in a leadership role. Students receive full sponsorship by the Department of Human Services.</dd><dt>Fee amount</dt><dd>Indicative (2013): $8030 per 120 credit points. Successful applicants are offered a full scholarship.</dd><dt>Costs</dt><dd>You may need to pay for travel and accommodation to attend seminars in Melbourne.</dd><dt>How to apply</dt><dd>Apply <a href="http://latrobe-apply.custhelp.com/">Online</a> to the University by 22 November 2013. Applicants must also complete our <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0013/543100/2014supp-form-child-family.doc">Supplementary Form</a> outlining previous studies and experience. Successful applicants are sponsored by the Department of Human Services.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hgdcfp.htm"><span class="off-screen">Child and Family Practice Leadership (Graduate Diploma)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Social Work</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or 3-4 years part time. </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Albury-Wodonga</dd><dd>Bendigo</dd><dd>Melbourne</dd><dd>Mildura</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to prepare you for key social work roles where you might work with individuals, families and groups, or in community work, social policy, social research, and organisational planning and administration.<br />
+231c189
+< Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.<br />
+---
+> The curriculum is based on a philosophy of social justice, and you will acquire the knowledge and skills to work effectively in complex organisations. A key feature is the practical placement component, which allows you to gain practical skills in the field. Honours is available during the final year.<br />
+233c191,192
+< Applicants may wish to provide other documentation in support of their application. Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Re-ranking is based on relevant paid and unpaid work experience during and/or subsequent to secondary school. Current Year 12 students must provide this information using the VTAC Personal History online. La Trobe also considers Special Entry Access Scheme (SEAS) criteria; and a <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Costs</dt><dd>Approximate costs include textbooks (available from the La Trobe Co-op bookshop at approximately A$70-$100 per text), which remain students' personal property. A National Police Check at a cost of approximately A$16 (for a student with a Victorian residential address) or A$42 (for a student with a residential address outside of Victoria) and a Working with Children Check (no cost. There is a nominal cost for a passport size photo required for WWC check as well as a name badge to be worn on placement (approximately A$10). Prior to commencing clinical or community placements, some students may be required to provide proof of immunisations. Costs may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional practice placements may vary depending on the venue. Please note: all costs are approximate and subject to change.</dd><dt>Additional information</dt><dd>Please note that professional placements are unpaid and may be located in metropolitan or rural areas, interstate or overseas. Students may be required to do their placement outside semesters.<br />
+---
+> You will undertake academic and fieldwork subjects and two supervised<br />
+> 70-day placements (one in each year), in a professional social work agency. You may be required to attend some lectures and seminars in block mode and/or outside official University semester dates.<br />
+235c194,204
+< This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br /></dd><dt>How to apply</dt><dd>VTAC/UAC</dd><dt>Professional recognition</dt><dd>This course has been determined to meet the Australian Social Work Education and Accreditation Standards (ASWEAS).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsw.htm"><span class="off-screen">Human Services/Social Work</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsw.htm"><span class="off-screen">Human Services/Social Work</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsw.htm"><span class="off-screen">Human Services/Social Work</span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsw.htm"><span class="off-screen">Human Services/Social Work</span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> For more information, please visit out <a href="http://latrobe.custhelp.com/app/">Frequently Asked Questions.</a></dd><dt>Prerequisite</dt><dd>- Bachelor's degree<br />
+> - A minimum grade average of 70 per cent<br />
+> - Preferably with studies in arts, social sciences, psychology, teaching, nursing or business-related areas.</dd><dt>Fee amount</dt><dd>Indicative (2013): $16,980 per 120 credit points.</dd><dt>Costs</dt><dd>Approximate costs include textbooks (available from the La Trobe Co-op bookshop at approximately A$70-$100 per text), which remain students' personal property. A National Police Check at a cost of approximately A$16 (for a student with a Victorian residential address) or A$42 (for a student with a residential address outside of Victoria) and a Working with Children Check (no cost. There is a nominal cost for a passport size photo required for WWC check as well as a name badge to be worn on placement (approximately A$10). Prior to commencing clinical or community placements, some students may be required to provide proof of immunisations. Costs may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional practice placements may vary depending on the venue. Please note: all costs are approximate and subject to change.</dd><dt>Additional information</dt><dd>Students must obtain a Federal police check (or equivalent) and Working With Children Check before undertaking clinical professional placements.<br />
+> <br />
+> Please note that professional placements are unpaid and may be located in metropolitan or rural areas, interstate or overseas. Students may be required to do their placement outside semesters. For more information about clinical placements, visit www.latrobe.edu.au/health/study/placements</dd><dt>How to apply</dt><dd>VTAC/UAC.&nbsp; If you intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December for the Mildura or Albury-Wodonga Campus. Applicants intending to apply to more than one institution must apply through VTAC/UAC.<br /></dd><dt>Professional recognition</dt><dd>This course has provisional accreditation from the Australian Association of Social Workers (AASW).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmsww.htm "><span class="off-screen">Social Work (Master)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmsww.htm "><span class="off-screen">Social Work (Master)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmsww.htm "><span class="off-screen">Social Work (Master)</span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmsww.htm "><span class="off-screen">Social Work (Master)</span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Health Research Methodology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Albury-Wodonga</dd><dd>Bendigo</dd><dd>Melbourne</dd><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give graduates without substantial previous research experience the necessary preparation for higher degree studies. It is expected that graduates will proceed to a higher degree by research, provided they meet minimum average grade requirements. However, the course also aims to facilitate professional advancement and progression to further postgraduate coursework studies after full or partial completion. For public health major, please note that classes are held at the Franklin Street Campus.</dd><dt>Prerequisite</dt><dd>Bachelor's degree in relevant discipline. In certain circumstances, consideration is given to relevant clinical or academic experience, and demonstrated potential to undertake research.</dd><dt>Fee amount</dt><dd>Indicative (2012): $24,190 per 120 credit points.<br />
+> </dd><dt>Additional information</dt><dd>Public Health discipline commences early February.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Applications close on Thursday 31 October.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Health Research Methodology (Social Work and Social Policy)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd></dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Albury-Wodonga</dd><dd>Bendigo</dd><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to provide the necessary preparation for higher degree studies to candidates without substantial previous research experience. As such, the course offers studies designed to suit the student's background and proposed field of research.</dd><dt>Prerequisite</dt><dd>- Bachelor's degree completed within the last five years<br />
+> - A minimum grade average of 70 per cent<br />
+> - Relevant studies include health, human or social sciences</dd><dt>Fee amount</dt><dd>Indicative (2013): $25,880 for 120 credit points.</dd><dt>How to apply</dt><dd>Apply direct to the University. Download, complete and submit a <a href="http://www.latrobe.edu.au/students/enrolment/documents/admission-PG-coursework.pdf">postgraduate coursework application form (PDF 3.3MB)</a>.<br />
+> <br />
+> Applications for this course close on 14 December 2013.</dd></dl></div></div></div>
+238,239c207,208
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+241c210
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+245c214
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+247c216
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+252c221
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Human Services and Master of Social Work (045898C/074028J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 800</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne, Mildura</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Social work creatively brings about positive change for individuals, families, groups and communities - either directly or through research, policy work, organisational and program planning, and community development.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Social Work (074028J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>See additional information</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 370</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to prepare you for key social work roles where you might work with individuals, families and groups, or in community work, social policy, social research, and organisational planning and administration.<br />
+254,256c223
+< This course aims to make you reflective, responsive and flexible social work<br />
+< professionals, able to excel in the constantly changing social care sector.<br />
+< The curriculum explores ideas about how individuals, families, communities and societies operate and develop, the ethical and legal frameworks behind social work, research and its interpretation, and how organisations operate and respond to different areas of social need. The program integrates theory and practice.<br />
+---
+> The curriculum is based on a philosophy of social justice, and you will acquire the knowledge and skills to work effectively in complex organisations. A key feature is the practical placement component, which allows you to gain practical skills in the field. Honours is available during the final year.<br />
+258c225,228
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZSK">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+---
+> You will undertake academic and fieldwork subjects and two supervised<br />
+> 70-day placements (one in each year), in a professional social work agency. You may be required to attend some lectures and seminars in block mode and/or outside official University semester dates.<br />
+> <br />
+> For more information, please visit out <a href="http://latrobe.custhelp.com/app/">Frequently Asked Questions.</a></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+263a234
+> <br />
+270,285c241,254
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 70<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 60.30<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 10<br />
+< HKDSE - 3x Level 4<br />
+< Sri Lankan A Levels - BBC<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 70<br />
+< Vietnam (Year 12) - 8.2<br />
+< Indonesia (SMA) - 8.2<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>You must have a relevant Bachelor's degree equivalent to an Australian Bachelor's degree, completed in the past five years<br />
+> (or subsequent postgraduate study and/or relevant work experience) with a minimum grade average of 70 per cent. Relevant studies include health, human or social sciences.</dd><dt>Additional costs</dt><dd>Approximate costs include textbooks (available from the La Trobe Co-op bookshop at approximately A$70-$100 per text), which remain students' personal property. A National Police Check at a cost of approximately A$16 (for a student with a Victorian residential address) or A$42 (for a student with a residential address outside of Victoria) and a Working with Children Check (no cost. There is a nominal cost for a passport size photo required for WWC check as well as a name badge to be worn on placement (approximately A$10). Prior to commencing clinical or community placements, some students may be required to provide proof of immunisations. Costs may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional practice placements may vary depending on the venue. Please note: all costs are approximate and subject to change.</dd><dt>Additional information</dt><dd>Commencement is early February, 2014 at the Melbourne Campus.<br />
+> Applicants must also submit a <a href="http://www.latrobe.edu.au/international/apply/how-to/supplementary-admissions-forms">Supplementary Form</a></dd><dt>Professional recognition</dt><dd>This is an AASW-accredited qualification. It is an entry qualification into the social work profession and has been determined to meet<br />
+> the Australian Social Work Education and Accreditation Standards (ASWEAS).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmsww.htm "><span class="off-screen">Social Work (Master)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmsww.htm "><span class="off-screen">Social Work (Master)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmsww.htm "><span class="off-screen">Social Work (Master)</span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmsww.htm "><span class="off-screen">Social Work (Master)</span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Health Research Methodology (072025F/072024G/072008G/072007G/072026E/072005K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 300</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Franklin Street</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give graduates without substantial previous research experience the necessary preparation for higher degree studies. It is expected that graduates will proceed to a higher degree by research, provided they meet minimum average grade requirements. However, the course also aims to facilitate professional advancement and progression to further postgraduate coursework studies after full or partial completion. For public health major, please note that classes are held at the Franklin Street Campus.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+> <br />
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+> <br />
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+> <br />
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+> <br />
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+287c256,283
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Additional costs</dt><dd>Approximate costs include textbooks (available from the La Trobe Co-op bookshop at approximately A$70-$100 per text), which remain students' personal property. A National Police Check at a cost of approximately A$16 (for a student with a Victorian residential address) or A$42 (for a student with a residential address outside of Victoria) and a Working with Children Check (no cost. There is a nominal cost for a passport size photo required for WWC check as well as a name badge to be worn on placement (approximately A$10). Prior to commencing clinical or community placements, some students may be required to provide proof of immunisations. Costs may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional practice placements may vary depending on the venue. Please note: all costs are approximate and subject to change.</dd><dt>Professional recognition</dt><dd>The course has been determined to meet the Australian Social Work Education and Accreditation Standards (ASWEAS).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsw.htm"><span class="off-screen">Human Services/Social Work</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsw.htm"><span class="off-screen">Human Services/Social Work</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsw.htm"><span class="off-screen">Human Services/Social Work</span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsw.htm"><span class="off-screen">Human Services/Social Work</span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+> <br />
+> Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+> <br />
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+> <br />
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>A relevant Australian Bachelor's degree or approved international equivalent in health sciences or related area. Entry requirements also vary based on the chosen major - please contact the faculty for more information.</dd><dt>Additional information</dt><dd>Public Health discipline commences early February.<br />
+> Please note this course is held at the Franklin Street Campus, which is located in the CBD. You might like to consider finding accommodation close to your campus.<br />
+> <br />
+> You must review the Supplementary Checklist before applying.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Health Research Methodology (Social Work and Social Policy) (062550A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 300</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to provide the necessary preparation for higher degree studies to candidates without substantial previous research experience. As such, the course offers studies designed to suit the student's background and proposed field of research.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+> <br />
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+> <br />
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+> <br />
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+> <br />
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+> <br />
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+> <br />
+> Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+> <br />
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+> <br />
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>A relevant Australian Bachelor's degree or approved international equivalent. In certain circumstances consideration will be given to clinical or academic experience relevant to the intended field of study, and if the applicant has demonstrated the potential to undertake research. In these cases, an applicant's professional references, clinical and/or academic experience, publications and/or presentationsa and academic record are taken into account when being considered for admission to the course.</dd><dt>Additional information</dt><dd>Applications for this course close on 14 December 2012.</dd></dl></div></div></div>
+290c286
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+293c289
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+306a303,304
+> <h2>Master of Social Work (graduate level program)<br /></h2>
+> 
+309c307
+< <p>We offer flexible entry and exit pathways to current and prospective students. You may enter the program at different year levels depending upon your qualifications.</p>
+---
+> <p>Students from different academic backgrounds may be eligible for entry into our Master of Social Work - Graduate Entry.</p>
+311c309
+< <h3>Social work placements</h3>
+---
+> <h3>Social Work placements</h3>
+324c322
+< <div id="new_div_133853">
+---
+> <div id="new_div_133860">
+326a325,338
+> <h2>Specialised courses in Child and Family Practice</h2>
+> 
+> <p>These courses are offered jointly by La Trobe University, The Bouverie Centre and the Department of Human Services, in partnership with the University of Melbourne School of Social Work, Berry Street Take Two and the Victorian Aboriginal Child Care Agency (VACCA) and have been designed for people working in the child protection and family services sector in Victoria (including Aboriginal Community Controlled Organisations) who hold a degree or the equivalent and have a minimum of two years&#8217; experience in child and family practice experience. Life and work experience will be taken into consideration for applicants with no formal tertiary education.</p>
+> 
+> <p>These courses are funded by the Department of Human Services which pays for course fees and materials.<br /></p>
+> 
+> <p>The Graduate Certificate is for experienced practitioners keen to further develop their understanding of context while extending their conceptual range and direct skills in child and family practice.</p>
+> 
+> <p>The Graduate Diploma is designed for supervisors and frontline managers who want to become more confident and effective leaders in the child and family sector.</p>
+> 
+> <h3>2014 Intake now open</h3>
+> 
+> <p>We are pleased to advise that applications are now open and will close on Monday 28 October 2013.<br /></p>
+> 
+328,330d339
+< <P>Find out about the experiences of one of our students.</P>
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=94247"> <img src="http://www.latrobe.edu.au/student-profiles/images/chenvier_cloe.jpg/thumbnail.jpg" width="53" height="80" alt="" title="chenvier_cloe" /></a></p>
+332c341,342
+< <p class="testimonial">My goal is to become a social worker because I have the need to help others.</p>
+---
+> <div id="content_div_70640">
+> <h3>Student profiles</h3>
+334c344
+< <p><cite><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=94247">Ms Cloe <strong>Chenevier</strong>, </a>  </cite></p>
+---
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+336,338c346,353
+< </blockquote>
+< <h3>Finding a supervisor</h3> 
+< <p>One of the most important aspects of your research study will be <a href="http://www.latrobe.edu.au/health/research/supervisors/study-option?areaofstudy=Social work">finding a supervisor in Social work</a>.</p> 
+---
+> </div>
+> 
+> <div id="content_div_113937">
+> <h3>About the academic staff</h3>
+> 
+> <p>You&#39;ll get to meet a large number of academics during your course, from tutors through to lecturers. You can <a href="http://www.latrobe.edu.au/health/about/staff/all">view all the staff</a> from the Faculty of Health Sciences or focus on <a href="http://www.latrobe.edu.au/health/about/staff/all?areaofstudy=Social Work">staff in Social Work</a>.</p>
+> 
+> </div>
+436,437c451
+< <script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+< 
+---
+> <!-- Google Code for Find a course Conversion Page -->
+439,448c453,469
+< $('#news-ticker').cycle({ 
+<     prev:   '#btn_prev', 
+<     next:   '#btn_next'
+< });
+< 
+< if ($('.news-item').length < 2){
+<   $('.newsnav').remove();
+< };
+< 
+< </script><!-- Includes sei-event-calendar.js for related events -->
+---
+> /* <![CDATA[ */
+> var google_conversion_id = 1063865565;
+> var google_conversion_language = "en";
+> var google_conversion_format = "2";
+> var google_conversion_color = "ffffff";
+> var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+> var google_conversion_value = 0;
+> var google_remarketing_only = false;
+> /* ]]> */
+> </script>
+> <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+> </script>
+> <noscript>
+> <div style="display:inline;">
+> <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+> </div>
+> </noscript><!-- Includes sei-event-calendar.js for related events -->
+491c512,513
+< </noscript><!-- Google Code for Find a course Conversion Page -->
+---
+> </noscript><script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+> 
+493,509c515,524
+< /* <![CDATA[ */
+< var google_conversion_id = 1063865565;
+< var google_conversion_language = "en";
+< var google_conversion_format = "2";
+< var google_conversion_color = "ffffff";
+< var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+< var google_conversion_value = 0;
+< var google_remarketing_only = false;
+< /* ]]> */
+< </script>
+< <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+< </script>
+< <noscript>
+< <div style="display:inline;">
+< <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+< </div>
+< </noscript>		
+---
+> $('#news-ticker').cycle({ 
+>     prev:   '#btn_prev', 
+>     next:   '#btn_next'
+> });
+> 
+> if ($('.news-item').length < 2){
+>   $('.newsnav').remove();
+> };
+> 
+> </script>		

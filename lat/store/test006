@@ -1,0 +1,389 @@
+19,20c19,20
+< <meta name="description" content="Health freshwater ecosystems and ecology are essential humanity. Environmental management and ecology is the management of human impact and interaction with the environment." />
+< <meta name="keywords" content="Environmental management, environment, freshwater, ecology, water treatment, air quality, population, conservation, environmental policy and legislation, soil science, wildlife and fisheries, biological science, bioscience, science undergraduate, bachelor, degree" />
+---
+> <meta name="description" content="Develop advanced skills and knowledge in environmental management and ecology." />
+> <meta name="keywords" content="Environmental management, ecology, science, research, postgraduate, diploma" />
+34c34
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+42c42
+< <!-- 108529 -->
+---
+> <!-- 109893 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/environmental-management-and-ecology"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/environmental-management-and-ecology/postgraduate"/>		
+74c74
+<   Page generated: 10 November 2013 18:57:58
+---
+>   Page generated: 11 November 2013 17:24:22
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/environmental-management-and-ecology">Environmental management and ecology</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/environmental-management-and-ecology">Environmental management and ecology</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/environmental-management-and-ecology/postgraduate">Postgraduate</a></div>
+150c150
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/environmental-management-and-ecology">Undergraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/environmental-management-and-ecology">Undergraduate</a></li>
+152c152
+<   <li><a href="http://www.latrobe.edu.au/courses/environmental-management-and-ecology/postgraduate">Postgraduate</a></li>
+---
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/environmental-management-and-ecology/postgraduate">Postgraduate</a></li>
+156,196d155
+< <div class="inline-video">
+< 	<div>
+< 		<img class="play-video" style="background:transparent url(http://webmedia.latrobe.edu.au/production1/video1522.jpg.std.jpg) no-repeat 0 0" src="http://webmedia.latrobe.edu.au/images/view-video-overlay-std.png" alt="" width="250" height="166" />
+< 	</div>
+< 
+<   <div class="webmedia">
+< 
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:04:58',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/9Ml7DEME-v9-Final-HiRes-720p.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/9Ml7DEME-v9-Final-HiRes-720p.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1522.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'1522', 'name':'1522'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1522', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< 
+< 
+< <div id="v1522">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1522.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/wWnDEME-v9-Final-HiRes-720p_1.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< </div>
+< 
+< 		<div class="jump-list">
+< 			<ul>
+< 				<li class="initial webmedia">Other formats</li>
+< 				<li><a href="http://webstat.latrobe.edu.au/webmedia/media/wWnDEME-v9-Final-HiRes-720p_1.mp4"><span
+< 				class="off-screen">Bachelor of Bioscience - Department of Environmental Management and Ecology</span> MP4 [28.16 MB]</a></li>
+< 				<li><a href="http://webstat.latrobe.edu.au/webmedia/media/Ky4pDEME-v9-Final-HiRes-720p.mp3"><span class="off-screen">Bachelor of Bioscience - Department of Environmental Management and Ecology</span> MP3 [3.42 MB]</a></li>
+< 								<li><a href="http://webstat.latrobe.edu.au/webmedia/media/VMymEnviron Man and Ecology Video transcript.docx"><span class="off-screen transcript-link">Bachelor of Bioscience - Department of Environmental Management and Ecology</span> Transcript</a></li>
+< 								<li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1522"><span class="off-screen">Bachelor of Bioscience - Department of Environmental Management and Ecology</span> Permalink</a></li>
+< 				<li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video format request: http://webmedia.latrobe.edu.au/webmedia/perma.php?1522">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< 			</ul>
+< 		</div>
+< 	</div>
+< </div>
+< 
+198c157,158
+< <h2>Why study Environmental management and ecology?</h2>
+---
+> <div class="feature feature-big">
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0006/119904/Environmental-Mgt-nad-Ecology.jpg" width="250" height="166" alt="" title="Environmental-Mgt-nad-Ecology.jpg" />Why study Environmental management and ecology?</h2>
+200c160
+< <p>Learn about environmental management and ecology and how to study, protect and manage ecosystems in an Australian context.</p>
+---
+>   <p>Develop advanced skills and knowledge in environmental management. Complete a supervised research project and coursework subjects.<br /></p>
+202,204c162,163
+< <p>This specialised program based at the Albury-Wodonga campus is supported by scientists at the co-located <a href="http://www.mdfrc.org.au/">Murray Darling Freshwater Research Centre</a> and local natural resource managers.<br /></p>
+< 
+< <p>Learn the essentials of population, community and conservation ecology with an emphasis on freshwater ecosystems and management of our natural resources including water treatment for human use.<br /></p>
+---
+>   <p>See the Research tab for information about Master's by research, or PhD.&nbsp;<br /></p>
+> </div>
+211c170
+< <p>Graduates are prepared for careers in catchment management, waste management, and natural resource management. You can work in government organisations, research institutes and private industry, including biotechnology, conservation, ecology, horticulture and agriculture. You will be uniquely prepared to help employers, politicians and communities confront the problems facing any ecosystem.<a href="http://www.latrobe.edu.au/scitech/professional/becoming-a-professional/agricultural-and-environmental-sciences"><br /></a></p>
+---
+> <p>Graduates are prepared for positions in the public and private sectors including ecologist, environmental consultant, science communicator, pollution control officer, waste manager, limnologist, fisheries and wildlife officer, water quality manager, environmental policy analyst, catchment manager, conservation/population geneticist and public land manager.</p>
+218,224c177,178
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Bioscience</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">62.1</span></dd><dd>Melbourne <span class="atar">75.9</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This flexible course is designed to allow you to specialise in two areas of biology, or combine your biology subjects with other science or non-science subjects. It prepares you to address big issues such as protecting native forests and grasslands, discovering new medicinal cures or sustainable agricultural practices, and mapping the genome of endangered species.<br /></dd><dt>Prerequisite</dt><dd>VCE Units 1 and 2: two units (any combination) from science (any), mathematics (any), geography, health &amp; human development, information technology or physical education or VCE Units 3 and 4: science (any), mathematics (any), geography, health &amp; human development, information technology or physical education. Units 3 and 4: English (any)</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< <br />
+< Applicants may also be asked to complete the STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Completing any biology, chemistry, mathematics (any) or physics gives you an additional 1.5 aggregate points per study, for a maximum of 3 points. Performance in prerequisite studies will be considered. Re-ranking is also based on criteria associated with the La Trobe University Rural and Regional Student Access Scheme (RRSAS).</dd><dt>Fee amount</dt><dd>TBC</dd><dt>Costs</dt><dd>It will cost students approximately A$100 for basic equipment. Students will need to purchase basic equipment like a dissection kit, laboratory coat and laboratory manuals for some subjects (laboratory manuals can also be borrowed from the library). Students can purchase these items from any supplier; they remain students' personal property. No uniform needed.</dd><dt>Additional information</dt><dd>Year 1 of biochemistry, botany, ecology, genetics, microbiology, molecular biology and zoology can be undertaken at Albury-Wodonga and then students transfer to the Melbourne campus to complete years 2 and 3, while year 1 of freshwater ecology can be undertaken at Melbourne and then students transfer to the Albury-Wodonga campus to complete years 2 and 3, if they wish to complete a major in these areas of study.</dd><dt>How to apply</dt><dd>Apply through VTAC or UAC.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbio.htm"><span class="off-screen">Bioscience</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbiow.htm"><span class="off-screen">Bioscience</span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Science</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time, or up to 6 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">61.45</span></dd><dd>Bendigo <span class="atar">64.5</span></dd><dd>Melbourne <span class="atar">70</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Science seeks answers to some of the most significant questions facing humankind. The extent of climate change, the best medicines to treat cancer, the most effective ways to protect endangered animals - and many other challenges - all require answers from science.<br />
+< <br />
+< Our Bachelor of Science is a highly flexible course, allowing you to create a program to suit your preferences with 14 subject areas to choose from. You'll also have the opportunity to include subjects from other faculties. You'll start with a broad range of subjects in first year and gradually specialise in two major areas by third year or combine a science major with a sequence of study from another discipline.<br />
+< <br />
+< You'll have access to feature lecture and work placement opportunities with leading government and research organisations, plus volunteering opportunities.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Science</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or up to 2 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Albury-Wodonga</dd><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is a research training pathway and offers you study options in various disciplines, depending on the campus. Study areas on the Melbourne Campus include: biochemistry, botany, chemistry, genetics, mathematics,<br />
+> microbiology, physics, statistical sciences and zoology. Study areas on the Albury-Wodonga Campus include: environmental management and ecology, botany, chemistry, genetics, microbiology, statistical science and zoology.<br />
+226c180,182
+< You'll also have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>. Our Honours and research students have the opportunity to work alongside scientists who are world leaders in their fields.<br />
+---
+> You will complete equivalent requirements to the relevant Honours program in your selected discipline.</dd><dt>Prerequisite</dt><dd>Bachelor's degree in an area relevant to the chosen discipline.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points. <br />
+> <br />
+> </dd><dt>Additional information</dt><dd>Start dates vary according to discipline. Some disciplines begin in February at Melbourne campus and January at Albury-Woodonga campus, before the regular undergraduate year; some have no mid-year entry. For details, see the Honours information on this page.</dd><dt>How to apply</dt><dd>Apply to the Melbourne campus directly up to two weeks prior to commencement of the course.<br />
+228c184
+< Please note: students who enrol in the first year of the Bachelor of Science at the Albury-Wodonga Campus must transfer to the Melbourne Campus to complete the degree.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: English (any) and mathematics (any)<br />
+---
+> If applying to the Albury Woodonga campus, please do so before 16 December.<br />
+230,232c186
+< NSW HSC: Band 2 Mathematics and satisfy English requirements</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Successful completion of Chemistry, Physics, or Specialist Mathematics gives you an additional 1.5 aggregate points per study to a maximum of 3 points. Consideration is also given to Special Entry Access Scheme (SEAS) criteria. A <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property.  Additional costs for fieldtrips - food, accommodation and travel - may also apply.</dd><dt>Additional information</dt><dd>Students enrolled at the Albury-Wodonga campus must transfer to either the Melbourne or Bendigo campus after successfully completing first year.</dd><dt>How to apply</dt><dd>VTAC/UAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December for our Bendigo Campus and Albury-Wodonga Campus. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC/UAC.<br /></dd><dt>Professional recognition</dt><dd>Depending on your major studies, you may be eligible for membership of relevant professional associations.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbs.htm"><span class="off-screen">Science </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/science-tech/sbsb.htm"><span class="off-screen">Science </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/stbsw.htm"><span class="off-screen">Science </span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> <a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>Depending on the specific studies chosen, graduates may be eligible for accreditation with a relevant science professional association.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/spsc.htm"><span class="off-screen">Science (Postgraduate Diploma)</span>Melbourne</a></dd></dl></div></div></div>
+235,236c189,190
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+238c192
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+242c196
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+244c198
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+249c203,204
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Bioscience (077314A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne, Albury-Wodonga</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This flexible course is designed to allow you to specialise in two areas of biology, or combine your biology subjects with other science or non-science subjects. It prepares you to address big issues such as protecting native forests and grasslands, discovering new medicinal cures or sustainable agricultural practices, and mapping the genome of endangered species.<br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Science (003303E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is a research training pathway and offers you study options in various disciplines, depending on the campus. Study areas on the Melbourne Campus include: biochemistry, botany, chemistry, genetics, mathematics,<br />
+> microbiology, physics, statistical sciences and zoology. Study areas on the Albury-Wodonga Campus include: environmental management and ecology, botany, chemistry, genetics, microbiology, statistical science and zoology.<br />
+251c206
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> You will complete equivalent requirements to the relevant Honours program in your selected discipline.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+253c208
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+255c210
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+257c212
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+259c214,216
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+261c218
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+265,296c222
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 50<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 75.90<br />
+< International Baccalaureate - 26<br />
+< GCE A Levels - 7<br />
+< HKDSE - 1 x Level 4<br />
+< Sri Lankan A Levels - CCD<br />
+< STPM - 8<br />
+< MICSS (UEC) - 2A 4B<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.3<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< GAC Cert. IV - GPA 2<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br /></dd><dt>Subject prerequisite</dt><dd>Equivalent to Australian VCE Units 1 and 2: two units (any combination) from science (any), mathematics (any), geography, health and human development, information technology or physical education or VCE Units 3 and 4: science (any), mathematics (any), geography, health and human development, information technology or physical education. Units 3 and 4: English (any)</dd><dt>Additional costs</dt><dd>It will cost students approximately A$100 for basic equipment. Students will need to purchase basic equipment like a dissection kit, laboratory coat and laboratory manuals for some subjects (laboratory manuals can also be borrowed from the library). Students can purchase these items from any supplier; they remain students' personal property. No uniform needed.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbio.htm"><span class="off-screen">Bioscience</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbiow.htm"><span class="off-screen">Bioscience</span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Science (022039C)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years
+< 
+< </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Science seeks answers to some of the most significant questions facing humankind. The extent of climate change, the best medicines to treat cancer, the most effective ways to protect endangered animals - and many other challenges - all require answers from science.<br />
+< <br />
+< Our Bachelor of Science is a highly flexible course, allowing you to create a program to suit your preferences with 14 subject areas to choose from. You'll also have the opportunity to include subjects from other faculties. You'll start with a broad range of subjects in first year and gradually specialise in two major areas by third year or combine a science major with a sequence of study from another discipline.<br />
+< <br />
+< You'll have access to feature lecture and work placement opportunities with leading government and research organisations, plus volunteering opportunities.<br />
+< <br />
+< You'll also have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>. Our Honours and research students have the opportunity to work alongside scientists who are world leaders in their fields.<br />
+< <br />
+< Please note: students who enrol in the first year of the Bachelor of Science at the Albury-Wodonga Campus must transfer to the Melbourne Campus to complete the degree.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+298,330c224,225
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 70<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - BCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4, Further Mathematics (any) or Mathematical Methods (CAS) and one of Specialist Mathematics, Biology, Chemistry, Physics, Psychology or Environmental Science and English (any).</dd><dt>Additional costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property. Additional costs for fieldtrips - food, accommodation and travel - may also apply.</dd><dt>Additional information</dt><dd>Students enrolled at the Albury-Wodonga campus must transfer to the Melbourne campus after successfully completing their first year.<br />
+< Please note academic records and testamurs of students who complete specialisations in environmental science, space science, or statistics are annotated accordingly (e.g. Bachelor of Science (Statistics).</dd><dt>Professional recognition</dt><dd>Membership of professional associations is available according to the major studies chosen.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbs.htm"><span class="off-screen">Science </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/science-tech/sbsb.htm"><span class="off-screen">Science </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/stbsw.htm"><span class="off-screen">Science </span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree or approved international equivalent, with a major in a relevant area.</dd><dt>Additional information</dt><dd>This course has varying start dates at the Albury-Wodonga Campus. For details on structure and subject, check<br />
+> <a href="http://www.latrobe.edu.au/scitecheng/about/schools">with relevant departments of the faculty</a></dd><dt>Professional recognition</dt><dd>Depending on the specific studies chosen, graduates may be eligible for accreditation with a relevant scientific professional association.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/spsc.htm"><span class="off-screen">Science (Postgraduate Diploma)</span>Melbourne</a></dd></dl></div></div></div>
+333c228
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+336c231
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+347c242
+< <div id="related_study_options">
+---
+> <div id="study_options">
+351c246
+<   <li><a href="http://www.latrobe.edu.au/courses/agricultural-sciences">Agricultural sciences</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/agricultural-sciences/postgraduate">Agricultural sciences</a></li>
+353c248
+<   <li><a href="http://www.latrobe.edu.au/courses/botany">Botany</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/botany/postgraduate">Botany</a></li>
+357,359c252
+<   <li><a href="http://www.latrobe.edu.au/courses/genetics">Genetics</a></li>
+< 
+<   <li><a href="http://www.latrobe.edu.au/courses/science">Science</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/genetics/postgraduate">Genetics</a></li>
+366c259
+< <div id="related_study_options">
+---
+> <div id="new_div_106813">
+369,421d261
+< <h3>Alternative pathways</h3>
+< 
+< <p>Alternative pathways include TAFE; transferring from another degree or campus at La&nbsp;Trobe; transferring from another university where you are enrolled in a related degree, provided you meet the entry requirements; or enrol in a degree through our special mature age entry scheme or via single subject enrolment. See <a href="http://www.latrobe.edu.au/study">undergraduate pathways</a> or <a href="http://www.latrobe.edu.au/international">information for international students</a>.</p>
+< 
+< </div>
+< <div class="inline-video">
+< 	<div>
+< 		<img class="play-video" style="background:transparent url(http://webmedia.latrobe.edu.au/production1/video1497.jpg.std.jpg) no-repeat 0 0" src="http://webmedia.latrobe.edu.au/images/view-video-overlay-std.png" alt="" width="250" height="166" />
+< 	</div>
+< 
+<   <div class="webmedia">
+< 
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:04:17',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/AVrBAlpine_Ecology.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/AVrBAlpine_Ecology.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1497.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'1497', 'name':'1497'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1497', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< 
+< 
+< <div id="v1497">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1497.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/HqXJAlpine_Ecology.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< </div>
+< 
+< 		<div class="jump-list">
+< 			<ul>
+< 				<li class="initial webmedia">Other formats</li>
+< 				<li><a href="http://webstat.latrobe.edu.au/webmedia/media/HqXJAlpine_Ecology.mp4"><span
+< 				class="off-screen">Alpine Ecology</span> MP4 [24.71 MB]</a></li>
+< 				<li><a href="http://webstat.latrobe.edu.au/webmedia/media/JV0bAlpine_Ecology.mp3"><span class="off-screen">Alpine Ecology</span> MP3 [3.93 MB]</a></li>
+< 								<li><a href="http://webstat.latrobe.edu.au/webmedia/media/BQhhAlpine_Ecology-trans.docx"><span class="off-screen transcript-link">Alpine Ecology</span> Transcript</a></li>
+< 								<li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1497"><span class="off-screen">Alpine Ecology</span> Permalink</a></li>
+< 				<li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video format request: http://webmedia.latrobe.edu.au/webmedia/perma.php?1497">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< 			</ul>
+< 		</div>
+< 	</div>
+< </div>
+< 
+< <div id="new_div_106809">
+< <h3>Ecology placements</h3>
+< 
+< <p>Students participate in <a href="http://www.latrobe.edu.au/environmental-management-and-ecology/your-study-experience/field-trips">field trips</a> in second and third year. These include the Murray River floodplain, the Australian Alps, Mount Hotham, Falls Creek, the South Australian desert and Western Plains Zoo. You will do research in areas that are environmentally sensitive and have relevant management issues. There is a compulsory work placement in third year where you participate in management and research activities of your host organisation.<br /></p>
+< 
+< <p>You can also gain an understanding of industry career paths and the specialisations available by undertaking an <a href="http://www.latrobe.edu.au/scitecheng/study/industry-based-learning-and-cadetships">industry cadetship</a>. Cadetships&nbsp; usually take place during the summer and winter study breaks, but some longer placements are available for one or two semesters.<a href="http://www.latrobe.edu.au/scitecheng/study/industry-based-learning-and-cadetships"></a><br /></p>
+< 
+424,425c264,266
+< <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p><blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=517160"> <img src="http://www.latrobe.edu.au/student-profiles/images/Clayton-Harris-web.jpg/thumbnail.jpg" width="53" height="80" alt="" title="harris_clayton" /></a><cite><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=517160"> Clayton <strong>Harris</strong>,</a>  <br />Doctor of Philosophy (Freshwater Chemistry)</cite></p><p class="testimonial">"I am researching dissolved organic nitrogen sources and their bioavailability to freshwater ecosystems."</p>
+---
+> <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+> <div id="content_div_70640">
+> <h3>Student and graduate profiles</h3>
+426a268
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+428,429c270
+< </blockquote>
+< <div id="staff_profile_nest">
+---
+> </div>
+434,436c275
+< <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Environmental management and ecology&amp;submit=submit&amp;showform=no">staff in Environmental management and ecology</a>.</p-->
+< </div>
+< <!-- Content end -->
+---
+> <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Environmental management and ecology&amp;submit=submit&amp;showform=no">staff in Environmental management and ecology</a>.</p--><!-- Content end -->
+533,551c372
+< <!-- Google Code for Find a course Conversion Page -->
+< <script type="text/javascript">
+< /* <![CDATA[ */
+< var google_conversion_id = 1063865565;
+< var google_conversion_language = "en";
+< var google_conversion_format = "2";
+< var google_conversion_color = "ffffff";
+< var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+< var google_conversion_value = 0;
+< var google_remarketing_only = false;
+< /* ]]> */
+< </script>
+< <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+< </script>
+< <noscript>
+< <div style="display:inline;">
+< <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+< </div>
+< </noscript><script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+---
+> <script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+585a407,424
+> </div>
+> </noscript><!-- Google Code for Find a course Conversion Page -->
+> <script type="text/javascript">
+> /* <![CDATA[ */
+> var google_conversion_id = 1063865565;
+> var google_conversion_language = "en";
+> var google_conversion_format = "2";
+> var google_conversion_color = "ffffff";
+> var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+> var google_conversion_value = 0;
+> var google_remarketing_only = false;
+> /* ]]> */
+> </script>
+> <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+> </script>
+> <noscript>
+> <div style="display:inline;">
+> <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>

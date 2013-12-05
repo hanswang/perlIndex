@@ -1,0 +1,421 @@
+16,27d15
+< <!-- Brokenlinks //-->
+< 
+< <!-- Info //-->
+< <meta name="TotalPages" content="Nil" />
+< <meta name="Links" content="" />
+< <meta name="TotalLinks" content="" />
+< 
+< <!-- Total Info //-->
+< <meta name="Num_Subsites_With_Broken_Links" content="" />
+< <meta name="Last_Update_Time" content="" />
+< <meta name="Num_Total_Broken_Links_Sitewide" content="" />
+< 
+31,32c19,20
+< <meta name="description" content="Study physics through a variety of different courses or as a major in the Bachelor of Science and related double degrees." />
+< <meta name="keywords" content="Physics, science, environment, medical, health, weather, meteorology, communication, satellites, pollution, astronomy, space, radiology, bachelor, undergraduate" />
+---
+> <meta name="description" content="Our coursework program includes Master’s training and advanced skills in space physics, x-ray science, and surface and materials science." />
+> <meta name="keywords" content="Physics, postgraduate, Master's, Research" />
+49c37
+< <meta name="Campus" content="Albury-Wodonga,Bendigo,Melbourne" />
+---
+> <meta name="Campus" content="Melbourne,Albury-Wodonga" />
+55c43
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+63c51
+< <!-- 109157 -->
+---
+> <!-- 110965 -->
+88c76
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/physics"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="canonical" href="http://www.latrobe.edu.au/courses/physics/postgraduate"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+95c83
+<   Page generated: 11 November 2013 01:29:32
+---
+>   Page generated: 11 November 2013 08:19:54
+136c124
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/physics">Physics</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/physics">Physics</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/physics/postgraduate">Postgraduate</a></div>
+171,172c159,160
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/physics">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/physics/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/physics">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/physics/postgraduate">Postgraduate</a></li>
+176d163
+< 
+178c165,166
+< <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0007/503764/physics.jpg" width="249" height="166" alt="" title="Physics" />Why study Physics?</h2>
+---
+> <div class="feature feature-big">
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0009/119934/Physics.jpg" width="250" height="166" alt="" title="Physics.jpg" />Why study Physics?</h2>
+180c168,171
+< <p>Physics helps develop technologies including medical treatments, environmental controls, weather prediction, electronic devices, communications and satellites. You can study physics through a variety of different courses or as a major in the Bachelor of Science and related double degrees.<br /></p>
+---
+>   <p>Our coursework program includes Master’s training and advanced skills in space physics, x-ray science, and surface and materials science. We provide experience and competence in experimental work whether laboratory or environmental and field-based. Master’s level students complete a project in space physics, x-ray science or surface and materials science. Qualified graduates are eligible for membership of the Institute of Physics.<br /></p>
+> 
+>   <p>See the Research tab for information about Master&#39;s by research, or PhD.&nbsp;<br /></p>
+> </div>
+187c178
+< <p>Graduates are prepared for work in pollution control, astronomy and space science, atmospherics, radiology, materials and surface science, molecular science, bioengineering, global positioning systems, nanotechnology and science communication.</p>
+---
+> <p>Graduates are prepared for work in diverse areas involving technology and research, and in the commercial and administrative sectors.</p>
+194,202c185
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Nanotechnology/Bachelor of Science</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4.5 years full-time (4 years in an accelerated program) or up to 8 years part-time. </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">78.3</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to combine a specialisation in nanotechnology with comprehensive studies of the core science disciplines of biochemistry, chemistry, mathematics and physics.<br />
+< <br />
+< Nanotechnology is the science of matter on the tiniest scale: nanometres, or billionths of a metre. It contributes to improvements in health, computer speeds, environmental management, cleaner and greener production processes, and energy use. Nanotechnology also helps biologists sense and manipulate biological processes within cells.<br />
+< <br />
+< We've chosen a double-degree structure to help you develop extremely strong scientific knowledge across your studies.<br />
+< <br />
+< The curriculum focuses on practical skills and experience, and includes a nanotechnology project in your final year.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 30 in English (ESL) or 25 in any other English, 25 in Chemistry and Mathematical Methods, and 20 in either Specialist Mathematics or Physics; or equivalent.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">VTAC Personal History online</a> if they wish other information to be considered during the selection process. This may include information such as work experience or reasons for applying. Applicants may wish to provide other documentation in support of their application. They may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Successful completion of Physics and Specialist Mathematics facilitates an additional 1.5 aggregate points per study.</dd><dt>Costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property.  </dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>Depending on their elective choices, graduates may be eligible for accreditation with the Australian Institute of Physics and the Royal Australian Chemical Institute.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szns.htm"><span class="off-screen">Nanotechnology/Science </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Science</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time, or up to 6 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">61.45</span></dd><dd>Bendigo <span class="atar">64.5</span></dd><dd>Melbourne <span class="atar">70</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Science seeks answers to some of the most significant questions facing humankind. The extent of climate change, the best medicines to treat cancer, the most effective ways to protect endangered animals - and many other challenges - all require answers from science.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Nanotechnology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or up to 4 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Nanotechnology - understanding, creating and controlling events on the scale of nanometres (millionth of a millimetre) - is an emerging field which aims to understand and exploit the science of the very small.<br />
+204c187
+< Our Bachelor of Science is a highly flexible course, allowing you to create a program to suit your preferences with 14 subject areas to choose from. You'll also have the opportunity to include subjects from other faculties. You'll start with a broad range of subjects in first year and gradually specialise in two major areas by third year or combine a science major with a sequence of study from another discipline.<br />
+---
+> It covers a wide range of areas including semiconductors, where it is hoped that very small components will continue the increase in computational speed predicted by Moore's Law.<br />
+206c189
+< You'll have access to feature lecture and work placement opportunities with leading government and research organisations, plus volunteering opportunities.<br />
+---
+> Chemical systems expect nanotechnology to provide sophisticated sensors for chemicals at low concentrations, with applications to biological systems. Biologists seek means of manipulating and sensing biological processes within cells.<br />
+208c191,195
+< You'll also have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>. Our Honours and research students have the opportunity to work alongside scientists who are world leaders in their fields.<br />
+---
+> This course has a strong research focus. You will work in state-of-the-art research laboratories equipped with world class fabrication and characterisation resources.</dd><dt>Prerequisite</dt><dd>Applicants must have an Australian Bachelors degree or international equivalent, containing a major in physics and at least two years of chemistry. You should have achieved a minimum average of 65 per cent in the third year or have reached an equivalent standard as judged by the course coordinator. As there are a limited number of places available, the best applicants will be selected based on their curriculum vitae and academic record.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points. </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Please ensure you also provide all supplementary information required.<br /></dd><dt>Professional recognition</dt><dd>Depending on the subjects you select, satisfactory completion of this course may meet the professional level requirements for membership with the Australian Institute of Physics.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smnt.htm"><span class="off-screen">Nanotechnology (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Science in Physical Sciences</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or up to 4 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course covers the research areas of space physics, x-ray science and surface and materials science. We aim to equip you with experience and competence in areas of physics where experimental work is vastly different, being either laboratory- or environment/field-based. During first year, you will complete eight core subjects. During second year, you will be required to<br />
+> complete another four core subjects, engage in a practical statistical consulting project and write a minor thesis. If you achieve an average of 65 per cent in all subjects in first year, and demonstrate an aptitude for<br />
+> research, you may be invited to join the Honours stream. In the Honours stream, you will undertake a 60 credit-point Masters research thesis (approximately 18 000 words) along with a further 60 credit<br />
+> points of coursework subjects as a part of second year. Graduation from the Honours stream fulfils the requirements for entry into a PhD in a relevant discipline area at La Trobe University. You may be awarded the Postgraduate Diploma in Science after successfully completing first year, but only if you decide not to proceed to second year of the Masters course.</dd><dt>Prerequisite</dt><dd>Applicants must have a minimum average of 65 per cent in the third year of an Australian Bachelors degree in physics, or approved international equivalent.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points. </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Please ensure you also provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>Qualified graduates are eligible for membership of the Institute of Physics.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/psmsc.htm"><span class="off-screen">Science (Physical Sciences) - Master</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Science</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or up to 2 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Albury-Wodonga</dd><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is a research training pathway and offers you study options in various disciplines, depending on the campus. Study areas on the Melbourne Campus include: biochemistry, botany, chemistry, genetics, mathematics,<br />
+> microbiology, physics, statistical sciences and zoology. Study areas on the Albury-Wodonga Campus include: environmental management and ecology, botany, chemistry, genetics, microbiology, statistical science and zoology.<br />
+210c197,199
+< Please note: students who enrol in the first year of the Bachelor of Science at the Albury-Wodonga Campus must transfer to the Melbourne Campus to complete the degree.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: English (any) and mathematics (any)<br />
+---
+> You will complete equivalent requirements to the relevant Honours program in your selected discipline.</dd><dt>Prerequisite</dt><dd>Bachelor's degree in an area relevant to the chosen discipline.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points. <br />
+> <br />
+> </dd><dt>Additional information</dt><dd>Start dates vary according to discipline. Some disciplines begin in February at Melbourne campus and January at Albury-Woodonga campus, before the regular undergraduate year; some have no mid-year entry. For details, see the Honours information on this page.</dd><dt>How to apply</dt><dd>Apply to the Melbourne campus directly up to two weeks prior to commencement of the course.<br />
+212c201
+< NSW HSC: Band 2 Mathematics and satisfy English requirements</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+---
+> If applying to the Albury Woodonga campus, please do so before 16 December.<br />
+214,221c203
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Successful completion of Chemistry, Physics, or Specialist Mathematics gives you an additional 1.5 aggregate points per study to a maximum of 3 points. Consideration is also given to Special Entry Access Scheme (SEAS) criteria. A <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property.  Additional costs for fieldtrips - food, accommodation and travel - may also apply.</dd><dt>Additional information</dt><dd>Students enrolled at the Albury-Wodonga campus must transfer to either the Melbourne or Bendigo campus after successfully completing first year.</dd><dt>How to apply</dt><dd>VTAC/UAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December for our Bendigo Campus and Albury-Wodonga Campus. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC/UAC.<br /></dd><dt>Professional recognition</dt><dd>Depending on your major studies, you may be eligible for membership of relevant professional associations.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbs.htm"><span class="off-screen">Science </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/science-tech/sbsb.htm"><span class="off-screen">Science </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/stbsw.htm"><span class="off-screen">Science </span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Science (Hons) and Master of Nanotechnology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5.5 years full-time (5 years in an accelerated program) or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">89.95</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to combine a specialisation in nanotechnology with<br />
+< comprehensive studies of the core science disciplines of biochemistry, chemistry, mathematics and physics. Nanotechnology is the science of matter on the tiniest scale: nanometres, or billionths of a metre. It contributes to improvements in health, computer speeds, environmental management, cleaner and greener production processes, and energy use. Nanotechnology also helps biologists sense and manipulate biological processes within cells.<br />
+< <br />
+< We've chosen a double-degree structure to help you develop extremely strong scientific knowledge across your studies.<br />
+< <br />
+< The curriculum focuses on practical skills and experience, and includes the opportunity for a nanotechnology project and an international nanotechnology study tour in your final year.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 30 in English (ESL) or 25 in any other English, 25 in Chemistry and Mathematical Methods, and 20 in either Specialist Mathematics or Physics; or equivalent<br /></dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Completion of Physics and Specialist Mathematics facilitates an gives you 1.5 aggregate points per study, to a maximum of 3 points</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>Depending on your elective choices, graduates may be eligible for accreditation with the Australian Institute of Physics and the Royal Australian Chemical Institute.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szhsn.htm"><span class="off-screen">Science/Nanotechnology</span>Melbourne</a></dd></dl></div></div></div>
+---
+> <a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>Depending on the specific studies chosen, graduates may be eligible for accreditation with a relevant science professional association.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/spsc.htm"><span class="off-screen">Science (Postgraduate Diploma)</span>Melbourne</a></dd></dl></div></div></div>
+224,225c206,207
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+227c209
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+231c213
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+233c215
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+238c220
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Nanotechnology/Bachelor of Science (077464J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4.5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>27 220</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to combine a specialisation in nanotechnology with comprehensive studies of the core science disciplines of biochemistry, chemistry, mathematics and physics.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Nanotechnology (064432B           )</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Nanotechnology - understanding, creating and controlling events on the scale of nanometres (millionth of a millimetre) - is an emerging field which aims to understand and exploit the science of the very small.<br />
+240c222
+< Nanotechnology is the science of matter on the tiniest scale: nanometres, or billionths of a metre. It contributes to improvements in health, computer speeds, environmental management, cleaner and greener production processes, and energy use. Nanotechnology also helps biologists sense and manipulate biological processes within cells.<br />
+---
+> It covers a wide range of areas including semiconductors, where it is hoped that very small components will continue the increase in computational speed predicted by Moore's Law.<br />
+242c224
+< We've chosen a double-degree structure to help you develop extremely strong scientific knowledge across your studies.<br />
+---
+> Chemical systems expect nanotechnology to provide sophisticated sensors for chemicals at low concentrations, with applications to biological systems. Biologists seek means of manipulating and sensing biological processes within cells.<br />
+244c226
+< The curriculum focuses on practical skills and experience, and includes a nanotechnology project in your final year.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> This course has a strong research focus. You will work in state-of-the-art research laboratories equipped with world class fabrication and characterisation resources.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+246c228
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+248c230
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+250c232
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+252c234,236
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+254,256c238
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+260,281c242
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 80<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 78.30<br />
+< International Baccalaureate - 27<br />
+< GCE A Levels - 9<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - BBB<br />
+< STPM - 9<br />
+< MICSS (UEC) - 4<br />
+< Canada Secondary School (or CPU) - 75<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 80<br />
+< Vietnam (Year 12) - 8.5<br />
+< Indonesia (SMA) - 8.5<br />
+< GAC Cert. IV - GPA 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Chemistry, Mathematics and Physics determined to be equivalent to VCE Units 3 &amp; 4 (any) with a minimum study score of 30 in English (ESL), a minimum study score of 25 in any other English, Chemistry and Mathematical Methods (either), and 20 in Specialist Mathematics or Physics.</dd><dt>Additional costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property.</dd><dt>Professional recognition</dt><dd>Graduates may be eligible for accreditation with the Australian Institute of Physics and the Royal Australian Chemical Institute, depending on their electives.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szns.htm"><span class="off-screen">Nanotechnology/Science </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Science (022039C)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years
+< 
+< </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Science seeks answers to some of the most significant questions facing humankind. The extent of climate change, the best medicines to treat cancer, the most effective ways to protect endangered animals - and many other challenges - all require answers from science.<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+283c244,247
+< Our Bachelor of Science is a highly flexible course, allowing you to create a program to suit your preferences with 14 subject areas to choose from. You'll also have the opportunity to include subjects from other faculties. You'll start with a broad range of subjects in first year and gradually specialise in two major areas by third year or combine a science major with a sequence of study from another discipline.<br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree, or approved international equivalent, containing a major in physics and at least two years of chemistry. You should have obtained a minimum average of 65 per cent in the third year of their Bachelor's degree, or reached an equivalent standard as assessed by the nanotechnology Course Coordinator.</dd><dt>Professional recognition</dt><dd>You may be eligible to become members of the Australian Institute of Physics (AIP).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smnt.htm"><span class="off-screen">Nanotechnology (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Science in Physical Sciences (028640D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 510</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course covers the research areas of space physics, x-ray science and surface and materials science. We aim to equip you with experience and competence in areas of physics where experimental work is vastly different, being either laboratory- or environment/field-based. During first year, you will complete eight core subjects. During second year, you will be required to<br />
+> complete another four core subjects, engage in a practical statistical consulting project and write a minor thesis. If you achieve an average of 65 per cent in all subjects in first year, and demonstrate an aptitude for<br />
+> research, you may be invited to join the Honours stream. In the Honours stream, you will undertake a 60 credit-point Masters research thesis (approximately 18 000 words) along with a further 60 credit<br />
+> points of coursework subjects as a part of second year. Graduation from the Honours stream fulfils the requirements for entry into a PhD in a relevant discipline area at La Trobe University. You may be awarded the Postgraduate Diploma in Science after successfully completing first year, but only if you decide not to proceed to second year of the Masters course.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+285c249
+< You'll have access to feature lecture and work placement opportunities with leading government and research organisations, plus volunteering opportunities.<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+287c251
+< You'll also have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>. Our Honours and research students have the opportunity to work alongside scientists who are world leaders in their fields.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+289c253
+< Please note: students who enrol in the first year of the Bachelor of Science at the Albury-Wodonga Campus must transfer to the Melbourne Campus to complete the degree.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+291c255,257
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+293,301c259
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+305c263
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+307,322c265,266
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 70<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - BCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelors degree in physics or approved international equivalent, with a minimum 65 per cent grade average in the third year.</dd><dt>Professional recognition</dt><dd>Once you have graduated, you may be eligible for membership of the Australian Institute of Physics (AIP).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/psmsc.htm"><span class="off-screen">Science (Physical Sciences) - Master</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Science (003303E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is a research training pathway and offers you study options in various disciplines, depending on the campus. Study areas on the Melbourne Campus include: biochemistry, botany, chemistry, genetics, mathematics,<br />
+> microbiology, physics, statistical sciences and zoology. Study areas on the Albury-Wodonga Campus include: environmental management and ecology, botany, chemistry, genetics, microbiology, statistical science and zoology.<br />
+324,326c268
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4, Further Mathematics (any) or Mathematical Methods (CAS) and one of Specialist Mathematics, Biology, Chemistry, Physics, Psychology or Environmental Science and English (any).</dd><dt>Additional costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property. Additional costs for fieldtrips - food, accommodation and travel - may also apply.</dd><dt>Additional information</dt><dd>Students enrolled at the Albury-Wodonga campus must transfer to the Melbourne campus after successfully completing their first year.<br />
+< Please note academic records and testamurs of students who complete specialisations in environmental science, space science, or statistics are annotated accordingly (e.g. Bachelor of Science (Statistics).</dd><dt>Professional recognition</dt><dd>Membership of professional associations is available according to the major studies chosen.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbs.htm"><span class="off-screen">Science </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/science-tech/sbsb.htm"><span class="off-screen">Science </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/stbsw.htm"><span class="off-screen">Science </span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Science (Hons) and Master of Nanotechnology (065395E/064432B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5.5 years (5 years accelerated learning program)</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>27 220</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to combine a specialisation in nanotechnology with<br />
+< comprehensive studies of the core science disciplines of biochemistry, chemistry, mathematics and physics. Nanotechnology is the science of matter on the tiniest scale: nanometres, or billionths of a metre. It contributes to improvements in health, computer speeds, environmental management, cleaner and greener production processes, and energy use. Nanotechnology also helps biologists sense and manipulate biological processes within cells.<br />
+---
+> You will complete equivalent requirements to the relevant Honours program in your selected discipline.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+328c270
+< We've chosen a double-degree structure to help you develop extremely strong scientific knowledge across your studies.<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+330c272
+< The curriculum focuses on practical skills and experience, and includes the opportunity for a nanotechnology project and an international nanotechnology study tour in your final year.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+332c274
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+334c276,278
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+336,342c280
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+346,363c284
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 90<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 89.95<br />
+< International Baccalaureate - 32<br />
+< GCE A Levels - 10<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - BBB<br />
+< STPM - 9<br />
+< MICSS (UEC) - 4<br />
+< Canada Secondary School (or CPU) - 75<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 80<br />
+< Vietnam (Year 12) - 8.5<br />
+< Indonesia (SMA) - 8.5<br />
+< GAC Cert. IV - GPA 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+365c286,287
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Chemistry, Mathematics and Physics determined to be equivalent to VCE Units 3 &amp; 4 (any) with a minimum study score of 30 in English (ESL), a study score of 25 in any other English, Chemistry and Mathematical Methods (either), and a study score of at least 20 in one of Specialist Mathematics or Physics.</dd><dt>Additional information</dt><dd>Semester 2 (July) entry is only available to students with Advanced Standing (credit) for previous studies.</dd><dt>Professional recognition</dt><dd>Graduates may be eligible for accreditation with the Australian Institute of Physics and the Royal Australian Chemical Institute (RACI), depending on their electives.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szhsn.htm"><span class="off-screen">Science/Nanotechnology</span>Melbourne</a></dd></dl></div></div></div>
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree or approved international equivalent, with a major in a relevant area.</dd><dt>Additional information</dt><dd>This course has varying start dates at the Albury-Wodonga Campus. For details on structure and subject, check<br />
+> <a href="http://www.latrobe.edu.au/scitecheng/about/schools">with relevant departments of the faculty</a></dd><dt>Professional recognition</dt><dd>Depending on the specific studies chosen, graduates may be eligible for accreditation with a relevant scientific professional association.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/spsc.htm"><span class="off-screen">Science (Postgraduate Diploma)</span>Melbourne</a></dd></dl></div></div></div>
+368c290
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+371c293
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+382c304
+< <div id="related_study_options">
+---
+> <div id="study_options">
+386c308
+<   <li><a href="http://www.latrobe.edu.au/courses/mathematics-and-statistics">Mathematics</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/mathematics-and-statistics/postgraduate">Mathematics and statistics</a></li>
+388c310
+<   <li><a href="http://www.latrobe.edu.au/courses/nanotechnology">Nanotechnology</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/nanotechnology/postgraduate">Nanotechnology</a></li>
+390c312
+<   <li><a href="http://www.latrobe.edu.au/courses/space-science">Space science</a><br /></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/space-science">Space science</a></li>
+394,395d315
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=256791"> <img src="http://www.latrobe.edu.au/student-profiles/images/TomPayten_web.jpg/thumbnail.jpg" width="53" height="80" alt="" title="payten_tom" /></a><cite><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=256791"> Tom <strong>Payten</strong>,</a>  <br />Bachelor of Nanotechnology / Bachelor of Science (Honours)</cite></p><p class="testimonial">"The nanotechnology degree offers an extremely practical and broad-ranging scientific education."</p>
+397,399c317
+< 
+< </blockquote>
+< <div id="related_study_options">
+---
+> <div id="new_div_106813">
+402,407d319
+< <h3>Alternative pathways</h3>
+< 
+< <p>Our Faculty offers several pathways into some of our most popular courses – view your options for <a href="http://www.latrobe.edu.au/scitecheng/study/alternative-course-pathways/physics">pathway entry into Physics</a>.</p>
+< 
+< <p>La&nbsp;Trobe offers you many pathway options to your preferred course: via another La&nbsp;Trobe course or campus, another university, TAFE, a single subject or mature-age enrolment. See&nbsp;<a href="http://www.latrobe.edu.au/school/apply/pathways">undergraduate pathways</a>, <a href="http://www.latrobe.edu.au/mature-age/apply/pathways">mature-age enrolment</a> or&nbsp;<a href="http://www.latrobe.edu.au/international">information for international students</a> for general information about these options.</p>
+< 
+408a321,324
+> <h3>Overseas study opportunities</h3>
+> <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+> <div id="content_div_70640">
+> <h3>Student and graduate profiles</h3>
+410,411c326
+< <div id="new_div_106809">
+< <h3>Physics placements</h3>
+---
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+414,416d328
+< <p>The industry cadetship program allows you to gain paid workplace experience between semesters, giving you the chance to build on your skills and build your career. See <a href="http://www.latrobe.edu.au/scitecheng/study/cadetships">cadetship program</a>.</p><h3>Overseas study opportunities</h3>
+< <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+< <div id="staff_profile_nest">
+421,423c333
+< <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Physics&amp;submit=submit&amp;showform=no">staff in Physics</a>.</p-->
+< </div>
+< <!-- Content end -->
+---
+> <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Physics&amp;submit=submit&amp;showform=no">staff in Physics</a>.</p--><!-- Content end -->
+520,538c430
+< <!-- Google Code for Find a course Conversion Page -->
+< <script type="text/javascript">
+< /* <![CDATA[ */
+< var google_conversion_id = 1063865565;
+< var google_conversion_language = "en";
+< var google_conversion_format = "2";
+< var google_conversion_color = "ffffff";
+< var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+< var google_conversion_value = 0;
+< var google_remarketing_only = false;
+< /* ]]> */
+< </script>
+< <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+< </script>
+< <noscript>
+< <div style="display:inline;">
+< <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+< </div>
+< </noscript><!-- Includes sei-event-calendar.js for related events -->
+---
+> <!-- Includes sei-event-calendar.js for related events -->
+560a453,470
+> </div>
+> </noscript><!-- Google Code for Find a course Conversion Page -->
+> <script type="text/javascript">
+> /* <![CDATA[ */
+> var google_conversion_id = 1063865565;
+> var google_conversion_language = "en";
+> var google_conversion_format = "2";
+> var google_conversion_color = "ffffff";
+> var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+> var google_conversion_value = 0;
+> var google_remarketing_only = false;
+> /* ]]> */
+> </script>
+> <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+> </script>
+> <noscript>
+> <div style="display:inline;">
+> <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>

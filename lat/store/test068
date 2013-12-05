@@ -1,0 +1,423 @@
+19,20c19,20
+< <meta name="description" content="Develop skills in electronic circuits and systems. You can specialise in biomedical engineering, communication engineering, electronic systems, optical engineeing and sustainability in energy production." />
+< <meta name="keywords" content="Electronic, engineering, biomedical, communication, electronic systems, optical, sustainability, energy, telecommunications, circuit, technology, network, bachelor, undergraduate" />
+---
+> <meta name="description" content="Our coursework program offers graduates the opportunity to advance their skills and also caters for graduates of other disciplines." />
+> <meta name="keywords" content="Electronic engineering, microelectronics, biomedical engineering, electronic systems engineering, optical engineering, communications engineering, MBA, postgraduate, Master, Engineers Australia" />
+34c34
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+42c42
+< <!-- 108186 -->
+---
+> <!-- 109127 -->
+67c67
+< <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/electronic-engineering"/>		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/electronic-engineering/postgraduate"/>		
+74c74
+<   Page generated: 10 November 2013 20:38:43
+---
+>   Page generated: 11 November 2013 15:12:14
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/electronic-engineering">Electronic engineering</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/electronic-engineering">Electronic engineering</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/electronic-engineering/postgraduate">Postgraduate</a></div>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/electronic-engineering">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/electronic-engineering/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/electronic-engineering">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/electronic-engineering/postgraduate">Postgraduate</a></li>
+155,195d154
+< <div class="inline-video">
+< 	<div>
+< 		<img class="play-video" style="background:transparent url(http://webmedia.latrobe.edu.au/production1/video1528.jpg.std.jpg) no-repeat 0 0" src="http://webmedia.latrobe.edu.au/images/view-video-overlay-std.png" alt="" width="250" height="166" />
+< 	</div>
+< 
+<   <div class="webmedia">
+< 
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:04:45',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/M1MKLTU_ElectronEng_v4.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/M1MKLTU_ElectronEng_v4.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1528.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'1528', 'name':'1528'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1528', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< 
+< 
+< <div id="v1528">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1528.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/qinoLTU_ElectronEng_v4_1.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< </div>
+< 
+< 		<div class="jump-list">
+< 			<ul>
+< 				<li class="initial webmedia">Other formats</li>
+< 				<li><a href="http://webstat.latrobe.edu.au/webmedia/media/qinoLTU_ElectronEng_v4_1.mp4"><span
+< 				class="off-screen">Electronic Engineering - La Trobe University</span> MP4 [26.90 MB]</a></li>
+< 				<li><a href="http://webstat.latrobe.edu.au/webmedia/media/oFaHLTU_ElectronEng_v4.mp3"><span class="off-screen">Electronic Engineering - La Trobe University</span> MP3 [3.27 MB]</a></li>
+< 								<li><a href="http://webstat.latrobe.edu.au/webmedia/media/ggfiElectronic Engineering.docx"><span class="off-screen transcript-link">Electronic Engineering - La Trobe University</span> Transcript</a></li>
+< 								<li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1528"><span class="off-screen">Electronic Engineering - La Trobe University</span> Permalink</a></li>
+< 				<li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video format request: http://webmedia.latrobe.edu.au/webmedia/perma.php?1528">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< 			</ul>
+< 		</div>
+< 	</div>
+< </div>
+< 
+197c156,157
+< <h2>Why study Electronic engineering or Microelectronics?</h2>
+---
+> <div class="feature feature-big">
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0011/119918/Electronic-Engineering.jpg" width="250" height="166" alt="" title="Electronic-Engineering.jpg" />Why study Electronic engineering?</h2>
+199c159
+< <p>The electronic engineering program focuses on electronic circuits and systems used in daily life, from simple microwave ovens to photonic communication devices and biomedical equipment.<br /></p>
+---
+>   <p>Our coursework program offers graduates the opportunity to advance their skills in specialist areas including microelectronics, biomedical engineering, electronic systems engineering, optical engineering and communications engineering.</p>
+201c161
+< <p>You can specialise in biomedical engineering, communication engineering, electronic systems engineering (microelectronics, control systems and signal processing), optical engineering or sustainability in energy production.</p>
+---
+>   <p>Graduates from other disciplines may combine their studies with a MBA qualification.<br /></p>
+203c163,164
+< <p>We aim to qualify you for a career as an engineering technologist in the community and give you an awareness of the social and environmental effects of your decisions.<br /></p>
+---
+>   <p>See the Research tab for information about Masters by research, or PhD.&nbsp;<br /></p>
+> </div>
+210c171,175
+< <p>This degree is professionally recognised and accredited by <a href="http://www.engineersaustralia.org.au/">Engineers Australia</a>.<br /></p>
+---
+> <p>Electronic engineering graduates may find work in research and development, communications, microelectronics, hospitals and medical equipment, automotive industry, defence organisations, quality control, and electronic equipment design and manufacturing.</p>
+> 
+> <p>Graduates combining their studies with a MBA may use their business and management skills and understanding of electronic engineering in organisations specialising in the design and development of electronic devices.</p>
+> 
+> <p>Microelectronic graduates are prepared for careers across the broad field of electronic engineering as well as computer and information technology, consumer electronics, wireless systems, home entertainment, telecommunications, defence, security, and the design and manufacture of automotive, biotechnology and biomedical equipment.</p>
+212c177
+< <p>Career options depend on your specialisation and may include satellite and mobile telecommunications, microelectronic circuit design and assembly, control systems, technical support and supervision, robotics or biomedical engineering and high-technology health services.<br /></p>
+---
+> <p>Our courses are recognised by <a href="http://www.engineersaustralia.org.au/">Engineers Australia</a>.<br /></p>
+219,244c184,203
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Computer Science (Honours)/Bachelor of Electronic Engineering (Honours)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>6 years full-time (5 years in an accelerated program), or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">89.2</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>A course designed to give you many career options across two fields - and the areas where they intersect. You can choose computer science specialisations in artificial intelligence, data engineering, network engineering, and software engineering. In electronic engineering, students can specialise in sustainable energy production, or biomedical, communications, electronic systems or optical engineering.<br />
+< <br />
+< This includes an opportunity for industryrecognised CISCO certification in computer networks, an incorporated Honours year, industry experience, and practical learning. See individual course entries for further detail.<br />
+< <br />
+< See the <a href="http://www.latrobe.edu.au/scitecheng/study%3Eopportunities%20for%20industry-based%20project%20work%3C/a%3E%20in%20both%20disciplines,%20as%20well%20as%20the%20%3Ca%20href=">Faculty's industry experience and student support programs.</a></dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 25 in English (ESL) or 20 in any other English, and 25 in Mathematical Methods or 20 in Specialist Mathematics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Guaranteed Entry (Year 12 applicants only): applicants with an ATAR of 80 or above receive a first-round offer; those with lower ATARs are considered through normal selection processes.<br />
+< <br />
+< Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">VTAC Personal History online</a> for other information to be considered during the selection process, e.g. details on work experience or reason for applying. This may include information such as work experience or reasons for applying. Applicants may wish to provide other documentation in support of their application. You may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Successful completion of Physics or Specialist Mathematics gives you an additional 1.5 aggregate points for each area of study.</dd><dt>Additional information</dt><dd>A CISCO certification training program is available for students who pass the network engineering subjects in their undergraduate studies. Any students interested in obtaining full details of this CISCO program should contact the Department of Computer Science and Computer Engineering at the beginning of first semester.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>Graduates are eligible for professional membership of the Australian Computer Society and the Institute of Electrical and Electronics Engineers (IEEE).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/swcsee.htm"><span class="off-screen">Computer Science/Electronic Engineering </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Electronic Engineering (Honours)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">61.65</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Modern electronic engineering creates sophisticated instruments and devices for use in all branches of physical and biological sciences, in engineering and manufacturing, and in the home.<br />
+< This course focuses on the electronic systems we use daily, from simple circuits to complex devices and expensive biomedical equipment in hospitals. It also aims to give you an appreciation of the role of engineers in the community, and an awareness of the social and environmental effects of their decisions.<br />
+< <br />
+< The curriculum provides a broad introduction to electronics, with the opportunity to specialise in sustainability in energy production, or biomedical, microelectronic, optical or electronic systems engineering.<br />
+< <br />
+< Visit the <a href="http://www.latrobe.edu.au/scitecheng/study">Faculty's industry experience and student support programs.</a><br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: English (any) and either Mathematical Methods or Specialist Mathematics</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Successful completion of Physics or Specialist Mathematics gives you an additional 1.5 aggregate points for each area of study. Performance in prerequisite studies is also considered.</dd><dt>Additional information</dt><dd>Students must complete at least 12 weeks' certified practical experience to be deemed to have completed the course. This is usually undertaken during the vacation following third or fourth year, but may be done at the end of final year.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>The course is accredited by Engineers Australia. Graduates with a biomedical engineering specialty can apply for registration with the College of Biomedical Engineers (Engineers Australia), after holding a position of professional responsibility in biomedical engineering.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/svee.htm"><span class="off-screen">Electronic Engineering</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Electronic Technology </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">61.7</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This three-year course prepares you to work alongside electronic engineers in the industry, and understand the social and environmental effects of your decisions. This course is a pathway into the Bachelor of Electronic Engineering.<br />
+< <br />
+< Visit the <a href="http://www.latrobe.edu.au/scitecheng/study">Faculty's industry experience and student support programs.</a></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: English (any) and either Mathematical Methods or Specialist Mathematics</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Successful completion of Specialist Mathematics or Physics gives you an additional 1.5 points per study. Performance in prerequisite studies is also considered.</dd><dt>Additional information</dt><dd>Students must complete at least eight weeks' certified practical experience under the guidance of an experienced engineer to be deemed to have completed the course. This is preferably undertaken during the annual vacation following second year, but may be done at the end of the final year.<br /></dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>This course is accredited by Engineers Australia for associate level membership. If you want to become an accredited electronic engineer, high-achieving students can articulate from this course into the Bachelor of Electronic Engineering and complete an Honours year.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbet.htm"><span class="off-screen">Electronic Technology</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Mechatronic and Robotic Engineering (Honours)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides you with accredited training for the rapidly growing fields related to integration and control of mechanical systems. In your first year, you'll study a suite of common subjects which will provide a solid base in physics, mathematics, programming, engineering design, Computer Aided Design (CAD) and electronics.<br />
+< <br />
+< We aim to give you an in-depth practical understanding through hands-on experimentation and industry experience in key areas of electronics, control systems, and mechatronics and robotics. Our course offers you a wide scope including fabrication and programming of robots, development of mechatronic systems, firmware development for Field Programmable Gate Arrays and microcontrollers, control systems, engineering management and communications. You'll complete projects in every year of study, culminating in a year-long project in your fourth year, aiming to prepare you for the engineering industry.<br />
+< <br />
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/SHMRE/search/1">Frequently Asked Questions page</a> .<br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: English (any) and either Mathematical Methods or Specialist Mathematics</dd><dt>Middle band</dt><dd>Successful completion of Physics or Specialist Mathematics gives you an additional 1.5 aggregate points for each area of study. Performance in prerequisite studies is also considered.</dd><dt>Additional information</dt><dd>You'll be required to complete at least 12 weeks of certified practical experience under the guidance of an experienced engineer before being deemed to have completed the course. This is preferably undertaken during the annual vacation following the third year of the course, but may be done at the conclusion of the final year.<br />
+< <br />
+< If you've completed or partially completed a Diploma or Certificate studies, you may be granted Advanced Standing.<br /></dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>The degree is accredited by Engineers Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/shmre.htm"><span class="off-screen">Mechatronics and Robotics</span>Melbourne</a></dd></dl></div></div></div>
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Business Administration / Master of Electronic Engineering </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This program equips students with various professional skills that are highly sought after by the electronic engineering industry. This skill set allows graduates to fast-track their careers into senior management positions in high-technology companies, or to form their own technology start-up company.</dd><dt>Prerequisite</dt><dd>Four-year Australian electronic or communication/telecommunication engineering degree, or approved international equivalent that includes the fundamentals of analogue and digital communication techniques and systems.</dd><dt>Fee amount</dt><dd>Indicative (2012): $17,890 per 120 credit points. <br />
+> <br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/szbaee.htm"><span class="off-screen">Business Administration/Electronic Engineering (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Electronic Engineering</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 year full-time or 4 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If youre looking to develop your skills and specialise in the rapidly developing high-technology area of electronics, this course is designed for you. We offer specialty teaching in the areas of biomedical engineering, communication and electronic systems, microelectronics, design and optical engineering. You can choose components that best suit your chosen specialisation.</dd><dt>Prerequisite</dt><dd>A four-year Bachelor of Engineering degree or an Honours degree<br />
+> in science in an appropriate field, or an international equivalent.<br />
+> If you do not strictly meet this requirement, you may be considered<br />
+> for admission following successful completion of the Postgraduate<br />
+> Diploma in Electronic Engineering.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 240 credit points. <br />
+> <br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Download, complete and submit a <a href="http://www.latrobe.edu.au/postgrad-coursework/apply">postgraduate coursework application form</a>. Please ensure you also provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The compulsory subjects in this course satisfy the requirements for membership of the College of Biomedical Engineering of Engineers Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smele.htm"><span class="off-screen">Electronic Engineering (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Electronic Systems and Network Engineering</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or up to 4 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides specialised training in the high demand areas of computer networks, biomedical engineering, communications engineering, distributed computing, electronic systems engineering, microelectronics design, mobile communications, optical engineering, and wireless networks.</dd><dt>Prerequisite</dt><dd>Four-year engineering degree or Honours degree in science in an appropriate field (or equivalent degree, which provides a background in digital logic, computer architecture, mathematics at second-year level and programming skills in C or C++). Candidates who do not meet these requirements may be considered, after successful completion of the Postgraduate Diploma in Electronic Engineering.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 (per 120 credit points)<br />
+> <br />
+> </dd><dt>How to apply</dt><dd>Apply directly to the University up to two weeks prior to the commencement of the course. Download, complete and submit a <a href="http://www.latrobe.edu.au/students/enrolment/documents/admission-pg-coursework.pdf">postgraduate coursework application form (PDF 77KB)</a>. Please ensure you also provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smesne.htm"><span class="off-screen">Electronic Systems and Network Engineering (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Microelectronic Engineering</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or up to 4 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course addresses the many challenges brought about by rapid advances in computers, multimedia and telecommunication,from high-level specification of microelectronic systems to the realisation of integrated circuits. It aims to produce skilled engineers with practical experience to suit the microelectronics industry, featuring the opportunity for students to design their own integrated circuits.</dd><dt>Prerequisite</dt><dd>Four-year Bachelor of Engineering in electronic, computer, or communication/telecommunications engineering, or four-year Bachelor of Science (Honours) in an appropriate field, or equivalent. Applicants with a three-year Bachelor of Science (in appropriate field) or Bachelor of Engineering in another field may also be considered, conditional upon enrolment in additional (preliminary) subjects.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points. <br />
+> <br />
+> </dd><dt>How to apply</dt><dd>Apply directly to the University up to two weeks prior to the commencement of the course. Download, complete and submit a <a href="http://www.latrobe.edu.au/students/enrolment/documents/admission-pg-coursework.pdf">postgraduate coursework application form (PDF 77KB)</a>. Please ensure you also provide all supplementary information required.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smme.htm"><span class="off-screen">Microelectronic Engineering (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Electronic Engineering</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to update your skills or to specialise in biomedical, communication, electronic systems or optical engineering.<br />
+> <br />
+> It also offers you the opportunity to prepare for further study in the Master of Electronic Engineering, or the Master of Engineering (by research).<br />
+> <br />
+> If you have a four-year degree in engineering or science (with an electronics major), this course is a means to expand your knowledge and keep up-to-date with developments in these specialist areas.</dd><dt>Prerequisite</dt><dd>A Bachelor's degree in a relevant area: computer science,<br />
+> electrical/civil/mechanical engineering, or a degree in physical<br />
+> sciences with advanced maths and physics in the curriculum.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points. <br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Download, complete and submit a <a href="http://www.latrobe.edu.au/students/postgrad-coursework/apply">postgraduate coursework application form</a>. Please ensure you also provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The course is accredited by Engineers Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/spee.htm"><span class="off-screen">Electronic Engineering (Postgraduate Diploma)</span>Melbourne</a></dd></dl></div></div></div>
+247,248c206,207
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+250c209
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+254c213
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+256c215
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+261,263c220
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Computer Science (Honours)/Bachelor of Electronic Engineering (Honours) (077919E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>6 years 
+< 
+< </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>27 220</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>A course designed to give you many career options across two fields - and the areas where they intersect. You can choose computer science specialisations in artificial intelligence, data engineering, network engineering, and software engineering. In electronic engineering, students can specialise in sustainable energy production, or biomedical, communications, electronic systems or optical engineering.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Electronic Engineering (020934K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If youre looking to develop your skills and specialise in the rapidly developing high-technology area of electronics, this course is designed for you. We offer specialty teaching in the areas of biomedical engineering, communication and electronic systems, microelectronics, design and optical engineering. You can choose components that best suit your chosen specialisation.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+265c222
+< This includes an opportunity for industryrecognised CISCO certification in computer networks, an incorporated Honours year, industry experience, and practical learning. See individual course entries for further detail.<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+267c224
+< See the <a href="http://www.latrobe.edu.au/scitecheng/study%3Eopportunities%20for%20industry-based%20project%20work%3C/a%3E%20in%20both%20disciplines,%20as%20well%20as%20the%20%3Ca%20href=">Faculty's industry experience and student support programs.</a></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+269c226
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+271c228,230
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+273,279c232
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+283c236
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+285,310c238
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 80<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 89.20<br />
+< International Baccalaureate - 32<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2x Level 5<br />
+< Sri Lankan A Levels - BBB<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 75<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 80<br />
+< Vietnam (Year 12) - 8.6<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information, visit the <a href="http://www.latrobe.edu.au/icollege">La Trobe International College</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4 with a minimum score of 25 in Mathematical Methods (CAS) or 20 in Specialist Mathematics. VCE Units 3 and 4: minimum score of 25 in English (ESL) or 20 in any other English.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for professional membership of the Australian Computer Society and the Institute of Electrical and Electronics Engineers (IEEE).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/swcsee.htm"><span class="off-screen">Computer Science/Electronic Engineering </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Electronic Engineering (Honours) (069556E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Modern electronic engineering creates sophisticated instruments and devices for use in all branches of physical and biological sciences, in engineering and manufacturing, and in the home.<br />
+< This course focuses on the electronic systems we use daily, from simple circuits to complex devices and expensive biomedical equipment in hospitals. It also aims to give you an appreciation of the role of engineers in the community, and an awareness of the social and environmental effects of their decisions.<br />
+< <br />
+< The curriculum provides a broad introduction to electronics, with the opportunity to specialise in sustainability in energy production, or biomedical, microelectronic, optical or electronic systems engineering.<br />
+< <br />
+< Visit the <a href="http://www.latrobe.edu.au/scitecheng/study">Faculty's industry experience and student support programs.</a><br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>A four-year Australian Bachelors degree in engineering or an Honours degree in an appropriate field of science, or an approved international equivalent. If you do not meet these requirements, you may be considered for admission following successful completion of the Postgraduate Diploma in Electronic Engineering.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smele.htm"><span class="off-screen">Electronic Engineering (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Electronic Engineering (019480A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to update your skills or to specialise in biomedical, communication, electronic systems or optical engineering.<br />
+312c240
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> It also offers you the opportunity to prepare for further study in the Master of Electronic Engineering, or the Master of Engineering (by research).<br />
+314c242
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> If you have a four-year degree in engineering or science (with an electronics major), this course is a means to expand your knowledge and keep up-to-date with developments in these specialist areas.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+316c244
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+318c246
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+320c248
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+322,343c250,252
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 61.65<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 60<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4 Mathematical Methods (CAS) or Specialist Mathematics and English (any).</dd><dt>Additional information</dt><dd>Students with Advanced Standing (credit) may commence in Semester 2 (July).</dd><dt>Professional recognition</dt><dd>The course is accredited by Engineers Australia and graduates are eligible for professional membership.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/svee.htm"><span class="off-screen">Electronic Engineering</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Electronic Technology  (013449D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810
+< 
+< </dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This three-year course prepares you to work alongside electronic engineers in the industry, and understand the social and environmental effects of your decisions. This course is a pathway into the Bachelor of Electronic Engineering.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+345,357c254
+< Visit the <a href="http://www.latrobe.edu.au/scitecheng/study">Faculty's industry experience and student support programs.</a></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+361,392c258
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 50<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 61.70<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 7<br />
+< HKDSE - 1 x Level 4<br />
+< Sri Lankan A Levels - CCD<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5.5<br />
+< Canada Secondary School (or CPU) - 50<br />
+< Norway Upper Secondary Certificate - 3.3<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4 Mathematical Methods (CAS) or Specialist Mathematics and English (any).</dd><dt>Additional information</dt><dd>Students with Advanced Standing (credit) may commence in Semester 2 (July).</dd><dt>Professional recognition</dt><dd>This course is accredited by Engineers Australia for associate level membership.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbet.htm"><span class="off-screen">Electronic Technology</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Mechatronic and Robotic Engineering (Honours) (079552D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 060</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-3"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides you with accredited training for the rapidly growing fields related to integration and control of mechanical systems. In your first year, you'll study a suite of common subjects which will provide a solid base in physics, mathematics, programming, engineering design, Computer Aided Design (CAD) and electronics.<br />
+< <br />
+< We aim to give you an in-depth practical understanding through hands-on experimentation and industry experience in key areas of electronics, control systems, and mechatronics and robotics. Our course offers you a wide scope including fabrication and programming of robots, development of mechatronic systems, firmware development for Field Programmable Gate Arrays and microcontrollers, control systems, engineering management and communications. You'll complete projects in every year of study, culminating in a year-long project in your fourth year, aiming to prepare you for the engineering industry.<br />
+< <br />
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/SHMRE/search/1">Frequently Asked Questions page</a> .<br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+394,421c260
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>Please note that these scores have yet to be confirmed<br />
+< <br />
+< LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 61.65<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2x level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 60<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br /></dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 and 4 Mathematical Methods (CAS) Specialist Mathematics and English (any).</dd><dt>Additional information</dt><dd>Semester 2 entry is available only if you are granted Advanced Standing (Credit).</dd><dt>Professional recognition</dt><dd>The degree is accredited by Engineers Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/shmre.htm"><span class="off-screen">Mechatronics and Robotics</span>Melbourne</a></dd></dl></div></div></div>
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree, or approved international equivalent, in a relevant area.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/spee.htm"><span class="off-screen">Electronic Engineering (Postgraduate Diploma)</span>Melbourne</a></dd></dl></div></div></div>
+424c263
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+427c266
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+438c277
+< <div id="related_study_options">
+---
+> <div id="study_options">
+444c283
+<   <li><a href="http://www.latrobe.edu.au/courses/computer-systems-engineering">Computer systems engineering</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/computer-systems-engineering/postgraduate">Computer systems engineering</a></li><!--<li><a href="http://www.latrobe.edu.au/courses/sustainable-engineering/postgraduate">Sustainable engineering</a></li>-->
+446c285
+<   <li><a href="http://www.latrobe.edu.au/courses/telecommunications-engineering">Telecommunications engineering</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/telecommunications-engineering/postgraduate">Telecommunications engineering</a></li>
+450,451d288
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=258665"> <img src="http://www.latrobe.edu.au/student-profiles/images/GunerOztekin_web.jpg/thumbnail.jpg" width="53" height="80" alt="" title="oztekin_guner" /></a><cite><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=258665"> Guner <strong>Oztekin</strong>,</a>  <br />Bachelor of Electronic Engineering</cite></p><p class="testimonial">"My course allows me to study further in areas I’m really interested in."</p>
+453,455c290
+< 
+< </blockquote>
+< <div id="related_study_options">
+---
+> <div id="new_div_106813">
+458c293
+< <h3>Alternative pathways</h3>
+---
+> <h3>Electronic engineering placements</h3>
+460c295
+< <p>Alternative pathways include TAFE; transferring from another degree or campus at La&nbsp;Trobe; transferring from another university where you are enrolled in a related degree, provided you meet the entry requirements; or enrolling in a degree through our special mature age entry scheme or via single subject enrolment. See <a href="http://www.latrobe.edu.au/study">undergraduate pathways</a> or <a href="http://www.latrobe.edu.au/international">information for international students</a>.</p>
+---
+> <p>Our industry cadetship program gives students studying science, computing and engineering the opportunity to use their theoretical and technical skills in an industry setting. Gain an understanding of industry career paths and the specialisations available. Cadetships usually take place during the summer and winter study breaks, but some longer placements are available for one or two semesters. See <a href="http://www.latrobe.edu.au/scitecheng/study/industry-based-learning-and-cadetships">cadetship program.</a></p>
+462a298,301
+> <h3>Overseas study opportunities</h3>
+> <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+> <div id="content_div_70640">
+> <h3>Student and graduate profiles</h3>
+464,465c303
+< <div id="new_div_106809">
+< <h3>Electronic engineering placements</h3>
+---
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+468,470d305
+< <p>The industry cadetship program allows you to gain paid workplace experience between semesters, giving you the chance to build on your skills and build your career. See <a href="http://www.latrobe.edu.au/scitecheng/study/cadetships">cadetship program</a>.</p><h3>Overseas study opportunities</h3>
+< <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+< <div id="staff_profile_nest">
+475,477c310
+< <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Electronic engineering&amp;submit=submit&amp;showform=no">staff in Electronic engineering</a>.</p-->
+< </div>
+< <!-- Content end -->
+---
+> <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Electronic engineering&amp;submit=submit&amp;showform=no">staff in Electronic engineering</a>.</p--><!-- Content end -->

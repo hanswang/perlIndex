@@ -1,0 +1,416 @@
+16,44d15
+< <!-- La Trobe //-->
+< 
+< <!-- LTU //-->
+< <meta name="description" content="Study business with a focus on sport management in our Bachelor of Business (Sport Management). Our degree has been designed and is delivered in collaboration with industry professional. Choose from the largest offering of sport subjects in Australia and take advantage of our valuable placement opportunities." />
+< <meta name="keywords" content="sport management, Bachelor of Business (Sport Management), bachelor, undergraduate" />
+< <meta name="audience" content="staff, students, community" />
+< <meta name="author" content="La Trobe University" />
+< 
+< <!-- Brokenlinks //-->
+< 
+< <!-- Info //-->
+< <meta name="TotalPages" content="Nil" />
+< <meta name="Links" content="" />
+< <meta name="TotalLinks" content="" />
+< 
+< <!-- Total Info //-->
+< <meta name="Num_Subsites_With_Broken_Links" content="" />
+< <meta name="Last_Update_Time" content="" />
+< <meta name="Num_Total_Broken_Links_Sitewide" content="" />
+< 
+< <!-- Corporate - asset summary text //-->
+< 
+< <!-- Section summary //-->
+< 
+< <!-- sort order //-->
+< 
+< <!-- asset creation date //-->
+< <meta name="assetcreated" content="03 January 2012" />
+< 
+49,50c20,21
+< <meta name="Campus" content="Campuses,Melbourne,Bendigo" />
+< <meta name="Related.School.or.Department" content="Faculties,Department of Management" />
+---
+> <meta name="Campus" content="Campuses" />
+> <meta name="Related.School.or.Department" content="Faculties" />
+55c26,34
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+> 
+> <!-- La Trobe //-->
+> 
+> <!-- LTU //-->
+> <meta name="description" content="postgraduate sports management" />
+> <meta name="keywords" content="historical, cultural, postgraduate" />
+> <meta name="audience" content="staff, students, community" />
+> <meta name="author" content="La Trobe University" />
+59c38
+< Sport Management, 
+---
+> Sport management, 
+63c42
+< <!-- 88720 -->
+---
+> <!-- 88754 -->
+88c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/sport-management"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="canonical" href="http://www.latrobe.edu.au/courses/sport-management/postgraduate"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+95c74
+<   Page generated: 11 November 2013 12:10:37
+---
+>   Page generated: 10 November 2013 20:59:54
+136c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/sport-management">Sport Management</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/sport-management">Sport Management</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/sport-management/postgraduate">Postgraduate</a></div>
+165c144
+< <h1>Sport Management</h1>
+---
+> <h1>Sport management</h1>
+171c150
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/sport-management">Undergraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/sport-management">Undergraduate</a></li>
+173c152,153
+< <li><a href="http://www.latrobe.edu.au/courses/sport-management/postgraduate">Postgraduate</a></li>
+---
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/sport-management/postgraduate">Postgraduate</a></li>
+> 
+178d157
+< 
+181c160,162
+<   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0006/92148/UG,-honours,-PG,-SC.jpg" width="250" height="166" alt="Sport management" title="sport-management" />Why study Sport Management?</h2>
+---
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0006/92148/UG,-honours,-PG,-SC.jpg" width="250" height="166" alt="Sport management" title="sport-management" />Why study Sport management?</h2>
+> 
+>   <p>La Trobe Business School is a leading provider of postgraduate and post-experience management training that is recognised in Australia and overseas. We provide a world-class business and management education that is academically rigorous and professionally relevant. Develop skills in business administration, corporate responsibility, marketing and international business and advance your career in the sport industry.</p>
+183c164
+<   <p>Sport is a rapidly growing and significant global industry offering a range of career opportunities. Our degree was designed and is delivered in collaboration with industry professionals. Combine business foundations with essential sport-specific knowledge and skills that are recognised in Australia and overseas. Choose from the largest offering of sport subjects in Australia. We offer valuable placement and network opportunities and exposure to potential areas of employment. Develop your passion for sport into a career using the world- class sport infrastructure and opportunities available in and around Melbourne.</p>
+---
+>   <p><br /></p>
+191c172
+< <p>Graduates can expect to work with professional sporting teams and elite athletes, community sport leagues, state and national sports governing bodies, player management agencies, sport administration, sponsorship and marketing, apparel and merchandising companies, health and fitness centres, sporting events and venues and local government bodies.</p>
+---
+> <p>The Master of Management (Sport Management) aims to prepare you for a career in the sport industry. Graduates can work in management in the public and private sectors, nationally and internationally. You may also start your own business.&nbsp;</p>
+193c174,176
+< <p><a href="http://www.latrobe.edu.au/students/careers/career-planning">Visit our Career Development Centre website and start planning your career</a>.</p>
+---
+> <div>
+>   <br />
+> </div>
+200,202c183
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">51.9</span></dd><dd>Bendigo <span class="atar">51</span></dd><dd>Melbourne <span class="atar">55.25</span></dd><dd>Mildura <span class="atar"> n/a</span></dd><dd>Shepparton <span class="atar">51.9</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>La Trobe's Bachelor of Business helps you build the knowledge and skills necessary for a career in a wide range of business environments within the private and public sectors. It takes a problem-focused approach that helps you to develop important problem-solving and decision-making skills relevant to any business.<br />
+< <br />
+< Graduates will be prepared for careers in the management of large, medium and small businesses, in government and private sectors, both domestically and internationally.<br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Certificate in Sport Management</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>0.5 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Graduate Certificate in Sport Management qualification is designed as a stand-alone degree or as a pathway into postgraduate study.</dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants with demonstrated prior learning in the form of an Australian Bachelor's degree in a business related field or an approved equivalent qualification will be eligible to apply for advanced standing for the four subjects of the first semester of the course. Applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant and cognate business experience will be eligible to apply for advanced standing for the four subjects of the first semester of the course. In making an offer of advanced standing to an applicant, the University may give consideration to a range of factors including English proficiency, academic record, employment experience and/or satisfactory completion of a challenge exam for any one or all of the four first semester subjects</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/management-programs/lcsm.htm"><span class="off-screen">Sport Management  (Graduate Certificate)</span>City</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Diploma in Sport Management </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Graduate Diploma in Sport Management qualification is designed as a stand-alone degree or as a pathway into the Master of Management (Sport Management).</dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience. In making an offer to an applicant, the university may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants with demonstrated prior learning in the form of an Australian Bachelor's degree in a business related field or an approved equivalent qualification will be eligible to apply for advanced standing for the four subjects of the first semester of the course. Applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant and cognate business experience will be eligible to apply for advanced standing for the four subjects of the first semester of the course. In making an offer of advanced standing to an applicant, the University may give consideration to a range of factors including English proficiency, academic record, employment experience and/or satisfactory completion of a challenge exam for any one or all of the four first semester subjects.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.<a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/management-programs/lgsm.htm"><span class="off-screen">Sport Management (Graduate Diploma) </span>City</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Management (Sport Management)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Master of Management (Sport Management) aims to prepare you for a career in the sport industry. Starting with the core foundation knowledge required of all managers, the course goes on to provide the opportunity for you to develop specific knowledge focused on sport management.<br />
+204,209c185
+< NSW HSC: satisfy Year 12 English requirements</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.</dd><dt>Middle band</dt><dd>Completion of Business Management, Accounting or Economics facilitates an additional aggregate point per study, to a maximum of 2 points. Performance in prerequisite studies and Business Studies (any) is also considered, as are criteria for the Rural and Regional Access Scheme (RRSAS) and Special Entry Access Scheme (SEAS).</dd><dt>How to apply</dt><dd>VTAC/UAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC/UAC.<br /></dd><dt>Professional recognition</dt><dd>Human Resource Management graduates can seek admission to the Australian Human Resource Institute (subject to relevant work experience). Marketing graduates are eligible to join the Australian Marketing Institute or the Australian Market and Social Research Society as associate members.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbb.htm
+< 
+< "><span class="off-screen">Business </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/rbb.htm
+< "><span class="off-screen">Business </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/mildura/fbel/rbbm.htm
+< "><span class="off-screen">Business </span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/shepparton/fbel/lmbbp.htm
+< "><span class="off-screen">Business </span>Shepparton</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/albury-wodonga/fbel/ecbbw.htm "><span class="off-screen">Business </span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Sport Development and Management)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>One of the only programs of its kind, this new degree is delivered exclusively from our thriving Bendigo campus. It's designed to meet the specific needs of rural and regional communities.<br />
+---
+> The primary objective of the course is to equip you with the tools and skills necessary to develop ideas, to lead and to manage sport management activities across corporate, government and not-for-profit sectors, and in small, medium, and large scale organisations.<br />
+211,216c187
+< This degree combines sport with business and community engagement. The curriculum strongly emphasises the role of sport in forming cohesive communities, sports operations and industry.<br />
+< <br />
+< Providing a unique combination of indepth theoretical knowledge and practical management experience the course enables you to build professional networks while developing a strong understanding of the industry while you study.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.</dd><dt>Middle band</dt><dd>Consideration is given to performance in prerequisite studies, Business Studies (any), Mathematics (any), LOTE (any), and to Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lmsd.htm"><span class="off-screen">Business (Sport Development and Management)</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Sport Management)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">61.25</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you're passionate about sport - how it's played, managed, presented and<br />
+< promoted - this course will equip you with the skills and knowledge to enter this rapidly expanding global industry. You'll study the foundation principles of business alongside essential sport-specific development. Designed and delivered in collaboration with industry professionals, this degree ensures you graduate with a broad range of sport management competencies that are recognised within Australia and internationally.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English. Applicants with comparable qualifications will be considered. A limited number of students may also be considered under Special Entry Schemes.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< <br />
+< Selection may also be based on ENTER/ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Consideration is given to performance in prerequisite studies, Business Studies (any), Mathematics (any), LOTE (any), and to Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbsl.htm"><span class="off-screen">Business (Sport Management)</span>Melbourne</a></dd></dl></div></div></div>
+---
+> This course offers a variety of sport management electives and opportunities for an independent research thesis project as a pathway to a research degree.<br /></dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience. In making an offer to an applicant, the University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants with demonstrated prior learning in the form of an Australian Bachelor's degree in a business related field or an approved equivalent qualification will be eligible to apply for advanced standing for the four subjects of the first semester of the course. Applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant and cognate business experience will be eligible to apply for advanced standing for the four subjects of the first semester of the course. In making an offer of advanced standing to an applicant, the University may give consideration to a range of factors including English proficiency, academic record, employment experience.</dd><dt>Additional information</dt><dd>Opportunities for international study tour and placement/practicum are being investigated.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/management-programs/lmmsm.htm"><span class="off-screen">Management (Sport Management) </span>City</a></dd></dl></div></div></div>
+219,220c190,191
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+222c193
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+226c197
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+228c199
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+233,249c204
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (019479E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne, Mildura, Shepparton</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>La Trobe's Bachelor of Business helps you build the knowledge and skills necessary for a career in a wide range of business environments within the private and public sectors. It takes a problem-focused approach that helps you to develop important problem-solving and decision-making skills relevant to any business.<br />
+< <br />
+< Graduates will be prepared for careers in the management of large, medium and small businesses, in government and private sectors, both domestically and internationally.<br /></dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Management (Sport Management) (080516J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>A$24 400</dd><dt id="campus">Campus</dt><dd>City</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Master of Management (Sport Management) aims to prepare you for a career in the sport industry. Starting with the core foundation knowledge required of all managers, the course goes on to provide the opportunity for you to develop specific knowledge focused on sport management.<br />
+251c206
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> The primary objective of the course is to equip you with the tools and skills necessary to develop ideas, to lead and to manage sport management activities across corporate, government and not-for-profit sectors, and in small, medium, and large scale organisations.<br />
+253,268c208
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - Melbourne: 55.25 Albury-Wodonga, Bendigo, Mildura, Shepparton: 51<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - Melbourne: 8 Albury-Wodonga, Bendigo, Mildura, Shepparton: 7.<br />
+< HKDSE- 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - Melbourne: 65. Albury-Wodonga, Bendigo, Mildura, Shepparton: 60.<br />
+< Norway Upper Secondary Certificate - Melbourne: 3.5. Albury-Wodonga, Bendigo, Mildura, Shepparton: 3<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - Melbourne: 60. Albury-Wodonga, Bendigo, Mildura, Shepparton: 55.<br />
+< Indonesia (SMA) - Melbourne: 7.5. Albury-Wodonga, Bendigo, Mildura, Shepparton: 7<br />
+< Vietnam (Year 12) - 8<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> This course offers a variety of sport management electives and opportunities for an independent research thesis project as a pathway to a research degree.<br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+270c210
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Professional recognition</dt><dd>If you complete a Human Resource Management major, you can gain admission to the Australian Human Resource Institute (subject to relevant work experience).<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written<br />
+272,288c212
+< Alternatively, if you take a Marketing major, you are eligible to join the Australian Marketing Institute or the Marketing Research Society of Australia as an associate member.<br />
+< <br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbb.htm
+< 
+< "><span class="off-screen">Business </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/rbb.htm
+< "><span class="off-screen">Business </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/mildura/fbel/rbbm.htm
+< "><span class="off-screen">Business </span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/shepparton/fbel/lmbbp.htm
+< "><span class="off-screen">Business </span>Shepparton</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/albury-wodonga/fbel/ecbbw.htm "><span class="off-screen">Business </span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Sport Development and Management) (078466K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Bendigo</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>One of the only programs of its kind, this new degree is delivered exclusively from our thriving Bendigo campus. It's designed to meet the specific needs of rural and regional communities.<br />
+< <br />
+< This degree combines sport with business and community engagement. The curriculum strongly emphasises the role of sport in forming cohesive communities, sports operations and industry.<br />
+< <br />
+< Providing a unique combination of indepth theoretical knowledge and practical management experience the course enables you to build professional networks while developing a strong understanding of the industry while you study.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> English).<br />
+290c214
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+292c216
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage<br />
+294c218
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+---
+> 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information<br />
+296c220,221
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne<br />
+> <br /></a> website.<br />
+298,320c223,224
+< or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - n/a<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE- 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Indonesia (SMA) - 7.5<br />
+< Vietnam (Year 12) - 8<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lmsd.htm"><span class="off-screen">Business (Sport Development and Management)</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Sport Management) (072759A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you're passionate about sport - how it's played, managed, presented and<br />
+< promoted - this course will equip you with the skills and knowledge to enter this rapidly expanding global industry. You'll study the foundation principles of business alongside essential sport-specific development. Designed and delivered in collaboration with industry professionals, this degree ensures you graduate with a broad range of sport management competencies that are recognised within Australia and internationally.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be<br />
+322c226,227
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no<br />
+324c229
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> band score lower than 6.0.<br />
+326c231
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative<br />
+328c233
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> skill score less than 59.<br />
+332,349c237
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 61.25<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+351c239
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbsl.htm"><span class="off-screen">Business (Sport Management)</span>Melbourne</a></dd></dl></div></div></div>
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience. In making an offer to an applicant, the University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/management-programs/lmmsm.htm"><span class="off-screen">Management (Sport Management) </span>City</a></dd></dl></div></div></div>
+354c242
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+357c245
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+368c256
+< <div id="related_study_options">
+---
+> <div id="study_options">
+371c259
+< <p>Didn&#39;t find a suitable course? You could also try these study options:</p>
+---
+> <p>Didn't find a suitable course? You could also try these study options:</p>
+374c262
+<   <li><a href="http://www.latrobe.edu.au/courses/event-management">Event management</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/management/postgraduate">Management</a></li>
+376c264
+<   <li><a href="http://www.latrobe.edu.au/courses/tourism-and-hospitality-management">Tourism and hospitality management</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/tourism-and-hospitality-management/postgraduate">Tourism and Hospitality Management</a></li>
+382,383d269
+< <div style="FONT-WEIGHT: normal; FONT-SIZE: medium; FONT-FAMILY: verdana, sans-serif; BACKGROUND-COLOR: rgb(255,255,255)"></div>
+< 
+386,391d271
+< <h3>Sport Management placement opportunities</h3>
+< 
+< <p>As part of our commitment to innovating curriculum design and development, we have recently appointed several Work Integrated Learning Coordinators at our Melbourne and Regional campuses. Work integrated learning means you&#39;ll get to apply your skills in the workplace, as you study. You can earn credit towards your degree through work placements or simulations. Work integrated learning is endorsed by the Federal Government and industry groups such as the Australian Chamber of Commerce and Industry. It will assist to increase your employability potential when you graduate.</p>
+< 
+< <p>Additionally, placements are offered in various Sport Management subjects.&nbsp;The Sports Practicum gives you the chance to analyse current practices, evaluate personal and professional competencies and apply theory to a sports management issue. In the Victorian Champions League, you become the Club Manager within Football Federation Victoria and develop your sport management skills to develop and promote the League. The Sport Management Project lets you apply theory to a practical project negotiated with your unit coordinator.</p>
+< 
+401,406c281,282
+< <div id="alt_pathways_nest">
+< 
+< <div id="alt_pathways_ug">
+< <h3>Alternative pathways</h3>
+< 
+< <p>Going straight from school to university isn’t an option for everyone. There may be other pathways to help you gain entry into this course. <a href="http://www.latrobe.edu.au/business/study/business">See alternative course pathways</a>.</p>
+---
+> <div id="content_div_113937">
+> <h3>About the academic staff</h3>
+408c284
+< </div>
+---
+> <p>You&#39;ll get to meet a large number of academics during your course, from tutors through to lecturers. You can <a href="http://www.latrobe.edu.au/fbel/about/staff">view all the staff</a> from the Faculty of Business, Economics and Law or focus on <a href="http://www.latrobe.edu.au/law/about/staff/study-option?areaofstudy=Sport management">staff in Sport management</a>.</p>
+415c291
+< <p>Find out about the experiences of one of our Sport Management students.</p>
+---
+> <p>Find out about the experiences of one of our Sport management postgraduate students.</p>
+426,434c302,303
+< 
+< <div id="content_div_113937">
+< <h3>About the academic staff</h3>
+< 
+< <p>You&#39;ll get to meet a large number of academics during your course, from tutors through to lecturers. You can <a href="http://www.latrobe.edu.au/fbel/about/staff">view all the staff</a> from the Faculty of Business, Economics and Law or focus on <a href="http://www.latrobe.edu.au/law/about/staff/study-option?areaofstudy=Sport Management">staff in Sport Management</a>.</p>
+< 
+< </div>
+< <h2>Sport Management events</h2>
+< <p>There are no upcoming Sport Management events. <a href="/events/browse">Browse other events</a>.</p>
+---
+> <h2>Sport management events</h2>
+> <p>There are no upcoming Sport management events. <a href="/events/browse">Browse other events</a>.</p>
+533c402,432
+< <!-- Includes sei-event-calendar.js for related events -->
+---
+> <script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+> 
+> <script type="text/javascript">
+> $('#news-ticker').cycle({ 
+>     prev:   '#btn_prev', 
+>     next:   '#btn_next'
+> });
+> 
+> if ($('.news-item').length < 2){
+>   $('.newsnav').remove();
+> };
+> 
+> </script><!-- Google Code for Find a course Conversion Page -->
+> <script type="text/javascript">
+> /* <![CDATA[ */
+> var google_conversion_id = 1063865565;
+> var google_conversion_language = "en";
+> var google_conversion_format = "2";
+> var google_conversion_color = "ffffff";
+> var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+> var google_conversion_value = 0;
+> var google_remarketing_only = false;
+> /* ]]> */
+> </script>
+> <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+> </script>
+> <noscript>
+> <div style="display:inline;">
+> <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+> </div>
+> </noscript><!-- Includes sei-event-calendar.js for related events -->
+556,573d454
+< </div>
+< </noscript><!-- Google Code for Find a course Conversion Page -->
+< <script type="text/javascript">
+< /* <![CDATA[ */
+< var google_conversion_id = 1063865565;
+< var google_conversion_language = "en";
+< var google_conversion_format = "2";
+< var google_conversion_color = "ffffff";
+< var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+< var google_conversion_value = 0;
+< var google_remarketing_only = false;
+< /* ]]> */
+< </script>
+< <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+< </script>
+< <noscript>
+< <div style="display:inline;">
+< <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>

@@ -1,0 +1,459 @@
+19,20c19,20
+< <meta name="description" content="There is an ongoing demand for skilled agricultural science graduates with economics and management training, in the $30 billion food and fibre industry." />
+< <meta name="keywords" content="agriculture, bachelor, agricultural, ag science, food production, farming, population, environment, soil, plant, animal, climate, economics, management, international development, agribusiness, la trobe, undergraduate, double degree" />
+---
+> <meta name="description" content="Our innovative programs cater for those seeking advanced study and for students from other disciplines. Understand and develop a range of skills in the production, sustainability and business aspects of agriculture." />
+> <meta name="keywords" content="Graduate diploma, master, agricultural science, sustainability, agribusiness, biotechnology" />
+36,38c36,38
+< <meta name="Related.Area.of.Study" content="" />
+< <meta name="Campus" content="Albury-Wodonga,Melbourne" />
+< <meta name="Related.School.or.Department" content="Faculties,FSTE" />
+---
+> <meta name="Related.Area.of.Study" content="Agricultural science" />
+> <meta name="Campus" content="Melbourne" />
+> <meta name="Related.School.or.Department" content="Faculties" />
+43c43
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+51c51
+< <!-- 108376 -->
+---
+> <!-- 109511 -->
+76c76
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/agricultural-sciences"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="canonical" href="http://www.latrobe.edu.au/courses/agricultural-sciences/postgraduate"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+83c83
+<   Page generated: 11 November 2013 12:49:18
+---
+>   Page generated: 11 November 2013 13:06:53
+124c124
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/agricultural-sciences">Agricultural sciences</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/agricultural-sciences">Agricultural sciences</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/agricultural-sciences/postgraduate">Postgraduate</a></div>
+159c159
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/agricultural-sciences">Undergraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/agricultural-sciences">Undergraduate</a></li>
+161c161
+<   <li><a href="http://www.latrobe.edu.au/courses/agricultural-sciences/postgraduate">Postgraduate</a></li>
+---
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/agricultural-sciences/postgraduate">Postgraduate</a></li>
+164,204c164
+< </ul><div class="inline-video">
+< 	<div>
+< 		<img class="play-video" style="background:transparent url(http://webmedia.latrobe.edu.au/production1/video839.jpg.std.jpg) no-repeat 0 0" src="http://webmedia.latrobe.edu.au/images/view-video-overlay-std.png" alt="" width="250" height="166" />
+< 	</div>
+< 
+<   <div class="webmedia">
+< 
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:02:15',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/oFGtCasper_edit.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/oFGtCasper_edit.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video839.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'839', 'name':'839'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v839', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< 
+< 
+< <div id="v839">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video839.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/HdSjCasper_edit.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< </div>
+< 
+< 		<div class="jump-list">
+< 			<ul>
+< 				<li class="initial webmedia">Other formats</li>
+< 				<li><a href="http://webstat.latrobe.edu.au/webmedia/media/HdSjCasper_edit.mp4"><span
+< 				class="off-screen">Caspar Roxburgh - Agricultural Science / International Development</span> MP4 [8.46 MB]</a></li>
+< 				<li><a href="http://webstat.latrobe.edu.au/webmedia/media/Pc3Casper_edit.mp3"><span class="off-screen">Caspar Roxburgh - Agricultural Science / International Development</span> MP3 [1.55 MB]</a></li>
+< 								<li><a href="http://webstat.latrobe.edu.au/webmedia/media/POY5Transcript Caspar Roxburgh.docx"><span class="off-screen transcript-link">Caspar Roxburgh - Agricultural Science / International Development</span> Transcript</a></li>
+< 								<li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=839"><span class="off-screen">Caspar Roxburgh - Agricultural Science / International Development</span> Permalink</a></li>
+< 				<li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video format request: http://webmedia.latrobe.edu.au/webmedia/perma.php?839">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< 			</ul>
+< 		</div>
+< 	</div>
+< </div>
+< 
+---
+> </ul>
+207c167
+<   <h2>Why study Agricultural sciences?</h2>
+---
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0004/119902/Agriciltural-Science.jpg" width="250" height="166" alt="" title="Agriciltural-Science.jpg" />Why study Agricultural sciences?</h2>
+209c169
+<   <p>Some of the major challenges we face in the 21st century are sustainable food production, disease threats and soil productivity.<br /></p>
+---
+>   <p>Our innovative programs cater for those seeking advanced study and for students from other disciplines. Understand and develop a range of skills in the production, sustainability and business aspects of agriculture. Focus on plants, animals or biotechnology. Learn the skills for research or management in science or agribusiness organisations.</p>
+211c171
+<   <p>Learn about the interactions and inter-relationships between soil, plants, animals, climate and humans. Combine practical career-orientated science with business and management skills.<br /></p>
+---
+>   <p>Students have access some of the best teaching and research facilities in the world. <a href="./?a=216114">AgriBio, the Centre of AgriBioscience</a> is&nbsp; one of Australia’s premier research facilities supporting the agricultural sector through improved productivity, better disease protection and reduced environmental impact.</p>
+213c173
+<   <p>Your skills and knowledge will help you assist farmers in Australia and around the world to improve their food production with declining land, water and soil resources.<br /></p>
+---
+>   <p>See the Research tab for information about Masters by research, or PhD.<br /></p>
+217,265d176
+< <div class="video-thumb">
+< 	<div>
+< 		<img class="video-on" style="background:transparent url(http://webmedia.latrobe.edu.au/production1/video793.jpg.thumb.jpg) no-repeat 0 0" src="http://webmedia.latrobe.edu.au/images/view-video-overlay-thumb.png" alt="" width="80" height="53" />
+< 		<h2 class="video-on">Bachelor of Agricultural Science - Dr Peter Sale</h2>
+< 		<p>Dr Peter Sale discusses the benefits of studying the Bachelor of Agricultural Science at La Trobe</p>
+< 	</div>
+<   <div class="webmedia reveal-video">
+< 
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:01:31',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/nKE6Peter_Sale.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/nKE6Peter_Sale.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video793.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'793', 'name':'793'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v793', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< 
+< 
+< <div id="v793">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video793.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/K01SPeter_Sale.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< 
+< </div>
+< 
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/K01SPeter_Sale.mp4"><span
+< class="off-screen">Bachelor of Agricultural Science - Dr Peter Sale</span> MP4 [5.66 MB]</a></li>
+< 
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/GXszPeter_Sale.mp3"><span class="off-screen">Bachelor of Agricultural Science - Dr Peter Sale</span> MP3 [1.06 MB]</a></li>
+< 
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/2KmDTranscript - Peter Sale BAgSci.docx"><span class="off-screen transcript-link">Bachelor of Agricultural Science - Dr Peter Sale</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=793"><span class="off-screen">Bachelor of Agricultural Science - Dr Peter Sale</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video format request: http://webmedia.latrobe.edu.au/webmedia/perma.php?793">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+< </div>
+< 
+< 
+< 
+< 	</div>
+< </div>
+270,272c181
+< <p>There is an ongoing demand for skilled agricultural science graduates with economics and management training in the $30 billion food and fibre industry. There are excellent job prospects in the banking industry, large agribusiness firms, agribusiness consultancies, state and federal governments, commodity trading companies, humanitarian organisations and agencies such as the United Nations.<br /></p>
+< 
+< <p>Graduates are eligible for membership of the <a href="http://www.aiast.com.au/">Australian Institute of Agricultural Science and Technology</a>.</p>
+---
+> <p>Graduates are prepared for careers in agricultural science and production, resource management, agribusiness management and sustainability.</p>
+279,283c188
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Agricultural Sciences</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">64.45</span></dd><dd>Melbourne <span class="atar">55.25</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Growing enough food to sustain the world is one of the biggest challenges we face in the 21st century, and agricultural scientists play a key role in addressing it. This course aims to prepare you to play a significant role in agricultural science by giving you a thorough understanding of the relationships between plants, animals, economics, environmental issues, and climate. It also offers extensive industry experience, support and assistance through specialised Faculty programs.<br />
+< <br />
+< You should develop the professional skills required to become a recognised expert in agricultural science and be eligible for accreditation as a member of the Australian Institute of Agricultural Science and Technology.<br />
+< <br />
+< La Trobe has developed some of the best agricultural science teaching and research facilities in the world, through the opening of the <a href="http://www.latrobe.edu.au/agribio">AgriBio, the Centre for AgriBioscience</a> , a A$288 million public private partnership.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Agricultural Science</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or up to 2 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you're looking to expand your studies in agricultural science, or if you graduated from another discipline but wish to develop your knowledge of the field, this innovative course caters to you. It presents an opportunity to deepen your scientific knowledge and skills to compete for positions in the agricultural and agribusiness sector. It explores the relationships between oils, plants, animals, biotechnology, agribusiness and the environment.<br />
+285,303c190,192
+< Please note: students enrolling at the Albury-Wodonga campus must transfer to the Melbourne campus for the last two years of the course.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: English (any)<br />
+< NSW HSC: English Band 2 or equivalent<br /></dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Guaranteed Entry (Year 12 applicants only): applicants with an ATAR of 65 or more receive a first-round offer; those with lower ATARs are considered through normal selection processes.<br />
+< <br />
+< Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.</dd><dt>Middle band</dt><dd>Successful completion of any of the following facilitates an additional 1.5 aggregate points per study, to a maximum of 3 points: Biology, Chemistry, Mathematical Methods, Physics, Specialist Mathematics, Agriculture, Horticulture. Re-ranking is also based on performance in prerequisite studies.</dd><dt>Costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property. Additional costs for fieldtrips - food, accommodation, travel - may also apply. </dd><dt>Additional information</dt><dd>Students who have completed the first year of the Bachelor of Biological Sciences or Animal and Veterinary Bioscience can apply to transfer into second year at the Melbourne Campus. Transfer is dependent on academic merit and the number of places available.<br />
+< Students are required to complete at least 12 weeks of approved workplace experience during vacations before being deemed to have completed the course.</dd><dt>How to apply</dt><dd>VTAC/UAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December for our Albury-Wodonga Campus. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC/UAC.<br /></dd><dt>Professional recognition</dt><dd>Graduates are eligible for membership of the Australian Institute of Agricultural Science and Technology.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbag.htm"><span class="off-screen">Agricultural Sciences</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbagw.htm"><span class="off-screen">Agricultural Sciences</span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Agricultural Sciences/Bachelor of Business</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">80.45</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Sustainability and effective management of the world's natural resources are a major global challenge. Consequently, agribusiness is a fast-expanding field of critical importance to international food supplies, continually seeking graduates with relevant knowledge and skills. This course combines practical, career-oriented science with business and management skills to prepare you for careers in agribusiness.<br />
+< <br />
+< Students can access the Faculty's industry experience and student support programs.<br />
+< <br />
+< You'll have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 30 in English (ESL) or 25 in any other English<br />
+< Units 1 and 2: General Mathematics or Mathematical Methods<br /></dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Guaranteed Entry (Year 12 applicants only): applicants with an ATAR of 80 or more receive first-round offer; those with lower ATARs are considered through normal selection processes.<br />
+< <br />
+< Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a></dd><dt>Middle band</dt><dd>Successful completion of Agriculture and Horticulture, Biology, Chemistry, Mathematical Methods, Physics, or Specialist Mathematics gives you an additional 1.5 aggregate points per study, to a maximum of 3 points</dd><dt>Costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property.  Additional costs for field trips - food, accommodation, travel - may also apply.</dd><dt>Additional information</dt><dd>Students must complete at least 12 weeks' approved workplace experience during vacations before being deemed to have completed the course.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for membership of the Australian Institute of Agricultural Science and Technology. Bachelor of Business graduates with a human resource management major are eligible for admission to the Australian Human Resource Institute (subject to relevant work experience). Those with a marketing major are eligible for associate membership of the Australian Marketing Institute or the Marketing Research Society of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szagb.htm"><span class="off-screen">Agricultural Sciences/Business </span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Agricultural Sciences/Bachelor of International Development </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">76.3</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Agriculture is vitally significant in developing countries, often making the difference between famine and survival. This course aims to prepare you for careers making a valuable contribution to sustainable food production in the developing world. It focuses on the scientific processes involved in agricultural management and practice, and the political and social underpinnings of international development, meaning graduates are well equipped to find employment.<br />
+< <br />
+< You'll have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 30 in English (ESL), or 25 in any other English.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Guaranteed Entry (Year 12 applicants only): applicants with an ATAR of 80 or above receive a first-round offer; those with lower ATARs are considered through normal selection processes.<br />
+< <br />
+< Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a></dd><dt>Middle band</dt><dd>Successful completion of Agriculture and Horticulture, Biology, Chemistry, Mathematical Methods, Physics, or Specialist Mathematics gives you an additional 1.5 aggregate points per study, to a maximum of 3 points</dd><dt>Costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property.  Additional costs for field trips - food, accommodation, travel - may also apply.</dd><dt>Additional information</dt><dd>Students must complete at least 12 weeks' approved workplace experience during vacations to be deemed to have completed the course.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for membership of the Australian Institute of Agricultural Science and Technology.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szagid.htm "><span class="off-screen">Agricultural Sciences/International Development</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Science (Applications in Society)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">55.45</span></dd><dd>Bendigo <span class="atar">57.1</span></dd><dd>Albury-Wodonga <span class="atar">73.5</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Bachelor of Science (Applications in Society) combines major studies in science with complementary disciplines from other areas. The degree is designed to place science in context and to explore the applications of science in society, giving you a deep understanding of at least one area of science and the ability to work effectively in non-science disciplines. This cross-disciplinary degree gives graduates the skills to work as knowledge brokers in business, government, education or science.<br />
+< <br />
+< The course also includes the optional <a href="http://www.latrobe.edu.au/scitecheng/study/work-ready-science%3E'Work%20Ready%20Science'%20program%3C/a%3E%20(WRS)%20with%20career%20development%20workshops%20and%20subjects%20that%20count%20towards%20your%20degree.%20The%20program%20coordinator%20will%20help%20you%20find%20work%20placement%20opportunities,%20study%20exchange%20programs%20or%20cadetship%20placements%20in%20your%20area%20of%20interest.%3Cbr%20/%3E"></a></dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: a study score of at least 25 in English (ESL) or 20 in any other English<br />
+< HSC (NSW): English Band 2 or equivalent</dd><dt>How to apply</dt><dd>VTAC/UAC.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsap.htm"><span class="off-screen">Science (Applications in Society)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsapb.htm"><span class="off-screen">Science (Applications in Society)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsapw.htm "><span class="off-screen">Science (Applications in Society)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> Our aim is to help you develop a range of skills in the production, sustainability and business of agriculture and for the research and management in science or agribusiness organisations.</dd><dt>Prerequisite</dt><dd>An Australian Bachelors degree in Agricultural Science or a related<br />
+> discipline, or equivalent.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points. <br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Please ensure you also provide all supplementary information required.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/spas.htm"><span class="off-screen">Agricultural Science (Postgraduate Diploma)</span>Melbourne</a></dd></dl></div></div></div>
+306,307c195,196
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+309c198
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+313c202
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+315c204
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+320,342c209
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Agricultural Sciences (077310E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Growing enough food to sustain the world is one of the biggest challenges we face in the 21st century, and agricultural scientists play a key role in addressing it. This course aims to prepare you to play a significant role in agricultural science by giving you a thorough understanding of the relationships between plants, animals, economics, environmental issues, and climate. It also offers extensive industry experience, support and assistance through specialised Faculty programs.<br />
+< <br />
+< You should develop the professional skills required to become a recognised expert in agricultural science and be eligible for accreditation as a member of the Australian Institute of Agricultural Science and Technology.<br />
+< <br />
+< La Trobe has developed some of the best agricultural science teaching and research facilities in the world, through the opening of the <a href="http://www.latrobe.edu.au/agribio">AgriBio, the Centre for AgriBioscience</a> , a A$288 million public private partnership.<br />
+< <br />
+< Please note: students enrolling at the Albury-Wodonga campus must transfer to the Melbourne campus for the last two years of the course.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Agricultural Science (006293M)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you're looking to expand your studies in agricultural science, or if you graduated from another discipline but wish to develop your knowledge of the field, this innovative course caters to you. It presents an opportunity to deepen your scientific knowledge and skills to compete for positions in the agricultural and agribusiness sector. It explores the relationships between oils, plants, animals, biotechnology, agribusiness and the environment.<br />
+344,359c211
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 50<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - Melbourne: 55.25, Albury-Wodonga: 64.45<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 6<br />
+< HKDSE - 1 x Level 4<br />
+< Sri Lankan A Levels - CCD<br />
+< STPM - 7<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.3<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.0<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Our aim is to help you develop a range of skills in the production, sustainability and business of agriculture and for the research and management in science or agribusiness organisations.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+361c213
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit <a href="http://www.latrobemelbourne.edu.au/">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Equivalent to Australian VCE Units 3 and 4: English (any).</dd><dt>Additional costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property. Additional costs for fieldtrips - food, accommodation, travel - may also apply.</dd><dt>Additional information</dt><dd>Also note that Albury-Wodonga students must transfer to the Melbourne campus after completing the first year of the course.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for membership of the Australian Institute of Agricultural Science and Technology.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbag.htm"><span class="off-screen">Agricultural Sciences</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbagw.htm"><span class="off-screen">Agricultural Sciences</span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Agricultural Sciences/Bachelor of Business (077312C)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 100</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Sustainability and effective management of the world's natural resources are a major global challenge. Consequently, agribusiness is a fast-expanding field of critical importance to international food supplies, continually seeking graduates with relevant knowledge and skills. This course combines practical, career-oriented science with business and management skills to prepare you for careers in agribusiness.<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+363c215
+< Students can access the Faculty's industry experience and student support programs.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+365c217
+< You'll have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+367c219,221
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+369,377c223
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+381,443c227
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 75<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 80.45<br />
+< International Baccalaureate - 28<br />
+< GCE A Levels - 8<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - BBC<br />
+< STPM - 8 .67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 75<br />
+< Norway Upper Secondary Certificate - 3.8<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 75<br />
+< Vietnam (Year 12) - 8.5<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see:<a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>VCE Units 3 and 4: a minimum score of 30 in English (ESL) or 25 in any other English.</dd><dt>Additional costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property. Additional costs for field trips - food, accommodation, travel - may also apply.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for membership of the Australian Institute of Agricultural Science and Technology.<br />
+< <br />
+< Graduates of the Bachelor of Business with a Human Resource Management major are eligible for admission to the Australian Human Resource Institute (subject to relevant work experience).<br />
+< <br />
+< Graduates of the Bachelor of Business with a Marketing major are eligible for joining the Australian Marketing Institute or the Marketing Research Society of Australia, as associate members.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szagb.htm"><span class="off-screen">Agricultural Sciences/Business </span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Agricultural Sciences/Bachelor of International Development  (077311D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 100</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Agriculture is vitally significant in developing countries, often making the difference between famine and survival. This course aims to prepare you for careers making a valuable contribution to sustainable food production in the developing world. It focuses on the scientific processes involved in agricultural management and practice, and the political and social underpinnings of international development, meaning graduates are well equipped to find employment.<br />
+< <br />
+< You'll have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 75<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 76.30<br />
+< International Baccalaureate - 26<br />
+< GCE A Levels - 9<br />
+< HKDSE - 3x Level 4<br />
+< Sri Lankan A Levels - BBC<br />
+< STPM - 9<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 75<br />
+< Norway Upper Secondary Certificate - 3.8<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 75<br />
+< Vietnam (Year 12) - 8.5<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's <b>Foundation Studies and Diploma Programs</b>, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Australian VCE Units 3 and 4: a minimum score of 30 in English (ESL), or 25 in any other English.</dd><dt>Additional costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property. Additional costs for field trips - food, accommodation, travel - may also apply.</dd><dt>Additional information</dt><dd>Students are required to complete at least 12 weeks of approved industry experience outside official University semester dates before being deemed to have completed the course.</dd><dt>Professional recognition</dt><dd>Graduates are eligible to become members of the Australian Institute of Agricultural Science and Technology.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/double-degrees/szagid.htm "><span class="off-screen">Agricultural Sciences/International Development</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Science (Applications in Society) (077313B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd></dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-3"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Bachelor of Science (Applications in Society) combines major studies in science with complementary disciplines from other areas. The degree is designed to place science in context and to explore the applications of science in society, giving you a deep understanding of at least one area of science and the ability to work effectively in non-science disciplines. This cross-disciplinary degree gives graduates the skills to work as knowledge brokers in business, government, education or science.<br />
+< <br />
+< The course also includes the optional <a href="http://www.latrobe.edu.au/scitecheng/study/work-ready-science%3E'Work%20Ready%20Science'%20program%3C/a%3E%20(WRS)%20with%20career%20development%20workshops%20and%20subjects%20that%20count%20towards%20your%20degree.%20The%20program%20coordinator%20will%20help%20you%20find%20work%20placement%20opportunities,%20study%20exchange%20programs%20or%20cadetship%20placements%20in%20your%20area%20of%20interest.%3Cbr%20/%3E"></a></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+445,483c229
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 55.45<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - BCC<br />
+< STPM - 8<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.6 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br /></dd><dt>Additional information</dt><dd>Work Ready Science (WRS) offers students the chance to build their future career from the moment they start this course. This program focuses on the transition between university and the workforce by building experience and developing the skills employers value.<br />
+< <br />
+< The overall objective of Work Ready is to give students a competitive advantage, by learning to communicate achievements and experiences to an employer in a competent and confident manner.<br />
+< <br />
+< WRS is available at La Trobe Universitys Melbourne, Bendigo and Albury-Wodonga<br />
+< <a href="http://www.latrobe.edu.au/scitecheng/study/work-ready-science">campuses</a></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsap.htm"><span class="off-screen">Science (Applications in Society)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsapb.htm"><span class="off-screen">Science (Applications in Society)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsapw.htm "><span class="off-screen">Science (Applications in Society)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree in agricultural science or a related discipline, or approved international equivalent.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/spas.htm"><span class="off-screen">Agricultural Science (Postgraduate Diploma)</span>Melbourne</a></dd></dl></div></div></div>
+486c232
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+489c235
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+500,501c246,247
+< <div id="related_study_options">
+< <h3>Related study options</h3>
+---
+> <div id="study_options">
+> <h3>Related study options&nbsp;</h3>
+504c250
+<   <li><a href="http://www.latrobe.edu.au/courses/animal-veterinary-biosciences">Animal and veterinary biosciences</a></li>
+---
+>   <!-- <li><a href="http://www.latrobe.edu.au/courses/animal-veterinary-biosciences/research">Animal and veterinary biosciences</a></li>-->
+506c252
+<   <li><a href="http://www.latrobe.edu.au/courses/biochemistry-and-molecular-biology">Biochemistry and molecular biology</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/biochemistry-and-molecular-biology/research">Biochemistry and molecular biology</a></li>
+510,512c256
+<   <li><a href="http://www.latrobe.edu.au/courses/botany">Botany</a></li>
+< 
+<   <li><a href="http://www.latrobe.edu.au/courses/environmental-management-and-ecology">Freshwater ecology</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/botany/research">Botany</a></li>
+514c258
+<   <li><a href="http://www.latrobe.edu.au/scitecheng/areas-of-study/agricultural-and-environmental-sciences/science">Science</a><br /></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/environmental-management-and-ecology/research">Freshwater ecology</a></li>
+518,519d261
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=188610"> <img src="http://www.latrobe.edu.au/student-profiles/images/2012_0236_Cameron_03.jpg/thumbnail.jpg" width="53" height="80" alt="Angelica Cameron" title="cameron_angelica" /></a><cite><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=188610">Ms Angelica <strong>Cameron</strong>,</a>  <br />Bachelor of Agricultural Science/Bachelor of International Development</cite></p><p class="testimonial">"My degree gives me a huge range of exciting career opportunities."</p>
+521,523c263
+< 
+< </blockquote>
+< <div id="related_study_options">
+---
+> <div id="new_div_106813">
+526,531d265
+< <h3>Alternative pathways</h3>
+< 
+< <p>Our Faculty offers several pathways into some of our most popular courses – view your options for <a href="http://www.latrobe.edu.au/scitecheng/study/alternative-course-pathways/agricultural-science">pathway entry into Agricultural Science</a><a href=".http://www.latrobe.edu.au/courses/agricultural-sciences"></a>.</p>
+< 
+< <p>La&nbsp;Trobe offers you many pathway options to your preferred course: via another La Trobe course or campus, another university, TAFE, a single subject or mature-age enrolment. See&nbsp;<a href="http://www.latrobe.edu.au/school/apply/pathways">undergraduate pathways</a>, <a href="http://www.latrobe.edu.au/mature-age/apply/pathways">mature-age enrolment</a> or&nbsp;<a href="http://www.latrobe.edu.au/international">information for international students</a> for general information about these options.</p>
+< 
+532a267,270
+> <h3>Overseas study opportunities</h3>
+> <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+> <div id="content_div_70640">
+> <h3>Student and graduate profiles</h3>
+534,535c272
+< <div id="new_div_106809">
+< <h3>Agricultural sciences placements</h3>
+---
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+538,540d274
+< <p>The industry cadetship program allows you to gain paid workplace experience between semesters, giving you the chance to build on your skills and build your career. See <a href="http://www.latrobe.edu.au/scitecheng/study/cadetships">cadetship program</a>.</p><h3>Overseas study opportunities</h3>
+< <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+< <div id="staff_profile_nest">
+545,547c279
+< <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Agricultural sciences&amp;submit=submit&amp;showform=no">staff in Agricultural sciences</a>.</p-->
+< </div>
+< <!-- Content end -->
+---
+> <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Agricultural sciences&amp;submit=submit&amp;showform=no">staff in Agricultural sciences</a>.</p--><!-- Content end -->

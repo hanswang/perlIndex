@@ -1,0 +1,486 @@
+20c20
+< <meta name="Campus" content="Albury-Wodonga,Bendigo,Melbourne,Mildura,Shepparton" />
+---
+> <meta name="Campus" content="Melbourne,Bendigo" />
+26c26
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+31,32c31,32
+< <meta name="description" content="Combined Masters-level training with undergraduate studies in health sciences in four years or psychological science in five years." />
+< <meta name="keywords" content="Occupational therapy, occupational therapist, rehabilitation centres, community health services, mental health agencies, aged care, special needs, intellectually disadvantaged, undergraduate, bachelor" />
+---
+> <meta name="description" content="Our coursework program caters for students with occupational therapy qualifications who want advanced training or professional development. For the Master of Occupational Therapy Practice course students in related disciplines are eligible to apply." />
+> <meta name="keywords" content="Occupational therapy, occupational therapist, paediatrics, rehabilitation centres, community health services, mental health agencies, aged care, special needs, intellectually disadvantaged, neurology, postgraduate, certificate, Master" />
+42c42
+< <!-- 125901 -->
+---
+> <!-- 125921 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/occupational-therapy"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="canonical" href="http://www.latrobe.edu.au/courses/occupational-therapy/postgraduate"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+74c74
+<   Page generated: 11 November 2013 00:41:43
+---
+>   Page generated: 11 November 2013 11:20:10
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/occupational-therapy">Occupational therapy</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/occupational-therapy">Occupational therapy</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/occupational-therapy/postgraduate">Postgraduate</a></div>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/occupational-therapy">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/occupational-therapy/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/occupational-therapy">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/occupational-therapy/postgraduate">Postgraduate</a></li>
+156,157c156
+< <div class="feature feature-big">
+<   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0020/132383/occupationaly-therapy.jpg" width="250" height="166" alt="" title="occupationaly-therapy.jpg" />Why study Occupational therapy?</h2>
+---
+> <h2>Why study Occupational therapy?</h2>
+159,160c158
+<   <p>Occupational therapy is about people's occupational needs and the loss of daily living skills that follow physical, emotional, psychological and social disorders. Occupational therapists help people to become more independent and improve their productivity, well-being and quality of life. You will develop knowledge and skills in assessment and treatment, the therapeutic use of occupations, intervention techniques, the design of equipment and adaptation of environments. Our course is accredited by Occupational Therapy Australia and the World Federation of Occupational Therapists.</p>
+< </div>
+---
+> <p>Our postgraduate coursework programs are for:</p>
+162,164c160
+< </div>
+< <div class="webmedia">
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+---
+> <h3>Master of Advanced Occupational Therapy/ Postgraduate Certificate in Occupational Therapy / Postgraduate Certificate of Paediatric Occupational Therapy</h3>
+166,183c162,164
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:04:24',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/I5K4OT.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/I5K4OT.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video984.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'v984', 'name':'984'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v984', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< <h2 class="video-title">Occupational Therapy at La Trobe</h2>
+< 
+< 
+< <div id="v984">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video984.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/UXNNOT.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+---
+> <ul>
+>   <li>qualified Occupational Therapists wanting to pursue further studies for professional development to extend their knowledge and skills for advanced level practice. <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0005/548501/ot-pg-subjects2014.doc">Subjects available in 2014&nbsp;[DOC 74KB]</a></li>
+> </ul>
+185c166
+< </div>
+---
+> <h3>Master of Occupational Therapy Practice</h3>
+187d167
+< <div class="jump-list">
+189,197c169
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/UXNNOT.mp4"><span
+< class="off-screen">Occupational Therapy at La Trobe</span> MP4 [35.79 MB]</a></li>
+< 
+< <li><a href='https://webstat.latrobe.edu.au/webmedia/media/xPzqOT.mp3'><span class='off-screen'>Occupational Therapy at La Trobe</span> MP3 [3.04 MB]</a></li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/jvvxtranscript-occupational-therapy.docx"><span class="off-screen transcript-link">Occupational Therapy at La Trobe</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=984"><span class="off-screen">Occupational Therapy at La Trobe</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?984">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+---
+>   <li>graduates of other disciplines wanting to become qualified occupational therapists through our graduate entry level program.</li>
+199c171
+< </div>
+---
+> 
+205c177,185
+< <p>Graduates work in health and welfare systems including general hospitals, rehabilitation centres, community health services, mental health agencies, health services for older people and children with special needs, and support services for intellectually disadvantaged people. You may also work in private practice or as a coordinator or consultant in areas such as occupational health and safety. You may apply for membership of the Australian Association of Occupational Therapists and register for practice in the United Kingdom, North America, Sweden and other countries (subject to national registration requirements).</p>
+---
+> <h3>Master of Advanced Occupational Therapy /Postgraduate Certificate of Occupational Therapy / Postgraduate Certificate of Paediatric Occupational Therapy</h3>
+> 
+> <p>Gaining a post-professional postgraduate qualification in occupational therapy enables Occupational Therapists to demonstrate continuing professional development and to attain advanced knowledge and skills for becoming expert practitioners in their chosen fields of practice. It may also support career advancement, the development of professional leadership, contribution to academic teaching, and entry into higher degrees by research.</p>
+> 
+> <h3>Master of Occupational Therapy Practice</h3>
+> 
+> <p>Occupational therapy deals with people&#39;s occupational needs and the loss of daily living skills that follow physical, emotional, psychological and social disorders. Occupational therapists use knowledge and skills in assessment and treatment, the therapeutic use of occupations, intervention techniques, the design of equipment and adaptation of environments to enable individuals to maximise personal productivity, wellbeing, and quality of life in their everyday lives.</p>
+> 
+> <p>Graduates new to the discipline with an entry-level Masters qualification in occupational therapy may expect to work in a wide range of practice settings that include general hospitals, rehabilitation, aged and mental health care facilities, as well as community health services for people at home, in schools and workplaces.<br /></p>
+212c192,207
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Health Sciences and Master of Occupational Therapy Practice </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar"> n/a</span></dd><dd>Bendigo <span class="atar">85.3</span></dd><dd>Melbourne <span class="atar">81.95</span></dd><dd>Mildura <span class="atar"> n/a</span></dd><dd>Shepparton <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Occupational therapists help people with various health conditions and disabilities, improving their ability to perform tasks in their daily life and work.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Advanced Occupational Therapy</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2-4 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides graduate occupational therapists with flexible and accessible postgraduate study options. It enables you to extend your knowledge and skills for work with children, adults or older adults in a range of practice contexts; to deepen your understanding of human occupation and theoretical frameworks inform occupational therapy; and to critically examine the evidence base underpinning occupational therapy practices. You may develop your research knowledge and skills by undertaking a supervised research project.<br />
+> <br />
+> This course comprises a combination of coursework and a 20 000 word thesis. The course aims to enable you to meet the eligibility requiremenst for entry into the Doctor of Clinical Science and Doctor of Philosophy (phD) programs, depending on academic performance.</dd><dt>Prerequisite</dt><dd>All applicants are required to hold at least a three-year qualifying degree or diploma in occupational therapy from a World Federation of Occupational Therapists' approved program.<br />
+> <br />
+> The admission requirements differ for the two modes of enrolment (i.e. online coursework or a combination of coursework and thesis):<br />
+> <br />
+> By online coursework: EITHER i) a three-year World Federation of Occupational Therapists' approved qualification with a B average (70% or above) and a minimum of two years' professional practice experience as an occupational therapist with evidence of continuing professional development; OR ii) a four-year Bachelor of Occupational Therapy or equivalent graduate entry masters degree from a World Federation of Occupational Therapists' approved program, with a B average (70% or above) and at least one year of professional practice experience post-qualification with evidence of continuing professional development.<br />
+> On completion of 60 credit points of study with a B average (70% or above), students will be eligible to progress into Year 2 and undertake a further 60 credit points of study towards the Master of Advanced Occupational Therapy. Students who satisfactorily complete 60 credit points of study will be eligible to graduate with a Postgraduate Certificate in Occupational Therapy.<br />
+> <br />
+> By coursework and thesis: a four-year Bachelor of Occupational Therapy or equivalent from a World Federation of Occupational Therapists' approved program, with Honours (H2A/75 % +) or a relevant Postgraduate Diploma (H2A/75%+) and evidence of research ability). Evidence of two to three years of professional practice experience in a relevant field of occupational therapy is preferred. Applicants should contact the course coordinator about potential research topics, prior to applying.<br /></dd><dt>Fee amount</dt><dd>Indicative (2013): $16,210 per 120 credit points for Master of Occupational Therapy, or $8,105 (60 credit points) for the Postgraduate Certificate. Please note that fees incurred for study with our Program Partner will be charged at a comparable rate where possible. </dd><dt>How to apply</dt><dd>Apply <a href="http://latrobe-apply.custhelp.com/">Online</a> by 30 November 2013 for Semester 1 (March) and by 30 May 2014 for Semester 2 (July). Late applications may be considered - contact Postgraduate Student Services: ph (03) 9479 3973 email: k.constantine@latrobe.edu.au.<br />
+> .<br />
+> All applicants for MAOT by coursework and thesis must provide a completed <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0008/541619/maot-suppform.docx">Supplementary Form</a> with their application.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/madvot.htm"><span class="off-screen">Advanced Occupational Therapy (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Occupational Therapy Practice</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time </dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Bendigo</dd><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Occupational therapists help individuals to become more independent and maximise personal productivity, wellbeing and quality of life through occupational performance. You will develop knowledge and skills in assessment and treatment, the therapeutic use of occupations, intervention techniques, the design of equipment and adaptation of environments.<br />
+> <br />
+> You will be eligible for accreditation as an occupational therapist by the end of second year.<br />
+> <br />
+> The course comprises 80 weeks of coursework (40 weeks per year), including 1000 hours of professional practice. First year includes a four-week full-time professional practice block; second year includes two eight-week full-time professional practice blocks. You will enrol into 120 credit points per year.<br />
+214c209
+< Aiming to qualify you to work in various occupational therapy roles, this course covers the knowledge and skills you need to assess and treat patients, including the use of occupations, intervention techniques, the design of equipment, and adaptation of environments. It also offers supervised clinical placements to help you develop a sound basis for professional practice.<br />
+---
+> For more information, please visit out <a href="http://latrobe.custhelp.com/app/">Frequently Asked Questions.</a></dd><dt>Prerequisite</dt><dd>Bachelor's degree in health, education, social, psychological or biological sciences (or subsequent postgraduate study and/or relevant work experience) is preferred, completed within the last ten years with a grade average of 60 per cent and a minimum grade average of 65% in your final year of studies.<br />
+216c211
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZHSOT/">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: Study score of at least 30 in English (ESL) or 25 in any other English, and at least 25 in one of Biology, Chemistry, Mathematics (any), Physical Education or Physics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Current Year 12 applicants with relevant work experience (eg. health professional aide) must complete and submit a VTAC Personal History online, including details of how your work experience is relevant to occupational therapy.<br />
+---
+> Successful applicants who do not have a background in biological sciences, for example anatomy and physiology, will need to complete a <a href="http://www.latrobe.edu.au/courses/anatomy-and-physiology/short-courses">Bridging Course</a>. This will be detailed in a conditional offer.</dd><dt>Fee amount</dt><dd>Indicative (2013): $23 600 per 120 credit points.</dd><dt>Costs</dt><dd>National Police Check ($15.50) and immunisations (A$500). Prices are approximate. Accommodation for any clinical placements may vary according to the venue and location.</dd><dt>Additional information</dt><dd>This course is Youth Allowance / ABSTUDY approved. Students enrol into 105 credit points in first year and 135 credit points in second year.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a><br />
+218c213
+< Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work or community experience or reasons for applying. Applicants must include a statement (in your own words) demonstrating your knowledge of the occupational therapy profession.<br />
+---
+> Please note it is compulsory for applicants without a background in biological sciences (eg anatomy) to take a <a href="http://www.latrobe.edu.au/courses/anatomy-and-physiology/short-courses">bridging course</a> as a foundation for further studies; this course provides an understanding of the function and structure of the human body.<br />
+220c215
+< Applicants with work experience must include details of how your work experience is relevant to occupational therapy, and length of experience. You may wish to provide other documentation in support of your application.<br />
+---
+> Please complete the <a href="http://www.latrobe.edu.au/__data/assets/pdf_file/0014/142250/mot-prac-suppform.pdf">Occupational Therapy Supplementary Application Form.</a> (Should be sent to La Trobe University to the address detailed on the form)</dd><dt>Professional recognition</dt><dd>The course is accredited by Occupational Therapy Australia and the World Federation of Occupational Therapists.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-occupational-therapy-practice.htm"><span class="off-screen">Occupational Therapy Practice (Master)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-occupational-therapy-practice.htm"><span class="off-screen">Occupational Therapy Practice (Master)</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Certificate in Occupational Therapy</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This is a nested qualification within the Master of Advanced Occupational Therapy (formerly Master of Occupational Therapy) for graduate occupational therapists. You will gain advanced knowledge and skills in specific occupational therapy practice areas of interest. You will develop skills for critically appraising research and extend your knowledge of evidence-based occupational therapy practice. The Postgraduate Certificate also provides a pathway into continuing study, in the Master of Advanced Occupational Therapy for high-achieving students (with a B grade average (70%+).<br />
+222,223c217
+< Applicants are advised to review the inherent requirements for <a href="http://www.latrobe.edu.au/health/study/pathways/application-requirements/vtac-application-page">Completion of Entry Level Occupational Therapy</a> courses at La Trobe University.</dd><dt>Middle band</dt><dd>La Trobe considers Special Entry Access Scheme (SEAS) criteria. In addition, a <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Costs</dt><dd>Prior to commencing clinical or community placements, students must provide proof of immunisations. Costs may vary depending on previous immunisations, approximately A$250-$470.<br />
+< A uniform costs approximately A$60. Students can buy items from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students' personal property.Accommodation costs for clinical placement vary according to venue. All students must obtain a National Police Check at a cost of approximately A$15.50 and a Working With Children (WWC) check at no cost, before undertaking clinical professional placements.</dd><dt>Additional information</dt><dd>This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>. Please note: students at Albury-Wodonga, Mildura and Shepparton campuses must transfer to Bendigo after first year (regional students cannot transfer to the Melbourne campus).<br />
+---
+> Please note: Subject to University approval, students enrolling from 2013 will be enrolled in the Master of Advanced Occupational Therapy and may complete an alternative course structure.</dd><dt>Prerequisite</dt><dd>All applicants are required to hold at least a three-year qualifying degree or diploma in occupational therapy from a World Federation of Occupational Therapists' approved program.<br />
+225c219,220
+< <br /></dd><dt>How to apply</dt><dd>VTAC/UAC</dd><dt>Professional recognition</dt><dd>Graduates are eligible to apply for membership to the Australian Association of Occupational Therapists. This degree is also recognised by the World Federation of Occupational Therapists, allowing graduates to register in the UK, USA, Sweden and other countries/regions (subject to national registration requirements).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsob.htm"><span class="off-screen">Health Sciences/Occupational Therapy </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsob.htm"><span class="off-screen">Health Sciences/Occupational Therapy </span>Bendigo</a></dd></dl></div></div></div>
+---
+> For academic entry requirements and other requirements, see Master of Advanced Occupational Therapy.</dd><dt>Fee amount</dt><dd>Indicative (2013): $8,105 (60 credit points). Please note that fees incurred for study with our Program Partner will be charged at a comparable rate where possible.<br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 30 November 2013 for Semester 1 (March) and by 30 May 2014 for Semester 2 (July). Late applications may be considered - contact Postgraduate Student Services: ph (03) 9479 3973 email: k.constantine@latrobe.edu.au.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hcot.htm"><span class="off-screen">Occupational Therapy (Postgraduate Certificate)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Certificate in Paediatric Occupational Therapy</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This is a nested qualification within the Master of Advanced Occupational Therapy (formerly Master of Occupational Therapy) for graduate occupational therapists. You'll gain advanced knowledge and skills in paediatric occupational therapy practice to respond effectively to the needs of children. You'll develop skills for critically appraising research and extend your knowledge of evidence-based paediatric occupational therapy practice. The postgraduate certificate also provides a pathway into continuing study, in the Master of Advanced Occupational Therapy for high-achieving students (with a B grade average (70%+).</dd><dt>Prerequisite</dt><dd>A three-year qualifying degree or diploma in occupational therapy from a World Federation of Occupational Therapists-approved program Prospective applicants who do not meet the standard entry requirements should contact the course co-ordinator for information about non-standard (conditional) admission. This may involve satisfactory completion of a negotiated program of postgraduate study prior to enrolment.</dd><dt>Fee amount</dt><dd>Indicative (2013): $8105 (60 credit points). Please note that fees incurred for study with our Program Partner will be charged at a comparable rate where possible.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 30 November 2013 for Semester 1 (March) and by 30 May 2014 for Semester 2 (July). Late applications may be considered - contact Postgraduate Student Services: ph (03) 9479 3973 email: k.constantine@latrobe.edu.au</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/paediatrics.htm"><span class="off-screen">Paediatric Occupational Therapy (Postgraduate Certficate)</span>Melbourne</a></dd></dl></div></div></div>
+228,229c223,224
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+231c226
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+235c230
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+237c232
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+242,244c237
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Health Sciences and Master of Occupational Therapy Practice  (062598G/ 044367E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 040</dd><dt id="campus">Campus</dt><dd>Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Occupational therapists help people with various health conditions and disabilities, improving their ability to perform tasks in their daily life and work.<br />
+< <br />
+< Aiming to qualify you to work in various occupational therapy roles, this course covers the knowledge and skills you need to assess and treat patients, including the use of occupations, intervention techniques, the design of equipment, and adaptation of environments. It also offers supervised clinical placements to help you develop a sound basis for professional practice.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Advanced Occupational Therapy (077466G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 370</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides graduate occupational therapists with flexible and accessible postgraduate study options. It enables you to extend your knowledge and skills for work with children, adults or older adults in a range of practice contexts; to deepen your understanding of human occupation and theoretical frameworks inform occupational therapy; and to critically examine the evidence base underpinning occupational therapy practices. You may develop your research knowledge and skills by undertaking a supervised research project.<br />
+246c239
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZHSOT/">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+---
+> This course comprises a combination of coursework and a 20 000 word thesis. The course aims to enable you to meet the eligibility requiremenst for entry into the Doctor of Clinical Science and Doctor of Philosophy (phD) programs, depending on academic performance.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+250c243,252
+< TOEFL Internet-based Test - A minimum score of 94 with a minimum for SLR 24; W27;<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 72 with no communicative skill score less than 68.<br />
+> <br />
+> Cambridge Certificate of Advanced English (CAE): a grade of A or higher.<br />
+> <br />
+> Cambridge Certificate of Proficiency in English (CPE): A grade of B or higher.<br />
+> <br />
+> or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>A four-year Bachelor of Occupational Therapy degree or equivalent from a World Federation of Occupational Therapists' approved program, with Honours (H2A, 75 per cent or above) or a relevant Postgraduate Diploma (with H2A, 75 per cent or above and evidence of research ability) and evidence of research ability).<br />
+> Evidence of two to three years of professional practice experience in a relevant field of occupational therapy is preferred. Applicants should contact the course coordinator about potential research topics prior to applying.<br /></dd><dt>Additional information</dt><dd>Applications for this course close on 30 November each year for commencement in the following academic year (February). All applicants must provide a CV, a personal statement and completed Supplementary Application Form with their application.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/madvot.htm"><span class="off-screen">Advanced Occupational Therapy (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Occupational Therapy Practice (044367E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years (2.5 years with Honours)</dd><dt>Semester starts :</dt><dd>Early February 2013</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 690</dd><dt id="campus">Campus</dt><dd>Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Occupational therapists help individuals to become more independent and maximise personal productivity, wellbeing and quality of life through occupational performance. You will develop knowledge and skills in assessment and treatment, the therapeutic use of occupations, intervention techniques, the design of equipment and adaptation of environments.<br />
+> <br />
+> You will be eligible for accreditation as an occupational therapist by the end of second year.<br />
+251a254,258
+> The course comprises 80 weeks of coursework (40 weeks per year), including 1000 hours of professional practice. First year includes a four-week full-time professional practice block; second year includes two eight-week full-time professional practice blocks. You will enrol into 120 credit points per year.<br />
+> <br />
+> For more information, please visit out <a href="http://latrobe.custhelp.com/app/">Frequently Asked Questions.</a></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+> <br />
+> TOEFL Paper-based Test - A minimum score of 600 with a score of 6 or more in the Test of Written English;<br />
+258,273c265
+< or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 80 and minimum A in English<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 81.95<br />
+< International Baccalaureate - 30<br />
+< GCE A Levels - 13<br />
+< HKDSE - 2x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 10.33<br />
+< MICSS (UEC) - 3<br />
+< Norway Upper Secondary Certificate - 5<br />
+< Sweden Slutbetyg - VG<br />
+< Canadian Secondary School/CPU - 80<br />
+< All Indian Sen SC (Best 5 Subjects) - 80<br />
+< Vietnam (Year 12) - 8.5<br />
+< Indonesia (SMA) - 8.5<br />
+< GAC Cert. IV - GPA 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> or approved international equivalent.<br />
+275,276c267,268
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>One of Biology, Chemistry, Physics or Year 12 Mathematics.</dd><dt>Additional costs</dt><dd>Prior to commencing clinical or community placements, students must provide proof of immunisations. Costs may vary depending on previous immunisations, approximately A$250-$470.<br />
+< A uniform costs approximately A$60. Students can buy items from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students' personal property.Accommodation costs for clinical placement vary according to venue. All students must obtain a National Police Check at a cost of approximately A$15.50 and a Working With Children (WWC) check at no cost, before undertaking clinical professional placements.</dd><dt>Professional recognition</dt><dd>Graduates are eligible to apply for membership to the Australian Association of Occupational Therapists. The degree is also recognised by the World Federation of Occupational Therapists, allowing graduates to register in the United Kingdom, the USA, Sweden and other countries/regions (subject to national registration requirements).<br />
+---
+> Please note the Occupational Therapy Board of Australias Standard for English Language proficiency to register as an Occupational Therapist in Australia is an IELTS of 7.0 overall with a minimum score of 7.0 in all components (Listening, Reading, Writing and Speaking) or a minimum OET score of A or B in every component, achieved at the one sitting. The test must be taken no longer than 2 years prior to applying for registration. Please read the <a href="%20http://www.occupationaltherapyboard.gov.au/Registration-Standards.aspx%20=" registration="" standard="" for="" physiotherapy=""></a>.<br /></dd><dt>Academic entry requirements</dt><dd>You must have a relevant Bachelor's degree equivalent to an Australian Bachelors degree, completed in the past five years<br />
+> (or subsequent postgraduate study and/or relevant work experience) with a minimum grade average of 70 per cent. Relevant studies include health, education, social, psychological or biological sciences. Applicants must also submit a Supplementary Form and will be required to participate in a telephone interview.</dd><dt>Additional costs</dt><dd>National Police Check ($15.50) and immunisations (A$500). Prices are approximate. Accommodation for any clinical placements may vary according to the venue and location.</dd><dt>Additional information</dt><dd>Successful applicants who do not have a background in biological sciences, for example anatomy and physiology, must undertake a <a href="http://www.latrobe.edu.au/courses/anatomy-and-physiology/short-courses">Bridging Course</a>.<br />
+278c270,274
+< To enable clinical placements, students enrolled in this course will be registered at no cost, as students, with the Occupational Therapy Board of Australia.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsob.htm"><span class="off-screen">Health Sciences/Occupational Therapy </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsob.htm"><span class="off-screen">Health Sciences/Occupational Therapy </span>Bendigo</a></dd></dl></div></div></div>
+---
+> Applications close at the end of October 2013. You will enrol into 105 credit points in the first year and 135 credit points in second year. The Honours program (CRICOS Code 062794C) is an additional six months of study comprising an additional 45 credit points.<br />
+> Please note this course commences on 4 February 2014.<br />
+> To enable clinical placements, students enrolled in this course will be registered as students, at no cost, with the Occupational Therapy Board of Australia.<br />
+> <br />
+> Applicants must also submit a <a href="%20http://www.latrobe.edu.au/international/apply/how-to/supplementary-admissions-forms">Supplementary Form</a>.</dd><dt>Professional recognition</dt><dd>The Master of Occupational Therapy Practice is recognised by the World Federation of Occupational Therapists. Graduates may be eligible for membership of the Australian Association of Occupational Therapists (AAOT).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-occupational-therapy-practice.htm"><span class="off-screen">Occupational Therapy Practice (Master)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-occupational-therapy-practice.htm"><span class="off-screen">Occupational Therapy Practice (Master)</span>Bendigo</a></dd></dl></div></div></div>
+281c277
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+284c280
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+305c301
+< <h2>Your study experience</h2>
+---
+> <h2>Inherent Requirements</h2>
+307c303
+< <h3>Occupational therapy placements</h3>
+---
+> <p>All applicants must review and be aware of the <a href="http://www.latrobe.edu.au/__data/assets/pdf_file/0009/135675/ot-inherent-requirements.pdf">Inherent Requirements for Occupational Therapy Courses at La Trobe University [PDF]</a>.<br /></p>
+309c305
+< <p>You will do 1000 hours of professional practice placements in the final two years of your program. This consists of four weeks in third year and two eight-week blocks and a project placement in fourth year. You are able to gain experience in a variety of government and non-government agencies including hospitals, community agencies, schools and rehabilitation centres. You will experience working with people of different ages, recently acquired and long-standing health needs, and interventions that focus on the person, their occupation and the environment.</p>
+---
+> <h2>Your study experience&nbsp;<br /></h2>
+311,523c307
+< <h3>Inherent Requirements</h3>
+< 
+< <p><!--[if gte mso 9]><xml>
+<  
+<   Normal
+<   0
+<   
+<   
+<   
+<   
+<   false
+<   false
+<   false
+<   
+<   EN-AU
+<   X-NONE
+<   X-NONE
+<   
+<    
+<    
+<    
+<    
+<    
+<    
+<    
+<    
+<    
+<    
+<    
+<   
+<   MicrosoftInternetExplorer4
+<   
+<    
+<    
+<    
+<    
+<    
+<    
+<    
+<    
+<    
+<    
+<    
+<   
+< </xml><![endif]--><!--[if gte mso 9]><xml>
+<  
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<   
+<  
+< </xml><![endif]--><!--[if gte mso 10]>
+< <style>
+<  /* Style Definitions */
+<  table.MsoNormalTable
+<         {mso-style-name:"Table Normal";
+<         mso-tstyle-rowband-size:0;
+<         mso-tstyle-colband-size:0;
+<         mso-style-noshow:yes;
+<         mso-style-priority:99;
+<         mso-style-qformat:yes;
+<         mso-style-parent:"";
+<         mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+<         mso-para-margin:0cm;
+<         mso-para-margin-bottom:.0001pt;
+<         mso-pagination:widow-orphan;
+<         font-size:11.0pt;
+<         font-family:"Calibri","sans-serif";
+<         mso-ascii-font-family:Calibri;
+<         mso-ascii-theme-font:minor-latin;
+<         mso-fareast-font-family:"Times New Roman";
+<         mso-fareast-theme-font:minor-fareast;
+<         mso-hansi-font-family:Calibri;
+<         mso-hansi-theme-font:minor-latin;}
+< </style>
+< <![endif]--></p>
+< 
+< <p><a href="http://www.latrobe.edu.au/__data/assets/pdf_file/0009/135675/ot-inherent-requirements.pdf">Inherent Requirements for the Completion of Entry Level Occupational Therapy Courses at La Trobe University</a> (PDF)<br /></p>
+< 
+< <h3>Regional campus transfers</h3>
+---
+> <h3>Occupational therapy placements</h3>
+525c309
+< <p>Students at the Albury-Wodonga, Mildura and Shepparton campuses must transfer to the Bendigo campus for the last three years of the course.</p>
+---
+> <p>Master of Occupational Therapy Practice students will do 1000 hours of professional practice placements consisting of four weeks in first year and two eight-week blocks and a project placement in second year.</p>
+537c321
+< <p><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=94284"> <img src="http://www.latrobe.edu.au/student-profiles/images/rodaughan_grace.jpg/thumbnail.jpg" width="53" height="80" alt="" title="rodaughan_grace" /></a></p>
+---
+> <p><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=184373"> <img src="http://www.latrobe.edu.au/student-profiles/images/beriman_katie.jpg/thumbnail.jpg" width="53" height="80" alt="Katie Beriman" title="beriman_katie" /></a></p>
+539c323
+< <p class="testimonial">I always knew I wanted to work in a health field because I love the thought of helping people.</p>
+---
+> <p class="testimonial">The course gives great career opportunities as it is focused on developing practical skills.</p>
+541c325
+< <p><cite><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=94284">Ms Grace <strong>Rodaughan</strong>, </a>  </cite></p>
+---
+> <p><cite><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=184373">Ms Katie <strong>Beriman</strong>, </a> Health Sciences </cite></p>

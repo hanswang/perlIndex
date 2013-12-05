@@ -1,0 +1,379 @@
+19,20c19,20
+< <meta name="description" content="Civil engineers design and construct most of our basic infrastructure. Combine your studies with science or business for a double degree." />
+< <meta name="keywords" content="Civil engineering, civil engineer, construction, transportation, science, business, bachelor, undergraduate" />
+---
+> <meta name="description" content="Our sustainable civil engineering program enhances the knowledge of graduates and integrates learning with industry-based work experience and project opportunities." />
+> <meta name="keywords" content="Civil engineering, postgraduate, Master's, coursework" />
+42c42
+< <!-- 107770 -->
+---
+> <!-- 107808 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/civil-engineering"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="canonical" href="http://www.latrobe.edu.au/courses/civil-engineering/postgraduate"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+74c74
+<   Page generated: 10 November 2013 18:57:15
+---
+>   Page generated: 11 November 2013 00:08:23
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/civil-engineering">Civil engineering</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/civil-engineering">Civil engineering</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/civil-engineering/postgraduate">Postgraduate</a></div>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/civil-engineering">Undergraduate</a></li>
+<   <!--<li><a href="http://www.latrobe.edu.au/courses/civil-engineering/postgraduate">Postgraduate</a></li>-->
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/civil-engineering">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/civil-engineering/postgraduate">Postgraduate</a></li>
+155,195d154
+< <div class="inline-video">
+< 	<div>
+< 		<img class="play-video" style="background:transparent url(http://webmedia.latrobe.edu.au/production1/video1527.jpg.std.jpg) no-repeat 0 0" src="http://webmedia.latrobe.edu.au/images/view-video-overlay-std.png" alt="" width="250" height="166" />
+< 	</div>
+< 
+<   <div class="webmedia">
+< 
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:04:13',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/lMpSLTU_civil_eng_v3.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/lMpSLTU_civil_eng_v3.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1527.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'1527', 'name':'1527'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1527', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< 
+< 
+< <div id="v1527">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1527.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/GkHaLTU_civil_eng_v3_1.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< </div>
+< 
+< 		<div class="jump-list">
+< 			<ul>
+< 				<li class="initial webmedia">Other formats</li>
+< 				<li><a href="http://webstat.latrobe.edu.au/webmedia/media/GkHaLTU_civil_eng_v3_1.mp4"><span
+< 				class="off-screen">Civil Engineering at La Trobe University</span> MP4 [23.93 MB]</a></li>
+< 				<li><a href="http://webstat.latrobe.edu.au/webmedia/media/p775LTU_civil_eng_v3.mp3"><span class="off-screen">Civil Engineering at La Trobe University</span> MP3 [2.91 MB]</a></li>
+< 								<li><a href="http://webstat.latrobe.edu.au/webmedia/media/94vMCivil Engineering.docx"><span class="off-screen transcript-link">Civil Engineering at La Trobe University</span> Transcript</a></li>
+< 								<li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1527"><span class="off-screen">Civil Engineering at La Trobe University</span> Permalink</a></li>
+< 				<li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video format request: http://webmedia.latrobe.edu.au/webmedia/perma.php?1527">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< 			</ul>
+< 		</div>
+< 	</div>
+< </div>
+< 
+197,201c156,157
+< <h2>Why study a civil engineering course?</h2>
+< 
+< <p>Civil engineers should be creative, curious, analytical and detail-orientated. Graduates trained in civil engineering can specialise in construction, environmental and transport engineering, or managing people and projects.</p>
+< 
+< <p>Our Bachelor of Civil Engineering prepares you to work in the design, construction and maintenance of almost all basic types of contemporary infrastructure, including bridges, multi-storey buildings, highways, railways, tunnels, airports, water supply and waste collection systems.</p>
+---
+> <div class="feature feature-big" sizcache="1661" sizset="0">
+>   &nbsp;
+203c159
+< <p>You can combine this course with either science or business courses in double degree programs.<br /></p>
+---
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0008/119915/Civil-Eng.jpg" width="250" height="166" alt="" title="Civil-Eng.jpg" />Why study Civil engineering?</h2>
+205,207c161,162
+< <h3>Industry scholarships<br /></h3>
+< 
+< <p>We offer <a href="http://www.latrobe.edu.au/ceps/your-study-experience/industry-scholarships">industry-supported scholarships</a> unique to our Bachelor of Civil Engineering, backed by a wide range of industry partners. Get financial support and fully-paid vacation work experience as part of your degree.<br /></p>
+---
+>   <p>There is a worldwide need for sustainable infrastructure to ensure future prosperity, but also a critical shortage of skilled professionals for these projects. Our sustainable civil engineering program enhances the knowledge of graduates and integrates learning with industry-based work experience and project opportunities. Click <a href="http://www.latrobe.edu.au/courses/civil-engineering/research">for more information</a>&nbsp;about Master&#39;s by research, or PhD.&nbsp;<br /></p>
+> </div>
+214,218c169
+< <p>There is currently a shortage of civil engineers in Australia. You&#8217;re likely to find work in a variety of public and private organisations within Australia and overseas.</p>
+< 
+< <p>La Trobe graduates work on diverse projects all over the world, such as large-scale structural projects and oil rigs, with mining companies, water authorities and local government.<br /></p>
+< 
+< <p>Upon completion of your civil engineering course, you will be eligible for membership of <a href="http://www.engineersaustralia.org.au">Engineers Australia</a>, and other professional bodies depending on your specialisation.</p>
+---
+> <p>The need for civil engineers is increasing due to the demand for sustainable infrastructure and consideration of environmental issues in future developments. In Australia, sustainability and environmental issues are particularly relevant to the water and local government sectors. Similar career opportunities also exist overseas. Graduates may work on large-scale structural projects and oil rigs, and with mining companies, water authorities, local governments and the private sector.</p>
+225,227c176
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Civil Engineering (Honours)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar">65.25</span></dd><dd>Melbourne <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Engineering impacts virtually every aspect of society. There are many specialties within civil engineering, such as structural, construction, environment, and transportation engineering. Engineers should be creative, curious, analytical, and detail orientated. As a trained civil engineer, you may manage people and projects, oversee a construction sites or work in design, research and teaching.<br />
+< <br />
+< This course aims to prepare you to work in the design, construction and maintenance of almost all basic types of contemporary infrastructure. This includes bridges, multi-storey buildings, highways, railways, tunnels, airports, domestic water supplies, irrigation systems, flood protection work, and the collection and disposal of wastes and waste water.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Civil Engineering (Sustainable Infrastructure)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or up to 2 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Bendigo</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The worldwide need for sustainable infrastructure has been exacerbated by a critical shortage of skilled professionals to undertake the massive projects required to ensure future prosperity. This Master's program enhances the knowledge of civil engineering graduates, and is designed to integrate learning with industry-based work experience and project opportunities.<br />
+229,249c178
+< You can combine this course with either science or business courses in double degree programs.The curriculum also emphasises the importance of people skills, as engineers often work as part of a team in a wide range of fields.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: English (any), Mathematical Methods, and either Physics or Specialist Mathematics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">VTAC Personal History online</a> if they wish other information to be considered during the selection process. This may include information such as work experience or reasons for applying. Applicants may wish to provide other documentation in support of their application.They may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a VTAC Personal History online for other information to be considered during the selection process, e.g. details on work experience or reason for applying.<br />
+< <br />
+< Applicants may also be asked to complete a maths test.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>The course is accredited by Engineers Australia, and graduates are eligible for membership.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/science-tech/sveb.htm"><span class="off-screen">Civil Engineering (Honours)</span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Civil Engineering (Honours)/Bachelor of Business</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5.5 years full time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar">84.3</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is a great pathway to careers in civil engineering management, leadership, human resource management and project management. It gives you a qualification in civil engineering and a business major in your choice of marketing, international resource management or human resource management.<br />
+< <br />
+< The course also provides <a href="http://www.latrobe.edu.au/scitecheng/study">industry-based learning</a> and an extensive range of supporting scholarships.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: English (any), Mathematical Methods (CAS) and either Physics or Specialist Mathematics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome tio provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.<br />
+< <br />
+< Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/matureage/">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Re-ranking is based on English (any), Business (any), Mathematical Methods and Physics. La Trobe also considers Special Entry Access Scheme (SEAS) criteria ;and a <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>The course is accredited by Engineers Australia, and graduates are eligible for membership.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/rzbe.htm
+< "><span class="off-screen">Civil Engineering/Business</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Civil Engineering (Honours)/Bachelor of Science </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5.5 years full time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar">78.3</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course complements studies in civil engineering with a science major, aiming to give you multiple skills and extensive knowledge applied to civil engineering projects such as water management, soil management, energy management and environmental management. See individual course entries for further detail.<br />
+< <br />
+< The course also provides an extensive range of supporting <a href="%20http://www.latrobe.edu.au/ceps/scholarships/index.html">scholarships</a>, and gives students access to the Faculty's industry experience and student support programs.<br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: English (any), Mathematical Methods, and either Specialist Mathematics or Physics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a non-year="" applicants="" must="" complete="" and="" submit="" a=""></a><a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.<br />
+< <br />
+< Applicants may be asked to complete a <a href="http://www.latrobe.edu.au/matureage/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Re-ranking is based on English (any), Mathematical Methods (either) and Physics. La Trobe also considers Special Entry Access Scheme (SEAS) criteria; and a <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>The course is accredited by Engineers Australia, and graduates are eligible for membership. Graduates may also be eligible for membership of the relevant scientific professional association, depending on your choice of studies.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/science-tech/rzces.htm"><span class="off-screen">Civil Engineering/Science </span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Science (Applications in Society)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">55.45</span></dd><dd>Bendigo <span class="atar">57.1</span></dd><dd>Albury-Wodonga <span class="atar">73.5</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Bachelor of Science (Applications in Society) combines major studies in science with complementary disciplines from other areas. The degree is designed to place science in context and to explore the applications of science in society, giving you a deep understanding of at least one area of science and the ability to work effectively in non-science disciplines. This cross-disciplinary degree gives graduates the skills to work as knowledge brokers in business, government, education or science.<br />
+< <br />
+< The course also includes the optional <a href="http://www.latrobe.edu.au/scitecheng/study/work-ready-science%3E'Work%20Ready%20Science'%20program%3C/a%3E%20(WRS)%20with%20career%20development%20workshops%20and%20subjects%20that%20count%20towards%20your%20degree.%20The%20program%20coordinator%20will%20help%20you%20find%20work%20placement%20opportunities,%20study%20exchange%20programs%20or%20cadetship%20placements%20in%20your%20area%20of%20interest.%3Cbr%20/%3E"></a></dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: a study score of at least 25 in English (ESL) or 20 in any other English<br />
+< HSC (NSW): English Band 2 or equivalent</dd><dt>How to apply</dt><dd>VTAC/UAC.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsap.htm"><span class="off-screen">Science (Applications in Society)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsapb.htm"><span class="off-screen">Science (Applications in Society)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsapw.htm "><span class="off-screen">Science (Applications in Society)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> La Trobe's Department of Civil Engineering and Physical Sciences has strong links with industry through its graduates, and its research and consulting activities.</dd><dt>Prerequisite</dt><dd>Four-year Bachelor's degree in civil engineering, structural engineering, environmental engineering or equivalent.</dd><dt>Fee amount</dt><dd>Indicative (2011): $20,580 per 120 credit points</dd><dt>How to apply</dt><dd>Apply direct to the University. Download, complete and submit a <a href="http://www.latrobe.edu.au/students/enrolment/documents/admission-pg-coursework.pdf">postgraduate coursework application form (PDF 77KB)</a>. Please ensure you also provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smceb.htm "><span class="off-screen">Civil Engineering (Sustainable Infrastructure) (Master)</span>Bendigo</a></dd></dl></div></div></div>
+252,253c181,182
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+255c184
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+259c188
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+261c190
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+265,425c194
+< <div class="accordion">
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Civil Engineering (Honours) (078469G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Engineering impacts virtually every aspect of society. There are many specialties within civil engineering, such as structural, construction, environment, and transportation engineering. Engineers should be creative, curious, analytical, and detail orientated. As a trained civil engineer, you may manage people and projects, oversee a construction sites or work in design, research and teaching.<br />
+< <br />
+< This course aims to prepare you to work in the design, construction and maintenance of almost all basic types of contemporary infrastructure. This includes bridges, multi-storey buildings, highways, railways, tunnels, airports, domestic water supplies, irrigation systems, flood protection work, and the collection and disposal of wastes and waste water.<br />
+< <br />
+< You can combine this course with either science or business courses in double degree programs.The curriculum also emphasises the importance of people skills, as engineers often work as part of a team in a wide range of fields.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 65.25<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 6<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - BCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information, visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4, English (any), Mathematical Methods (CAS) and either Specialist Mathematics or Physics.</dd><dt>Additional information</dt><dd>Only students with Advanced Standing (credit) can commence in Semester 2 (July).<br />
+< This course may be offered at the Melbourne Campus subject to official University approval.</dd><dt>Professional recognition</dt><dd>The course is accredited by Engineers Australia, and graduates are eligible for professional membership.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/science-tech/sveb.htm"><span class="off-screen">Civil Engineering (Honours)</span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Civil Engineering (Honours)/Bachelor of Business (078465M)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5.5 years (or 5 years in an accelerated program)</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 100</dd><dt id="campus">Campus</dt><dd>Bendigo</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is a great pathway to careers in civil engineering management, leadership, human resource management and project management. It gives you a qualification in civil engineering and a business major in your choice of marketing, international resource management or human resource management.<br />
+< <br />
+< The course also provides <a href="http://www.latrobe.edu.au/scitecheng/study">industry-based learning</a> and an extensive range of supporting scholarships.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 80<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 80.65<br />
+< International Baccalaureate - 28<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - BBC<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 70<br />
+< Vietnam (Year 12) - 8.2<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information, visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4 Mathematical Methods (CAS) and Specialist Mathematics or Physics. VCE Units 3 and 4 English (any).</dd><dt>Additional information</dt><dd>Students with Advanced Standing (credit) may commence in Semester 2 (July).</dd><dt>Professional recognition</dt><dd>This course is accredited by Engineers Australia, and graduates are eligible for membership.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/rzbe.htm
+< "><span class="off-screen">Civil Engineering/Business</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Civil Engineering (Honours)/Bachelor of Science  (078464A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5.5 years (or 5 years in an accelerated program)</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>27 030</dd><dt id="campus">Campus</dt><dd>Bendigo</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course complements studies in civil engineering with a science major, aiming to give you multiple skills and extensive knowledge applied to civil engineering projects such as water management, soil management, energy management and environmental management. See individual course entries for further detail.<br />
+< <br />
+< The course also provides an extensive range of supporting <a href="%20http://www.latrobe.edu.au/ceps/scholarships/index.html">scholarships</a>, and gives students access to the Faculty's industry experience and student support programs.<br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 80<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 81.50<br />
+< International Baccalaureate - 29<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - BBC<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada secondary (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 70<br />
+< Vietnam (Year 12) - 8.5<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to VCE Units 3 &amp; 4 Mathematical Methods (CAS) or Specialist Mathematics or Physics. VCE Units 3 and 4 English (any).<br /></dd><dt>Additional information</dt><dd>Students with Advanced Standing (credit) may commence in Semester 2 (July).</dd><dt>Professional recognition</dt><dd>This course is accredited by Engineers Australia. Depending on the specific studies chosen, accreditation with the relevant science professional association is also possible.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/science-tech/rzces.htm"><span class="off-screen">Civil Engineering/Science </span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Science (Applications in Society) (077313B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd></dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-3"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Bachelor of Science (Applications in Society) combines major studies in science with complementary disciplines from other areas. The degree is designed to place science in context and to explore the applications of science in society, giving you a deep understanding of at least one area of science and the ability to work effectively in non-science disciplines. This cross-disciplinary degree gives graduates the skills to work as knowledge brokers in business, government, education or science.<br />
+< <br />
+< The course also includes the optional <a href="http://www.latrobe.edu.au/scitecheng/study/work-ready-science%3E'Work%20Ready%20Science'%20program%3C/a%3E%20(WRS)%20with%20career%20development%20workshops%20and%20subjects%20that%20count%20towards%20your%20degree.%20The%20program%20coordinator%20will%20help%20you%20find%20work%20placement%20opportunities,%20study%20exchange%20programs%20or%20cadetship%20placements%20in%20your%20area%20of%20interest.%3Cbr%20/%3E"></a></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 55.45<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - BCC<br />
+< STPM - 8<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.6 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br /></dd><dt>Additional information</dt><dd>Work Ready Science (WRS) offers students the chance to build their future career from the moment they start this course. This program focuses on the transition between university and the workforce by building experience and developing the skills employers value.<br />
+< <br />
+< The overall objective of Work Ready is to give students a competitive advantage, by learning to communicate achievements and experiences to an employer in a competent and confident manner.<br />
+< <br />
+< WRS is available at La Trobe Universitys Melbourne, Bendigo and Albury-Wodonga<br />
+< <a href="http://www.latrobe.edu.au/scitecheng/study/work-ready-science">campuses</a></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsap.htm"><span class="off-screen">Science (Applications in Society)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsapb.htm"><span class="off-screen">Science (Applications in Society)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsapw.htm "><span class="off-screen">Science (Applications in Society)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+< </div>
+---
+> <h3 class="alert">No courses available</h3>
+427c196
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+430c199
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+440,442c209,211
+< </div><!-- close .tabs --><blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=255735"> <img src="http://www.latrobe.edu.au/student-profiles/images/Ethan_Guo_web.jpg/thumbnail.jpg" width="53" height="80" alt="" title="guo_ethan" /></a><cite><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=255735"> Ethan <strong>Guo</strong>,</a>  <br />Bachelor of Civil Engineering</cite></p><p class="testimonial">"Site visits and experiments in my course provide a better understanding of how civil engineering works."</p>
+< 
+---
+> </div><!-- close .tabs -->
+> <div id="study_options">
+> <h3>Related study options</h3>
+444,450c213,215
+< </blockquote>
+< <div id="related_study_options">
+< <h2>Your study experience</h2>
+< 
+< <h3>Alternative pathways to a Bachelor of Civil Engineering</h3>
+< 
+< <p>Students who successfully complete first year of the Bachelor of Science in Bendigo, with satisfactory results in the required subjects, can apply for a transfer in second year to the Bachelor of Civil Engineering in Bendigo.</p>
+---
+> <ul>
+>   <li><a href="http://www.latrobe.edu.au/courses/sustainable-engineering/postgraduate">Sustainable engineering</a><br /></li>
+> </ul>
+454,462c219,220
+< <div id="new_div_106809">
+< <h3>Civil engineering placements and employment-linked scholarships</h3>
+< 
+< <p>The <a href="http://www.latrobe.edu.au/ceps/your-study-experience/industry-scholarships">Industry-Based Learning component</a> of the civil engineering course gives you paid work in industry under the supervision of experienced engineers. It offers you:</p>
+< 
+< <ul>
+<   <li>Industry contacts that may lead to a job after graduation</li>
+< 
+<   <li>Pay rates generally between 60-80 per cent of a graduate salary</li>
+---
+> <div id="new_div_106813">
+> <h2>Your study experience</h2>
+464c222
+<   <li>An opportunity to put theory into practice</li>
+---
+> <h3>Civil engineering placements</h3>
+466c224
+<   <li>A chance to build confidence and maturity</li>
+---
+> <p>Industry placements form part of our program. Two electives are available that focus on completing industry-related topics. These electives may be from the university or from an external organisation. In the Masters program, students complete a period in industry or a research project. We have strong links with many industry employers and regional authorities</p>
+468,469c226
+<   <li>Improved communications skills.</li>
+< </ul>
+---
+> <p>&nbsp;</p>
+474c231,236
+< <div id="staff_profile_nest">
+---
+> <div id="content_div_70640">
+> <h3>Student and graduate profiles</h3>
+> 
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+> 
+> </div>
+479,481c241
+< <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Civil engineering&amp;submit=submit&amp;showform=no">staff in Civil engineering</a>.</p-->
+< </div>
+< <!-- Content end -->
+---
+> <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Civil engineering&amp;submit=submit&amp;showform=no">staff in Civil engineering</a>.</p--><!-- Content end -->

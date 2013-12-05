@@ -1,0 +1,277 @@
+19,20c19,20
+< <meta name="Related.Area.of.Study" content="Prosthetics and orthotics" />
+< <meta name="Campus" content="Melbourne" />
+---
+> <meta name="Related.Area.of.Study" content="Podiatry" />
+> <meta name="Campus" content="Melbourne,Albury-Wodonga,Bendigo" />
+26c26
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+31,32c31,32
+< <meta name="description" content="You may combine undergraduate training in health sciences with specialised Masters-level training in prosthetics and orthotics in four years." />
+< <meta name="keywords" content="Prosthetics, orthotics, prostheses, orthoses, prosthetist, orthotist, undergraduate, bachelor, Master" />
+---
+> <meta name="description" content="Our postgraduate coursework program provides graduates of health sciences or related disciplines with the skills and knowledge to prevent and treat disorders of the foot and ankle and leads to professional registration." />
+> <meta name="keywords" content="Podiatry, podiatrist, podiatric practice, paediatrics, sports injuries, postgraduate, Master" />
+42c42
+< <!-- 126367 -->
+---
+> <!-- 126387 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/prosthetics-and-orthotics"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="canonical" href="http://www.latrobe.edu.au/courses/prosthetics-and-orthotics/postgraduate"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+74c74
+<   Page generated: 11 November 2013 03:37:49
+---
+>   Page generated: 11 November 2013 14:37:14
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/prosthetics-and-orthotics">Prosthetics and orthotics</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/prosthetics-and-orthotics">Prosthetics and orthotics</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/prosthetics-and-orthotics/postgraduate">Postgraduate</a></div>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/prosthetics-and-orthotics">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/prosthetics-and-orthotics/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/prosthetics-and-orthotics">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/prosthetics-and-orthotics/postgraduate">Postgraduate</a></li>
+159c159
+<   <p>Prosthetics and orthotics are clinical disciplines that deal with artificial limbs (prostheses) for people with amputations and supportive devices (orthoses) for people with musculoskeletal weakness or neurological disorders. You will study anatomy, physiology, biomechanics, prosthetic and orthotic prescription, and design and fabrication. You will also develop strong practical skills in research methodology, clinical assessment and the application of prosthetic and orthotic techniques. Clinical placements are an important part of our program.<br /></p>
+---
+>   <p>Our National Centre for Prosthetics and Orthotics offers the only course of this type in Australia. It is highly regarded internationally and accredited as a Category 1 course by the International Society of Prosthetics and Orthotics. Our postgraduate coursework program is for students with a relevant first degree and offers you a professional qualification in prosthetics and orthotics. Prosthetist-orthotists are integral members of healthcare teams with a clinical, technical, advisory and educational role.</p>
+163,200d162
+< <div class="webmedia">
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:01:29',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/qqR0HealthTVC.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/qqR0HealthTVC.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video736.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'v736', 'name':'736'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v736', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< <h2 class="video-title">Prosthetics and orthotics - I made a difference</h2>
+< 
+< 
+< <div id="v736">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video736.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/CkFuHealthTVC.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< 
+< </div>
+< 
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/CkFuHealthTVC.mp4"><span
+< class="off-screen">Prosthetics and orthotics - I made a difference</span> MP4 [13.29 MB]</a></li>
+< 
+< <li><a href='https://webstat.latrobe.edu.au/webmedia/media/NwIgHealthTVC.mp3'><span class='off-screen'>Prosthetics and orthotics - I made a difference</span> MP3 [1.03 MB]</a></li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/WIilprosthetics-orthotics-transcript.docx"><span class="off-screen transcript-link">Prosthetics and orthotics - I made a difference</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=736"><span class="off-screen">Prosthetics and orthotics - I made a difference</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?736">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+< </div>
+< </div>
+205c167
+< <p>Graduates are prepared for careers in major hospital and private prosthetic-orthotic facilities as well as other agencies. You can gain eligibility for membership of the Australian Orthotic Prosthetic Association and may practice in Australia and a number of overseas countries.</p>
+---
+> <p>Graduates are prepared for careers in major hospitals, commercial companies and other agencies. You can gain eligibilityfor membership of the Australian Orthotic Prosthetic Association and qualified to practise in Australia and a number of overseas countries.</p>
+212,224c174,184
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Health Sciences and Master of Clinical Prosthetics and Orthotics </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">84</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Besides aiming to qualify you as a prosthetist or orthotist, this course gives you enhanced practical skills in research methodology, clinical assessment, and the application of prosthetic and orthotic techniques in various scenarios.<br />
+< Prosthetics and orthotics are clinical disciplines that deal with artificial limbs (prostheses) for people with amputations, and supportive devices (orthoses) for people with musculoskeletal weakness or neurological disorders. As a prosthetist or orthotist, you will assess patients, manage caseloads, prescribe,<br />
+< design, fabricate, fit and align prostheses and orthoses, and monitor and review devices used by patients.<br />
+< <br />
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HMCPO/">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 30 in English (ESL) or 25 in any other English, and at least 25 in two of Biology, Chemistry, Mathematics (any), Physical Education, or Physics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Current Year 12 applicants who have relevant work experience with a prosthetic and orthotic facility must complete and submit the VTAC Personal History online.<br />
+< <br />
+< Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying. Applicants may wish to provide other documentation in support of their application.<br />
+< <br />
+< Selection may also be based on ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Re-ranking is based on relevant employment or work experience with a prosthetic and orthotic facility, and Special Entry Access Scheme (SEAS) criteria.</dd><dt>Fee amount</dt><dd>CSP contribution band 2. <br />
+< Indicative (2013): CSP student contribution $8,360 (per 120 credit points)</dd><dt>Costs</dt><dd>Please note the following costs are approximate only and subject to change.<br />
+< <br />
+< Additional costs include A$600 for tool kit, A$40 for uniform, A$10 for name tag, A$200 for student manuals. Students can purchase uniforms, books and equipment from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain your personal property. Student notes are also available free of charge online. You'll also be required to obtain a National Police Check (A$15.50) and Working with Children Check (no cost) before undertaking a clinical professional placement. Accommodation costs for clinical placement vary depending on venue.<br />
+< </dd><dt>Additional information</dt><dd>This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Clinical Prosthetics and Orthotics </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Prosthetics and orthotics is the clinical discipline related to the provision of prostheses (artificial limbs) to people with amputations, and orthoses (supportive devices), to people with musculoskeletal weakness or neurological disorders. You will acquire theoretical knowledge of anatomy, physiology, biomechanics, and prosthetic and orthotic prescription, design and fabrication, enhanced by strong practical skills in research methodology, clinical assessment, and the application of prosthetic and orthotic techniques.<br />
+> <br />
+> In first year, you will develop skills in foot and ankle orthotics, upper-limb<br />
+> orthotics, transtibial prosthetics, upperlimb prosthetics and clinically applied<br />
+> research. This is followed by 12 months of clinical theory and practice, with a focus on trans-femoral prosthetics and above-knee orthotics, while primarily located in a clinical environment.<br />
+> <br />
+> Clinical practice and theory may be held outside official University semester dates.<br />
+> <br />
+> For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HMCPO/">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>Bachelor degree, normally completed within the last seven years. Highly recommended prerequisites are tertiary-level subjects in anatomy and physiology, including regional musculoskeletal anatomy. Desirable prerequisites are tertiary-level subjects in biomechanics, clinical assessment, psychology, pathology, materials technology, evidence-based practice, research methods or statistics, and human movement.<br />
+> <br />
+> Students without a background in prosthetics and orthotics fabrication skills will be required to complete the bridging course in P&amp;O Fabrication skills and occupational health &amp; safety. The cost for the course is $900 (2013 fee, subject to change).<br />
+226,227c186,189
+< All students enrolled in the Bachelor of Health Sciences and Master of Clinical Prosthetics and Orthotics will undertake education at a clinical school during the fourth year of the course over a period of 16 weeks . In addition, a professional placement program of 16 weeks full time duration will be undertaken in the final 12 months A professional education placement component of the program may need to be undertaken interstate. There is also an option for some students to undertake their placement overseas.<br />
+< <br /></dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>Graduates are eligible for membership of the Australian Orthotic Prosthetic Association.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhpo.htm"><span class="off-screen">Health Sciences/Clinical Prosthetics and Orthotics </span>Melbourne</a></dd></dl></div></div></div>
+---
+> <br /></dd><dt>Fee amount</dt><dd>Indicative (2013): $23,600 per 120 credit points.<br />
+> Some Commonwealth Supported Places may be available.</dd><dt>Costs</dt><dd>Approximate costs include: A$600 for tool kit, A$40 for uniform, A$10 for name tag, and A$200 for student notes and manuals. Students can buy books, uniforms and equipment from any supplier; these remain the students' personal property. Student notes are also available free of charge online. Prior to commencing clinical or community placements, students must provide proof of immunisation. National Police Check - A$15.50, immunisations - approximately A$500, Working with Children Check (no cost). Accommodation for any clinical placements may vary according to the venue and location. The bridging course, for students without a background in prosthetics and orthotics - Prosthetics and Orthotics Fabrication Skills and Occupational Health and Safety - A$900 (2013 fee, subject to change).</dd><dt>Additional information</dt><dd>Applicants with no background in prosthetics and orthotics may be required to undertake a bridging course.</dd><dt>How to apply</dt><dd>Apply through VTAC by end of September 2013. All applicants must complete the VTAC Personal History Form online.</dd><dt>Professional recognition</dt><dd>Graduates are qualified to practise in Australia and a number of overseas countries, and eligible for membership of the Australian Orthotic Prosthetic Association.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-clinical-prosthetics-orthotics.htm"><span class="off-screen">Prosthetics and Orthotics (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Health Research Methodology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Albury-Wodonga</dd><dd>Bendigo</dd><dd>Melbourne</dd><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give graduates without substantial previous research experience the necessary preparation for higher degree studies. It is expected that graduates will proceed to a higher degree by research, provided they meet minimum average grade requirements. However, the course also aims to facilitate professional advancement and progression to further postgraduate coursework studies after full or partial completion. For public health major, please note that classes are held at the Franklin Street Campus.</dd><dt>Prerequisite</dt><dd>Bachelor's degree in relevant discipline. In certain circumstances, consideration is given to relevant clinical or academic experience, and demonstrated potential to undertake research.</dd><dt>Fee amount</dt><dd>Indicative (2012): $24,190 per 120 credit points.<br />
+> </dd><dt>Additional information</dt><dd>Public Health discipline commences early February.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Applications close on Thursday 31 October.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+230,231c192,193
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+233c195
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+237c199
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+239c201
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+244,246c206,221
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Health Sciences and Master of Clinical Prosthetics and Orthotics  (062598G/ 062802G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 350</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Besides aiming to qualify you as a prosthetist or orthotist, this course gives you enhanced practical skills in research methodology, clinical assessment, and the application of prosthetic and orthotic techniques in various scenarios.<br />
+< Prosthetics and orthotics are clinical disciplines that deal with artificial limbs (prostheses) for people with amputations, and supportive devices (orthoses) for people with musculoskeletal weakness or neurological disorders. As a prosthetist or orthotist, you will assess patients, manage caseloads, prescribe,<br />
+< design, fabricate, fit and align prostheses and orthoses, and monitor and review devices used by patients.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Clinical Prosthetics and Orthotics  (062802G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>28 360</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Prosthetics and orthotics is the clinical discipline related to the provision of prostheses (artificial limbs) to people with amputations, and orthoses (supportive devices), to people with musculoskeletal weakness or neurological disorders. You will acquire theoretical knowledge of anatomy, physiology, biomechanics, and prosthetic and orthotic prescription, design and fabrication, enhanced by strong practical skills in research methodology, clinical assessment, and the application of prosthetic and orthotic techniques.<br />
+> <br />
+> In first year, you will develop skills in foot and ankle orthotics, upper-limb<br />
+> orthotics, transtibial prosthetics, upperlimb prosthetics and clinically applied<br />
+> research. This is followed by 12 months of clinical theory and practice, with a focus on trans-femoral prosthetics and above-knee orthotics, while primarily located in a clinical environment.<br />
+> <br />
+> Clinical practice and theory may be held outside official University semester dates.<br />
+> <br />
+> For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HMCPO/">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+> <br />
+> TOEFL Paper-based Test - A minimum score of 600 with a score of 6 or more in the Test of Written English;<br />
+> Pearson Test of English (Academic) (PTE): minimum score of 72 with no communicative skill score less than 68.<br />
+> <br />
+> Cambridge Certificate of Advanced English (CAE): a grade of A or higher.<br />
+> <br />
+> Cambridge Certificate of Proficiency in English (CPE): A grade of B or higher.<br />
+248c223,224
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HMCPO/">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at postgraduate (EFS5 (70%) PG1) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>You must have a relevant Bachelors degree equivalent to an Australian Bachelors degree, completed in the past five years<br />
+> (or subsequent postgraduate study and/or relevant work experience) with a minimum grade average of 70 per cent.<br />
+250c226,228
+< IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> Essential prerequisite subjects include<br />
+> subjects in anatomy and physiology covering regional musculoskeletal anatomy. Desirable prerequisite subjects include<br />
+> studies in biomechanics, clinical assessment, psychology, pathology, materials technology, evidence based practice, research methods or statistics, human movement.</dd><dt>Additional costs</dt><dd>Approximate costs include: A$600 for tool kit, A$40 for uniform, A$10 for name tag, and A$200 for student notes and manuals. Students can buy books, uniforms and equipment from any supplier; these remain the students' personal property. Student notes are also available free of charge online. Prior to commencing clinical or community placements, students must provide proof of immunisation. National Police Check - A$15.50, immunisations - approximately A$500, Working with Children Check (no cost). Accommodation for any clinical placements may vary according to the venue and location. The bridging course, for students without a background in prosthetics and orthotics - Prosthetics and Orthotics Fabrication Skills and Occupational Health and Safety - A$900 (2013 fee, subject to change).</dd><dt>Additional information</dt><dd>Applicants must also submit a <a href="http://www.latrobe.edu.au/international/apply/how-to/supplementary-admissions-forms">Supplementary Form</a>.</dd><dt>Professional recognition</dt><dd>Afetr you graduate you will be eligible for membership to the Australian Orthotic and Prosthetic Association.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-clinical-prosthetics-orthotics.htm"><span class="off-screen">Prosthetics and Orthotics (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Health Research Methodology (072025F/072024G/072008G/072007G/072026E/072005K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 300</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Franklin Street</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give graduates without substantial previous research experience the necessary preparation for higher degree studies. It is expected that graduates will proceed to a higher degree by research, provided they meet minimum average grade requirements. However, the course also aims to facilitate professional advancement and progression to further postgraduate coursework studies after full or partial completion. For public health major, please note that classes are held at the Franklin Street Campus.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+256c234
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+268,283c246,247
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 80 and at least an A in English<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 84<br />
+< International Baccalaureate - 30<br />
+< GCE A Levels - 13<br />
+< HKDSE - 2x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 10.33<br />
+< MICSS (UEC) - 3<br />
+< Canada Secondary School (or CPU) - 80<br />
+< Norway Upper Secondary Certificate - 5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 80<br />
+< Vietnam (Year 12) - 8.5<br />
+< Indonesia (SMA) - 8.5<br />
+< GAC Cert. IV - GPA 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>A relevant Australian Bachelor's degree or approved international equivalent in health sciences or related area. Entry requirements also vary based on the chosen major - please contact the faculty for more information.</dd><dt>Additional information</dt><dd>Public Health discipline commences early February.<br />
+> Please note this course is held at the Franklin Street Campus, which is located in the CBD. You might like to consider finding accommodation close to your campus.<br />
+285,287c249
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Two of Biology, Chemistry, Year 12 Mathematics or Physics.</dd><dt>Additional costs</dt><dd>Please note the following costs are approximate only and subject to change.<br />
+< <br />
+< Additional costs include A$600 for tool kit, A$40 for uniform, A$10 for name tag, A$200 for student manuals. Students can purchase uniforms, books and equipment from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain your personal property. Student notes are also available free of charge online. You'll also be required to obtain a National Police Check (A$15.50) and Working with Children Check (no cost) before undertaking a clinical professional placement. Accommodation costs for clinical placement vary depending on venue.<br /></dd><dt>Professional recognition</dt><dd>Graduates are eligible for membership of the Australian Orthotic Prosthetic Association.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhpo.htm"><span class="off-screen">Health Sciences/Clinical Prosthetics and Orthotics </span>Melbourne</a></dd></dl></div></div></div>
+---
+> You must review the Supplementary Checklist before applying.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+290c252
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+293c255
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+309c271,275
+< <p>You will do a half-day observational placement in first year and two clinical placements totalling 12 or 16 weeks in fourth year.</p>
+---
+> <p>You will do two clinical placements totalling at least 12 weeks.</p>
+> 
+> <h3>Alternative pathways</h3>
+> 
+> <p>We consider relevant work experience and prior learning. These may include paid work as a health professional, in the health or fitness industry, other relevant personal or professional experience and volunteer work. If you do not have the prerequisites for the course, you may do relevant single subjects at any appropriate institution. This does not guarantee entry, but will improve your chance of acceptance.</p>
+321c287
+< <p><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=91617"> <img src="http://www.latrobe.edu.au/student-profiles/images/sarah-carter.jpg/thumbnail.jpg" width="53" height="80" alt="" title="sarah-carter" /></a></p>
+---
+> <p><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=185149"> <img src="http://www.latrobe.edu.au/student-profiles/images/ng_lina.jpg/thumbnail.jpg" width="53" height="80" alt="Lina Ng" title="ng_lina" /></a></p>
+323c289
+< <p class="testimonial">My placement at the Royal Children's Hospital was a fantastic experience. I was able to get a really good idea of what my future career would involve.</p>
+---
+> <p class="testimonial">La Trobe University is the only institution in Asia-Pacific that offers Prosthetics and Orthotics training at a postgraduate level.</p>
+325c291
+< <p><cite><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=91617">Ms Sarah <strong>Carter</strong>, </a>  </cite></p>
+---
+> <p><cite><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=185149">Ms Lina <strong>Ng</strong>, </a> Health Sciences </cite></p>
+444,446c410,417
+< </script><!-- Google Code for La Trobe Health Sciences Campaign Remarketing List 
+< Insertion Guide: https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=115794
+< -->
+---
+> </script><!-- Includes sei-event-calendar.js for related events -->
+> <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+> <script type="text/javascript">
+>   var eventCalendarPath = "/events/";
+> </script>
+> <script type="text/javascript" src="/__data/assets/js_file/0003/125724/coursefinder-ui.js"></script>
+> 
+> <!-- Google Code for La Trobe International Remarketing List -->
+449c420
+< var google_conversion_id = 1063865565;
+---
+> var google_conversion_id = 1048882750;
+453c424
+< var google_conversion_label = "oaJ9CO-OrwIQ3Zml-wM";
+---
+> var google_conversion_label = "WXTXCLSWggIQvtyS9AM";
+461c432
+< <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1063865565/?label=oaJ9CO-OrwIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+---
+> <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1048882750/?label=WXTXCLSWggIQvtyS9AM&amp;guid=ON&amp;script=0"/>
+463,470c434,436
+< </noscript><!-- Includes sei-event-calendar.js for related events -->
+< <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+< <script type="text/javascript">
+<   var eventCalendarPath = "/events/";
+< </script>
+< <script type="text/javascript" src="/__data/assets/js_file/0003/125724/coursefinder-ui.js"></script>
+< 
+< <!-- Google Code for La Trobe International Remarketing List -->
+---
+> </noscript><!-- Google Code for La Trobe Health Sciences Campaign Remarketing List 
+> Insertion Guide: https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=115794
+> -->
+473c439
+< var google_conversion_id = 1048882750;
+---
+> var google_conversion_id = 1063865565;
+477c443
+< var google_conversion_label = "WXTXCLSWggIQvtyS9AM";
+---
+> var google_conversion_label = "oaJ9CO-OrwIQ3Zml-wM";
+485c451
+< <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1048882750/?label=WXTXCLSWggIQvtyS9AM&amp;guid=ON&amp;script=0"/>
+---
+> <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1063865565/?label=oaJ9CO-OrwIQ3Zml-wM&amp;guid=ON&amp;script=0"/>

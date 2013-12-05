@@ -1,0 +1,243 @@
+20c20
+< <meta name="Campus" content="Melbourne" />
+---
+> <meta name="Campus" content="Melbourne,Albury-Wodonga,Bendigo" />
+26c26
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+31,32c31,32
+< <meta name="description" content="Our orthoptics degree will enable you to begin a rewarding career in a specialist eye care setting and advance treatment for children and adults with vision problems." />
+< <meta name="keywords" content="orthoptics, orthoptist, specialist eye clinics, specialist eye care, opthalmic surgery, low vision, vision research, undergraduate, bachelor, cvs, vision science, orthoptic" />
+---
+> <meta name="description" content="Our postgraduate courses include a graduate-entry Master of Orthoptics and diplomas in health research methodology, orthoptic studies, and orientation and mobility." />
+> <meta name="keywords" content="Orthoptics, orthoptist, specialist eye clinics, specialist eye care, opthalmic surgery, rehabilitation, low vision clinics, eye research, vision research, postgraduate, diploma, Master, orthoptics" />
+42c42
+< <!-- 126042 -->
+---
+> <!-- 126062 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/orthoptics"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="canonical" href="http://www.latrobe.edu.au/courses/orthoptics/postgraduate"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+74c74
+<   Page generated: 11 November 2013 07:05:17
+---
+>   Page generated: 11 November 2013 09:00:44
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/orthoptics">Orthoptics</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/orthoptics">Orthoptics</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/orthoptics/postgraduate">Postgraduate</a></div>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/orthoptics">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/orthoptics/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/orthoptics">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/orthoptics/postgraduate">Postgraduate</a></li>
+155d154
+< 
+160c159
+<   <p>Orthoptists are allied health practitioners who specialise in the detection, diagnosis and treatment of eye disease. Our orthoptics degree will enable you to begin a rewarding career in a specialist eye care setting. You will develop the knowledge and skills to advance treatment for children and adults with vision problems.</p>
+---
+>   <p>There is a growing scope for practice and specialisation in the orthoptics profession. Our postgraduate courses include a graduate-entry Master of Orthoptics and diplomas in health research methodology, orthoptic studies, and orientation and mobility. Develop the skills and knowledge to enhance your practice and broaden your employment options.</p>
+168c167
+< <p>There is a strong demand for orthoptists in Australia and overseas and our graduates are recognised internationally. You may expect to work in specialist eye clinics, public hospitals with ophthalmic surgeons, rehabilitation centres, low vision agencies, and eye and vision research centres.</p>
+---
+> <p>Our graduates are recognised internationally and there is a strong demand for orthoptists in Australia and overseas. You may expect to work in specialist eye clincs, public hospitals with ophthalmic surgeons, rehabilitation centres, low vision agencies, and eye and vision research centres.</p>
+175,181c174
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Health Sciences and Master of Orthoptics </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">83.05</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Orthoptists are eyecare professionals who detect, diagnose and treat vision and eye disorders. They usually work in specialist eye clinics and public hospitals, helping ophthalmic surgeons monitor eye disease and provide treatment, including prescribing glasses for children and adults.<br />
+< <br />
+< This course aims to qualify you for registration as an orthoptist, with a mix<br />
+< of general health sciences subjects, comprehensive theoretical studies of the<br />
+< eye, and extensive clinical experience.<br />
+< <br />
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hzhort/">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 30 in English (ESL) or 25 in English (any) and at least 25 in two of Biology, Chemistry, a Mathematics (any), Physical Education or Physics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Current Year 12 applicants with work experience must complete and submit a VTAC Personal History online.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Orthoptics</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Orthoptists are eyecare professionals who specialise in the detection, diagnosis and treatment of vision and eye disorders.<br />
+183c176,177
+< Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.<br />
+---
+> The curriculum is centred on enquiry-based learning. Theory and knowledge of eye disease is integrated with orthoptic skills for competent investigation, diagnosis and management of patients. You will attend clinical placements within the Eye and Ear Hospital clinical school network and other clinical settings where you will learn to further develop and refine your clinical skills and patient management strategies. These clinical settings include private ophthalmology clinics in metropolitan Melbourne, as well as the Royal Victorian Eye and Ear Hospital, the Royal Childrens Hospital, Northern<br />
+> Health, Alfred Hospital, Austin Health and Monash Medical Centre. Clinical education leading to entry-level competency is the focus of the final 18 months of the course, with opportunity for rural, interstate or international clinical placements.<br />
+185c179
+< Applicants may wish to provide other documentation in support of their application.<br />
+---
+> For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hmort/">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>Applicants will preferably hold a Bachelor's degree in vision science, health sciences or biological sciences completed within the last five years with a minimum grade average of 70 per cent. Graduates without an initial degree deemed to have provided a foundation in human anatomy, physiology, and/or vision sciences, will be required to undertake a bridging program. An applicant with a Bachelor's degree awarded more than five years ago will not be considered unless the applicant has subsequently completed a postgraduate course or provided evidence of other continuing academic activity. At the discretion of the Head of Department and the Selection Committee, relevant work experience may be considered as evidence of academic activity.<br />
+187,188c181,183
+< Selection may also be based on ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Re-ranking is based on relevant employment or work experience. La Trobe also considers Special Entry Access Scheme (SEAS) criteria.</dd><dt>Fee amount</dt><dd>CSP contribution band 2  <br />
+< Indicative (2013): $8,360 (per 120 credit points).</dd><dt>Costs</dt><dd>Students are strongly advised to purchase an ophthalmoscope or a retinoscope set at the start of third year, and should allow approximately A$600. Other equipment will also be necessary, at a cost of about A$150. Books and equipment may be purchased from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students' personal property. Travel and accommodation costs for clinical placement may also be incurred and will vary according to the venue. All students must obtain a National Police Check at a cost of approximately A$15.50,  Working With Children (WWC) Check at no cost, and provide proof of immunisation before undertaking clinical or community placements. Costs may vary depending on previous immunisations approximately A$250-$470. All costs are approximate and subject to change.</dd><dt>Additional information</dt><dd>This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br /></dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>This course is recognised by the Australian Orthoptic Board. Graduates are eligible to become members of Orthoptics Australia and work throughout Australia and overseas.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhort.htm"><span class="off-screen">Health Sciences/Orthoptics</span>Melbourne</a></dd></dl></div></div></div>
+---
+> Students without a degree in vision science, health sciences or biological sciences will be required to complete the bridging course in physiology and anatomy ($300, 2013 fee and subject to change) and/or orthoptics ($450, 2013 fee and subject to change).<br /></dd><dt>Fee amount</dt><dd>Indicative (2013): $23,600 per 120 credit points.</dd><dt>Costs</dt><dd>Students are strongly advised to purchase an ophthalmoscope or a retinoscope set at the start of their first year, and should allow approximately A$600. Students must purchase a uniform for clinical placements which includes an Orthoptic Department shirt (A$60), a name tag (A$12) and approved black pants or skirt. Other equipment will also be necessary, at a cost of about A$150. Books and equipment may be purchased from any supplier; they remain students' personal property. Travel and accommodation costs for clinical placement may also be incurred and will vary according to the venue. All students must obtain a National Police Check at a cost of approximately A$15.50, Working With Children (WWC) Check at no cost, and provide proof of their immunisation history before undertaking clinical or community placements. All costs are approximate and are subject to change.</dd><dt>Additional information</dt><dd>Students are required to obtain a National Police Check ($15.50) and Working With Children (WWC) check (no cost) before undertaking a clinical professional placement. Please check the website for more information about the clinical component of this program. All costs are approximate and are subject to change.</dd><dt>How to apply</dt><dd>Apply through VTAC by end September 2013. All applicants must complete the VTAC Personal History Form online.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for registration with the Australian Orthoptic Board and membership of the Orthoptic Association of Australia, International Orthoptic Association, and associate membership of the Royal Australian and New Zealand College of Ophthalmologists. Australian orthoptic qualifications are recognised throughout the world; however, some countries require additional registration.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-orthoptics.htm"><span class="off-screen">Orthoptics (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Health Research Methodology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Albury-Wodonga</dd><dd>Bendigo</dd><dd>Melbourne</dd><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give graduates without substantial previous research experience the necessary preparation for higher degree studies. It is expected that graduates will proceed to a higher degree by research, provided they meet minimum average grade requirements. However, the course also aims to facilitate professional advancement and progression to further postgraduate coursework studies after full or partial completion. For public health major, please note that classes are held at the Franklin Street Campus.</dd><dt>Prerequisite</dt><dd>Bachelor's degree in relevant discipline. In certain circumstances, consideration is given to relevant clinical or academic experience, and demonstrated potential to undertake research.</dd><dt>Fee amount</dt><dd>Indicative (2012): $24,190 per 120 credit points.<br />
+> </dd><dt>Additional information</dt><dd>Public Health discipline commences early February.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Applications close on Thursday 31 October.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+191,192c186,187
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+194c189
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+198c193
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+200c195
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+205c200,205
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Health Sciences and Master of Orthoptics  (062598G/ 062808B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 960</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Orthoptists are eyecare professionals who detect, diagnose and treat vision and eye disorders. They usually work in specialist eye clinics and public hospitals, helping ophthalmic surgeons monitor eye disease and provide treatment, including prescribing glasses for children and adults.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Orthoptics (062808B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>28 360</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Orthoptists are eyecare professionals who specialise in the detection, diagnosis and treatment of vision and eye disorders.<br />
+> <br />
+> The curriculum is centred on enquiry-based learning. Theory and knowledge of eye disease is integrated with orthoptic skills for competent investigation, diagnosis and management of patients. You will attend clinical placements within the Eye and Ear Hospital clinical school network and other clinical settings where you will learn to further develop and refine your clinical skills and patient management strategies. These clinical settings include private ophthalmology clinics in metropolitan Melbourne, as well as the Royal Victorian Eye and Ear Hospital, the Royal Childrens Hospital, Northern<br />
+> Health, Alfred Hospital, Austin Health and Monash Medical Centre. Clinical education leading to entry-level competency is the focus of the final 18 months of the course, with opportunity for rural, interstate or international clinical placements.<br />
+> <br />
+> For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hmort/">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+207,209c207,208
+< This course aims to qualify you for registration as an orthoptist, with a mix<br />
+< of general health sciences subjects, comprehensive theoretical studies of the<br />
+< eye, and extensive clinical experience.<br />
+---
+> TOEFL Paper-based Test - A minimum score of 600 with a score of 6 or more in the Test of Written English;<br />
+> Pearson Test of English (Academic) (PTE): minimum score of 72 with no communicative skill score less than 68.<br />
+211c210
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hzhort/">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at postgraduate (EFS5 (70%) PG1) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> Cambridge Certificate of Advanced English (CAE): a grade of A or higher.<br />
+213c212,219
+< IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): A grade of B or higher.<br />
+> <br />
+> or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>You must have a relevant Bachelors degree equivalent to an Australian Bachelors degree, completed in the past five years<br />
+> (or subsequent postgraduate study and/or relevant work experience) with a minimum grade average of 70 per cent. Essential prerequisite subjects include studies in anatomy and physiology. Desirable prerequisite subjects include vision sciences,<br />
+> ocular anatomy and physiology, binocular vision, pharmacology.</dd><dt>Additional costs</dt><dd>Students are strongly advised to purchase an ophthalmoscope or a retinoscope set at the start of their first year, and should allow approximately A$600. Students must purchase a uniform for clinical placements which includes an Orthoptic Department shirt (A$60), a name tag (A$12) and approved black pants or skirt. Other equipment will also be necessary, at a cost of about A$150. Books and equipment may be purchased from any supplier; they remain students' personal property. Travel and accommodation costs for clinical placement may also be incurred and will vary according to the venue. All students must obtain a National Police Check at a cost of approximately A$15.50, Working With Children (WWC) Check at no cost, and provide proof of their immunisation history before undertaking clinical or community placements. All costs are approximate and are subject to change.</dd><dt>Additional information</dt><dd>If you dont have a background in biological sciences, including neurosciences and/or ophthalmic sciences, you will be required to<br />
+> undertake an online bridging course in anatomy and physiology and/or other self-directed study prior to commencing the program.<br />
+> <br />
+> Applicants must also submit a <a href="%20http://www.latrobe.edu.au/international/apply/how-to/supplementary-admissions-forms">Supplementary Form</a>.<br /></dd><dt>Professional recognition</dt><dd>You will be eligible for registration with the Australian Orthoptic Board and for membership of Orthoptics Australia, the International Orthoptic Association as well as the Royal Australian and New Zealand College of Ophthalmologists. This qualification is recognised throughout the world, although some countries require additional registration requirements to practise as an orthoptist.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-orthoptics.htm"><span class="off-screen">Orthoptics (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Health Research Methodology (072025F/072024G/072008G/072007G/072026E/072005K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 300</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Franklin Street</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give graduates without substantial previous research experience the necessary preparation for higher degree studies. It is expected that graduates will proceed to a higher degree by research, provided they meet minimum average grade requirements. However, the course also aims to facilitate professional advancement and progression to further postgraduate coursework studies after full or partial completion. For public health major, please note that classes are held at the Franklin Street Campus.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+219c225
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+231,247c237,238
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 80<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 83.05<br />
+< International Baccalaureate - 29<br />
+< GCE A Levels - 13<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 10.3<br />
+< MICSS (UEC) - 3<br />
+< Canada Secondary School/CPU - 80<br />
+< Norway Upper Secondary Certificate - 5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 80<br />
+< Vietnam (Year 12) - 8.5<br />
+< Indonesia (SMA) - 8.5<br />
+< GAC Cert. IV - GPA 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>A relevant Australian Bachelor's degree or approved international equivalent in health sciences or related area. Entry requirements also vary based on the chosen major - please contact the faculty for more information.</dd><dt>Additional information</dt><dd>Public Health discipline commences early February.<br />
+> Please note this course is held at the Franklin Street Campus, which is located in the CBD. You might like to consider finding accommodation close to your campus.<br />
+249c240
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Two of Biology, Chemistry, Physical Education, Year 12 Mathematics or Physics.</dd><dt>Additional costs</dt><dd>Students are strongly advised to purchase an ophthalmoscope or a retinoscope set at the start of third year, and should allow approximately A$600. Other equipment will also be necessary, at a cost of about A$150. Books and equipment may be purchased from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students' personal property. Travel and accommodation costs for clinical placement may also be incurred and will vary according to the venue. All students must obtain a National Police Check at a cost of approximately A$15.50, Working With Children (WWC) Check at no cost, and provide proof of immunisation before undertaking clinical or community placements. Costs may vary depending on previous immunisations approximately A$250-$470. All costs are approximate and subject to change.</dd><dt>Professional recognition</dt><dd>The course is recognised by the Australian Orthoptic Board and graduates can join Orthoptics Australia and work throughout Australia and overseas. However, some countries require additional registration requirements to enable an orthoptist to practice.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhort.htm"><span class="off-screen">Health Sciences/Orthoptics</span>Melbourne</a></dd></dl></div></div></div>
+---
+> You must review the Supplementary Checklist before applying.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+252c243
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+255c246
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+280,284c271
+< <p>Clinical placements help you to put your theoretical learning into clinical practice and develop the skills to work as an independent practitioner. Clinical education and professional practice is done in the last 18 months of your course largely within the Orthoptics Clinical School Network. The Orthoptics Clinical School Network consists of health services operating ophthalmology and orthoptic clinical programs. These include private ophthalmology clinics in metropolitan Melbourne as well as the Royal Victorian Eye and Ear Hospital, the Royal Children's Hospital, Northern Health, Alfred Hospital, Austin Health and Monash Medical Centre. We also have strong networks with clinical placement providers in regional Victoria, interstate and overseas. Students, for iinstance, have done placements in Albury, Ballarat, Bendigo, Geelong, Warrnambool, Adelaide, Alice Springs, Brisbane, Gold Coast, Cairns, Canberra, Hobart, Perth, Rockhampton and Townsville.</p>
+< 
+< <p>You must undertake at least one placement outside of metropolitan Melbourne in the final year. Placements happen throughout the year and are not limited to standard semester weeks. You will be required to wear a standard uniform whilst on professional placement.<br /></p>
+< 
+< <h3>Alternative pathways</h3>
+---
+> <p>Clinical placements help you to put your theoretical learning into clinical practice and develop the skills to work as an independent practitioner. Clinical education and professional practice is done in the last 18 months of your course largely within the Orthoptics Clinical School Network. The Orthoptics Clinical School Network consists of health services operating ophthalmology and orthoptic clinical programs. These include private ophthalmology clinics in metropolitan Melbourne as well as the Royal Victorian Eye and Ear Hospital, the Royal Children's Hospital, Northern Health, Alfred Hospital, Austin Health and Monash Medical Centre. We also have strong networks with clinical placement providers in regional Victoria, interstate and overseas. Students, for instance, have done placements in Albury, Ballarat, Bendigo, Geelong, Warrnambool, Adelaide, Alice Springs, Brisbane, Gold Coast, Cairns, Canberra, Hobart, Perth, Rockhampton and Townsville.</p>
+286c273
+< <p>Master of Orthoptics (graduate entry)</p>
+---
+> <p>As part of the clinical placement program you must undertake at least one placement outside of metropolitan Melbourne in the final year. Placements happen throughout the year and are not limited to standard semester weeks. You will be required to wear a standard uniform whilst on professional placement.</p>
+297,298c284,285
+< <div id="new_div_132459">
+< <p>We do not have partner institutions for study exchange, but we have developed strong networks with clinical placement providers overseas. You are encouraged to travel to broaden your clinical experience and improve your employment prospects. Students have done placements in Canada, Ireland, Japan, New Zealand, UK and USA.</p>
+---
+> <div id="new_div_132465">
+> <p>We have developed strong networks with clinical placement providers overseas. You are encouraged to travel to broaden your clinical experience and improve your employment prospects. Students have done placements in Canada, Ireland, Japan, New Zealand, UK and USA.</p>
+300a288,290
+> <P>Find out about the experiences of one of our students.</P>
+> <blockquote class="student-profile">
+> <p><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=186123"> <img src="http://www.latrobe.edu.au/student-profiles/images/cahill_rosanne.jpg/thumbnail.jpg" width="53" height="80" alt="Rosanne Cahill" title="cahill_rosanne" /></a></p>
+302,303c292
+< <div id="content_div_70640">
+< <h3>Student profiles</h3>
+---
+> <p class="testimonial">The emphasis placed on practical training and professional placement is very important.</p>
+305c294
+< <p>Students from our Faculty <a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+---
+> <p><cite><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=186123">Ms Rosanne <strong>Cahill</strong>, </a> Health Sciences </cite></p>
+307c296
+< </div>
+---
+> </blockquote>
+424,426c413,420
+< </script><!-- Google Code for La Trobe Health Sciences Campaign Remarketing List 
+< Insertion Guide: https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=115794
+< -->
+---
+> </script><!-- Includes sei-event-calendar.js for related events -->
+> <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+> <script type="text/javascript">
+>   var eventCalendarPath = "/events/";
+> </script>
+> <script type="text/javascript" src="/__data/assets/js_file/0003/125724/coursefinder-ui.js"></script>
+> 
+> <!-- Google Code for La Trobe International Remarketing List -->
+429c423
+< var google_conversion_id = 1063865565;
+---
+> var google_conversion_id = 1048882750;
+433c427
+< var google_conversion_label = "oaJ9CO-OrwIQ3Zml-wM";
+---
+> var google_conversion_label = "WXTXCLSWggIQvtyS9AM";
+441c435
+< <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1063865565/?label=oaJ9CO-OrwIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+---
+> <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1048882750/?label=WXTXCLSWggIQvtyS9AM&amp;guid=ON&amp;script=0"/>
+443,450c437,439
+< </noscript><!-- Includes sei-event-calendar.js for related events -->
+< <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+< <script type="text/javascript">
+<   var eventCalendarPath = "/events/";
+< </script>
+< <script type="text/javascript" src="/__data/assets/js_file/0003/125724/coursefinder-ui.js"></script>
+< 
+< <!-- Google Code for La Trobe International Remarketing List -->
+---
+> </noscript><!-- Google Code for La Trobe Health Sciences Campaign Remarketing List 
+> Insertion Guide: https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=115794
+> -->
+453c442
+< var google_conversion_id = 1048882750;
+---
+> var google_conversion_id = 1063865565;
+457c446
+< var google_conversion_label = "WXTXCLSWggIQvtyS9AM";
+---
+> var google_conversion_label = "oaJ9CO-OrwIQ3Zml-wM";
+465c454
+< <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1048882750/?label=WXTXCLSWggIQvtyS9AM&amp;guid=ON&amp;script=0"/>
+---
+> <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1063865565/?label=oaJ9CO-OrwIQ3Zml-wM&amp;guid=ON&amp;script=0"/>

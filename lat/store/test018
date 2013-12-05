@@ -1,0 +1,440 @@
+20c20
+< <meta name="Campus" content="Albury-Wodonga,Bendigo,Melbourne,Mildura,Shepparton" />
+---
+> <meta name="Campus" content="Melbourne,Bendigo" />
+26c26
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+31,32c31,32
+< <meta name="description" content="Develop the knowledge and skills to formulate physiotherapeutic diagnoses and design appropriate programs of prevention, treatment and exercise." />
+< <meta name="keywords" content="Physiotherapy, physiotherapist, undergraduate, bachelor, physio, sports, course, courses, melbourne, victoria" />
+---
+> <meta name="description" content="Our postgraduate coursework programs are for registered physiotherapy practitioners who want to advance and update their clinical knowledge or  for graduates of a related discipline wanting to enter the profession." />
+> <meta name="keywords" content="Physiotherapy, sports physiotherapy, musculoskeletal physiotherapy, postgraduate, graduate certificate, Master" />
+42c42
+< <!-- 126180 -->
+---
+> <!-- 126200 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/physiotherapy"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="canonical" href="http://www.latrobe.edu.au/courses/physiotherapy/postgraduate"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+74c74
+<   Page generated: 11 November 2013 10:45:16
+---
+>   Page generated: 11 November 2013 16:16:03
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/physiotherapy">Physiotherapy</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/physiotherapy">Physiotherapy</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/physiotherapy/postgraduate">Postgraduate</a></div>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/physiotherapy">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/physiotherapy/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/physiotherapy">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/physiotherapy/postgraduate">Postgraduate</a></li>
+157,158d156
+< <div class="feature feature-big">
+<   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0006/132387/physiotherapy.jpg" width="250" height="166" alt="" title="physiotherapy.jpg" />Why study Physiotherapy?</h2>
+160d157
+<   <p>A degree in physiotherapy can lead to a rewarding career working with people of all ages. You will be able to help your clients achieve the highest possible degree of physical activity, participation and quality of life. Develop the knowledge and skills to formulate physiotherapeutic diagnoses and design appropriate programs of prevention, treatment and exercise. Studies in science, clinical experience and skills in problem solving and decision making will prepare you for employment in a variety of healthcare settings.</p>
+161a159,213
+> <div class="webmedia">
+> <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+> 
+> <script type="text/javascript">
+> var params = {
+> 'videotitle':'00:04:39',
+> 'captionfile':'http://webmedia.latrobe.edu.au/media/NEJWPhysio_Trobe.xml',
+> 'mediafile':'http://webmedia.latrobe.edu.au/vod/NEJWPhysio_Trobe.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1621.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+> var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+> }
+> var attributes = {
+> 'id':'v1621', 'name':'1621'};
+> swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1621', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+> <h2 class="video-title">Postgraduate Physiotherapy at La Trobe</h2>
+> 
+> 
+> <div id="v1621">
+>   <video poster="http://webmedia.latrobe.edu.au/production1/video1621.jpg" controls="controls">
+>         <source src="http://webstat.latrobe.edu.au/webmedia/media/CoUQPhysio_Trobe.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+>         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+>   </video>
+> 
+> </div>
+> 
+> <div class="jump-list">
+> <ul>
+> <li class="initial webmedia">Other formats</li>
+> <li><a href="http://webstat.latrobe.edu.au/webmedia/media/CoUQPhysio_Trobe.mp4"><span
+> class="off-screen">Postgraduate Physiotherapy at La Trobe</span> MP4 [26.35 MB]</a></li>
+> 
+> <li><a href='https://webstat.latrobe.edu.au/webmedia/media/nSuAPhysio_Trobe.mp3'><span class='off-screen'>Postgraduate Physiotherapy at La Trobe</span> MP3 [3.23 MB]</a></li>
+> <li><a href="http://webstat.latrobe.edu.au/webmedia/media/AuY7transcript-physio-pg.docx"><span class="off-screen transcript-link">Postgraduate Physiotherapy at La Trobe</span> Transcript</a></li>
+> <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1621"><span class="off-screen">Postgraduate Physiotherapy at La Trobe</span> Permalink</a></li>
+> 
+> <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?1621">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+> </ul>
+> </div>
+> </div>
+> 
+> <div id="new_div_316752">
+> <h2>Why study Postgraduate Physiotherapy?</h2>
+> 
+> <p>Our postgraduate coursework programs are for:</p>
+> 
+> <h3>Sports &amp; Musculoskeletal Physiotherapy</h3>
+> 
+> <ul>
+>   <li>qualified and fully registered physiotherapy practitioners who want to advance and update their clinical knowledge in sports physiotherapy and musculoskeletal physiotherapy [Graduate Certificate/ Masters programs in Sports or Musculoskeletal]</li>
+> </ul>
+> 
+> <h3>Master of Physiotherapy Practice</h3>
+> 
+> <ul>
+>   <li>graduates of a related discipline wanting to enter the field of physiotherapy [Master of Physiotherapy Practice program-graduate entry level program)</li>
+> </ul>
+168c220,228
+< <p>There is a strong demand for physiotherapists and you can expect to work in a variety of healthcare settings including hospitals, rehabilitation and community health centres, private practice, industrial clinics and specialist facilities. You may also work in education and research.</p>
+---
+> <h3>Sports &amp; Musculoskeletal Physiotherapy</h3>
+> 
+> <p>Qualified physiotherapists who complete the Master of Sports or Master of Musculoskeletal Physiotherapy may apply for the Australian Physiotherapy Association Sports or Musculoskeletal Physiotherapy title. This is a prerequisite for applying for most elite-level positions such as AFL, NRL, Australian Institute of Sport, Australian Olympic teams and senior positions in hospitals.<br /></p>
+> 
+> <h3>Master of Physiotherapy Practice</h3>
+> 
+> <p>For those new to the discipline seeking an entry-level Masters qualification in physiotherapy, there is a strong demand for physiotherapists and you may expect to work in a variety of healthcare settings including hospitals, rehabilitation and community health centres, private practice, industrial clinics and specialist facilities. You may also work in education and research.<br /></p>
+> 
+> <p><br /></p>
+175,184c235,314
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Health Sciences and Master of Physiotherapy Practice </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">95.3</span></dd><dd>Bendigo <span class="atar">95.9</span></dd><dd>Melbourne <span class="atar">96</span></dd><dd>Mildura <span class="atar">94.95</span></dd><dd>Shepparton <span class="atar">95.05</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Physiotherapists assess and treat patients with temporary or long-term physical injuries, movement disorders or disabilities, helping them achieve the highest possible degree of recovery, activity, and quality of life.<br />
+< <br />
+< This course aims to provide you with the knowledge and skills to formulate<br />
+< physiotherapeutic diagnoses and design programs of prevention, treatment and exercise. You will study science, clinical experience, and methods of problem-solving and decision-making, as you prepare for professional roles in various healthcare settings.<br />
+< <br />
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZHSPP">Frequently Asked Questions site</a>.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 25 in English (any) or 30 in English (ESL), and at least 25 in two of Biology, Chemistry, Mathematics (any), Physical Education or Physics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>All applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work or community experience or reasons for applying. Applicants may wish to provide other documentation in support of their application.</dd><dt>Middle band</dt><dd>La Trobe considers Special Entry Access Scheme (SEAS) criteria; and a <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Costs</dt><dd>Students are required to complete a National Police Check (A$15.50) annually and a Working with Children Check (no cost) at the commencement of the degree. It is recommended students complete a First Aid Level II course, which is not conducted by La Trobe University, approximately A$160. Other approximate costs include: A$100 per year for practical books, A$10 for student name badge (purchased from official LaTrobe supplier), A$42 for clinical shirt (purchased from official La Trobe supplier), A$120 for stethoscope, A$45 for cardiorespiratory medial equipment, A$20 for goniometer. Text books and cardiorespiratory medical equipment are optional. Books and equipment (other than the name badge and uniform) may be purchased from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students' personal property. Accommodation and travel costs for clinical placement may also be incurred and vary according to the venue. Students maybe required to get various immunisations prior to starting clinical placements at their own cost, approximately A$250 $470. Please note costs are approximate and subject to change.</dd><dt>Additional information</dt><dd>NOTE: students at Albury-Wodonga, Mildura and Shepparton campuses must transfer to Bendigo after first year (regional students cannot transfer to the Melbourne campus).<br />
+< <br />
+< Students must obtain a police check and Working With Children (WWC) check before undertaking clinical placements, and will be registered with the Physiotherapy Registration Board of Australia.<br />
+< <br />
+< This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br /></dd><dt>How to apply</dt><dd>VTAC/UAC</dd><dt>Professional recognition</dt><dd>Graduates are eligible for registration with the Australian Health Practitioner Regulation Agency and The Australian Physiotherapy Council. Registration is an essential legal prerequisite for practice as a physiotherapist in Australia.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhspb.htm"><span class="off-screen">Health Sciences/Physiotherapy </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhspb.htm"><span class="off-screen">Health Sciences/Physiotherapy </span>Bendigo</a></dd></dl></div></div></div>
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Certificate in Musculoskeletal Physiotherapy </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>Up to 3 years part-time. </dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is designed to help you develop advanced theoretical and applied skills in musculoskeletal physiotherapy, critical evaluation of literature and research design.</dd><dt>Prerequisite</dt><dd>- Bachelor of Physiotherapy or equivalent<br />
+> - Full current Australian physiotherapy registration<br />
+> - At least one year of physiotherapy experience</dd><dt>Fee amount</dt><dd>Indicative (2013): $8590 (60 credit points)</dd><dt>Costs</dt><dd>Students pay for the professional development courses that form part of the Graduate Certificate.</dd><dt>Additional information</dt><dd>This course consists of two online subjects which focus on physiology and evidence based practice, and another subject that requires students to complete 104 hours of external professional development courses. APA spinal 1, spinal 2 and sports 1 are required courses to be completed as part of these 104 hours. Please refer to the Full Course Details (La Trobe University Handbook) regarding details of the subjects. Online Orientation and Lectures commence early February. This course forms 50 per cent of the requirements of the Master of Musculoskeletal Physiotherapy. Minimum contact hours are six to eight hours per week per subject.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 11 October 2013.<br />
+> <br />
+> Applicants must also complete our <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/539001/physio-sports-musc-suppform2014.doc">Supplementary Form</a> outlining previous studies and experience.<br />
+> <br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hcmp.htm"><span class="off-screen">Musculoskeletal Physiotherapy (Graduate Certificate)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Certificate in Sports Physiotherapy</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>Up to 3 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course gives graduate physiotherapists an opportunity to develop advanced theoretical and applied skills in sports physiotherapy, critical evaluation of relevant literature and research design. It also aims to allow physiotherapists to do further training in their own time with minimum disruption to their work.<br />
+> <br /></dd><dt>Prerequisite</dt><dd>- Bachelor of Physiotherapy or equivalent<br />
+> - Full current Australian physiotherapy registration<br />
+> - At least two years of physiotherapy experience</dd><dt>Fee amount</dt><dd>Indicative (2013): $8590 (60 credit points).</dd><dt>Costs</dt><dd>Students pay for the professional development courses that form part of the Graduate Certificate.</dd><dt>Additional information</dt><dd>This course consists of 2 online subjects which focus on physiology and evidence based practice, and another subject that requires students to complete 104 hours of external professional development courses. APA Sports 1, Sports 2 and Spinal 1 are required courses to be completed as part of these 104 hours. Please refer to the Full Course Details (La Trobe University Handbook) regarding details of the subjects. This course forms 50 per cent of the requirements of the Master of Sports Physiotherapy Degree. Minimum contact hours are six to eight hours per week per subject.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 11 October 2013.<br />
+> <br />
+> Applicants must also complete our <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/539001/physio-sports-musc-suppform2014.doc">Supplementary Form</a> outlining previous studies and experience.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hcsp.htm"><span class="off-screen">Sports Physiotherapy (Graduate Certificate)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Musculoskeletal Physiotherapy</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>Up to 2 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides graduate physiotherapists with an opportunity<br />
+> to develop advanced clinical skills in musculoskeletal physiotherapy and aims to establish a standard of advanced clinical work and theory.<br /></dd><dt>Prerequisite</dt><dd>- Bachelor of Physiotherapy or equivalent<br />
+> - Graduate Certificate in Musculoskeletal Physiotherapy with a minimum B-grade course weighted average mean<br />
+> - At least two years clinical experience in the musculoskeletal field<br />
+> - Full current Australian physiotherapy registration</dd><dt>Fee amount</dt><dd>Indicative (2013): $29200 per 120 credit points.</dd><dt>Costs</dt><dd>Federal Police Check $15 to $43 and/or Working with Children Check $77 may be required. Accommodation and travel costs for the two-week University-based Clinical Reasoning for Physiotherapists PTY5CRP, and for clinical placement PTY5AMP, may also be incurred and will vary according to venue. </dd><dt>Additional information</dt><dd>Students must complete the two-week University-based subject Clinical Reasoning for Physiotherapists (PTY5CRP TE:PE W5-10, first two weeks of February) before commencing PTY5AMP: Advanced Musculoskeletal Physiotherapy Practice.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 11 October 2013.<br />
+> You'll also need to download, complete and submit a <a href="http://www.latrobe.edu.au/students/enrolment/documents/admission-PG-coursework.pdf">postgraduate coursework application form (PDF 3.3MB)</a>, and a <a href="http://www.latrobe.edu.au/__data/assets/pdf_file/0017/142172/2012sports-musco-sup-form.pdf">Supplementary Form</a>, and send it directly to the relevant campus. Please ensure you also provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>This course meets the eligibility requirements for titled membership of Musculoskeletal Physiotherapy Australia. This means youll be eligible for the title of Australian Physiotherapy Association Musculoskeletal Physiotherapist.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmmspc.htm"><span class="off-screen">Musculoskeletal Physiotherapy (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Physiotherapy Practice</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 (January)</dd><dt>Campus:</dt><dd>Bendigo</dd><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course will give you a professional qualification in physiotherapy.<br />
+> Physiotherapists assess and treat patients with temporary or long-term physical injuries, movement disorders or disabilities, aiming to achieve the highest possible degree of recovery, activity, participation and quality of life. Physiotherapists may work independently or as members of healthcare teams. They are active in the prevention of illness and injury and in the promotion of health. They are also involved in clinical research, movement rehabilitation, ergonomics and the management of healthcare organisations.<br />
+> <br />
+> Following a preparatory subject in the summer semester (Jan-Feb), in the first<br />
+> semester you will develop clinical reasoning, assessment and treatment skills in the core areas of cardiorespiratory, musculoskeletal and neurological physiotherapy across a lifespan. This is followed by 18 months of integrated theory and clinical practice subjects, when you will be primarily located in the clinical environment.<br />
+> <br />
+> The clinical practice and theory subjects extend outside official University semester dates. The course fosters small-group learning to master the practical aspects of physiotherapy practice. You will be given the<br />
+> opportunity to assess and treat patients in hospitals and other clinical settings under the supervision of a qualified clinician.<br />
+> <br />
+> Please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HMPTP/search/">Frequently Asked Questions</a> for more information.<br /></dd><dt>Prerequisite</dt><dd>Bachelor's degree other than physiotherapy completed within the past five years with a minimum GPA of 5.5 out of 7. Applicants who completed their degree more than 5 years ago may be considered on the basis of postgraduate study and/or relevant work experience.<br />
+> <br />
+> Applicants must also have completed tertiary-level subjects in regional musculoskeletal anatomy (upper and lower limb, pelvis, spine and thorax, head and neck), neuro-anatomy, physiology (including exercise physiology) and biomechanics.<br />
+> <br />
+> Completed tertiary-level subjects in pathophysiology, psychology, pharmacology, evidence-based practice, research methods or statistics, determinants of health, human movement, communication or education are also desirable.<br /></dd><dt>Fee amount</dt><dd>Indicative (2013): $27,800 per 120 credit points.</dd><dt>Costs</dt><dd>You'll need to obtain the following:<br />
+> National Police check: A$15.50 annually<br />
+> Immunisations: approximately A$500<br />
+> Working with Children Check: no fee. <br />
+> Practical books: A$100<br />
+> Student name badge: A$15<br />
+> Clinical shirt: A$40<br />
+> Stethoscope: A$110 <br />
+> Goniometer: A$20.<br />
+> <br />
+> Textbooks are optional. You can purchase books and equipment from any supplier, however the clinical shirt must be purchased from La Trobe University.  <br />
+> <br />
+> Students are also required to register with the Physiotherapy Board of Australia annually (no fee), and encouraged to complete a First Aid Level II course (not conducted by La Trobe University) approximately A$160. <br />
+> <br />
+> All equipment purchases remain your personal property. Accommodation and travel costs for clinical placements may also be incurred and will vary according to the venue. Note the quoted costs are approximate only and subject to change. <br />
+> </dd><dt>Additional information</dt><dd>To enable clinical placements, you will be registered as a student, at no cost, with the Physiotherapy Board of Australia. Prior to clinical placements, you may be required to provide evidence of your immunisation history. Students must comply with the Clinical and Professional Placements policy.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 October 2013.<br />
+> Applicants must also complete our <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0017/539000/gem-physio-suppform2014.doc">Supplementary Form</a> outlining previous studies and experience. Prior learning and work experience may include: health professional paid work, sport or fitness industry paid work, other relevant personal and professional experience or voluntary work. Evidence of completed prerequisite subjects including subject outlines / handbook entries must be submitted with your application.<br />
+> <br />
+> To assist in your application process please view the <a href="http://www.latrobe.edu.au/__data/assets/pdf_file/0007/135673/gem-physio-2013-self-assessment-rev.pdf">Self-Assessment Checklist</a>.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for registration with the Physiotherapy Board of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-physiotherapy-practice.htm"><span class="off-screen">Physiotherapy Practice (Master)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-physiotherapy-practice.htm"><span class="off-screen">Physiotherapy Practice (Master)</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Sports Physiotherapy</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1-2 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides graduate physiotherapists with an opportunity to develop advanced clinical skills in sports physiotherapy.</dd><dt>Prerequisite</dt><dd>- Bachelor of Physiotherapy or equivalent<br />
+> - Graduate Certificate in Sports Physiotherapy with at least a B-grade course weighted average mean<br />
+> - At least three years of clinical experience in the sports field<br />
+> - Full current Australian physiotherapy registration.</dd><dt>Fee amount</dt><dd>Indicative (2013): $30,950 per 120 credit points.</dd><dt>Costs</dt><dd>You'll need to pay for the APA Level 3 Sports Physiotherapy course, which is a mandatory part of the Master of Sports Physiotherapy.<br />
+> <br />
+> It's your responsibility to apply and be accepted into the Level 3 course by meeting the minimum criteria.<br />
+> For more information visit the <a href="physiotherapy.asn.au">APA website</a>.<br />
+> <br />
+> You may require a National Police Certificate (A$16 to A$34.70) and/ or Working with Children Check. Accommodation and travel costs for the  two-week University-based Clinical Reasoning for Physiotherapists and the clinical placement will vary according to venue.<br />
+> <br />
+> Please note: all costs are approximate and in Australian dollars.</dd><dt>Additional information</dt><dd>Students must complete the two-week University-based subject Clinical Reasoning and Manual Physiotherapy (PTY5CRM TE:PE W5-10 first two weeks of February) before commencing PTY5APS Advanced Practice in Sports Physiotherapy.<br />
+> <br />
+> The Master of Sports Physiotherapy requires the successful completion of the APA Level 3 Sports Course. It is the student's responsibility to apply and be accepted into the Level 3 course by meeting the minimum criteria.<br />
+> <br />
+> Contact the <a href="http://www.physiotherapy.asn.au">Australian Physiotherapy Association</a> directly for full entry criteria.<br />
+> <br /></dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 11 October 2013.<br />
+> <br />
+> Applicants must also complete our <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/539001/physio-sports-musc-suppform2014.doc">Supplementary Form</a> outlining previous studies and experience.</dd><dt>Professional recognition</dt><dd>This course meets the eligibility requirements for titled membership the Australian Physiotherapy Association (APA), making you eligible for the title of APA Sports Physiotherapist.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmsph.htm"><span class="off-screen">Sports Physiotherapy (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Sports Physiotherapy / Master of Musculoskeletal Physiotherapy </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>Minimum 3 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides graduate physiotherapists with opportunities to develop advanced clinical and practical skills in musculoskeletal physiotherapy and sports physiotherapy.</dd><dt>Prerequisite</dt><dd>- Bachelor of Physiotherapy or equivalent<br />
+> - Full current Australian physiotherapy registration<br />
+> - Graduate Certificate in Musculoskeletal Physiotherapy with at least a B-grade course weighted average mean and at least two years of clinical experience in the musculoskeletal field OR Graduate Certificate in Sports Physiotherapy with at least a B-grade course weighted average mean and at least three years of clinical experience in sports physiotherapy</dd><dt>Fee amount</dt><dd>Indicative (2013): $30,080 per 120 credit points.</dd><dt>Costs</dt><dd>You'll need to pay for the APA Level 3 Sports Physiotherapy course, which is a mandatory part of the Master of Sports Physiotherapy.<br />
+> <br />
+> It's  your responsibility to apply and be accepted into the Level 3 course by meeting the minimum criteria.<br />
+> For more information visit the <a href="physiotherapy.asn.au">APA website</a>.<br />
+> <br />
+> You may require a National Police Certificate (A$16 to A$34.70) and/ or Working with Children Check. Accommodation and travel costs for the  two-week University-based Clinical Reasoning for Physiotherapists and the clinical placement will vary according to venue.<br />
+> <br />
+> Please note: all costs are approximate and in Australian dollars.</dd><dt>Additional information</dt><dd>Students must complete the two-week University-based subject Clinical Reasoning and Manual Physiotherapy (PTY5CRM TE:PE W5-10 first two weeks of February) before commencing any clinical placement subjects: PTY5APS Advanced Practice in Sports Physiotherapy and PTY5APM: Advanced Practice in Musculoskeletal Physiotherapy.<br />
+> <br />
+> The Master of Sports Physiotherapy requires the successful completion of the APA Level 3 Sports Course. It is the students responsibility to apply and be accepted into the Level 3 course by meeting the minimum criteria.<br />
+> <br /></dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 11 October 2013.<br />
+> <br />
+> Applicants must also complete our <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/539001/physio-sports-musc-suppform2014.doc">Supplementary Form</a> outlining previous studies and experience.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for the titles APA Sports Physiotherapist and APA Musculoskeletal Physiotherapist.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hzspmp.htm"><span class="off-screen">Sports Physiotherapy/Musculoskeletal Physiotherapy (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Health Research Methodology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Albury-Wodonga</dd><dd>Bendigo</dd><dd>Melbourne</dd><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give graduates without substantial previous research experience the necessary preparation for higher degree studies. It is expected that graduates will proceed to a higher degree by research, provided they meet minimum average grade requirements. However, the course also aims to facilitate professional advancement and progression to further postgraduate coursework studies after full or partial completion. For public health major, please note that classes are held at the Franklin Street Campus.</dd><dt>Prerequisite</dt><dd>Bachelor's degree in relevant discipline. In certain circumstances, consideration is given to relevant clinical or academic experience, and demonstrated potential to undertake research.</dd><dt>Fee amount</dt><dd>Indicative (2012): $24,190 per 120 credit points.<br />
+> </dd><dt>Additional information</dt><dd>Public Health discipline commences early February.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Applications close on Thursday 31 October.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+187,188c317,318
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+190c320
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+194c324
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+196c326
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+201c331,335
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Health Sciences and Master of Physiotherapy Practice  (062598G/ 062798K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>32 600</dd><dt id="campus">Campus</dt><dd>Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Physiotherapists assess and treat patients with temporary or long-term physical injuries, movement disorders or disabilities, helping them achieve the highest possible degree of recovery, activity, and quality of life.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Physiotherapy Practice (062798K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>January</dd><dt>Annual Tuition Fee (A$) :</dt><dd>32 600</dd><dt id="campus">Campus</dt><dd>Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course will give you a professional qualification in physiotherapy.<br />
+> Physiotherapists assess and treat patients with temporary or long-term physical injuries, movement disorders or disabilities, aiming to achieve the highest possible degree of recovery, activity, participation and quality of life. Physiotherapists may work independently or as members of healthcare teams. They are active in the prevention of illness and injury and in the promotion of health. They are also involved in clinical research, movement rehabilitation, ergonomics and the management of healthcare organisations.<br />
+> <br />
+> Following a preparatory subject in the summer semester (Jan-Feb), in the first<br />
+> semester you will develop clinical reasoning, assessment and treatment skills in the core areas of cardiorespiratory, musculoskeletal and neurological physiotherapy across a lifespan. This is followed by 18 months of integrated theory and clinical practice subjects, when you will be primarily located in the clinical environment.<br />
+203,204c337,338
+< This course aims to provide you with the knowledge and skills to formulate<br />
+< physiotherapeutic diagnoses and design programs of prevention, treatment and exercise. You will study science, clinical experience, and methods of problem-solving and decision-making, as you prepare for professional roles in various healthcare settings.<br />
+---
+> The clinical practice and theory subjects extend outside official University semester dates. The course fosters small-group learning to master the practical aspects of physiotherapy practice. You will be given the<br />
+> opportunity to assess and treat patients in hospitals and other clinical settings under the supervision of a qualified clinician.<br />
+206c340
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZHSPP">Frequently Asked Questions site</a>.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+---
+> Please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HMPTP/search/">Frequently Asked Questions</a> for more information.<br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+211d344
+< <br />
+220,235c353,365
+< Please note the Physiotherapy Board of Australias Standard for English Language proficiency to register as a Physiotherapist in Australia is an IELTS of 7.0 overall with a minimum score of 7.0 in all components (Listening, Reading, Writing and Speaking) or a minimum OET score of A or B in every component, achieved at the one sitting. The test must be taken no longer than 2 years prior to applying for registration. Please read the <a href="%20http://www.physiotherapyboard.gov.au/Registration-Standards.aspx%20=" registration="" standard="" for="" physiotherapy=""></a>.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 85 and at least four A's, including an A in English and two As in Science<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 96<br />
+< International Baccalaureate - 38<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - AAA<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 5.5<br />
+< Sweden Slutbetyg - MVG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - 9<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Please note the Physiotherapy Board of Australias Standard for English Language proficiency to register as a physiotherapist in Australia is an IELTS of 7.0 overall, with a minimum score of 7.0 in all components (Listening, Reading, Writing and Speaking), or a minimum OET score of A or B in every component, achieved at the one sitting. The test must be taken no longer than 2 years prior to applying for registration. Please read the <a href="%20http://www.physiotherapyboard.gov.au/Registration-Standards.aspx%3Ca%20href%20=" registration="" standard="" for="" physiotherapy=""></a>.</dd><dt>Academic entry requirements</dt><dd>You must have a relevant Bachelors degree equivalent to an Australian Bachelors degree, completed in the past five years<br />
+> (or subsequent postgraduate study and/or relevant work experience) with a minimum grade average of 70 per cent. Relevant studies include essential prerequisite subjects in regional musculoskeletal anatomy, neuro-anatomy, physiology (including<br />
+> exercise physiology) and biomechanics. Desirable prerequisite subjects include pathophysiology, psychology, pharmacology,<br />
+> evidence-based practice, research methods or statistics, determinants of health, human movement, communication or education. Evidence of completed prerequisites (e.g. handbook entries for essential and desirable prerequisite subjects) and supplementary information must be submitted with<br />
+> applications.</dd><dt>Additional costs</dt><dd>You'll need to obtain the following:<br />
+> National Police check: A$15.50 annually<br />
+> Immunisations: approximately A$500<br />
+> Working with Children Check: no fee.<br />
+> Practical books: A$100<br />
+> Student name badge: A$15<br />
+> Clinical shirt: A$40<br />
+> Stethoscope: A$110<br />
+> Goniometer: A$20.<br />
+237c367,394
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Two of Biology, Physical Education, Chemistry, Physics or Mathematics (any).</dd><dt>Additional costs</dt><dd>Students are required to complete a National Police Check (A$15.50) annually and a Working with Children Check (no cost) at the commencement of the degree. It is recommended students complete a First Aid Level II course, which is not conducted by La Trobe University, approximately A$160. Other approximate costs include: A$100 per year for practical books, A$10 for student name badge (purchased from official LaTrobe supplier), A$42 for clinical shirt (purchased from official La Trobe supplier), A$120 for stethoscope, A$45 for cardiorespiratory medial equipment, A$20 for goniometer. Text books and cardiorespiratory medical equipment are optional. Books and equipment (other than the name badge and uniform) may be purchased from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students' personal property. Accommodation and travel costs for clinical placement may also be incurred and vary according to the venue. Students maybe required to get various immunisations prior to starting clinical placements at their own cost, approximately A$250 $470. Please note costs are approximate and subject to change.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for registration with the Australian Health Practitioner Regulation Agency (AHPRA). Registration is an essential legal prerequisite for practice as a physiotherapist in Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhspb.htm"><span class="off-screen">Health Sciences/Physiotherapy </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhspb.htm"><span class="off-screen">Health Sciences/Physiotherapy </span>Bendigo</a></dd></dl></div></div></div>
+---
+> Textbooks are optional. You can purchase books and equipment from any supplier, however the clinical shirt must be purchased from La Trobe University.<br />
+> <br />
+> Students are also required to register with the Physiotherapy Board of Australia annually (no fee), and encouraged to complete a First Aid Level II course (not conducted by La Trobe University) approximately A$160.<br />
+> <br />
+> All equipment purchases remain your personal property. Accommodation and travel costs for clinical placements may also be incurred and will vary according to the venue. Note the quoted costs are approximate only and subject to change.<br /></dd><dt>Additional information</dt><dd>This course commences in January 2014 with the summer semester subject (PTY3GEP) Graduate-Entry Preparation for Master of Physiotherapy Practice (from weeks two to seven) held at the Melbourne Campus prior to Semester 1 (March) 2014. This preparatory subject aims to help you develop foundation<br />
+> knowledge and skills, which will serve as a basis for your physiotherapy studies.<br />
+> Applicants must also submit a <a href="%20http://www.latrobe.edu.au/international/apply/how-to/supplementary-admissions-forms">Supplementary Form</a>.<br /></dd><dt>Professional recognition</dt><dd>After completion of the course, you will be eligible for registration in Australia with the Physiotherapy Registration Board of Australia. Registration is an essential prerequisite for practise as a physiotherapist in Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-physiotherapy-practice.htm"><span class="off-screen">Physiotherapy Practice (Master)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-physiotherapy-practice.htm"><span class="off-screen">Physiotherapy Practice (Master)</span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Health Research Methodology (072025F/072024G/072008G/072007G/072026E/072005K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 300</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Franklin Street</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give graduates without substantial previous research experience the necessary preparation for higher degree studies. It is expected that graduates will proceed to a higher degree by research, provided they meet minimum average grade requirements. However, the course also aims to facilitate professional advancement and progression to further postgraduate coursework studies after full or partial completion. For public health major, please note that classes are held at the Franklin Street Campus.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+> <br />
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+> <br />
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+> <br />
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+> <br />
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+> <br />
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+> <br />
+> Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+> <br />
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+> <br />
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>A relevant Australian Bachelor's degree or approved international equivalent in health sciences or related area. Entry requirements also vary based on the chosen major - please contact the faculty for more information.</dd><dt>Additional information</dt><dd>Public Health discipline commences early February.<br />
+> Please note this course is held at the Franklin Street Campus, which is located in the CBD. You might like to consider finding accommodation close to your campus.<br />
+> <br />
+> You must review the Supplementary Checklist before applying.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+240c397
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+243c400
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+264c421
+< <h2>Your study experience</h2>
+---
+> <h2>Further Course Information<br /></h2>
+266c423,424
+< <h3>Downloads</h3>
+---
+> <div class="accordion">
+>   <h2 class="accordion-title">Sports &amp; Musculoskeletal Physiotherapy (for qualified physiotherapists with full Australian physiotherapy registration)</h2>
+268c426,427
+< <p><a href="http://www.latrobe.edu.au/__data/assets/word_doc/0010/541693/physio-pre-req-waiver-form2014.docx">Pre-Requisite Waiver Form [DOCX 45KB]</a></p>
+---
+>   <div class="content">
+>     <p><strong>Please note that the Sports and Musculoskeletal courses are only available to students having Australian or New Zealand citizenship or permanent residency and hold full current physiotherapy registration in Australia with the Australian Health Practitioner Regulation Agency. (<a href="http://www.ahpra.gov.au/">www.ahpra.gov.au</a>).<br /></strong></p>
+270c429
+< <h3>Alternative pathways</h3>
+---
+>     <p>Our programs in sports and musculoskeletal physiotherapy have run since 1983 and attract qualified practitioners from around Australia.&nbsp; The high standard of physiotherapy post-graduate educators and course flexibility contribute to La Trobe&#8217;s reputation as being an industry leader in Australia.</p>
+272c431
+< <p>There are a small number of places available if you wish to transfer into the second year of the Bachelor of Health Sciences/Master of Physiotherapy Practice degree and have completed common first-year Health Sciences subjects as part of your enrolment in another degree at La Trobe University.</p>
+---
+>     <p>Our programs are designed to allow qualified and fully registered physiotherapists with Australian residency to undertake flexible post-graduate education in their own time with minimal disruption to their work and family life.&nbsp; Presenters on our courses include Olympic, AIS, AFL physiotherapists as well as APA titled and specialist Sports and Musculoskeletal Physiotherapists.</p>
+274c433
+< <p>A two-year graduate entry Master of Physiotherapy Practice is available if you hold a relevant undergraduate degree and meet the entry prerequisites.</p>
+---
+>     <p>Commence your study with online learning &amp; professional development in the graduate certificate programs to develop advanced theoretical/applied physiotherapy skills and to develop skills in research, specifically in critical evaluation of literature and research.&nbsp;</p>
+276c435
+< <p>See <a href="http://www.latrobe.edu.au/courses/physiotherapy/postgraduate">Physiotherapy postgraduate information</a>.</p>
+---
+>     <p>Then progress to the masters programs to achieve advanced skills and achieve a standard of advanced clinical work and theory to meet the eligibility requirements for APA titled Specialist Sports and/or Musculoskeletal Physiotherapist.</p>
+278c437
+< <h3>Physiotherapy placements</h3>
+---
+>     <h3>Sports and Muscoskeletal Physiotherapy placements</h3>
+280c439
+< <p>Practical placements are an important part of our program. You will complete 30 weeks of full-time clinical experience in a range of healthcare settings. Placements happen throughout the year and are not limited to standard semester weeks.</p>
+---
+>     <p>In the Master of Sports Physiotherapy, you will complete 100 hours of clinical placements with APA sports physiotherapists with some placements available in elite sporting teams. If you are studying the Master of Musculoskeletal Physiotherapy, you will complete 160 hours of clinical placements in hospital outpatient departments under APA musculoskeletal physiotherapists. In the Master of Physiotherapy Practice graduate-entry course, you will complete 30 weeks of full-time clinical experience in a range of healthcare settings.</p>
+282c441
+< </div>
+---
+>     <h3>Sports and Musculoskeletal Special prerequisites</h3>
+284,285c443
+< <div id="content_div_106587">
+< <h3>Overseas study opportunities</h3>
+---
+>     <p>Completion of a Physiotherapy degree and full Australian physiotherapy registration.</p>
+287c445
+< <p>You may be eligible for our <a href="http://www.latrobe.edu.au/international/edabroad/exchange">student exchange program</a>.</p>
+---
+>     <h3>Further Information</h3>
+289c447
+< </div>
+---
+>     <p><strong>Please note that the Sports and Musculoskeletal courses are only available to students having Australian or New Zealand citizenship or permanent residency and hold full current physiotherapy registration in Australia with the Australian Health Practitioner Regulation Agency. (<a href="http://www.ahpra.gov.au">www.ahpra.gov.au</a>).&nbsp;</strong><br /></p>
+291,292c449
+< <div id="new_div_132475">
+< <p>Overseas clinical placements may be available in your final semester of study.</p>
+---
+>     <p>Contact our course coordinators:</p>
+294c451,455
+< <h3>Regional campus transfer</h3>
+---
+>     <p><strong>Sports Courses:</strong><br />
+>     Dr Henry Wajswelner FACP<br />
+>     APA Specialist Sports Physiotherapist<br />
+>     APA Musculoskeletal Physiotherapist<br />
+>     T: + 61 3 9479 5857&nbsp; E: <a href="mailto:h.wajswelner@latrobe.edu.au">h.wajswelner@latrobe.edu.au</a><br /></p>
+296c457,460
+< <p>Students at Albury-Wodonga, Mildura and Shepparton campuses must transfer to the Bendigo campus for second year, and parts of third and fourth years.</p>
+---
+>     <p><strong>Musculoskeletal Courses:</strong><br />
+>     Edmund Leahy, APA Musculoskeletal Physiotherapist<br />
+>     T: + 61 3 9479 5857 E: <a href="mailto:e.leahy@latrobe.edu.au%20">e.leahy@latrobe.edu.au</a></p>
+>   </div>
+298c462,465
+< </div>
+---
+>   <h2 class="accordion-title">Master of Physiotherapy Practice (graduate entry level program)</h2>
+> 
+>   <div class="content">
+>     <p>This course is an entry level physiotherapy program designed to allow students with a first degree to obtain a professional qualification in physiotherapy.</p>
+300,301c467
+< <div id="content_div_70640">
+< <h3>Student profiles</h3>
+---
+>     <p><strong>Am I eligible to apply?</strong> Complete the <a href="http://www.latrobe.edu.au/__data/assets/pdf_file/0007/135673/gem-physio-self-assessment.pdf">Self Assessment Checklist [PDF 194KB]</a><br /></p>
+303c469,499
+< <p>Students from our Faculty <a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+---
+>     <p><strong>I have questions?&nbsp;</strong> Read our <a href="http://latrobe.custhelp.com/app/answers/list/search/1/kw/masters%20physiotherapy%20practice/suggested/1">Frequently Asked Questions</a><br />
+>     <br />
+>     <strong>International Applicants:</strong> <a href="http://www.latrobe.edu.au/international/apply/how-to">How to apply for International applicants</a><br /></p>
+> 
+>     <h3><strong>Alternative Pathways</strong></h3>
+> 
+>     <p>If you are not offered a place in the graduate-entry Masters program you may apply through VTAC:<br /></p>
+> 
+>     <ul>
+>       <li>for the four-year combined Bachelor of Health Sciences/Master of Physiotherapy Practice course.</li>
+> 
+>       <li>for the Bachelor of Health Sciences degree majoring in Anatomy and Physiology and meet the entry academic requirements of GPA 5.5 out of 7 in the program and successfully complete the essential pre-requisite tertiary level subjects.</li>
+>     </ul>
+> 
+>     <p><strong>Physiotherapy placements</strong><br /></p>
+> 
+>     <p>Clinical placements are an important part of our programs. In the Master of Physiotherapy Practice graduate-entry course, you will complete 30 weeks of full-time clinical experience in a range of healthcare settings. The clinical practice and theory subjects extend outside normal University semesters.</p>
+> 
+>     <p><strong>Overseas study opportunities</strong></p>
+> 
+>     <p><strong>Please note:</strong> overseas study options are unavailable for international students in this program, due to requirements to fulfill physiotherapy registration criteria in Australia.<br /></p>
+> 
+>     <p><strong>How to apply</strong></p>
+> 
+>     <p>There are specific application requirements when <a href="http://www.latrobe.edu.au/health/study/pathways/application-requirements/master-of-physiotherapy-practice">applying for the Master of Physiotherapy Practice course</a>. Due to the demand and popularity of the course, preassessment of applications is not possible.&nbsp; Please attend Open Day on Sunday 25 August 2013 to obtain information about the 2014 program.&nbsp; Visit the <a href="http://www.latrobe.edu.au/openday">Open Day web site</a> to find out more.</p>
+> 
+>     <p>Faculty of Health Sciences<br />
+>     1300 135 045<br />
+>     <a href="mailto:health@latrobe.edu.au">health@latrobe.edu.au</a></p>
+>   </div>
+> </div>
+305a502,510
+> <P>Find out about the experiences of one of our students.</P>
+> <blockquote class="student-profile">
+> <p><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=187872"> <img src="http://www.latrobe.edu.au/student-profiles/images/kahn_victoria2.jpg/thumbnail.jpg" width="53" height="80" alt="Victoria Kahn" title="kahn_victoria" /></a></p>
+> 
+> <p class="testimonial">One of the main positives about the course is that the delivery is flexible, allowing students to continue to work.</p>
+> 
+> <p><cite><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=187872">Ms Victoria <strong>Kahn</strong>, </a> Health Sciences </cite></p>
+> 
+> </blockquote>

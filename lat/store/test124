@@ -1,0 +1,297 @@
+16,32d15
+< <!-- La Trobe //-->
+< 
+< <!-- LTU //-->
+< <meta name="description" content="Public health promotion will prepare you for practical roles in a broad range of settings that work to promote and protect people's health." />
+< <meta name="keywords" content="public, health, promotion, advocate, community, development" />
+< <meta name="audience" content="staff, students, community" />
+< <meta name="author" content="La Trobe University" />
+< 
+< <!-- Corporate - asset summary text //-->
+< 
+< <!-- Section summary //-->
+< 
+< <!-- sort order //-->
+< 
+< <!-- asset creation date //-->
+< <meta name="assetcreated" content="30 May 2013" />
+< 
+36,37c19,20
+< <meta name="Related.Area.of.Study" content="History_x" />
+< <meta name="Campus" content="Campuses,Bendigo,Melbourne,Mildura,Shepparton,Albury-Wodonga" />
+---
+> <meta name="Related.Area.of.Study" content="Health promotion" />
+> <meta name="Campus" content="Bendigo,Melbourne" />
+43c26,34
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+> 
+> <!-- La Trobe //-->
+> 
+> <!-- LTU //-->
+> <meta name="description" content="Our postgraduate program provides health professionals with an interest in developing health promotion in their current work the skills to support a change in career." />
+> <meta name="keywords" content="Health promotion, health promoting palliative care, postgraduate, graduate certificate, diploma, Master of Health Sciences" />
+> <meta name="audience" content="staff, students, community" />
+> <meta name="author" content="La Trobe University" />
+51c42
+< <!-- 252776 -->
+---
+> <!-- 127359 -->
+76c67
+< <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/health-promotion"/>		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/health-promotion/postgraduate"/>		
+83c74
+<   Page generated: 11 November 2013 14:40:47
+---
+>   Page generated: 11 November 2013 16:20:37
+124c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/health-promotion">Health promotion</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/health-promotion">Health promotion</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/health-promotion/postgraduate">Postgraduate</a></div>
+159,161c150
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/health-promotion">Undergraduate</a></li>
+< 
+<   <li><a href="http://www.latrobe.edu.au/courses/health-promotion/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/health-promotion">Undergraduate</a></li>
+162a152
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/health-promotion/postgraduate">Postgraduate</a></li>
+164c154
+< 
+---
+>   <!--li><a href="http://www.latrobe.edu.au/courses/nursing/short-courses">Short courses</a></li-->
+166c156
+< <div id="intro_txt">
+---
+> <div id="why_study">
+170,172c160
+<   <p>Help&nbsp;promote and protect people's health. Health promotion involves working with people to be active in their own health and in developing healthy environments for all communities. You learn all about program assessment, planning, delivery and evaluation as well as current and emerging health promotion activities.</p>
+< 
+<   <p>&nbsp;</p>
+---
+>   <p>Our postgraduate program provides health professionals with an interest in developing health promotion in their current work the skills to support a change in career. This may include professionals from community health services, local government, drug and alcohol services, aged care, women&#39;s health, acute hospital units, acute hospital/community liaison and other health sector agencies. Develop skills in health promotion practice, health promotion planning and delivery, and inter-organisational work with partners.</p>
+177c165
+< <div id="intro_txt_2">
+---
+> <div id="career_opportunities">
+180c168
+< <p>Graduates are likely to find roles as Health Promotion Officers, Health Project Officers, Health Advocates, Community Health Workers, Sexual Health Workers, Indigenous Health Officers, Community Development Workers, Sustainability Officers, or Social Marketing Practitioners. Prospective employers include community-based health care, government, hospitals, private health care, and not-for-profit organisations.</p>
+---
+> <p>Health promotion and disease prevention are important elements in the Victorian and Australian health systems. Community based services and local government in particular will be required to enhance your work in health promotion and disease prevention.<br /></p>
+187,203c175,191
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Health Sciences (Medical Classification) and Bachelor of Health Information Management</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent. </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">63.35</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Health information managers deal with the business side of medicine, mixing health, health information management (HIM) and health informatics/technology disciplines. This is a dynamic, specialist course that produces graduates with expertise to work in this ever-expanding field. There is a major shortage of qualified professional health information managers, so graduates are in high demand. You'll work in a wide range of healthcare settings including hospitals, health centres, government health departments, health screening agencies, health system development firms, e-health developments, clinical trials, and health research centres.<br />
+< <br />
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZHCHM/">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 25 in English (any), or<br />
+< 30 in English (ESL) and at least 20 in one of Biology, Chemistry,<br />
+< Physics, Mathematics (any) or Physical Education.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> detailing prior educational experience and reasons for interest in the course.<br />
+< <br />
+< Selection may also be based on ATAR, GPA or STAT Multiple Choice.<br />
+< <br />
+< NOTE: basic knowledge of secondary mathematics (to Year 11) is assumed.</dd><dt>Costs</dt><dd>Students should allow approximately A$395 for specialised health classification/clinical coding books, which must be purchased every two years, and A$30-60 for a memory stick (purchased from any supplier). All students are required to obtain a Police Check A$15.50 and Working with Children Check (no cost) before undertaking a clinical Professional Practice placement. Accommodation costs for clinical placement vary depending on venue; there is a very limited number of placement scholarships. Students can purchase required items from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students' personal property.</dd><dt>Additional information</dt><dd>Applicants are invited to view the course DVD. Information sessions are presented at the University's Open Day (August).,<br />
+< <br />
+< For important information about clinical placements, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br /></dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for full-graduate membership of the Health Information Management Association of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/bhlthscmcbhim.htm.htm"><span class="off-screen">Health Sciences/Health Information Management</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Public Health Promotion </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This flexible course aims to prepare you for practical roles in a broad range of settings that work to promote and protect people's health. It focuses on getting people active and developing environments that lead to healthy communities.<br />
+< <br />
+< You'll learn to conduct and analyse community needs, plan and deliver programs and evidence-based strategies, conduct and evaluate research, and develop skills in communication, technology and partnership building. You'll also explore current and emerging knowledge in health promotion activities.<br />
+< <br />
+< You can undertake a minor study area, providing an opportunity to tailor your<br />
+< studies to your interests and career goals. Eligible students can progress into an Honours program.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 25 in English (any), or 30 in English (ESL), and at least 20 in one of Biology, Chemistry, Mathematics (any), Physical Education, Physics or Health and Human Development.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a VTAC Personal History online for other information to be considered during the selection process, e.g. details on work experience or reason for applying.</dd><dt>Middle band</dt><dd>Two-stage process with a middle-band of approximately 20%. Re-ranking is based on relevant work experience, criteria associated with La Trobe University Rural and Regional Student Access Scheme (RRSAS) and VTAC's Special Entry Access Schemes.</dd><dt>Additional information</dt><dd>Students are required to complete a field placement in their final year. A staff member undertakes the supervision in conjunction with an industry professional. Students are required to submit subject assessments as per subject learning guide, this may include a placement proposal and field report.<br />
+< Students also undertake a Mentoring program as per HLT1IPP, which is assessed on student participation. Students are supervised by Senior Profession Mentors.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/bpubhlthprom.htm.htm"><span class="off-screen">Public Health Promotion </span>Bendigo</a></dd></dl></div></div></div>
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Certificate in Health Promotion </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 semester full-time or 1 year part-time </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides current health professionals the opportunity to develop<br />
+> skills in health promotion as part of their current role or as a career change. You�'ll complete studies in health promotion practice, health promotion planning and program delivery, evaluation and needs assessment, and inter.organisational work with partners.</dd><dt>Prerequisite</dt><dd>Relevant undergraduate degree or equivalent</dd><dt>Fee amount</dt><dd>Indicative (2013): $8670 (60 credit points).</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 October 2013.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hchp.htm"><span class="off-screen">Health Promotion (Graduate Certificate)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Health Sciences</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Franklin Street</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides you with the skills and knowledge to conduct applied research in health or community services settings (thesis stream) and to develop, implement and evaluate health-related programs and services.<br />
+> <br />
+> It offers opportunities to learn more about a variety of specialities in the health field, to strengthen analytical skills and to consider furthering knowledge through research. The course aims to meet the needs of health professionals who have assumed or are likely to assume high-level responsibility for coordination and management of these programs and services.<br />
+> <br />
+> At the time of applying, you are able to choose from the following majors: Health Administration, Health Evaluation and Research, Health Information Management, Health Policy, Gerontology, Health Promoting Palliative Care, Health Promotion, Rehabilitation Counselling and Spiritual Care.</dd><dt>Prerequisite</dt><dd>Admission requirements vary depending on your choice of major. Normally, applicants should have a three-year undergraduate degree in health sciences or a related field and at least two years of professional experience in the health or related sector.</dd><dt>Fee amount</dt><dd>Indicative (2013): $17,340 per 120 credit points.<br />
+> </dd><dt>Additional information</dt><dd>Some majors are held at our City Campus. Please check with the Faculty for further information.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Applications close on Thursday 31 October.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.</dd><dt>Professional recognition</dt><dd>Graduates may qualify for registration with the appropriate professional association. These include the Australasian College of Health Service Management, the Australian Health Promotion Association and the Australian Society of Rehabilitation Counsellors.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-health-sciences.htm"><span class="off-screen">Health Sciences (Master)</span>Franklin Street</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Public Health</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or 3-5 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Franklin Street</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you're a professional, currently working in the health setting and want to expand your career into senior roles, this program is designed for you.<br />
+> <br />
+> The Master of Public Health is an internationally recognised professional<br />
+> qualification in public health that enables you to work all over the world in a variety of health settings. This is a comprehensive, stand-alone degree, with both research and practice pathways. A distinctive feature is that you are trained according to the Foundation Competencies for Public Health<br />
+> Graduates in Australia.<br />
+> <br />
+> It includes eight core public health subjects, after which you will have the choice to complete the degree in either research mode or practice mode.</dd><dt>Prerequisite</dt><dd>Undergraduate degree or equivalent in a health sciences discipline plus a minimum of two years of relevant career experience. Students without a degree but with significant experience are welcome to apply.</dd><dt>Fee amount</dt><dd>Indicative (2013): $17,340 per 120 credit points.<br />
+> Commonwealth Supported Places also available.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 October 2013.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/city/health-sciences/master-degrees-by-coursework/hmphc.htm"><span class="off-screen">Public Health (Master)</span>City</a></dd></dl></div></div></div>
+206,207c194,195
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+209c197
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+213c201
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+215c203
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+220c208
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Health Sciences (Medical Classification) and Bachelor of Health Information Management (079548M)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 010</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Health information managers deal with the business side of medicine, mixing health, health information management (HIM) and health informatics/technology disciplines. This is a dynamic, specialist course that produces graduates with expertise to work in this ever-expanding field. There is a major shortage of qualified professional health information managers, so graduates are in high demand. You'll work in a wide range of healthcare settings including hospitals, health centres, government health departments, health screening agencies, health system development firms, e-health developments, clinical trials, and health research centres.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Health Sciences (075420D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>27 080</dd><dt id="campus">Campus</dt><dd>Franklin Street</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides you with the skills and knowledge to conduct applied research in health or community services settings (thesis stream) and to develop, implement and evaluate health-related programs and services.<br />
+222c210
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZHCHM/">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at postgraduate (EFS5 (70%) PG1) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> It offers opportunities to learn more about a variety of specialities in the health field, to strengthen analytical skills and to consider furthering knowledge through research. The course aims to meet the needs of health professionals who have assumed or are likely to assume high-level responsibility for coordination and management of these programs and services.<br />
+224c212
+< IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> At the time of applying, you are able to choose from the following majors: Health Administration, Health Evaluation and Research, Health Information Management, Health Policy, Gerontology, Health Promoting Palliative Care, Health Promotion, Rehabilitation Counselling and Spiritual Care.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+230c218
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+242,257c230,249
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 63.35<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2x Level 4<br />
+< Sri Lankan A Levels - CCB<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>Applicants are normally required to hold a three-year undergraduate degree in health sciences or a related field, and have at least two years of work experience in health or a related sector. Applicants without formal qualifications but who have relevant experience and skills should discuss their eligibility with the Course Coordinator. Applicants for the Health Information Management major must have a degree or approved international equivalent in health information management.<br />
+> Minimum grade average equivalent to 70% in previous qualifications if in a related field of study or 75% if previous study is in non-related field.</dd><dt>Additional information</dt><dd>Course commences Semester 1 (March) and Semester 2 (July).<br />
+> Health Evaluation and Research Semester 1 only.<br />
+> <br />
+> Applicants must review the Supplementary checklist.<br />
+> <br />
+> Available majors only: Health Administration, Health Policy, Health Information Management, Health Evaluation and Research.<br />
+> Most majors are held at Franklyn Street Campus, please check with Faculty for further information. As this Campus is located in the CBD, you might like to consider finding accommodation closer to your campus.</dd><dt>Professional recognition</dt><dd>Completion of this course qualifies students for registration with the appropriate professional association depending on their specialisation.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-health-sciences.htm"><span class="off-screen">Health Sciences (Master)</span>Franklin Street</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Public Health (019986G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Franklin Street</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you're a professional, currently working in the health setting and want to expand your career into senior roles, this program is designed for you.<br />
+> <br />
+> The Master of Public Health is an internationally recognised professional<br />
+> qualification in public health that enables you to work all over the world in a variety of health settings. This is a comprehensive, stand-alone degree, with both research and practice pathways. A distinctive feature is that you are trained according to the Foundation Competencies for Public Health<br />
+> Graduates in Australia.<br />
+> <br />
+> It includes eight core public health subjects, after which you will have the choice to complete the degree in either research mode or practice mode.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+> <br />
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+> <br />
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+> <br />
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+259c251,264
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>One of Biology, Chemistry, Physics or Year 12 Mathematics.</dd><dt>Additional costs</dt><dd>Students should allow approximately A$395 for specialised health classification/clinical coding books, which must be purchased every two years, and A$30-60 for a memory stick (purchased from any supplier). All students are required to obtain a Police Check A$15.50 and Working with Children Check (no cost) before undertaking a clinical Professional Practice placement. Accommodation costs for clinical placement vary depending on venue; there is a very limited number of placement scholarships. Students can purchase required items from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students' personal property.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for full-graduate membership of the national professional association, the Health Information Management Association of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/bhlthscmcbhim.htm.htm"><span class="off-screen">Health Sciences/Health Information Management</span>Melbourne</a></dd></dl></div></div></div>
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+> <br />
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+> <br />
+> Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+> <br />
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+> <br />
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree, or approved international equivalent, in a health discipline. You are expected to have at least two years of work experience in a health related field. A medical internship may count towards this work experience requirement. If you don not have a degree but who have significant experience are welcome to apply.</dd><dt>Additional information</dt><dd>Please note this course is held at the Franklin Street Campus, which is located in the CBD. You might want to find accommodation closer to your campus.<br />
+> <br />
+> Applicants must review the Supplementary Checklist.<br />
+> Applications for this course close late November 2013 for Semester 1 (March) 2014 commencement.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/city/health-sciences/master-degrees-by-coursework/hmphc.htm"><span class="off-screen">Public Health (Master)</span>City</a></dd></dl></div></div></div>
+262c267
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+265c270
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+276c281,282
+< <div id="related_study_options">
+---
+> <div id="your_study_experience">
+> <h2>Your study experience</h2>
+278c284
+< </div>
+---
+> <h3>Health promotion placements</h3>
+280c286
+< <div id="other_ways_nest">
+---
+> <p>You will do a Health Promotion project which may take the form of a field practice project.</p>
+282,283c288
+< <div id="other_ways_ug">
+< <h2>Your study experience</h2>
+---
+> </div>
+285c290,291
+< <h3>Other ways into undergraduate study</h3>
+---
+> <div id="content_div_106587">
+> <h3>Overseas study opportunities</h3>
+287c293
+< <p>Learn how you can <a href="http://www.latrobe.edu.au/humanities/study/pathways">plan a pathway</a> into your preferred degree, including <a href="http://www.latrobe.edu.au/humanities/study/pathways#singlesubject">single subject entry</a>. See also <a href="http://www.latrobe.edu.au/access/" target="_BLANK">La Trobe University Access and Equity programs</a> which support a variety of ways into undergraduate study for applicants who have experienced educational disadvantage.</p>
+---
+> <p>You may be eligible for our <a href="http://www.latrobe.edu.au/international/edabroad/exchange">student exchange program</a>.</p>
+291c297,298
+< </div>
+---
+> <div id="content_div_70640">
+> <h3>Student profiles</h3>
+293c300
+< <div id="further_info">
+---
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+296,298d302
+< <h3>Student and graduate profiles</h3>
+< <p>Students of the Faculty <a href="http://www.latrobe.edu.au/humanities/study/student-profiles">talk about their experience</a> at La Trobe.</p>
+< <div id="staff_profile_nest">
+303,305c307
+< <p>You'll get to meet a large number of academics during your course, from tutors through to lecturers. You can <a href="http://www.latrobe.edu.au/humanities/about/staff">view all the staff</a> from the Faculty of Humanities and Social Sciences or focus on <a href="http://www.latrobe.edu.au/humanities/about/staff/all?areaofstudy=Health promotion">staff in Health promotion</a>.</p>
+< 
+< </div>
+---
+> <p>You&#39;ll get to meet a large number of academics during your course, from tutors through to lecturers. You can <a href="http://www.latrobe.edu.au/health/about/staff/all">view all the staff</a> from the Faculty of Health Sciences or focus on <a href="http://www.latrobe.edu.au/health/about/staff/all?areaofstudy=Health promotion">staff in Health promotion</a>.</p>
+413c415,427
+< <!-- Includes sei-event-calendar.js for related events -->
+---
+> <script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+> 
+> <script type="text/javascript">
+> $('#news-ticker').cycle({ 
+>     prev:   '#btn_prev', 
+>     next:   '#btn_next'
+> });
+> 
+> if ($('.news-item').length < 2){
+>   $('.newsnav').remove();
+> };
+> 
+> </script><!-- Includes sei-event-calendar.js for related events -->
+435a450,468
+> </div>
+> </noscript><!-- Google Code for La Trobe Health Sciences Campaign Remarketing List 
+> Insertion Guide: https://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=115794
+> -->
+> <script type="text/javascript">
+> /* <![CDATA[ */
+> var google_conversion_id = 1063865565;
+> var google_conversion_language = "en";
+> var google_conversion_format = "3";
+> var google_conversion_color = "666666";
+> var google_conversion_label = "oaJ9CO-OrwIQ3Zml-wM";
+> var google_conversion_value = 0;
+> /* ]]> */
+> </script>
+> <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+> </script>
+> <noscript>
+> <div style="display:inline;">
+> <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1063865565/?label=oaJ9CO-OrwIQ3Zml-wM&amp;guid=ON&amp;script=0"/>

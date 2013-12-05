@@ -1,0 +1,380 @@
+15a16,35
+> <!-- La Trobe //-->
+> 
+> <!-- LTU //-->
+> <meta name="description" content="Our coursework programs offer a comprehensive introduction to rehabilitation concepts and practices to professionals working in health, education, welfare, and the occupational and industrial arena." />
+> <meta name="keywords" content="Rehabilitation counselling, rehab, rehabilitation consultant, case manager, community health services, drug and alcohol services, aged care, disability employment services, postgraduate, graduate certificate, diploma, Master" />
+> <meta name="audience" content="staff, students, community" />
+> <meta name="author" content="La Trobe University" />
+> 
+> <!-- Brokenlinks //-->
+> 
+> <!-- Info //-->
+> <meta name="TotalPages" content="Nil" />
+> <meta name="Links" content="" />
+> <meta name="TotalLinks" content="" />
+> 
+> <!-- Total Info //-->
+> <meta name="Num_Subsites_With_Broken_Links" content="" />
+> <meta name="Last_Update_Time" content="" />
+> <meta name="Num_Total_Broken_Links_Sitewide" content="" />
+> 
+20c40
+< <meta name="Campus" content="Melbourne,Bendigo" />
+---
+> <meta name="Campus" content="Bendigo,Franklin Street,Melbourne" />
+26,34c46
+< <meta name="Level.of.study" content="Undergraduate" />
+< 
+< <!-- La Trobe //-->
+< 
+< <!-- LTU //-->
+< <meta name="description" content="We offer a comprehensive introduction to rehabilitation counselling and its application in the community." />
+< <meta name="keywords" content="Rehabilitation counselling, rehab, rehabilitation consultant, rehabilitation officer, community health services, drug and alcohol services, aged care, disability employment services, undergraduate, bachelor" />
+< <meta name="audience" content="staff, students, community" />
+< <meta name="author" content="La Trobe University" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+42c54
+< <!-- 127703 -->
+---
+> <!-- 127723 -->
+67c79
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/rehabilitation-counselling"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="canonical" href="http://www.latrobe.edu.au/courses/rehabilitation-counselling/postgraduate"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+74c86
+<   Page generated: 10 November 2013 19:55:42
+---
+>   Page generated: 11 November 2013 19:44:04
+115c127
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/rehabilitation-counselling">Rehabilitation counselling</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/rehabilitation-counselling">Rehabilitation counselling</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/rehabilitation-counselling/postgraduate">Postgraduate</a></div>
+150,151c162,163
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/rehabilitation-counselling">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/rehabilitation-counselling/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/rehabilitation-counselling">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/rehabilitation-counselling/postgraduate">Postgraduate</a></li>
+159,175c171
+<   <p>If you are interested in pursuing a career as a rehabilitation counsellor, injury management coordinator or case manager, the Rehabilitation Counselling major within the Bachelor of Health Sciences degree provides a pathway. Our program gives you a solid understanding of rehabilitation counselling concepts and practices. We offer a comprehensive introduction to rehabilitation counselling and its use within the community.</p>
+< 
+<   <p>This major allows you to:</p>
+< 
+<   <ul>
+<     <li>understand the psychological, social and systemic factors that can impact on rehabilitation outcomes</li>
+< 
+<     <li>communicate clearly and establish rapport with their clients</li>
+< 
+<     <li>understand and apply the principles of effective case management</li>
+< 
+<     <li>understand barriers to behaviour change and how to facilitate key behaviour change in rehabilitation settings</li>
+< 
+<     <li>apply principles of performance and social psychology to improve rehabilitation outcomes</li>
+<   </ul>
+< </div>
+< 
+---
+>   <p>Our coursework programs offer a comprehensive introduction to rehabilitation concepts and practices to professionals working in health, education, welfare, and the occupational and industrial arena. We prepare you for work with populations characterised by chronic illness or disability. Focus on client involvement, coordination of services and maintaining individuals in the community. We cover recent developments in rehabilitation at Commonwealth and State level including occupational and community-based rehabilitation systems.<br /></p>
+177,197d172
+< <div class="webmedia">
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:03:43',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/9kksRehab-Counselling.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/9kksRehab-Counselling.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1139.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'v1139', 'name':'1139'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1139', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< <h2 class="video-title">Rehabilitation Counselling at La Trobe</h2>
+< 
+< 
+< <div id="v1139">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1139.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/KdnpRehab-Counselling.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+201,216c176
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/KdnpRehab-Counselling.mp4"><span
+< class="off-screen">Rehabilitation Counselling at La Trobe</span> MP4 [60.61 MB]</a></li>
+< 
+< <li><a href='https://webstat.latrobe.edu.au/webmedia/media/0CyRehab-Counselling.mp3'><span class='off-screen'>Rehabilitation Counselling at La Trobe</span> MP3 [2.59 MB]</a></li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/3EbVtranscript-rehab-counselling.docx"><span class="off-screen transcript-link">Rehabilitation Counselling at La Trobe</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1139"><span class="off-screen">Rehabilitation Counselling at La Trobe</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?1139">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+< </div>
+< </div>
+< 
+< <div id="new_div_133260">
+---
+> <div id="career_opportunities">
+219c179
+< <p>Graduates are prepared for roles in case management and with further study injury management including rehabilitation coordinator and rehabilitation counsellor.</p>
+---
+> <p>Graduates are prepared to deliver and coordinate client-focused rehabilitation services and case manage individuals in rehabilitation settings including community health services, local government, drug and alcohol services, aged care and disability employment services. Depending on subject choice, you may be eligible for membership of the Australian Society of Rehabilitation Counsellors.</p>
+226c186,187
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Arts/Bachelor of Health Sciences</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">75.6</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to create a program that best represents your interests and needs in arts and health sciences disciplines, providing many different career options. Some study combinations might include politics, society and public health, legal studies and health administration, human biosciences and archaeology, gender, sexuality and diversity studies and health promotion and/or public health.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 30 in English (ESL) or 25 in any other English, and at least 20 in one of Biology, Chemistry, Mathematics (any), Physics, or Physical Education.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Certificate in Service Coordination and Rehabilitation </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>0.5 years full-time or 1 year part-time. </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Distance education</dd><dd>Franklin Street</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give professionals working in a wide variety of settings<br />
+> (including health, education and welfare, occupational and industrial arenas) a comprehensive introduction to rehabilitation concepts and practices. It�fs designed to prepare graduates from a range of health and human service delivery backgrounds to work with populations characterised by chronic illness or disability. You�'ll develop an approach to rehabilitation service delivery focused on client involvement, coordination of services and the maintenance of individuals in the community.<br />
+228c189,190
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Re-ranking is based on performance in English (any), Humanities (any), LOTE (any), Drama, Theatre Studies, Legal Studies and Psychology. Consideration is also given to Special Entry Access Scheme (SEAS) criteria.</dd><dt>Fee amount</dt><dd>Indicative (2010): CSP student contribution between $5,310 and $7,567 (per 120 credit points).</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/humanities/double-degrees/azahs.htm"><span class="off-screen">Arts/Health Sciences </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Health Sciences</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar">60.15</span></dd><dd>Melbourne <span class="atar">63.4</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This highly flexible course aims to give you a broad understanding of health sciences, and can provide you with a pathway into our specialist health sciences courses. You can pursue areas within human biosciences, rehabilitation counselling or public health domains.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 25 in English (any), or 30 in English (ESL), and at least 20 in one of Biology, Chemistry, Mathematics (any), Physical Education or Physics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Current Year 12 applicants with work experience must complete and submit a VTAC Pi form. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.<br />
+---
+> The content reflects recent developments in rehabilitation at Commonwealth and state levels, including occupational and community.based rehabilitation systems. This course provides a flexible option for students not proceeding to higher level studies to obtain a valuable professional qualification.</dd><dt>Prerequisite</dt><dd>Undergraduate or diploma in the health sciences or related field. Applicants are normally required to have two years of relevant professional experience. Applicants with relevant industry experience will also be considered.</dd><dt>Fee amount</dt><dd>Indicative (2013): $8670 (60 credit points). </dd><dt>Additional information</dt><dd>This course can be completed fully by distance.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 October 2013.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/graduate-certificate-in-service-coordination-rehabilitation.htm"><span class="off-screen">Service Coordination and Rehabilitation (Grad. Certificate)</span>Distance education</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/graduate-certificate-in-service-coordination-rehabilitation.htm"><span class="off-screen">Service Coordination and Rehabilitation (Grad. Certificate)</span>Franklin Street</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Health Sciences</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Franklin Street</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides you with the skills and knowledge to conduct applied research in health or community services settings (thesis stream) and to develop, implement and evaluate health-related programs and services.<br />
+230c192
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Re-ranking is based on relevant employment or work experience. Consideration is also given to Special Entry Access Scheme (SEAS) criteria; and a <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/hbhsb.htm"><span class="off-screen">Health Sciences</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/hbhsb.htm"><span class="off-screen">Health Sciences</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Health Sciences/Bachelor of Business</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent. </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">65.25</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The healthcare sector has an increasing need for graduates with skills and knowledge in health sciences and business. This course is designed to respond to current needs, and offers you a comprehensive foundation in business studies combined with the choice of a number of health specialisations.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: a study score of at least 30 in English (ESL) or 25 in any other English, and at least 20 in one of Biology, Chemistry, Mathematics (any), Physical Education or Physics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Current Year 12 applicants with work experience must complete and submit a VTAC Personal Statement.<br />
+---
+> It offers opportunities to learn more about a variety of specialities in the health field, to strengthen analytical skills and to consider furthering knowledge through research. The course aims to meet the needs of health professionals who have assumed or are likely to assume high-level responsibility for coordination and management of these programs and services.<br />
+232c194,196
+< Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> detailing prior educational experience and reasons for interest in the course.<br />
+---
+> At the time of applying, you are able to choose from the following majors: Health Administration, Health Evaluation and Research, Health Information Management, Health Policy, Gerontology, Health Promoting Palliative Care, Health Promotion, Rehabilitation Counselling and Spiritual Care.</dd><dt>Prerequisite</dt><dd>Admission requirements vary depending on your choice of major. Normally, applicants should have a three-year undergraduate degree in health sciences or a related field and at least two years of professional experience in the health or related sector.</dd><dt>Fee amount</dt><dd>Indicative (2013): $17,340 per 120 credit points.<br />
+> </dd><dt>Additional information</dt><dd>Some majors are held at our City Campus. Please check with the Faculty for further information.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Applications close on Thursday 31 October.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.</dd><dt>Professional recognition</dt><dd>Graduates may qualify for registration with the appropriate professional association. These include the Australasian College of Health Service Management, the Australian Health Promotion Association and the Australian Society of Rehabilitation Counsellors.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-health-sciences.htm"><span class="off-screen">Health Sciences (Master)</span>Franklin Street</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Public Health</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or 3-5 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Franklin Street</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you're a professional, currently working in the health setting and want to expand your career into senior roles, this program is designed for you.<br />
+234c198,200
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Re-ranking is based on relevant employment or work experience and criteria associated with the Special Entry Access Scheme (SEAS).</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>Marketing graduates are eligible to join the Australian Marketing Institute or the Australian Market and Social Research Society as associate members.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsb.htm"><span class="off-screen">Health Sciences/Business </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Health Sciences/Bachelor of International Development</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">65.25</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Combining these two disciplines is likely to lead to many careers in which you can make a positive contribution to communities in developing countries. This course aims to give you specific skills in health administration, health policy and health services management, and an understanding of the issues involved in social, economic and political areas in developing nations. It strongly emphasises knowledge and skills relevant to the planning and delivery of health services in developing countries.<br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 25 in English (any) or 30 in English (ESL) and 20 in one of Biology, Chemistry, Mathematics (any), Physical Education or Physics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Current Year 12 applicants with work experience must complete and submit a VTAC Personal Statement. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.<br />
+---
+> The Master of Public Health is an internationally recognised professional<br />
+> qualification in public health that enables you to work all over the world in a variety of health settings. This is a comprehensive, stand-alone degree, with both research and practice pathways. A distinctive feature is that you are trained according to the Foundation Competencies for Public Health<br />
+> Graduates in Australia.<br />
+236c202,204
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Re-ranking is based on relevant employment or work experience and Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/post-2008.htm"><span class="off-screen">Health Sciences/International Development</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Diploma in Health Sciences</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you're interested in a career in health sciences, this course is a pathway into many of La Trobe's undergraduate courses in this field. The curriculum covers key aspects of science related to health, and explores social and environmental responsibility in professional healthcare.</dd><dt>Prerequisite</dt><dd>Successful completion of Year 12 plus recommendation from student's secondary school. Applicants may be asked to complete a piece of written work indicating interest in the program. This will be used to assess academic skill.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Mature-age applicants are normally expected to have completed Year 12 studies or equivalent and to provide a recommendation from an employer.</dd><dt>Additional information</dt><dd>All applicants must complete a piece of written work outlining their reasons for interest in the program.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 January 2013. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>Please note the course does not lead to accreditation with any health science registration boards.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/diploma-of-health-sciences.htm"><span class="off-screen">Health Sciences (Diploma)</span>Bendigo</a></dd></dl></div></div></div>
+---
+> It includes eight core public health subjects, after which you will have the choice to complete the degree in either research mode or practice mode.</dd><dt>Prerequisite</dt><dd>Undergraduate degree or equivalent in a health sciences discipline plus a minimum of two years of relevant career experience. Students without a degree but with significant experience are welcome to apply.</dd><dt>Fee amount</dt><dd>Indicative (2013): $17,340 per 120 credit points.<br />
+> Commonwealth Supported Places also available.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 October 2013.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/city/health-sciences/master-degrees-by-coursework/hmphc.htm"><span class="off-screen">Public Health (Master)</span>City</a></dd></dl></div></div></div>
+239,240c207,208
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+242c210
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+246c214
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+248c216
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+253,261c221
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Arts/Bachelor of Health Sciences (025959E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 220</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to create a program that best represents your interests and needs in arts and health sciences disciplines, providing many different career options. Some study combinations might include politics, society and public health, legal studies and health administration, human biosciences and archaeology, gender, sexuality and diversity studies and health promotion and/or public health.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (70%) PG1) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+< <br />
+< TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+< <br />
+< TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Health Sciences (075420D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>27 080</dd><dt id="campus">Campus</dt><dd>Franklin Street</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course provides you with the skills and knowledge to conduct applied research in health or community services settings (thesis stream) and to develop, implement and evaluate health-related programs and services.<br />
+263,288c223
+< English as the language of instruction in tertiary studies may be accepted.<br />
+< Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+< for courses where the approved test score requirement is above an<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 75<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 75.60<br />
+< International Baccalaureate - 26<br />
+< GCE A Levels - 9<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels- BCC<br />
+< STPM - 9<br />
+< MICSS (UEC) - 4<br />
+< Canada Secondary School (or CPU) - 75<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 75<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> It offers opportunities to learn more about a variety of specialities in the health field, to strengthen analytical skills and to consider furthering knowledge through research. The course aims to meet the needs of health professionals who have assumed or are likely to assume high-level responsibility for coordination and management of these programs and services.<br />
+290,293c225
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>One of Biology, Chemistry, Physics or Year 12 Mathematics.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/humanities/double-degrees/azahs.htm"><span class="off-screen">Arts/Health Sciences </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Health Sciences (062598G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 040</dd><dt id="campus">Campus</dt><dd>Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This highly flexible course aims to give you a broad understanding of health sciences, and can provide you with a pathway into our specialist health sciences courses. You can pursue areas within human biosciences, rehabilitation counselling or public health domains.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at postgraduate (EFS5 (70%) PG1) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> At the time of applying, you are able to choose from the following majors: Health Administration, Health Evaluation and Research, Health Information Management, Health Policy, Gerontology, Health Promoting Palliative Care, Health Promotion, Rehabilitation Counselling and Spiritual Care.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+299c231
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+311,328c243,245
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 63.40<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2x Level 4<br />
+< Sri Lankan A Levels - CCB<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>One of Biology, Chemistry, Year 12 Mathematics or Physics.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/hbhsb.htm"><span class="off-screen">Health Sciences</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/hbhsb.htm"><span class="off-screen">Health Sciences</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Health Sciences/Bachelor of Business (043552A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 470</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The healthcare sector has an increasing need for graduates with skills and knowledge in health sciences and business. This course is designed to respond to current needs, and offers you a comprehensive foundation in business studies combined with the choice of a number of health specialisations.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at postgraduate (EFS5 (70%) PG1) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>Applicants are normally required to hold a three-year undergraduate degree in health sciences or a related field, and have at least two years of work experience in health or a related sector. Applicants without formal qualifications but who have relevant experience and skills should discuss their eligibility with the Course Coordinator. Applicants for the Health Information Management major must have a degree or approved international equivalent in health information management.<br />
+> Minimum grade average equivalent to 70% in previous qualifications if in a related field of study or 75% if previous study is in non-related field.</dd><dt>Additional information</dt><dd>Course commences Semester 1 (March) and Semester 2 (July).<br />
+> Health Evaluation and Research Semester 1 only.<br />
+330c247
+< IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> Applicants must review the Supplementary checklist.<br />
+332,336c249,250
+< TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+< <br />
+< TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+---
+> Available majors only: Health Administration, Health Policy, Health Information Management, Health Evaluation and Research.<br />
+> Most majors are held at Franklyn Street Campus, please check with Faculty for further information. As this Campus is located in the CBD, you might like to consider finding accommodation closer to your campus.</dd><dt>Professional recognition</dt><dd>Completion of this course qualifies students for registration with the appropriate professional association depending on their specialisation.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/master-of-health-sciences.htm"><span class="off-screen">Health Sciences (Master)</span>Franklin Street</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Public Health (019986G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Franklin Street</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you're a professional, currently working in the health setting and want to expand your career into senior roles, this program is designed for you.<br />
+338,346c252,254
+< English as the language of instruction in tertiary studies may be accepted.<br />
+< Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+< for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+---
+> The Master of Public Health is an internationally recognised professional<br />
+> qualification in public health that enables you to work all over the world in a variety of health settings. This is a comprehensive, stand-alone degree, with both research and practice pathways. A distinctive feature is that you are trained according to the Foundation Competencies for Public Health<br />
+> Graduates in Australia.<br />
+348,367c256
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 70<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 65.25<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 10<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - BBC<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 70<br />
+< Vietnam (Year 12) - 8.2<br />
+< Indonesia (SMA) - 8.2<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>One of Biology, Chemistry, Year 12 Mathematics or Physics.</dd><dt>Professional recognition</dt><dd>Successful completion of the marketing major in the Bachelor of Business leads to membership of the Australian Marketing Institute or the Marketing Research Society of Australia, as associate members.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhsb.htm"><span class="off-screen">Health Sciences/Business </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Health Sciences/Bachelor of International Development (065929B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 470</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-3"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Combining these two disciplines is likely to lead to many careers in which you can make a positive contribution to communities in developing countries. This course aims to give you specific skills in health administration, health policy and health services management, and an understanding of the issues involved in social, economic and political areas in developing nations. It strongly emphasises knowledge and skills relevant to the planning and delivery of health services in developing countries.<br /></dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at postgraduate (EFS5 (70%) PG1) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> It includes eight core public health subjects, after which you will have the choice to complete the degree in either research mode or practice mode.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+373c262
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+385,400c274
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 70<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 65.25<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 10<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - BBC<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 70<br />
+< Vietnam (Year 12) - 8.2<br />
+< Indonesia (SMA) - 8.2<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree, or approved international equivalent, in a health discipline. You are expected to have at least two years of work experience in a health related field. A medical internship may count towards this work experience requirement. If you don not have a degree but who have significant experience are welcome to apply.</dd><dt>Additional information</dt><dd>Please note this course is held at the Franklin Street Campus, which is located in the CBD. You might want to find accommodation closer to your campus.<br />
+402c276,277
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>One of Biology, Chemistry, Physics or Year 12 Mathematics.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/post-2008.htm"><span class="off-screen">Health Sciences/International Development</span>Melbourne</a></dd></dl></div></div></div>
+---
+> Applicants must review the Supplementary Checklist.<br />
+> Applications for this course close late November 2013 for Semester 1 (March) 2014 commencement.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/city/health-sciences/master-degrees-by-coursework/hmphc.htm"><span class="off-screen">Public Health (Master)</span>City</a></dd></dl></div></div></div>
+405c280
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+408c283
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+424c299
+< <p>Your placements can take place in rehabilitation and injury management areas of large employers and insurers, community health centres and rehabilitation services.</p>
+---
+> <p>Postgraduate Diploma students have the opportunity to do rehabilitation counselling field work for one semester.</p>
+545,563c420
+< <!-- Google Code for Find a course Conversion Page -->
+< <script type="text/javascript">
+< /* <![CDATA[ */
+< var google_conversion_id = 1063865565;
+< var google_conversion_language = "en";
+< var google_conversion_format = "2";
+< var google_conversion_color = "ffffff";
+< var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+< var google_conversion_value = 0;
+< var google_remarketing_only = false;
+< /* ]]> */
+< </script>
+< <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+< </script>
+< <noscript>
+< <div style="display:inline;">
+< <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+< </div>
+< </noscript><script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+---
+> <script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+616a474,491
+> </div>
+> </noscript><!-- Google Code for Find a course Conversion Page -->
+> <script type="text/javascript">
+> /* <![CDATA[ */
+> var google_conversion_id = 1063865565;
+> var google_conversion_language = "en";
+> var google_conversion_format = "2";
+> var google_conversion_color = "ffffff";
+> var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+> var google_conversion_value = 0;
+> var google_remarketing_only = false;
+> /* ]]> */
+> </script>
+> <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+> </script>
+> <noscript>
+> <div style="display:inline;">
+> <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>

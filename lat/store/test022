@@ -1,0 +1,322 @@
+15a16,35
+> <!-- La Trobe //-->
+> 
+> <!-- LTU //-->
+> <meta name="description" content="Our graduate-entry program lets graduates with a degree other than speech pathology gain a professional qualification." />
+> <meta name="keywords" content="Speech pathology, speech pathologist, human communication sciences, rehabilitation centres, aged-care centres, cerebral palsy, health promotion, communication consultant, postgraduate, Master" />
+> <meta name="audience" content="staff, students, community" />
+> <meta name="author" content="La Trobe University" />
+> 
+> <!-- Brokenlinks //-->
+> 
+> <!-- Info //-->
+> <meta name="TotalPages" content="Nil" />
+> <meta name="Links" content="" />
+> <meta name="TotalLinks" content="" />
+> 
+> <!-- Total Info //-->
+> <meta name="Num_Subsites_With_Broken_Links" content="" />
+> <meta name="Last_Update_Time" content="" />
+> <meta name="Num_Total_Broken_Links_Sitewide" content="" />
+> 
+20c40
+< <meta name="Campus" content="Albury-Wodonga,Bendigo,Melbourne,Mildura,Shepparton" />
+---
+> <meta name="Campus" content="Albury-Wodonga,Bendigo,Melbourne" />
+26,34c46
+< <meta name="Level.of.study" content="Undergraduate" />
+< 
+< <!-- La Trobe //-->
+< 
+< <!-- LTU //-->
+< <meta name="description" content="Our School of Human Communication Sciences is the longest standing provider of speech pathology education programs in Victoria." />
+< <meta name="keywords" content="Speech pathology, speech pathologist, human communication sciences, rehabilitation centres, aged-care centres, cerebral palsy, health promotion, communication consultant, undergraduate, bachelor, clinical, audiology" />
+< <meta name="audience" content="staff, students, community" />
+< <meta name="author" content="La Trobe University" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+42c54
+< <!-- 133195 -->
+---
+> <!-- 126322 -->
+74c86
+<   Page generated: 11 November 2013 08:14:44
+---
+>   Page generated: 11 November 2013 11:55:43
+115c127
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/speech-pathology">Speech pathology</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/speech-pathology">Speech pathology</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/speech-pathology/postgraduate">Postgraduate</a></div>
+150,151c162,163
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/speech-pathology">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/speech-pathology/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/speech-pathology">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/speech-pathology/postgraduate">Postgraduate</a></li>
+159,161c171
+<   <p>Speech pathologists assess, diagnose, treat and provide management and advocacy services to people with communication or swallowing disorders. People with communication disorders may have difficulties in speech, language, voice, fluency, and reading and spelling. Speech pathologists also work in the community in prevention. We are the longest standing provider of speech pathology education programs in Victoria.</p>
+< </div>
+< 
+---
+>   <p>Our graduate-entry program lets graduates with a degree other than speech pathology gain a professional qualification. We are the longest standing provider of speech pathology education programs in Victoria. You must enrol full-time for four semesters. We use Problem-Based Learning methods as well as more traditional teaching and learning formats. You will develop your knowledge and skills using actual speech pathology cases and gain valuable practical experience in our clinic and external placements.</p>
+163,195d172
+< <div class="webmedia">
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:05:47',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/o3UdSpeech-Pathology.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/o3UdSpeech-Pathology.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1141.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'v1141', 'name':'1141'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1141', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< <h2 class="video-title">Speech Pathology at La Trobe</h2>
+< 
+< 
+< <div id="v1141">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1141.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/XkM3Speech-Pathology.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< 
+< </div>
+< 
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/XkM3Speech-Pathology.mp4"><span
+< class="off-screen">Speech Pathology at La Trobe</span> MP4 [126.54 MB]</a></li>
+< 
+< <li><a href='https://webstat.latrobe.edu.au/webmedia/media/KnMBSpeech-Pathology.mp3'><span class='off-screen'>Speech Pathology at La Trobe</span> MP3 [4.00 MB]</a></li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/ZDwotranscript-speech-pathology.docx"><span class="off-screen transcript-link">Speech Pathology at La Trobe</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1141"><span class="off-screen">Speech Pathology at La Trobe</span> Permalink</a></li>
+197,199d173
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?1141">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+< </div>
+212,219c186
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Health Sciences and Master of Speech Pathology </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">75.55</span></dd><dd>Bendigo <span class="atar">86.55</span></dd><dd>Melbourne <span class="atar">88.1</span></dd><dd>Mildura <span class="atar">77.05</span></dd><dd>Shepparton <span class="atar">76.55</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Speech pathology is a growing profession, and with a shortage of qualified speech pathologists in Australia, new graduates have excellent career prospects and opportunities to specialise and diversify.<br />
+< <br />
+< This course aims to qualify you as a speech pathologist for work in Australia.<br />
+< Theoretical studies cover the assessment, diagnosis, treatment and provision of management and advocacy services to people with communication or swallowing disorders, who may have difficulties in speech, language, voice, fluency, and reading and spelling.<br />
+< <br />
+< You'll also gain clinical experience by working on speech pathology cases through various formats (e.g. printed case notes, computer-based examples, video or audio samples, and simulated patients).<br />
+< <br />
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hzhssp">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 30 in English (any) or 35 in English (ESL) and at least 25 in one of Biology, Chemistry, Mathematics (any), Physical Education or Physics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Current Year 12 applicants with work experience must complete and submit a VTAC Personal Statement.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Speech Pathology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time </dd><dt>Semester starts :</dt><dd>Semester 1 (January)</dd><dt>Campus:</dt><dd>Bendigo</dd><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Speech pathologists assess, diagnose, treat and provide management and advocacy services to people with communication or swallowing disorders.<br />
+221c188
+< Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.<br /></dd><dt>Middle band</dt><dd>La Trobe considers Special Entry Access Scheme (SEAS) criteria and a regional bonus may apply.</dd><dt>Costs</dt><dd>A National Police Check at a cost of approximately A$16 and a Working with Children Check (no cost) are required for the professional experience placements in clinical and community settings in this course. Prior to commencing clinical or community placements, students must provide proof of immunisations. Costs may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional practice placements may vary depending on the venue. Please note: costs are approximate and subject to change. Text books are optional unless prescribed. All books, uniforms and equipment can be purchased from any supplier; they remain students' personal property.</dd><dt>Additional information</dt><dd>NOTE: students at Albury-Wodonga, Mildura and Shepparton campuses must transfer to Bendigo after first year.<br />
+---
+> People with communication disorders may have difficulties in speech, language, voice, fluency, reading and spelling.<br />
+223,224c190,198
+< This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br />
+< <br /></dd><dt>How to apply</dt><dd>VTAC/UAC</dd><dt>Professional recognition</dt><dd>Graduates are eligible for membership with Speech Pathology Australia. This degree is also recognised in several other countries.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhssp.htm"><span class="off-screen">Health Sciences/Speech Pathology</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhssp.htm "><span class="off-screen">Health Sciences/Speech Pathology</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhssp.htm "><span class="off-screen">Health Sciences/Speech Pathology</span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhssp.htm "><span class="off-screen">Health Sciences/Speech Pathology</span>Shepparton</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhssp.htm "><span class="off-screen">Health Sciences/Speech Pathology</span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> For more information, please visit out <a href="http://latrobe.custhelp.com/app/answers/list/kw/hmsp/">Frequently Asked Questions.</a><br /></dd><dt>Prerequisite</dt><dd>- Bachelors degree completed within the last five years<br />
+> - A minimum grade average of 70 per cent or or H2A in Honours<br />
+> - Relevant studies include health, behavioural science, biological science or linguistics</dd><dt>Fee amount</dt><dd>Indicative (2013): $23,600 per 120 credit points. Limited Commonwealth Supported Places may be available.</dd><dt>Costs</dt><dd>A National Police Check (or equivalent) A$16. Bridging course (Foundations in Communication Science): A$360*. Students should allow approximately A$300* per year for purchase of academic and clinical materials.                         <br />
+> *Costs listed are 2013 fees and are indicative only.                                                  </dd><dt>Additional information</dt><dd>Students without a background in human biosciences (anatomy and physiology) and linguistics (phonetics and grammar) are strongly recommended to complete a bridging course starting 28 January 2014.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 11 November 2013. All applicants are required to provide a personal statement (250 words), CV and 250-500 word problem-based learning (PBL) statement outlining their method of learning and their understanding of the PBL approach.<br />
+> Late applications will not be considered.<br />
+> <br />
+> Please provide certified copies of transcripts (complete/incomplete) which must include a grading scheme (results interpretation) page.<br /></dd><dt>Professional recognition</dt><dd>Graduates of this program are eligible for membership of the Speech Pathology Association of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmsp.htm "><span class="off-screen">Speech Pathology (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Health Research Methodology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Albury-Wodonga</dd><dd>Bendigo</dd><dd>Melbourne</dd><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give graduates without substantial previous research experience the necessary preparation for higher degree studies. It is expected that graduates will proceed to a higher degree by research, provided they meet minimum average grade requirements. However, the course also aims to facilitate professional advancement and progression to further postgraduate coursework studies after full or partial completion. For public health major, please note that classes are held at the Franklin Street Campus.</dd><dt>Prerequisite</dt><dd>Bachelor's degree in relevant discipline. In certain circumstances, consideration is given to relevant clinical or academic experience, and demonstrated potential to undertake research.</dd><dt>Fee amount</dt><dd>Indicative (2012): $24,190 per 120 credit points.<br />
+> </dd><dt>Additional information</dt><dd>Public Health discipline commences early February.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Applications close on Thursday 31 October.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+227,228c201,202
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+230c204
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+234c208
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+236c210
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+241,246c215
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Health Sciences and Master of Speech Pathology  (062598G/ 031706J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 040</dd><dt id="campus">Campus</dt><dd>Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Speech pathology is a growing profession, and with a shortage of qualified speech pathologists in Australia, new graduates have excellent career prospects and opportunities to specialise and diversify.<br />
+< <br />
+< This course aims to qualify you as a speech pathologist for work in Australia.<br />
+< Theoretical studies cover the assessment, diagnosis, treatment and provision of management and advocacy services to people with communication or swallowing disorders, who may have difficulties in speech, language, voice, fluency, and reading and spelling.<br />
+< <br />
+< You'll also gain clinical experience by working on speech pathology cases through various formats (e.g. printed case notes, computer-based examples, video or audio samples, and simulated patients).<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Speech Pathology (073116F)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>January</dd><dt>Annual Tuition Fee (A$) :</dt><dd>28 360</dd><dt id="campus">Campus</dt><dd>Melbourne, Bendigo</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Speech pathologists assess, diagnose, treat and provide management and advocacy services to people with communication or swallowing disorders.<br />
+248c217
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hzhssp">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.5 with no individual band score less than 7.0; or<br />
+---
+> People with communication disorders may have difficulties in speech, language, voice, fluency, reading and spelling.<br />
+250c219
+< IELTS (Academic) score of 7.5 with no individual band score less than 7.0;<br />
+---
+> For more information, please visit out <a href="http://latrobe.custhelp.com/app/answers/list/kw/hmsp/">Frequently Asked Questions.</a><br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.5 with no individual band score less than 7.0;<br />
+256d224
+< <br />
+259,260d226
+< Cambridge Certificate of Advanced English (CAE): N/A.<br />
+< <br />
+263,278c229,233
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 85 and at least two As, including an A in English<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 88.10<br />
+< International Baccalaureate - 31<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - AAA<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School/or CPU - 85<br />
+< Norway Upper Secondary Certificate - 5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 8.9<br />
+< Indonesia (SMA) - 8.5<br />
+< GAC Cert. IV - GPA 3.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>You must have a relevant Bachelors degree equivalent to an Australian Bachelors degree, completed in the past five years (or<br />
+> subsequent postgraduate study and/or relevant work experience) with a minimum grade average of 75 per cent over the last two<br />
+> years or H2A in Honours. Relevant studies include health, behavioural or biological sciences or linguistics.</dd><dt>Additional costs</dt><dd>A National Police Check (or equivalent) A$16. Bridging course (Foundations in Communication Science): A$360*. Students should allow approximately A$300* per year for purchase of academic and clinical materials.<br />
+> *Costs listed are 2013 fees and are indicative only.</dd><dt>Additional information</dt><dd>Applications are open throughout the year. Note also that the course requires full-time enrolment over four semesters (international students can only study full-time in Australia).<br />
+> The Bridging Course commences on 28 January and concludes on 21 February 2014.<br />
+280c235,256
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>One of Biology, Chemistry, Physics or Year 12 Mathematics.</dd><dt>Additional costs</dt><dd>A National Police Check at a cost of approximately A$16 and a Working with Children Check (no cost) are required for the professional experience placements in clinical and community settings in this course. Prior to commencing clinical or community placements, students must provide proof of immunisations. Costs may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional practice placements may vary depending on the venue. Please note: costs are approximate and subject to change. Text books are optional unless prescribed. All books, uniforms and equipment can be purchased from any supplier; they remain students' personal property.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for membership with Speech Pathology Australia. The degree is also recognised in several overseas countries.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhssp.htm"><span class="off-screen">Health Sciences/Speech Pathology</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhssp.htm "><span class="off-screen">Health Sciences/Speech Pathology</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhssp.htm "><span class="off-screen">Health Sciences/Speech Pathology</span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhssp.htm "><span class="off-screen">Health Sciences/Speech Pathology</span>Shepparton</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hzhssp.htm "><span class="off-screen">Health Sciences/Speech Pathology</span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> Applicants must also submit <a href="http://www.latrobe.edu.au/international/apply/how-to/supplementary-admissions-forms">Supplementary Form.</a>, which includes the following information: CV, 250 word personal statement and a 250 word Problem Based Learning statement. The Problem Based Learning statement should outline what the applicant's understanding of Problem Based Learning and teaching methodology is, and any experience the applicant has had with this teaching methodology.</dd><dt>Professional recognition</dt><dd>This course is accredited with Speech Pathology Australia. It is the individual applicant's responsibility to investigate if this course meets the registration requirements to practice as a speech pathologist in their country of origin or their preferred country of practice.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmsp.htm "><span class="off-screen">Speech Pathology (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Health Research Methodology (072025F/072024G/072008G/072007G/072026E/072005K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 300</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Franklin Street</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give graduates without substantial previous research experience the necessary preparation for higher degree studies. It is expected that graduates will proceed to a higher degree by research, provided they meet minimum average grade requirements. However, the course also aims to facilitate professional advancement and progression to further postgraduate coursework studies after full or partial completion. For public health major, please note that classes are held at the Franklin Street Campus.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+> <br />
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+> <br />
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+> <br />
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+> <br />
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+> <br />
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+> <br />
+> Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+> <br />
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+> <br />
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>A relevant Australian Bachelor's degree or approved international equivalent in health sciences or related area. Entry requirements also vary based on the chosen major - please contact the faculty for more information.</dd><dt>Additional information</dt><dd>Public Health discipline commences early February.<br />
+> Please note this course is held at the Franklin Street Campus, which is located in the CBD. You might like to consider finding accommodation close to your campus.<br />
+> <br />
+> You must review the Supplementary Checklist before applying.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/postgraduate-diploma-in-health-research-methodology.htm"><span class="off-screen">Health Research Methodology (Postgraduate Diploma)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+283c259
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+286c262
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+302,304c278
+< <p>Clinical experience is a major component of our program. You will get practical experience in external agencies such as hospitals, community health centres, schools, early childhood centres and private practice. Students enrolled at the Bendigo campus will carry out most of their placements in the Bendigo area and regional Victoria, however some opportunities exist for these students to be able to carry out placements in metropolitan Melbourne. There are some opportunities for all students to carry out interstate placements subject to availability.</p>
+< 
+< <p>Students enrolled at the Bundoora (Melbourne) Campus will carry out a number of their placements in metropolitan health services and other non-health agencies and in <a href="http://www.latrobe.edu.au/communication-clinic">The La Trobe Communication Clinic</a>, which offers extensive speech pathology services including:</p>
+---
+> <p>Clinical experience is a major component of our program. You will get practical experience at the La Trobe Communication Clinic at Melbourne campus and in external agencies such as hospitals, community health centres, schools, early childhood centres and private practice in rural, metropolitan or interstate settings. The La Trobe Communication Clinic offers extensive speech pathology services including:</p>
+307c281
+<   <li>a preschool language and phonology program funded by Community Health</li>
+---
+>   <li>a preschool language and phonology program funded by Community Health.</li>
+309c283
+<   <li>a preschool and school-age child fluency (stuttering) program funded by Community Health</li>
+---
+>   <li>a preschool and school-age child fluency (stuttering) program funded by Community Health.</li>
+311c285
+<   <li>an adolescent and adult fluency (stuttering) assessment and treatment program</li>
+---
+>   <li>an adolescent and adult fluency (stuttering) assessment and treatment program.</li>
+313c287
+<   <li>a Phonological Awareness for Literacy program for school-aged children</li>
+---
+>   <li>a Phonological Awareness for Literacy program for school-aged children.</li>
+315c289
+<   <li>voice clinics for children and adults at the Bundoora campus and the Royal Victorian Eye and Ear Hospital.</li>
+---
+>   <li>voice clinics for children and adults at the Melbourne campus and the Royal Victorian Eye and Ear Hospital.</li>
+318c292
+< <h3>Student Projects</h3>
+---
+> <h3>Fee assistance</h3>
+320c294
+< <p>La Trobe's Speech Pathology students have developed a number of speech related resources for young people, families and speech pathologists. View some of the <a href="http://www.latrobe.edu.au/health/study/study-activities">Speech Pathology study activities and projects</a>.<br /></p>
+---
+> <p>Limited Commonwealth Supported places are available. Contact the course co-ordinator for more information. The Government FEE-HELP scheme is for full-fee paying, non-research postgraduate students and provides a loan based on income. This scheme applies to the Master of Speech Pathology.<br /></p>
+331,336c305,306
+< <div id="new_div_133230">
+< <h3>Regional campus transfer</h3>
+< 
+< <p>Students at Albury-Wodonga, Mildura and Shepparton campuses must transfer to the Bendigo campus for the last three years of the course.</p>
+< 
+< <h3>Fee assistance</h3>
+---
+> <div id="content_div_70640">
+> <h3>Student profiles</h3>
+338c308
+< <p>Limited Commonwealth Supported places are available. Contact the course co-ordinator for more information and see fees and scholarships.</p>
+---
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+341,349d310
+< <P>Find out about the experiences of one of our students.</P>
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=94254"> <img src="http://www.latrobe.edu.au/student-profiles/images/kabaila_dana.jpg/thumbnail.jpg" width="53" height="80" alt="" title="kabaila_dana" /></a></p>
+< 
+< <p class="testimonial">The lecturers are experts in their field and very inspiring.</p>
+< 
+< <p><cite><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=94254">Ms Dana <strong>Kabaila</strong>, </a>  </cite></p>
+< 
+< </blockquote>
+454,472c415
+< <!-- Google Code for Find a course Conversion Page -->
+< <script type="text/javascript">
+< /* <![CDATA[ */
+< var google_conversion_id = 1063865565;
+< var google_conversion_language = "en";
+< var google_conversion_format = "2";
+< var google_conversion_color = "ffffff";
+< var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+< var google_conversion_value = 0;
+< var google_remarketing_only = false;
+< /* ]]> */
+< </script>
+< <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+< </script>
+< <noscript>
+< <div style="display:inline;">
+< <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+< </div>
+< </noscript><script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+---
+> <script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+501a445,462
+> </div>
+> </noscript><!-- Google Code for Find a course Conversion Page -->
+> <script type="text/javascript">
+> /* <![CDATA[ */
+> var google_conversion_id = 1063865565;
+> var google_conversion_language = "en";
+> var google_conversion_format = "2";
+> var google_conversion_color = "ffffff";
+> var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+> var google_conversion_value = 0;
+> var google_remarketing_only = false;
+> /* ]]> */
+> </script>
+> <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+> </script>
+> <noscript>
+> <div style="display:inline;">
+> <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>

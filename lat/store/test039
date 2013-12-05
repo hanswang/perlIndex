@@ -1,0 +1,352 @@
+19,20c19,20
+< <meta name="description" content="Biotechnology is the use or manipulation of living organisms to perform certain beneficial tasks. It is a rapidly growing area of science." />
+< <meta name="keywords" content="Biotechnology, biology, science,, environment, sustainability, renewable resources, molecular science, biological sciences, bachelor, undergraduate" />
+---
+> <meta name="description" content="We offer advanced training in molecular biotechnology to Masters-level training that you can combine with legal or business studies via the MBA. We also provide laboratory-based training." />
+> <meta name="keywords" content="Biotechnology, postgraduate, Master's, coursework" />
+42c42
+< <!-- 108148 -->
+---
+> <!-- 109871 -->
+67c67
+< <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/biotechnology"/>		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/biotechnology/postgraduate"/>		
+74c74
+<   Page generated: 10 November 2013 18:58:14
+---
+>   Page generated: 10 November 2013 21:17:11
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/biotechnology">Biotechnology</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/biotechnology">Biotechnology</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/biotechnology/postgraduate">Postgraduate</a></div>
+150,152c150,152
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/biotechnology">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/biotechnology/postgraduate">Postgraduate</a></li>
+<   <!--li><a href="http://www.latrobe.edu.au/courses/biotechnology/research">Research degrees</a></li-->
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/biotechnology">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/biotechnology/postgraduate">Postgraduate</a></li>
+>   <!--li><a href="http://www.latrobe.edu.au/courses/biotechnology/research">Research</a></li-->
+154a155
+> 
+156c157,160
+< <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0014/440042/000021.jpg" width="249" height="166" alt="" title="Bioctechnology" />Why study Biotechnology?</h2>
+---
+> <div class="feature feature-big">
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0004/119911/Biotech.jpg" width="250" height="166" alt="" title="Biotech.jpg" />Why study Biotechnology?</h2>
+> 
+>   <p>Biotechnology is one the fastest growing industries worldwide. Our highly-regarded courses offer hands-on, technique-intensive learning, with a strong research focus aimed to equip graduates with the skills necessary to work in the sector. Our subjects are less lecture-based and more enquiry-based, involving small-group workshops and tutorials, and our Masters courses are pathways into PhD studies.&nbsp;</p>
+158c162,163
+< <p>Biotechnology is the use or manipulation of living organisms to perform certain beneficial tasks. It is a rapidly growing area of science and central to industries including medicine, diagnostics, agriculture, environmental protection, food technology and renewable resources technology.<br /></p>
+---
+>   <p>The University&#39;s strength in research is demonstrated by the 2012 Excellence in Research for Australia (ERA) ratings. In Biochemistry and Cell Biology, La Trobe was one of two universities whose research output was rated well above world standard, achieving the maximum score of 5.</p>
+> </div>
+165c170
+< <p>Graduates are prepared for work in government agencies, private industry research, environmental science laboratories, agriculture and resources, waste management and medicine.&nbsp;</p>
+---
+> <p>Graduates are prepared for work in molecular biology, biochemistry, bioinformatics and biotechnology, in business and research throughout the world. Those combining their studies with a MBA will be ready for positions with a focus on business management.</p>
+172,184c177,178
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Biological Sciences (Advanced Science)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">86</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you're enrolled in the Bachelor of Bioscience and achieve an average grade of 80 per cent or more in your first year of biology units (BIO1OF, BIO1PS, BIO1GEN and BIO1AD), you'll be eligible to transfer to this advanced science degree.<br />
+< <br />
+< This course has been designed specifically for students intending to pursue a career in biological research and development in universities, government or private commercial research institutions.<br />
+< <br />
+< This advanced course features small class sizes, a project-management environment, a seminar program presented by international researchers, and the development of research-based communication and presentation skills.<br />
+< <br />
+< You work with a postgraduate student mentor. There are limited places available in this course.<br />
+< <br />
+< You'll have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>.<br />
+< <br />
+< Access the Faculty's <a href="http://www.latrobe.edu.au/scitecheng/study">industry experience and student support programs</a>.<br />
+< <br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: English (any)<br />
+< NSW HSC: English</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Guaranteed Entry (Year 12 applicants only): applicants with an ATAR of 90 or above receive a first-round offer; those with lower ATARs are considered through normal selection processes.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Biotechnology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1.5 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>We aim to equip you with the broad range of skills required to succeed in the rapidly developing field of biotechnology - one of the fastest growing industries in the world. This highly regarded course offers a theoretical and practical education designed to advance your knowledge and skills in molecular biotechnology. The course has a strong research focus that aims to prepare you for work in the sector. Our subjects are less lecture-based and more enquiry-based, involving small group workshops and tutorials. This course does not qualify you to enrol in a PhD. However, you may choose to transfer to the two year (four semester) Master of Biotechnology and Bioinformatics if you prefer to focus on research.</dd><dt>Prerequisite</dt><dd>Australian Bachelor's degree or international equivalent, containing at least two years (four semesters) of biology and at least one of biochemistry, microbiology, immunology, cell biology, genetics,<br />
+> biotechnology, botany, pharmacology or pharmacy</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014.<br />
+186c180
+< Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+---
+> Download, complete and submit a <a href="http://www.latrobe.edu.au/postgrad-coursework/apply">postgraduate coursework application form</a>. Please ensure you also provide all supplementary information required.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smbt.htm"><span class="off-screen">Biotechnology (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Biotechnology and Bioinformatics</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or up to 4 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Biotechnology is becoming increasingly central to a variety of industries, including medicine, diagnostics, agriculture, environmental protection, food technology and renewable resources technology. Bioinformatics is an exciting area of science, focusing on the interface of molecular biology and information technology. It uses the power of computing to tackle biological and medical problems.<br />
+188c182
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Successful completion of Biology, Chemistry, Mathematical Methods (either), Specialist Mathematics, or Physics gives you an additional 1.5 aggregate points per study, to a maximum of 3 points. Performance in prerequisite studies is also considered.</dd><dt>Costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property.  Additional costs for field trips - food, accommodation, travel - may also apply.</dd><dt>Additional information</dt><dd>Students performing well in the Bachelor of Biological Sciences (normally achieving an average of 80% or more in a year) are eligible to transfer to this program.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbas.htm"><span class="off-screen">Biological Sciences (Advanced Science)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Bioscience</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">62.1</span></dd><dd>Melbourne <span class="atar">75.9</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This flexible course is designed to allow you to specialise in two areas of biology, or combine your biology subjects with other science or non-science subjects. It prepares you to address big issues such as protecting native forests and grasslands, discovering new medicinal cures or sustainable agricultural practices, and mapping the genome of endangered species.<br /></dd><dt>Prerequisite</dt><dd>VCE Units 1 and 2: two units (any combination) from science (any), mathematics (any), geography, health &amp; human development, information technology or physical education or VCE Units 3 and 4: science (any), mathematics (any), geography, health &amp; human development, information technology or physical education. Units 3 and 4: English (any)</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+---
+> This is a unique laboratory-based course that aims to equip you with the skills youll need to succeed in the rapidly developing field of biotechnology. The curriculum covers key elements of biotechnology and the manipulation of molecular biological data.<br />
+190,202c184,193
+< Applicants may also be asked to complete the STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Completing any biology, chemistry, mathematics (any) or physics gives you an additional 1.5 aggregate points per study, for a maximum of 3 points. Performance in prerequisite studies will be considered. Re-ranking is also based on criteria associated with the La Trobe University Rural and Regional Student Access Scheme (RRSAS).</dd><dt>Fee amount</dt><dd>TBC</dd><dt>Costs</dt><dd>It will cost students approximately A$100 for basic equipment. Students will need to purchase basic equipment like a dissection kit, laboratory coat and laboratory manuals for some subjects (laboratory manuals can also be borrowed from the library). Students can purchase these items from any supplier; they remain students' personal property. No uniform needed.</dd><dt>Additional information</dt><dd>Year 1 of biochemistry, botany, ecology, genetics, microbiology, molecular biology and zoology can be undertaken at Albury-Wodonga and then students transfer to the Melbourne campus to complete years 2 and 3, while year 1 of freshwater ecology can be undertaken at Melbourne and then students transfer to the Albury-Wodonga campus to complete years 2 and 3, if they wish to complete a major in these areas of study.</dd><dt>How to apply</dt><dd>Apply through VTAC or UAC.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbio.htm"><span class="off-screen">Bioscience</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbiow.htm"><span class="off-screen">Bioscience</span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Science</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time, or up to 6 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">61.45</span></dd><dd>Bendigo <span class="atar">64.5</span></dd><dd>Melbourne <span class="atar">70</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Science seeks answers to some of the most significant questions facing humankind. The extent of climate change, the best medicines to treat cancer, the most effective ways to protect endangered animals - and many other challenges - all require answers from science.<br />
+< <br />
+< Our Bachelor of Science is a highly flexible course, allowing you to create a program to suit your preferences with 14 subject areas to choose from. You'll also have the opportunity to include subjects from other faculties. You'll start with a broad range of subjects in first year and gradually specialise in two major areas by third year or combine a science major with a sequence of study from another discipline.<br />
+< <br />
+< You'll have access to feature lecture and work placement opportunities with leading government and research organisations, plus volunteering opportunities.<br />
+< <br />
+< You'll also have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>. Our Honours and research students have the opportunity to work alongside scientists who are world leaders in their fields.<br />
+< <br />
+< Please note: students who enrol in the first year of the Bachelor of Science at the Albury-Wodonga Campus must transfer to the Melbourne Campus to complete the degree.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: English (any) and mathematics (any)<br />
+< <br />
+< NSW HSC: Band 2 Mathematics and satisfy English requirements</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Successful completion of Chemistry, Physics, or Specialist Mathematics gives you an additional 1.5 aggregate points per study to a maximum of 3 points. Consideration is also given to Special Entry Access Scheme (SEAS) criteria. A <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property.  Additional costs for fieldtrips - food, accommodation and travel - may also apply.</dd><dt>Additional information</dt><dd>Students enrolled at the Albury-Wodonga campus must transfer to either the Melbourne or Bendigo campus after successfully completing first year.</dd><dt>How to apply</dt><dd>VTAC/UAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December for our Bendigo Campus and Albury-Wodonga Campus. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC/UAC.<br /></dd><dt>Professional recognition</dt><dd>Depending on your major studies, you may be eligible for membership of relevant professional associations.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbs.htm"><span class="off-screen">Science </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/science-tech/sbsb.htm"><span class="off-screen">Science </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/stbsw.htm"><span class="off-screen">Science </span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> The course has a strong research focus and offers you the opportunity to work in a specifically designed laboratory, take part in industry visits and participate in mutlitple weekly practicals.</dd><dt>Prerequisite</dt><dd>Bachelor degree including at least second-year university-level biology.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points.<br />
+> <br />
+> </dd><dt>Additional information</dt><dd>Students may exit with a Postgraduate Diploma in Biotechnology and Bioinformatics after completing first year.<br />
+> <br /></dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Please ensure you also provide all supplementary information required.<br />
+> <br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/shmbb.htm"><span class="off-screen">Biotechnology and Bioinformatics (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Postgraduate Diploma in Biotechnology and Bioinformatics</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or up to 2 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This unique course aims to train you in the key elements of biotechnology and the manipulation of molecular biological data, with a strong emphasis on embedding research skills. The course offers a wide variety of practical experiences in laboratory settings, including intensive short projects, industry visits and multiple weekly practical sessions. The program also provides opportunities to develop your communication and higher order thinking skills, including analysis, critical inquiry and problem-solving. In second year, you will undertake a year-long individual project as a member of a specialised research group, under the supervision of a scientific mentor.<br />
+> <br />
+> You will have the chance to conduct research in our new facilities within the La Trobe Institute for Molecular Sciences (LIMS) or AgriBio, the Centre for AgriBioscience, both located at the Melbourne Campus.</dd><dt>Prerequisite</dt><dd>Australian Bachelor's degree or international equivalent, containing at least two years (four semesters) of biology and at least one of biochemistry, microbiology, immunology, cell biology, genetics, biotechnology, botany, pharmacology or pharmacy</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,580 per 120 credit points.<br />
+> <br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Please ensure you also provide all supplementary information required.<br />
+> <br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/spbb.htm"><span class="off-screen">Biotechnology and Bioinformatics (Postgraduate Diploma)</span>Melbourne</a></dd></dl></div></div></div>
+205,206c196,197
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+208c199
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+212c203
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+214c205
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+219,221c210
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Bioscience (077314A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne, Albury-Wodonga</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This flexible course is designed to allow you to specialise in two areas of biology, or combine your biology subjects with other science or non-science subjects. It prepares you to address big issues such as protecting native forests and grasslands, discovering new medicinal cures or sustainable agricultural practices, and mapping the genome of endangered species.<br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Biotechnology (066339E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1.5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>We aim to equip you with the broad range of skills required to succeed in the rapidly developing field of biotechnology - one of the fastest growing industries in the world. This highly regarded course offers a theoretical and practical education designed to advance your knowledge and skills in molecular biotechnology. The course has a strong research focus that aims to prepare you for work in the sector. Our subjects are less lecture-based and more enquiry-based, involving small group workshops and tutorials. This course does not qualify you to enrol in a PhD. However, you may choose to transfer to the two year (four semester) Master of Biotechnology and Bioinformatics if you prefer to focus on research.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+223c212
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+225c214
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+227c216
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+229c218,220
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+231c222
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+235c226
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+237,251c228
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 50<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 75.90<br />
+< International Baccalaureate - 26<br />
+< GCE A Levels - 7<br />
+< HKDSE - 1 x Level 4<br />
+< Sri Lankan A Levels - CCD<br />
+< STPM - 8<br />
+< MICSS (UEC) - 2A 4B<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.3<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< GAC Cert. IV - GPA 2<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelors degree containing at least two years (four semesters) of biology and at least one of biochemistry, microbiology, immunology, cell biology, genetics, biotechnology, botany, pharmacology or pharmacy.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smbt.htm"><span class="off-screen">Biotechnology (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Biotechnology and Bioinformatics (049585K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Biotechnology is becoming increasingly central to a variety of industries, including medicine, diagnostics, agriculture, environmental protection, food technology and renewable resources technology. Bioinformatics is an exciting area of science, focusing on the interface of molecular biology and information technology. It uses the power of computing to tackle biological and medical problems.<br />
+253,256c230,232
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br /></dd><dt>Subject prerequisite</dt><dd>Equivalent to Australian VCE Units 1 and 2: two units (any combination) from science (any), mathematics (any), geography, health and human development, information technology or physical education or VCE Units 3 and 4: science (any), mathematics (any), geography, health and human development, information technology or physical education. Units 3 and 4: English (any)</dd><dt>Additional costs</dt><dd>It will cost students approximately A$100 for basic equipment. Students will need to purchase basic equipment like a dissection kit, laboratory coat and laboratory manuals for some subjects (laboratory manuals can also be borrowed from the library). Students can purchase these items from any supplier; they remain students' personal property. No uniform needed.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbio.htm"><span class="off-screen">Bioscience</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbiow.htm"><span class="off-screen">Bioscience</span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Science (022039C)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years
+< 
+< </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Science seeks answers to some of the most significant questions facing humankind. The extent of climate change, the best medicines to treat cancer, the most effective ways to protect endangered animals - and many other challenges - all require answers from science.<br />
+---
+> This is a unique laboratory-based course that aims to equip you with the skills youll need to succeed in the rapidly developing field of biotechnology. The curriculum covers key elements of biotechnology and the manipulation of molecular biological data.<br />
+> <br />
+> The course has a strong research focus and offers you the opportunity to work in a specifically designed laboratory, take part in industry visits and participate in mutlitple weekly practicals.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+258c234
+< Our Bachelor of Science is a highly flexible course, allowing you to create a program to suit your preferences with 14 subject areas to choose from. You'll also have the opportunity to include subjects from other faculties. You'll start with a broad range of subjects in first year and gradually specialise in two major areas by third year or combine a science major with a sequence of study from another discipline.<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+260c236
+< You'll have access to feature lecture and work placement opportunities with leading government and research organisations, plus volunteering opportunities.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+262c238
+< You'll also have access to some of the best teaching and research facilities in the world: the new AgriBio, <a href="http://www.latrobe.edu.au/agribio">the Centre for AgriBioscience</a>, and the <a href="http://www.latrobe.edu.au/lims">La Trobe Institute for Molecular Science</a>. Our Honours and research students have the opportunity to work alongside scientists who are world leaders in their fields.<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+264c240,242
+< Please note: students who enrol in the first year of the Bachelor of Science at the Albury-Wodonga Campus must transfer to the Melbourne Campus to complete the degree.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+266c244
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+268c246
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+270c248
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+272c250
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelors degree with at least second-year university-level biology, or an approved international equivalent.</dd><dt>Additional information</dt><dd>You may exit with a Postgraduate Diploma in Biotechnology and Bioinformatics after completing first year, but only if you decide not to proceed to the second year.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/shmbb.htm"><span class="off-screen">Biotechnology and Bioinformatics (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Postgraduate Diploma in Biotechnology and Bioinformatics (049586J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This unique course aims to train you in the key elements of biotechnology and the manipulation of molecular biological data, with a strong emphasis on embedding research skills. The course offers a wide variety of practical experiences in laboratory settings, including intensive short projects, industry visits and multiple weekly practical sessions. The program also provides opportunities to develop your communication and higher order thinking skills, including analysis, critical inquiry and problem-solving. In second year, you will undertake a year-long individual project as a member of a specialised research group, under the supervision of a scientific mentor.<br />
+274c252
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> You will have the chance to conduct research in our new facilities within the La Trobe Institute for Molecular Sciences (LIMS) or AgriBio, the Centre for AgriBioscience, both located at the Melbourne Campus.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+276c254
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+278c256
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+280c258,266
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+> <br />
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+> <br />
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+> <br />
+> Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+282,297c268
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 70<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - BCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+299,300c270
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4, Further Mathematics (any) or Mathematical Methods (CAS) and one of Specialist Mathematics, Biology, Chemistry, Physics, Psychology or Environmental Science and English (any).</dd><dt>Additional costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - and a dissecting kit - about A$40. Students can purchase these items from any supplier; they remain students' personal property. Additional costs for fieldtrips - food, accommodation and travel - may also apply.</dd><dt>Additional information</dt><dd>Students enrolled at the Albury-Wodonga campus must transfer to the Melbourne campus after successfully completing their first year.<br />
+< Please note academic records and testamurs of students who complete specialisations in environmental science, space science, or statistics are annotated accordingly (e.g. Bachelor of Science (Statistics).</dd><dt>Professional recognition</dt><dd>Membership of professional associations is available according to the major studies chosen.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbs.htm"><span class="off-screen">Science </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/science-tech/sbsb.htm"><span class="off-screen">Science </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/stbsw.htm"><span class="off-screen">Science </span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree containing at least second-year university-level biology, or an approved international equivalent.</dd><dt>Additional information</dt><dd>This course forms the first year of the Master of Biotechnology and Bioinformatics.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/spbb.htm"><span class="off-screen">Biotechnology and Bioinformatics (Postgraduate Diploma)</span>Melbourne</a></dd></dl></div></div></div>
+303c273
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+306c276
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+317c287
+< <div id="related_study_options">
+---
+> <div id="study_options">
+323c293
+<   <li><a href="http://www.latrobe.edu.au/courses/biochemistry-and-molecular-biology">Biochemistry and molecular biology</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/biochemistry-and-molecular-biology/postgraduate">Biochemistry and molecular biology</a></li>
+325c295
+<   <li><a href="http://www.latrobe.edu.au/courses/microbiology">Microbiology</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/microbiology/postgraduate">Microbiology</a></li>
+329,330d298
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=233550"> <img src="http://www.latrobe.edu.au/student-profiles/images/rsz_daniel_rice_2.jpg/thumbnail.jpg" width="53" height="80" alt="Daniel Rice" title="daniel_rice" /></a><cite><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=233550">Mr Daniel <strong>Rice</strong>,</a>  <br />Bachelor of Biological Sciences</cite></p><p class="testimonial">"The people are nice, there is a good environment, and a great mix of students."</p>
+332,334c300
+< 
+< </blockquote>
+< <div id="related_study_options">
+---
+> <div id="new_div_106813">
+337,340d302
+< <h3>Alternative pathways</h3>
+< 
+< <p>Alternative pathways include TAFE; transferring from another degree or campus at La&nbsp;Trobe; transferring from another university where you are enrolled in a related degree, provided you meet the entry requirements; or enrol in a degree through our special mature age entry scheme or via single subject enrolment. See <a href="http://www.latrobe.edu.au/study">undergraduate pathways</a> or <a href="http://www.latrobe.edu.au/international">information for international students</a>.</p>
+< 
+341a304,307
+> <h3>Overseas study opportunities</h3>
+> <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+> <div id="content_div_70640">
+> <h3>Student and graduate profiles</h3>
+343,344c309
+< <div id="new_div_106809">
+< <h3>Biotechnology placements</h3>
+---
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+347,349d311
+< <p>The industry cadetship program allows you to gain paid workplace experience between semesters, giving you the chance to build on your skills and build your career. See <a href="http://www.latrobe.edu.au/scitecheng/study/cadetships">cadetship program</a>.</p><h3>Overseas study opportunities</h3>
+< <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+< <div id="staff_profile_nest">
+354,356c316
+< <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Biotechnology&amp;submit=submit&amp;showform=no">staff in Biotechnology</a>.</p-->
+< </div>
+< <!-- Content end -->
+---
+> <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Biotechnology&amp;submit=submit&amp;showform=no">staff in Biotechnology</a>.</p--><!-- Content end -->
+453,471c413
+< <!-- Google Code for Find a course Conversion Page -->
+< <script type="text/javascript">
+< /* <![CDATA[ */
+< var google_conversion_id = 1063865565;
+< var google_conversion_language = "en";
+< var google_conversion_format = "2";
+< var google_conversion_color = "ffffff";
+< var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+< var google_conversion_value = 0;
+< var google_remarketing_only = false;
+< /* ]]> */
+< </script>
+< <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+< </script>
+< <noscript>
+< <div style="display:inline;">
+< <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+< </div>
+< </noscript><script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+---
+> <script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+505a448,465
+> </div>
+> </noscript><!-- Google Code for Find a course Conversion Page -->
+> <script type="text/javascript">
+> /* <![CDATA[ */
+> var google_conversion_id = 1063865565;
+> var google_conversion_language = "en";
+> var google_conversion_format = "2";
+> var google_conversion_color = "ffffff";
+> var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+> var google_conversion_value = 0;
+> var google_remarketing_only = false;
+> /* ]]> */
+> </script>
+> <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+> </script>
+> <noscript>
+> <div style="display:inline;">
+> <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>

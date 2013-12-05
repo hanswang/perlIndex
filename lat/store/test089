@@ -1,0 +1,261 @@
+19,20c19,20
+< <meta name="description" content="Plan and develop your own medium-sized game as part of your course. Get practical training and theory in games design and development." />
+< <meta name="keywords" content="Games, game, video, computer, console, game technology, theory, design, computer science, graphics, AI, artificial intelligence, programming, software, development, multimedia, undergraduate, bachelor" />
+---
+> <meta name="description" content="Our innovative postgraduate program trains computing professionals. Take your knowledge and skills in games technology to an advanced level." />
+> <meta name="keywords" content="Games technology, computer science, postgraduate, diploma, Master's" />
+27,28c27,28
+< <meta name="Related.Area.of.Study" content="Melbourne" />
+< <meta name="Campus" content="Campuses" />
+---
+> <meta name="Related.Area.of.Study" content="Games technology" />
+> <meta name="Campus" content="Melbourne" />
+34c34
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+42c42
+< <!-- 107200 -->
+---
+> <!-- 107240 -->
+67c67
+< <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/games-technology"/>		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/games-technology/postgraduate"/>		
+74c74
+<   Page generated: 11 November 2013 14:58:09
+---
+>   Page generated: 11 November 2013 13:15:36
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/games-technology">Games technology</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/games-technology">Games technology</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/games-technology/postgraduate">Postgraduate</a></div>
+150c150
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/games-technology">Undergraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/games-technology">Undergraduate</a></li>
+152,153c152,153
+<   <li><a href="http://www.latrobe.edu.au/courses/games-technology/postgraduate">Postgraduate</a></li>
+<   <!-- <li><a href="http://www.latrobe.edu.au/courses/games-technology/research">Research</a></li> -->
+---
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/games-technology/postgraduate">Postgraduate</a></li>
+>   <!-- <li><a href="http://www.latrobe.edu.au/courses/games-technology/research">Research degrees</a></li> -->
+158c158
+<   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0007/447262/gamestech.jpg" width="249" height="166" alt="" title="Games Tech" />Why study Games technology?</h2>
+---
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0006/119922/Games-Tech.jpg" width="250" height="166" alt="" title="Games-Tech.jpg" />Why study Games technology?</h2>
+160c160
+<   <p>This degree covers practical training and theory in games design and development, to prepare you for a career in the expanding games development sector or the broader IT industry</p>
+---
+>   <p>Our innovative postgraduate program trains computing professionals. Take your knowledge and skills in games technology to an advanced level. Graduates are eligible for professional level membership of the Australian Computer Society. This diploma forms the first year of the Master of Computer Science.</p>
+162,222c162
+<   <p>Games technology studies aim to give you sophisticated programming skills, a sound theoretical basis in games design and specialist knowledge and skills in areas such as graphics rendering, artificial intelligence, software development, multimedia programming and operating systems.<br /></p>
+< 
+<   <p>You'll also gain a solid grounding in the physics and mathematics necessary for producing realistic video games and interactive simulations.<br /></p>
+< 
+<   <p>La Trobe was nominated for a <a href="http://www.mcvpacific.com/news/read/mcv-pacific-reveals-the-final-nominees-for-its-2011-awards/088637">Best of 2011 Award</a>, by The Market for Computer and Video Games, for ‘<strong>Tertiary Educational Institution of the Year</strong> – the most prolific, highest quality place to learn about making games’.</p>
+< 
+<   <h3>Professional recognition<br /></h3>
+< 
+<   <p>This degree is accredited by the <a href="http://www.acs.org.au/">Australian Computer Society</a> (ACS) and graduates are eligible for professional membership.<br /></p>
+< 
+<   <p>The <a href="http://www.latrobe.edu.au/computer-science-and-computer-engineering">Department of Computer Science and Computer Engineering</a> also offers the opportunity to gain industry-standard qualifications with CISCO and Microsoft as part of your degree.</p>
+< 
+<   <h3>Industry experience</h3>
+< 
+<   <p>Our Games Technology Project enables you to get involved in the planning and development of a game. You'll also have the opportunity to apply and develop your skills in game development by doing an industry placement with one of our many partner companies.<br /></p>
+< </div>
+< 
+< </div>
+< <div class="video-thumb">
+< 	<div>
+< 		<img class="video-on" style="background:transparent url(http://webmedia.latrobe.edu.au/production1/video1526.jpg.thumb.jpg) no-repeat 0 0" src="http://webmedia.latrobe.edu.au/images/view-video-overlay-thumb.png" alt="" width="80" height="53" />
+< 		<h2 class="video-on">Games Technology</h2>
+< 		<p>This course offers a comprehensive blend of game theory, design and development.</p>
+< 	</div>
+<   <div class="webmedia reveal-video">
+< 
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:03:04',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/YLvVLTU_4_GT_v6.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/YLvVLTU_4_GT_v6.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1526.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'1526', 'name':'1526'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1526', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< 
+< 
+< <div id="v1526">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1526.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/Xew2LTU_4_GT_v6_1.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< 
+< </div>
+< 
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/Xew2LTU_4_GT_v6_1.mp4"><span
+< class="off-screen">Games Technology</span> MP4 [17.40 MB]</a></li>
+< 
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/39R3LTU_4_GT_v6.mp3"><span class="off-screen">Games Technology</span> MP3 [2.12 MB]</a></li>
+< 
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/4f9tGames Technology.doc"><span class="off-screen transcript-link">Games Technology</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1526"><span class="off-screen">Games Technology</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video format request: http://webmedia.latrobe.edu.au/webmedia/perma.php?1526">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+---
+>   <p><br /></p>
+225,227d164
+< 
+< 
+< 	</div>
+233,235c170
+< <p>Graduates usually have wide-ranging options within the game development industry, such as game design, technical game testing and debugging, technical art, effects programming, CGI development, artificial intelligence, interface development, task automation, rendering,audio engineering, games networking and even dedicated cluster computing.</p>
+< 
+< <p>Other IT opportunities include software engineering, development programming, high-performance computing, database engineering, research computing and computer networking.<br /></p>
+---
+> <p>Graduates are prepared for work as developers in the games technology industry, graphics programmers for special effects and computer-generated imagery, or in the many industries now incorporating games technology. You can also use your skills in computer science, mathematics and physics to work in software development, web programming and computer networks.</p>
+241,247c176
+< <div class="accordion">
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Computer Science in Games Technology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">64.85</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The computer games industry is constantly expanding and in need of highly skilled designers with new and creative ideas. With a balance of theoretical studies and practical training in games design and development, this course aims to give you everything you need to step into this exciting industry. The curriculum covers the physics and mathematics necessary for producing increasingly realistic video games and interactive simulations. Games technology studies focus on the development of programming skills and theories of games design, as well as specialist development in areas such as graphics, rendering, artificial intelligence, software development, multimedia programming, and operating systems.<br />
+< <br />
+< Visit the <a href="http://www.latrobe.edu.au/scitecheng/study%3EFaculty's%20industry%20experience%20and%20student%20support%20programs.%3C/a%3E"></a></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: English (any) and either Mathematical Methods (CAS) or Specialist Mathematics</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. You may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Completion of Specialist Mathematics gives you an additional 1.5 aggregate points.</dd><dt>Additional information</dt><dd>Students without the appropriate computer science background may be required to commence three weeks early to undertake accelerated first-year computer science subjects.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>The course is accredited by the Australian Computer Society. Graduates are eligible for membership.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbcsgt.htm"><span class="off-screen">Computer Science in Games Technology </span>Melbourne</a></dd></dl></div></div></div>
+< </div>
+---
+> <h3 class="alert">No courses available</h3>
+249,250c178,179
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+252c181
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+256c185
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+258c187
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+262,301c191
+< <div class="accordion">
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Computer Science in Games Technology (051469G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The computer games industry is constantly expanding and in need of highly skilled designers with new and creative ideas. With a balance of theoretical studies and practical training in games design and development, this course aims to give you everything you need to step into this exciting industry. The curriculum covers the physics and mathematics necessary for producing increasingly realistic video games and interactive simulations. Games technology studies focus on the development of programming skills and theories of games design, as well as specialist development in areas such as graphics, rendering, artificial intelligence, software development, multimedia programming, and operating systems.<br />
+< <br />
+< Visit the <a href="http://www.latrobe.edu.au/scitecheng/study%3EFaculty's%20industry%20experience%20and%20student%20support%20programs.%3C/a%3E"></a></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 64.85<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 60<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8.2<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information, visit the <a href="http://www.latrobemelbourne.edu.au">*La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to Australian VCE Units 3 &amp; 4 with a minimum score of 25 in Mathematical Methods (CAS) or 20 in Specialist Mathematics. VCE Units 3 and 4: English (any).</dd><dt>Additional information</dt><dd>Semester 2 (July) entry is only available to students with Advanced Standing (credit) for previous studies.</dd><dt>Professional recognition</dt><dd>The Australian Computer Society has accredited this course and graduates are eligible for professional membership.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbcsgt.htm"><span class="off-screen">Computer Science in Games Technology </span>Melbourne</a></dd></dl></div></div></div>
+< </div>
+---
+> <h3 class="alert">No courses available</h3>
+303c193
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+306c196
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+317c207
+< <div id="related_study_options">
+---
+> <div id="study_options">
+321c211
+<   <li><a href="http://www.latrobe.edu.au/courses/computer-science">Computer science</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/computer-science/postgraduate">Computer science</a></li>
+323c213
+<   <li><a href="http://www.latrobe.edu.au/courses/computer-systems-engineering">Computer systems</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/computer-systems-engineering/postgraduate">Computer systems</a></li>
+325c215
+<   <li><a href="http://www.latrobe.edu.au/courses/information-systems">Information systems</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/information-systems/postgraduate">Information systems</a></li>
+327c217
+<   <li><a href="http://www.latrobe.edu.au/courses/information-technology">Information technology</a><br /></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/information-technology/postgraduate">Information technology</a></li>
+331,332d220
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=261666"> <img src="http://www.latrobe.edu.au/student-profiles/images/Callum-Gardner_web.jpg/thumbnail.jpg" width="53" height="80" alt="" title="gardner_callum" /></a><cite><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=261666"> Callum <strong>Gardner</strong>,</a>  <br />Bachelor of Computer Science in Games Technology (Honours)</cite></p><p class="testimonial">"I chose my course because I wanted to be able to keep my career options as open as possible."</p>
+334,336c222
+< 
+< </blockquote>
+< <div id="related_study_options">
+---
+> <div id="new_div_106813">
+339,342d224
+< <h3>Alternative pathways</h3>
+< 
+< <p>Alternative pathways include TAFE; transferring from another degree or campus at La&nbsp;Trobe; transferring from another university where you are enrolled in a related degree, provided you meet the entry requirements; or enrol in a degree through our special mature age entry scheme or via single subject enrolment. See <a href="http://www.latrobe.edu.au/study">undergraduate pathways</a> or <a href="http://www.latrobe.edu.au/international">information for international students</a>.</p>
+< 
+343a226,229
+> <h3>Overseas study opportunities</h3>
+> <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+> <div id="content_div_70640">
+> <h3>Student and graduate profiles</h3>
+345,350c231
+< <div id="new_div_106809">
+< <h3>Games technology placements</h3>
+< 
+< <p>Through our Games Technology Project, students gain industry experience by planning and developing a medium-sized game.</p>
+< 
+< <p>We also have an <a href="http://www.latrobe.edu.au/scitecheng/study/cadetships">industry cadetship program</a> that allows you to gain paid workplace experience between semesters, giving you the chance to build on your skills and build your career.<br /></p>
+---
+> <p>Students from our Faculty <a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+353,355d233
+< <h3>Overseas study opportunities</h3>
+< <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+< <div id="staff_profile_nest">
+360,362c238
+< <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Games technology&amp;submit=submit&amp;showform=no">staff in Games technology</a>.</p-->
+< </div>
+< <!-- Content end -->
+---
+> <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Games technology&amp;submit=submit&amp;showform=no">staff in Games technology</a>.</p--><!-- Content end -->

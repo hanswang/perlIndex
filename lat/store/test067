@@ -1,0 +1,188 @@
+19,20c19,20
+< <meta name="description" content="Gain industry experience while developing skills in computer hardware and software." />
+< <meta name="keywords" content="computer, systems, engineering, programming, network, database, security, software,hardware, Cisco, Microsoft, bachelor, undergraduate" />
+---
+> <meta name="description" content="Our coursework program provides specialised training. Be prepared to meet the challenges and opportunities provided by advances in technology." />
+> <meta name="keywords" content="Computer networks, biomedical engineering, communications engineering, distributed computing, electronic systems engineering, microelectronics, mobile communications, optical engineering, wireless networks, postgraduate" />
+28c28
+< <meta name="Campus" content="Melbourne" />
+---
+> <meta name="Campus" content="Bendigo,Melbourne" />
+34c34
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+42c42
+< <!-- 108110 -->
+---
+> <!-- 109255 -->
+67c67
+< <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/computer-systems-engineering"/>		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/computer-systems-engineering/postgraduate"/>		
+74c74
+<   Page generated: 11 November 2013 03:18:21
+---
+>   Page generated: 10 November 2013 20:37:22
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/computer-systems-engineering">Computer systems engineering</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/computer-systems-engineering">Computer systems engineering</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/computer-systems-engineering/postgraduate">Postgraduate</a></div>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/computer-systems-engineering">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/computer-systems-engineering/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/computer-systems-engineering">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/computer-systems-engineering/postgraduate">Postgraduate</a></li>
+156c156,157
+< <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0020/446042/computersystemsengineering.jpg" width="249" height="166" alt="" title="Computer systems engineering" />Why study Computer systems engineering?</h2>
+---
+> <div class="feature feature-big">
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0010/119917/Comp-Sys-Eng.jpg" width="250" height="166" alt="" title="Comp-Sys-Eng.jpg" />Why study Computer systems engineering?</h2>
+158c159
+< <p>The Bachelor of Computer Systems Engineering offers a unique opportunity to develop skills in two different fields: computer hardware/electronics and computer software.</p>
+---
+>   <p>Our coursework program provides specialised training in the high-demand areas of computer networks, biomedical engineering, communications engineering, distributed computing, electronic systems engineering, microelectronics design, mobile communications, optical engineering and wireless networks. Be prepared to meet the challenges and opportunities provided by advances in integrated circuit, computer, internet and communications technology.</p>
+160,162c161,162
+< <p>You can choose to specialise in network engineering as part of your course and work with high-end switches and routers to implement complex networks to provide end-to-end services, including voice, video and high-speed data. You can gain Microsoft and Cisco industry certification as part of your course.<br /></p>
+< 
+< <p>All students are required to complete an internship as part of the <a href="http://www.latrobe.edu.au/computer-science-and-computer-engineering/industry-experience/ibl">industry-based learning program</a>, that provides successful applicants with paid, full-time employment in industry as well as credit towards their degree. The <a href="http://www.latrobe.edu.au/scitecheng/study/cadetships">industry cadetship program</a> also allows you to gain paid workplace experience between semesters, offering the chance to build on your skills and build your career.<br /></p>
+---
+>   <p>See the Research tab for information about undertaking a PhD.&nbsp;<br /></p>
+> </div>
+169,173c169
+< <p>Our students find work in software-related occupations such as software engineers, systems analysts, analyst programmers and developer programmers.</p>
+< 
+< <p>You can also work in research and development in Fortune-500 companies, consultation, project management, taskforce management, database engineering and networking and security.</p>
+< 
+< <p>This degree is fully accredited by <a href="http://www.engineersaustralia.org.au/">Engineers Australia</a> and the <a href="http://www.acs.org.au/">Australian Computer Society</a>.<br /></p>
+---
+> <p>Graduates are prepared for work in information technology, communications, microelectronics, automotive, hospitals and medical equipment, defence organisations, and electronic equipment design and manufacturing.</p>
+179,191c175
+< <div class="accordion">
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Computer Systems Engineering (Honours)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">65.5</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course offers a unique opporunity to develop skills in two different fields:<br />
+< computer hardware/electronics and computer software. Computer systems<br />
+< engineering involves the design of large software systems, computer networks and computer architecture.<br />
+< <br />
+< You can choose to specialise in network engineering by selecting advanced networking subjects. The CISCO curriculum is part of our networking courses, which can lead to CISCO industry certification. You have the opportunity to work with high-end switches and routers to implement complex networks to provide end-to-end services, including voice, video and high-speed data.<br />
+< <br />
+< This course is fully accredited by Engineers Australia and the Australian Computer Society.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: English (any) and either Mathematical Methods or Specialist Mathematics</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying. Applicants may also be asked to complete a <a href="http://www.latrobe.edu.au/mature-age/apply/extra-requirements">maths test.</a><br />
+< <br />
+< Selection may also involve ENTER/ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Successful completion of Physics or Specialist Mathematics gives you an additional 1.5 aggregate points per study.</dd><dt>Additional information</dt><dd>Students must complete at least 12 weeks' certified practical experience to be deemed to have completed the course. This is usually undertaken during the vacation following third or fourth year.<br />
+< <br />
+< A CISCO certification training program is available for students who pass the network engineering subjects. Interested students should contact the Department of Computer Science and Computer Engineering at the beginning of first semester.</dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>This course is fully accredited by Engineers Australia and the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/svcse.htm"><span class="off-screen">Computer Systems Engineering</span>Melbourne</a></dd></dl></div></div></div>
+< </div>
+---
+> <h3 class="alert">No courses available</h3>
+193,194c177,178
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+196c180
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+200c184
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+202c186
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+206,250c190
+< <div class="accordion">
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Computer Systems Engineering (Honours) (069554G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course offers a unique opporunity to develop skills in two different fields:<br />
+< computer hardware/electronics and computer software. Computer systems<br />
+< engineering involves the design of large software systems, computer networks and computer architecture.<br />
+< <br />
+< You can choose to specialise in network engineering by selecting advanced networking subjects. The CISCO curriculum is part of our networking courses, which can lead to CISCO industry certification. You have the opportunity to work with high-end switches and routers to implement complex networks to provide end-to-end services, including voice, video and high-speed data.<br />
+< <br />
+< This course is fully accredited by Engineers Australia and the Australian Computer Society.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 65.50<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 60<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Mathematics determined to be equivalent to the Australian VCE Units 3 &amp; 4 Mathematical Methods (CAS) or Specialist Mathematics and English (any).</dd><dt>Additional information</dt><dd>A CISCO certification training program is available if you pass the network engineering subjects. If you are interested, you can contact the Department of Computer Science and Computer Engineering at the beginning of Semester 1 (March), contact: (+61 3 ) 9479 2220.<br />
+< Semester 2 (July) start is only available to students with Advanced standing (credit).</dd><dt>Professional recognition</dt><dd>This course is fully accredited by Engineers Australia and by the Australian Computer Society, and graduates are eligible for membership to both organisations.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/svcse.htm"><span class="off-screen">Computer Systems Engineering</span>Melbourne</a></dd></dl></div></div></div>
+< </div>
+---
+> <h3 class="alert">No courses available</h3>
+252c192
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+255c195
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+266c206
+< <div id="related_study_options">
+---
+> <div id="study_options">
+270c210
+<   <li><a href="http://www.latrobe.edu.au/courses/computer-science">Computer science</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/computer-science/postgraduate">Computer science</a></li>
+272c212
+<   <li><a href="http://www.latrobe.edu.au/courses/electronic-engineering">Electronic engineering</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/electronic-engineering/postgraduate">Electronic engineering</a><br /></li>
+276,278d215
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=256025"> <img src="http://www.latrobe.edu.au/student-profiles/images/Tom_Mundy_web.jpg/thumbnail.jpg" width="53" height="80" alt="" title="mundy_tom" /></a><cite><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=256025"> Tom <strong>Mundy</strong>,</a>  <br />Bachelor of Computer Systems Engineering</cite></p><p class="testimonial">"I love working with computers, working with people, communicating and having fun."</p>
+< 
+280,281c217
+< </blockquote>
+< <div id="related_study_options">
+---
+> <div id="new_div_106813">
+284,287d219
+< <h3>Alternative pathways</h3>
+< 
+< <p>Alternative pathways include TAFE; transferring from another degree or campus at La&nbsp;Trobe; transferring from another university where you are enrolled in a related degree, provided you meet the entry requirements; or enrol in a degree through our special mature age entry scheme or via single subject enrolment. See <a href="http://www.latrobe.edu.au/study">undergraduate pathways</a> or <a href="http://www.latrobe.edu.au/international">information for international students</a>.</p>
+< 
+290,292c222
+< <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+< <div id="staff_profile_nest">
+< <h3>About the academic staff</h3>
+---
+> <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p><h3>About the academic staff</h3>
+296,298c226
+< <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Computer systems engineering&amp;submit=submit&amp;showform=no">staff in Computer systems engineering</a>.</p-->
+< </div>
+< <!-- Content end -->
+---
+> <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Computer systems engineering&amp;submit=submit&amp;showform=no">staff in Computer systems engineering</a>.</p--><!-- Content end -->

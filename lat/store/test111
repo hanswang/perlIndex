@@ -1,0 +1,429 @@
+20c20
+< <meta name="Campus" content="Albury-Wodonga,Bendigo,Melbourne,Mildura,Shepparton" />
+---
+> <meta name="Campus" content="Melbourne,Bendigo" />
+26c26
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+31,32c31,32
+< <meta name="description" content="We cater for school leavers, mature age students, local and international students, and students with a previous degree or qualification as an enrolled nurse." />
+< <meta name="keywords" content="Nursing, nurse, registered nurse, midwifery, midwife, Division 1 nurse, Division 2 nurse, health care professional, undergraduate, bachelor" />
+---
+> <meta name="description" content="Our postgraduate coursework programs cater for those with a nursing degree and experience who wish to do advanced training in specialised areas." />
+> <meta name="keywords" content="Nursing, nurse, registered nurse, acute care, cancer, palliative, cardiac, critical, emergency, intensive care, neonatal, perianaesthetic, perioperative care, urology, incontinence, mental health, child health, postgraduate, diploma, Master" />
+42c42
+< <!-- 127162 -->
+---
+> <!-- 127182 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/nursing"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/nursing/postgraduate"/>		
+74c74
+<   Page generated: 11 November 2013 18:15:48
+---
+>   Page generated: 11 November 2013 16:44:36
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/nursing">Nursing</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/nursing">Nursing</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/nursing/postgraduate">Postgraduate</a></div>
+150c150
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/nursing">Undergraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/nursing">Undergraduate</a></li>
+152c152
+<   <li><a href="http://www.latrobe.edu.au/courses/nursing/postgraduate">Postgraduate</a></li>
+---
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/nursing/postgraduate">Postgraduate</a></li>
+159c159
+<   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0019/132382/nursing2012.jpg" width="250" height="166" alt="Nursing" title="nursing-disc.jpg" />Why study a Nursing course?</h2>
+---
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0019/132382/nursing2012.jpg" width="250" height="166" alt="Nursing" title="nursing-disc.jpg" />Why study Nursing?</h2>
+161,207c161
+<   <p>Nurses promote health and well-being and look after the health care needs of people of all ages and from all cultures. We have an excellent reputation for our nursing education and offer a range of pathways to become a Registered Nurse (Division 1).<br /></p>
+< 
+<   <ul>
+<     <li>We were the first nursing university course in Australia - our first course commencing in 1974.</li>
+< 
+<     <li>We have partnerships with leading Victorian Hospitals.</li>
+< 
+<     <li>We have our own teaching space, referred to as <a href="http://www.latrobe.edu.au/health/professional/clinical-schools">Clinical Schools</a> at The Alfred, Austin Health, Northern Health, Royal Melbourne, Mercy Health and The Women's.</li>
+< 
+<     <li>During your final 18 months you will be located at one of our partner hospitals across Melbourne.</li>
+< 
+<     <li>Our hospital simulation centres help students prepare for the hospital environment.</li>
+< 
+<     <li>Students undertake their clinical placement in hospitals, gaining experience and confidence in complex healthcare.</li>
+< 
+<     <li>Clinical supervision is provided by clinical nurses and midwives delivering patient care as well as academic nursing and midwifery staff from La Trobe.<br /></li>
+<   </ul>
+< </div>
+< 
+< </div>
+< <div class="video-thumb">
+< 	<div>
+< 		<img class="video-on" style="background:transparent url(http://webmedia.latrobe.edu.au/production1/video985.jpg.thumb.jpg) no-repeat 0 0" src="http://webmedia.latrobe.edu.au/images/view-video-overlay-thumb.png" alt="" width="80" height="53" />
+< 		<h2 class="video-on">La Trobe University Clinical Schools</h2>
+< 		<p>A tour of the Alfred Clinical School</p>
+< 	</div>
+<   <div class="webmedia reveal-video">
+< 
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:04:56',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/B5pBill_McGuiness.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/B5pBill_McGuiness.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video985.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'985', 'name':'985'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v985', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< 
+< 
+< <div id="v985">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video985.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/jtX8Bill_McGuiness.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+---
+>   <p>Our <strong>Master of Nursing</strong> course specialises in the areas of acute care, breast care, cancer and palliative care, child, family and community, cardiac care, critical care, emergency care, intensive care, neonatal intensive care, perianaesthetic care, perioperative care, renal care, spinal care, urology and continence, mental health, and maternal and child health.</p>
+208a163
+>   <p>Our postgraduate coursework programs cater for those with a nursing degree and experience.</p>
+211,223d165
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/jtX8Bill_McGuiness.mp4"><span
+< class="off-screen">La Trobe University Clinical Schools</span> MP4 [39.72 MB]</a></li>
+< 
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/3lqpBill_McGuiness.mp3"><span class="off-screen">La Trobe University Clinical Schools</span> MP3 [3.40 MB]</a></li>
+< 
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/2RTPtranscript-clinicalschool-bill.docx"><span class="off-screen transcript-link">La Trobe University Clinical Schools</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=985"><span class="off-screen">La Trobe University Clinical Schools</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video format request: http://webmedia.latrobe.edu.au/webmedia/perma.php?985">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+225a168,169
+> <div id="career_opportunities">
+> <h2>Career opportunities</h2>
+226a171
+> <p>You will advance your career within your specialised area of interest.</p>
+228,252c173
+< 	</div>
+< </div>
+< <div class="webmedia">
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:03:58',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/YgZg5_Week_Nursing-Midwifery.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/YgZg5_Week_Nursing-Midwifery.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1544.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'v1544', 'name':'1544'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1544', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< <h2 class="video-title">A week with a Nursing-Midwifery student</h2>
+< 
+< 
+< <div id="v1544">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1544.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/vOb95_Week_Nursing-Midwifery.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< 
+< </div>
+---
+> <h2>2014 Postgraduate Nursing and Midwifery Guide</h2>
+254,270c175
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/vOb95_Week_Nursing-Midwifery.mp4"><span
+< class="off-screen">A week with a Nursing-Midwifery student</span> MP4 [22.50 MB]</a></li>
+< 
+< <li><a href='https://webstat.latrobe.edu.au/webmedia/media/5kO75_Week_Nursing-Midwifery.mp3'><span class='off-screen'>A week with a Nursing-Midwifery student</span> MP3 [2.74 MB]</a></li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/MoJl5 Week Nursing-Midwifery transcript.docx"><span class="off-screen transcript-link">A week with a Nursing-Midwifery student</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1544"><span class="off-screen">A week with a Nursing-Midwifery student</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?1544">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+< </div>
+< </div>
+< 
+< <div id="career_opportunities">
+< <h2>Career opportunities in Nursing</h2>
+---
+> <p>The School of Nursing and Midwifery introduced a new course structure from 2013. To learn about the new structure view the <a href="http://www.latrobe.edu.au/health/downloads/nursing-midwiferypg-guide2014.pdf">2014 Postgraduate Course Guide Brochure [PDF 2MB]</a>.<br /></p>
+272c177
+< <p>Graduates are highly sought after and have transportable skills. You can expect to work in the health care industry, education and government. You may be eligible for registration in other countries as well as membership of the Royal College of Nursing Australia. See <a href="http://www.nursingmidwiferyboard.gov.au/Registration-Standards.aspx">registration standards</a>.<br /></p>
+---
+> <p><br /></p>
+279c184
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Nursing/Bachelor of Midwifery</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">81.05</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>La Trobe's nursing and midwifery course aims to prepare you for practice roles in a broad range of healthcare settings. It also leads to registration as a Registered Nurse (Division 1), and Nursing and Midwifery Board of Australia (NMBA) endorsement to practise as a midwife.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Mental Health</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>Full-time: 1.5 years Part-time equivalent: 2-3 years</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Bendigo</dd><dd>Distance education</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to provide you with a deeper understanding of mental health, through systematic analysis and reflection on the relationships between theory and clinical practice. It offers you strong evidence-based learning, supported by clinical skill development and life-long skills.<br />
+281c186
+< The course provides a solid theoretical foundation in nursing and midwifery. You'll gain skills in public speaking, presentation and negotiation, and an in-depth understanding of the roles played by midwives and nurses in social change.<br />
+---
+> Please note that you have the option of exiting early from the degree with either a Graduate Certificate or a Postgraduate Diploma.<br /></dd><dt>Prerequisite</dt><dd>Bachelor's degree in nursing, social work, occupational therapy or psychology; registration with relevant board; employed by a service approved by the Course Coordinator.</dd><dt>Fee amount</dt><dd>TBC</dd><dt>Additional information</dt><dd>You may be eligible for institutional credit - please contact the Faculty for more information.<br />
+283c188
+< We've designed this course to prepare you for leadership roles in the healthcare system and to enable you to take a politically informed stance to support health for all.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 30 in English (ESL) or 25 in English (any).</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.<br />
+---
+> This course is offered via a flexible online delivery mode. This caters to students who work and live in rural or remote areas, live interstate or may otherwise not be in a position to attend face to face lectures or tutorials. All online subjects require broadband internet access.<br />
+285c190,192
+< Selection may also be based on ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Re-ranking is based on Special Entry Access Scheme (SEAS) criteria.</dd><dt>Costs</dt><dd>Students should allow approximately AUD$300 for a uniform and equipment. Students can purchase these items from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students personal property. In addition, students must obtain a National Police Certificate - AUD$15.50, immunisations - AUD$250-470, and a First Aid II Certificate - AUD$160. All prices are approximate. Students need to complete the First Aid Level II Certificate course which is not conducted by La Trobe University.  Clinical placements may incur accommodation and travel costs, and these will vary depending on the venue.  Costs are subject to change.</dd><dt>Additional information</dt><dd>All applicants must be aware of the physical components and location requirements of the course. Applicants with a disability, medical condition or other concerns that may affect their potential participation should contact the School on (03) 9479 5950 to discuss any possible course modifications.<br />
+---
+> Please contact the course coordinator for more information.<br />
+> Course coordinator<br />
+> Kate Emond k.emond@latrobe.edu.au T: 5444 7750<br /></dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 2 December 2013.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/mmntlhlth.htm"><span class="off-screen">Mental Health (Master)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/mmntlhlth.htm"><span class="off-screen">Mental Health (Master)</span>Distance education</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Midwifery</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 - 3 years part-time </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Distance education</dd><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to prepare midwives to undertake an advanced practice role and provides them with sound research training.<br />
+287,298c194,198
+< This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br /></dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>Graduates seeking registration must apply with the Nursing and Midwifery Board of Australia (NMBA) and meet the Boards registration standards. Visit the NMBA website for more information. Please note: the NMBA has set an English Language Skills<br />
+< Registration Standard. After registration, graduates may be eligible for registration in other countries as well as membership of the Royal College of Nursing Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hznm.htm"><span class="off-screen">Nursing/Midwifery</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Nursing (Division 2 Conversion)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time. </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar"> n/a</span></dd><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar"> n/a</span></dd><dd>Mildura <span class="atar"> n/a</span></dd><dd>Shepparton <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you have a current Enrolled Nurse Registration (Division 2), this degree<br />
+< can lead you to a career as a Registered Nurse (Division 1) with the Nursing and Midwifery Board of Australia (NMBA). Based on contemporary nursing research, the curriculum focuses on intellectual development, critical thinking, and professional practice skills and knowledge. It emphasises the importance of research-based and evidence-based practice.<br />
+< <br />
+< The course features clinical sessions in simulated settings, hospitals and healthcare agencies within regional and metropolitan areas. Interstate placements may also be required. Placements may be undertaken either as single days or a block of multiple weeks, and outside official University semester dates. The program aims to enhance your ability in making ethical decisions to ensure quality health outcomes for patients.<br />
+< <br />
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hsbnc">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>Applicants must be registered as an Enrolled Nurse (Division 2) on the NMBA public register to be considered for selection. Successful applicants with a pre-2008 Enrolled Nurse/Division 2 qualification must complete a University-approved <a href="http://www.latrobe.edu.au/health/areas-of-study/human-biosciences/anatomy-and-physiology/short-courses">human anatomy and physiology bridging program.</a> Melbourne applicants must undertake a <a href="http://www.latrobe.edu.au/health/study/pathways/application-requirements/division-2-enrolled-nurse-conversion">selection examination.</a> set by the University. Applicants applying to regional campuses may be required to attend an interview. They will be advised of this by phone or email.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.<br />
+< <br />
+< Some applicants may be requried to attend an interview.</dd><dt>Costs</dt><dd>Students should allow approximately A$300 for a uniform and equipment. Students can purchase these items from any supplier; they remain students' personal property. Students must also complete a First Aid Level II course,  A$160, which is not conducted by La Trobe University. A National Police Check at a cost of approximately A$15.50 and a Working with Children Check (no cost) are required for professional experience placements in clinical and community settings. To enable clinical placements, students enrolled in the program will be registered as students, at no cost, with the Nursing and Midwifery Board of Australia (NMBA). Prior to commencing clinical or community placements, students must provide proof of immunisations, the costs of which may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional placements may vary depending on the venue. Please note: costs are approximate and subject to change.</dd><dt>Additional information</dt><dd>Applicants must submit a certified copy of their Enrolled Nurse Registration to VTAC by 28 September. A repeat test will be held in mid-December for late applicants. Successful applicants with pre-2008 Enrolled Nurse/Division 2 qualification require successful completion of a La Trobe University approved <a href="http://www.latrobe.edu.au/health/areas-of-study/human-biosciences/anatomy-and-physiology/short-courses">human anatomy and physiology bridging program</a>, and all successful applicants must complete a Course-Specific <a href="http://www.latrobe.edu.au/health/study/pathways/application-requirements/vtac-application-page">Cornerstone Transition</a> program. Both are conducted at La Trobe prior to course commencement.<br />
+< <br />
+< This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br /></dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>Graduates seeking registration must apply to the NMBA and meet the Board's registration standards. Visit the NMBA website for more information. Please note: the NMBA has set an English Language Skills Standard. After registration, graduates may be eligible for membership with the Royal College of Nursing Australia and registration in other countries.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/hsbncw.htm"><span class="off-screen">Nursing (Division 2 Conversion)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/hsbncw.htm"><span class="off-screen">Nursing (Division 2 Conversion)</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Nursing (Graduate Entry)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar"> n/a</span></dd><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Do you already have a relevant Bachelor's degree? This course gives you the chance to follow a new career in nursing, and it leads to registration as a Registered Nurse with the Nursing and Midwifery Board of Australia (NMBA).<br />
+< Based on contemporary nursing research, the curriculum focuses on intellectual development, critical thinking and professional practice skills and knowledge. It also emphasises the importance of research-based and evidence-based practice, and features clinical experiences in simulated settings, hospitals and healthcare agencies.<br />
+---
+> Please note the course will only be conducted if sufficient enrolments are achieved.</dd><dt>Prerequisite</dt><dd>Postgraduate Diploma of Midwifery Science or equivalent, with minimum B grade average, and current registration as a midwife with the Australian Health Practitioners Regulation Agency (AHPRA). Applicants must also have at least one year's recent clinical practice in midwifery and be employed in an approved area of midwifery practice.</dd><dt>Fee amount</dt><dd>Indicative (2013): $16,640 per 120 credit points.<br />
+> <br />
+> </dd><dt>Costs</dt><dd>Federal Police check - A$15 to A$43, Immunisations - approximately A$500, Working with Children Check - A$77. Accommodation for any clinical placements may vary according to the venue and location.<br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>.<br />
+> You must also complete our <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0014/543101/midwifery-master-supp-form-2014.doc">Supplementary Form</a> outlining previous studies and experience.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmm.htm"><span class="off-screen">Midwifery (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Nursing</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1.5 years full-time or part-time equivalent, except for child, family and community (2 years full-time or part-time equivalent)</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Distance education</dd><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is ideal for suitably qualified nurses who want to pursue a career in one of the specialisations offered, while undertaking advanced clinical training. You can choose from the following specialisations: acute care, breast care, cancer and palliative care, cardiac care, child, family and community, critical care, emergency care, intensive care, neonatal care, perianaesthetic care, perioperative care, renal care, urology and continence.<br />
+300c200
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hbnprg">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>Relevant Australian Bachelors degree or equivalent, and previous study in human anatomy and physiology. See 'Year 12 and non-Year 12 extra requirements' below.<br />
+---
+> Please note: you have the option to exit early from the degree with either a Graduate Certificate or a Postgraduate Diploma in all specialisations, except child, family and community which has an exit option at Postgraduate Diploma only.<br />
+302c202
+< Successful applicants must complete a University-approved <a href="http://www.latrobe.edu.au/health/areas-of-study/human-biosciences/anatomy-and-physiology/short-courses">human anatomy and physiology bridging program.</a></dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants must supply academic transcripts to VTAC. Those without a background in human bioscience must undertake a bridging course in anatomy and physiology. All successful applicants are also required to undertake a compulsory cornerstone transition program.<br />
+---
+> Students who exit the child, family and community specialty at Graduate Diploma level are qualified to practice in the maternal and child health service.<br />
+304c204
+< Applicants with a low grade point average may consider sitting the STAT Multiple Choice.<br />
+---
+> The Graduate Certificate requires completion of two Foundations for Specialty Practice subjects.<br />
+306c206
+< Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process - professional experience, for example, or reasons for applying.</dd><dt>Costs</dt><dd>Students should allow approximately A$300 for a uniform and equipment. Students can purchase these items from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students personal property. Students must also complete a First Aid Level II course, A$160, which is not conducted by La Trobe University. A National Police Check at a cost of approximately A$15.50 and a Working with Children Check (no cost) are required for professional experience placements in clinical and community settings. To enable clinical placements, students enrolled in the program will be registered as students, at no cost, with the Nursing and Midwifery Board of Australia (NMBA). Prior to commencing clinical or community placements, students must provide proof of immunisations, the costs of which may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional placements may vary depending on the venue. Please note: costs are approximate and subject to change.</dd><dt>Additional information</dt><dd>All applicants must be aware of the physical components and location requirements of the course. Applicants with a disability, medical condition or other concerns that may affect their potential participation should contact the School on (03) 9479 5950 to discuss any possible course modifications.<br />
+---
+> The Graduate Diploma requires the completion of certificate subjects plus an additional 60 credit points, which include two core subjects (Clinical Practice Development and Research Foundations),and two advanced practice subjects with elective modules that focus on your chosen career pathway.<br />
+308c208
+< This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br /></dd><dt>How to apply</dt><dd>Apply via VTAC for Semester 1, 2014.</dd><dt>Professional recognition</dt><dd>Graduates seeking registration must apply to the NMBA and meet the Board's registration standards. Visit the NMBA website for more information. Please note: the NMBA has set an English Language Skills Standard. After registration, graduates may be eligible for membership with the Royal College of Nursing Australia and registration in other countries.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/hbnprg.htm"><span class="off-screen">Nursing (Graduate Entry)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Nursing (Post-registration)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time. </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar"> n/a</span></dd><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This is a course for registered nurses who want to further their career or prepare for postgraduate study. It aims to help you develop strong academic and practical skills required to comprehend, analyse and evaluate new knowledge in nursing. The curriculum focuses on intellectual development, critical thinking, and professional practice skills and knowledge.<br />
+---
+> The Master's component requires successful completion of the Certificate and Graduate Diploma subjects, and the final 60 credit points as either a clinical project and an independent study unit or minor thesis.<br />
+310,311c210
+< This course also emphasises the importance of research-based and<br />
+< evidence-based practise, and includes clinical experiences in simulated settings, hospitals and healthcare agencies. Clinical experience is an integral part of this course. Practicums are provided each year, integrating your knowledge and skills through observation and practice, in hospitals and healthcare agencies within regional and metropolitan areas.<br />
+---
+> For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hmn">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>You must be a Division 1 Registered Nurse and hold a current practising certificate with the Australian Health Practitioner Regulation Agency (AHPRA) or equivalent international body. You must also have at least one year of recent relevant nursing experience, a degree or diploma from a college or university, or nursing certificate from a hospital-based program. You must either already be employed in the relevant clinical area or an agency approved by the Course Coordinator, or have applied to the agency to undertake their clinical placement at the time of applying for the course. In the latter case, an offer into the course will be conditional upon confirmation of the clinical placement.<br />
+313c212
+< Interstate placements may also be required. You can take placements either as single days or as a block of multiple weeks.</dd><dt>Prerequisite</dt><dd>Registration as a general nurse, based on a minimum three-year nursing qualification.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>All applicants must be licensed and registered to practise as registered general nurses, based on a minimum three-year nursing qualification. Applicants must include a copy of their current registration certificate with their application form.</dd><dt>Costs</dt><dd>Students should allow approximately A$300 for a uniform and equipment. Students can purchase these items from any supplier; they remain students' personal property. Students must also complete a First Aid Level II course, A$160, which is not conducted by La Trobe University. A National Police Check at a cost of approximately A$15.50 and a Working with Children Check (no cost) are required for professional experience placements in clinical and community settings. If we Prior to commencing clinical or community placements, students must provide proof of immunisations, the costs of which may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional placements may vary depending on the venue. Please note: costs are approximate and subject to change.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 1 December 2013. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>The course is recognised internationally as a Bachelor's degree qualification in nursing. Please note: this course does not lead to registration with the Nursing and Midwifery Board of Australia (NMBA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/post-registration.htm"><span class="off-screen">Nursing (Post-registration) </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/post-registration.htm"><span class="off-screen">Nursing (Post-registration) </span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Nursing (Pre-registration)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">51.1</span></dd><dd>Bendigo <span class="atar">60.15</span></dd><dd>Melbourne <span class="atar">70.3</span></dd><dd>Mildura <span class="atar">52.55</span></dd><dd>Shepparton <span class="atar">50.45</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>La Trobe's Bachelor of Nursing (Pre-Registration) qualifies you for registration as a Registered Nurse (Division 1) with the Australian Health Practitioner Regulation Agency. The degree also leads to registration with the Nursing and Midwifery Board of Australia.<br />
+---
+> Applicants for the child, family and community clinical specialisation must also have APHRA registration to practise as a midwife (and at least one year's experience post-registration in midwifery). Although you are encouraged to organise your own clinical placement, clinical practicum in the Maternal and Child Health Service will be arranged by the University, through negotiation with the student and local government agencies.<br />
+315c214
+< You'll gain extensive clinical experience in on-campus clinical learning units, hospitals and healthcare agencies; and as a senior student you can base yourself at one of our innovative clinical schools.<br />
+---
+> Some subjects are delivered online. Internet access is an essential requirement of this course.<br /></dd><dt>Fee amount</dt><dd>Indicative (2013): $16,640 per 120 credit points</dd><dt>Additional information</dt><dd>You may be eligible for institutional credit - please contact the Faculty for more information.<br />
+317c216
+< Based on contemporary research and evidence-based practice, this nursing degree focuses on intellectual development, critical thinking and professional practice.<br />
+---
+> Depending on your choice of specialisation, you'll study via our flexible online delivery mode and/or in-person at one of our affiliated hospitals. For most subjects, the online learning modules are supported by a limited number of on-campus workshop days (or equivalent online virtual classrooms) with location dependent on specialisation. All online subjects require broadband internet access.<br /></dd><dt>How to apply</dt><dd>Please <a href="http://latrobe-apply.custhelp.com/">apply online</a> and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0007/539071/pg-master-nursing-suppform2014.doc">Supplementary Form</a> outlining previous studies and experience.<br />
+319,322c218
+< We also offer short or one-semester exchange programs with our international partners. For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hbn/">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 30 in English (ESL) or<br />
+< 25 in English (any)<br />
+< NSW HSC: English Standard or English Advanced (Band 3) or<br />
+< English as a Second Language (Band 4).</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.<br />
+---
+> Applicants for the Child, Family and Community specialisation must also complete the following <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0006/539070/child-family-community-suppform2014.doc">Supplementary Form</a>.<br />
+324,328c220
+< Some applicants may be required to attend an interview. Selection may also be based on GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>La Trobe considers Special Entry Access Scheme (SEAS) criteria. In addition, a <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Costs</dt><dd>You should allow approximately A$300 for a uniform and equipment. You can purchase these items from any supplier, however La Trobe University-branded uniforms must be purchased from a University approved vendor; these items remain your personal property. <br />
+< <br />
+< You must also complete a First Aid Level II course, A$160, which is not conducted by La Trobe University. A National Police Check at a cost of approximately A$15.50 and a Working with Children Check (no cost) are required for professional experience placements in clinical and community settings. <br />
+< <br />
+< To enable clinical placements, students enrolled in the program will be registered as students, at no cost, with the Nursing and Midwifery Board of Australia (NMBA). Prior to commencing clinical or community placements, students must provide proof of immunisations, the costs of which may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional placements may vary depending on the venue. Please note: costs are approximate and subject to change.</dd><dt>Additional information</dt><dd>This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br /></dd><dt>How to apply</dt><dd>VTAC/UAC<br /></dd><dt>Professional recognition</dt><dd>Graduates are eligible to apply for registration with the Nursing and Midwifery Board of Australia (NMBA) as a Registered Nurse and are usually able to register with nurse registration authorities in several overseas countries.<br />
+---
+> Late applications close Monday 2 December 2013.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmn.htm"><span class="off-screen">Nursing (Master)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmn.htm"><span class="off-screen">Nursing (Master)</span>Distance education</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Nursing (Nurse Practitioner) </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1.5 years full-time or 2-3 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Distance education</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give students the in-depth knowledge and skills required to practise at an advanced nursing level and to provide professional leadership in contemporary clinical and professional nursing specialties. It is designed to build on the knowledge base and clinical skills of specialist nurses.<br />
+330,331c222,224
+< Please note the NMBA Standard of English language required to register as a nurse in Australia, introduced July 1, 2010. Students should check the NMBA website for the latest registration requirements:<br />
+< <a href="http://www.nursingmidwiferyboard.gov.au/Registration-Standards.aspx">the website</a></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/pre-registration.htm"><span class="off-screen">Nursing (Pre-registration) </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/pre-registration.htm"><span class="off-screen">Nursing (Pre-registration) </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/pre-registration.htm"><span class="off-screen">Nursing (Pre-registration) </span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/pre-registration.htm"><span class="off-screen">Nursing (Pre-registration) </span>Shepparton</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/pre-registration.htm"><span class="off-screen">Nursing (Pre-registration) </span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> The role of nurse practitioner places particular emphasis on the development of advanced clinical assessment skills relevant to the nurse's specialty, and development of a collaborative multidisciplinary approach to patient care. The program focuses on this using the ANMC NP competencies.<br />
+> <br /></dd><dt>Prerequisite</dt><dd><br />
+> Postgraduate Diploma level qualification in a nursing specialty area of practice, or equivalent, and registration as a Division 1 nurse with the Australian Health Practitioners Regulation Agency (AHPRA). Applicants must also be employed by an appropriate agency, and have at least five years' post-registration experience in their specialty. And they must provide evidence their employer will provide them with 420 hours of supervised clinical placement and governance.</dd><dt>Fee amount</dt><dd>Indicative (2012): $16,850 (per 120 credit points) </dd><dt>Costs</dt><dd>Contact Course Coordinator for information.</dd><dt>Additional information</dt><dd>You can complete this course in a variety of flexible learning modes, including face to face teaching, clinical practice and online learning. Some online subjects require broadband Internet access. You will need to attend the clinical internship presentation panel in person or have access to video conferencing facilities.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 January 2014. Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0009/539190/nurse-practitioner-suppform2014.doc">Supplementary Form</a>.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmnnp.htm"><span class="off-screen">Nursing (Nurse Practitioner - Master)</span>Melbourne</a></dd></dl></div></div></div>
+334,335c227,228
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+337c230
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+341c234
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+343c236
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+348,349c241
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Nursing (Division 2 Conversion) (070854G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>3 February 2014</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 880</dd><dt id="campus">Campus</dt><dd>Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you have a current Enrolled Nurse Registration (Division 2), this degree<br />
+< can lead you to a career as a Registered Nurse (Division 1) with the Nursing and Midwifery Board of Australia (NMBA). Based on contemporary nursing research, the curriculum focuses on intellectual development, critical thinking, and professional practice skills and knowledge. It emphasises the importance of research-based and evidence-based practice.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Initial Registration for Overseas Nurses (IRON Program) (068287G )</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>13 weeks</dd><dt>Semester starts :</dt><dd>January, May</dd><dt>Annual Tuition Fee (A$) :</dt><dd>11 500</dd><dt id="campus">Campus</dt><dd>Bendigo</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Suitably qualified, internationally-registered nurses with approval from the Australian Health Practitioners Regulation Agency (AHPRA), are eligible to undertake this 13 week, non-award program. Successful completion of the program will lead to registration as a Registered Nurse in Australia and allow you to work as a nurse in Australia.<br />
+351c243,245
+< The course features clinical sessions in simulated settings, hospitals and healthcare agencies within regional and metropolitan areas. Interstate placements may also be required. Placements may be undertaken either as single days or a block of multiple weeks, and outside official University semester dates. The program aims to enhance your ability in making ethical decisions to ensure quality health outcomes for patients.<br />
+---
+> It consists of twelve modules and addresses contemporary thinking and research about current best practice and evidence based health care and nursing practice. It also focuses on health care in the Australian context, interpersonal communication and teamwork with patients, other nurses<br />
+> and interdisciplinary health care staff. It provides you with nursing knowledge<br />
+> and skills required for the provision of person-centred care and health outcomes, information on roles and responsibilities expected of a Division 1 Registered Nurse in Victoria inclusive of areas around patient care, interdisciplinary practice and risk management.<br />
+353c247
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hsbnc">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>IELTS of 7.0 with no band less than 6.5;<br />
+---
+> La Trobe University has agreements with a number of regional clinical venues for high-acuity clinical placements. The primary venues for clinical placements are Bendigo Health and St John of God Hospital, both located in Bendigo. Some clinical placements may be located outside Bendigo. The clinical component of the course consists of five, eight-hour shifts per week for the duration of the clinical period, to a maximum of 400 hours.</dd><dt>English Language Requirements</dt><dd>Applicants must provide evidence of an IELTS score of 7.0 overall with at least 7.0 in all components of the test, or pass an OET with A or B only in each of the four components.<br />
+355,416c249,251
+< TOEFL (Paper Based): A minimum score of 600 with a score of TWE 6 or better in the Test of Written English;<br />
+< <br />
+< TOEFL (Internet Based): A minimum score of 96 with no individual score less than 24;<br /></dd><dt>Academic entry requirements</dt><dd>Applicants must be eligible for registration as an Enrolled Nurse (Division 2) with the Nursing and Midwifery Board of Australia, based on an Australian qualification such as a TAFE Certificate IV in Nursing with a minimum 70 per cent Grade average.<br />
+< Australian Year 12 (ATAR) 2013 (indicative only) - RC<br />
+< International Baccalaureate: 24</dd><dt>Additional costs</dt><dd>Students should allow approximately A$300 for a uniform and equipment. Students can purchase these items from any supplier; they remain students' personal property. Students must also complete a First Aid Level II course, A$160, which is not conducted by La Trobe University. A National Police Check at a cost of approximately A$15.50 and a Working with Children Check (no cost) are required for professional experience placements in clinical and community settings. To enable clinical placements, students enrolled in the program will be registered as students, at no cost, with the Nursing and Midwifery Board of Australia (NMBA). Prior to commencing clinical or community placements, students must provide proof of immunisations, the costs of which may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional placements may vary depending on the venue. Please note: costs are approximate and subject to change.</dd><dt>Professional recognition</dt><dd>Graduates are eligible to apply for registration with the Nursing and Midwifery Board of Australia (NMBA) as a Registered Nurse and are usually able to register with nurse registration authorities in several overseas countries.<br />
+< Please note the NMBA Standard of English language which is required to register as a nurse in Australia. The standard requires a minimum IELTS score of 7.0 overall with no individual band less than 7.0, or an equivalent OET score. Students should check the NMBA website for the latest registration requirements:<br />
+< <a href="www.nursingmidwiferyboard.gov.au/Registration-Standards.aspx">the website</a></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/hsbncw.htm"><span class="off-screen">Nursing (Division 2 Conversion)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/hsbncw.htm"><span class="off-screen">Nursing (Division 2 Conversion)</span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Nursing (Graduate Entry) (070855F)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>3 February 2014</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 880</dd><dt id="campus">Campus</dt><dd>Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Do you already have a relevant Bachelor's degree? This course gives you the chance to follow a new career in nursing, and it leads to registration as a Registered Nurse with the Nursing and Midwifery Board of Australia (NMBA).<br />
+< Based on contemporary nursing research, the curriculum focuses on intellectual development, critical thinking and professional practice skills and knowledge. It also emphasises the importance of research-based and evidence-based practice, and features clinical experiences in simulated settings, hospitals and healthcare agencies.<br />
+< <br />
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hbnprg">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>IELTS of 7.0 with no band less than 6.5<br />
+< <br />
+< TOEFL (Paper Based): A minimum score of 600 with a score of TWE 6 or better in the Test of Written English<br />
+< <br />
+< TOEFL (Internet Based): A minimum score of 96 with no individual score less than 24<br /></dd><dt>Academic entry requirements</dt><dd>A relevant undergraduate degree equivalent to an Australian Bachelor's degree.<br />
+< International Baccalaureate: 24</dd><dt>Additional costs</dt><dd>Students should allow approximately A$300 for a uniform and equipment. Students can purchase these items from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students personal property. Students must also complete a First Aid Level II course, A$160, which is not conducted by La Trobe University. A National Police Check at a cost of approximately A$15.50 and a Working with Children Check (no cost) are required for professional experience placements in clinical and community settings. To enable clinical placements, students enrolled in the program will be registered as students, at no cost, with the Nursing and Midwifery Board of Australia (NMBA). Prior to commencing clinical or community placements, students must provide proof of immunisations, the costs of which may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional placements may vary depending on the venue. Please note: costs are approximate and subject to change.</dd><dt>Professional recognition</dt><dd>Graduates are eligible to apply for registration with the Nursing and Midwifery Board of Australia (NMBA) as a Registered Nurse and are usually able to register with nurse registration authorities in several overseas countries.<br />
+< Please note the NMBA Standard of English language which is required to register as a nurse in Australia at. The standard requires a minimum IELTS score of 7.0 overall with no individual band less than 7.0, or an equivalent OET score. Students should check the NMBA website for the latest registration requirements:<br />
+< <a href="www.nursingmidwiferyboard.gov.au/Registration-Standards.aspx">the website</a></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/hbnprg.htm"><span class="off-screen">Nursing (Graduate Entry)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Nursing (Post-registration) (006295J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year </dd><dt>Semester starts :</dt><dd>3 February 2014</dd><dt>Annual Tuition Fee (A$) :</dt><dd>23 730</dd><dt id="campus">Campus</dt><dd>Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This is a course for registered nurses who want to further their career or prepare for postgraduate study. It aims to help you develop strong academic and practical skills required to comprehend, analyse and evaluate new knowledge in nursing. The curriculum focuses on intellectual development, critical thinking, and professional practice skills and knowledge.<br />
+< <br />
+< This course also emphasises the importance of research-based and<br />
+< evidence-based practise, and includes clinical experiences in simulated settings, hospitals and healthcare agencies. Clinical experience is an integral part of this course. Practicums are provided each year, integrating your knowledge and skills through observation and practice, in hospitals and healthcare agencies within regional and metropolitan areas.<br />
+< <br />
+< Interstate placements may also be required. You can take placements either as single days or as a block of multiple weeks.</dd><dt>English Language Requirements</dt><dd>IELTS of 7.0 with no band less than 6.5<br />
+< <br />
+< TOEFL (Paper Based): A minimum score of 600 with a score of TWE 6 or better in the Test of Written English<br />
+< <br />
+< TOEFL (Internet Based): A minimum score of 96 with no individual score less than 24<br /></dd><dt>Academic entry requirements</dt><dd>International students must be currently registered as a general nurse with a recognised nursing authority.<br />
+< International Baccalaureate: 24</dd><dt>Additional costs</dt><dd>Students should allow approximately A$300 for a uniform and equipment. Students can purchase these items from any supplier; they remain students' personal property. Students must also complete a First Aid Level II course, A$160, which is not conducted by La Trobe University. A National Police Check at a cost of approximately A$15.50 and a Working with Children Check (no cost) are required for professional experience placements in clinical and community settings. If we Prior to commencing clinical or community placements, students must provide proof of immunisations, the costs of which may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional placements may vary depending on the venue. Please note: costs are approximate and subject to change.</dd><dt>Professional recognition</dt><dd>The course is recognised internationally as a Bachelor's degree qualification in nursing, however it should be noted that this course does not lead to registration with the Nursing and Midwifery Board of Australia (NMBA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/post-registration.htm"><span class="off-screen">Nursing (Post-registration) </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/post-registration.htm"><span class="off-screen">Nursing (Post-registration) </span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Nursing (Pre-registration) (020935J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 880</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne, Mildura, Shepparton</dd></dl><div class="course-detail" id="course_i-3"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>La Trobe's Bachelor of Nursing (Pre-Registration) qualifies you for registration as a Registered Nurse (Division 1) with the Australian Health Practitioner Regulation Agency. The degree also leads to registration with the Nursing and Midwifery Board of Australia.<br />
+< <br />
+< You'll gain extensive clinical experience in on-campus clinical learning units, hospitals and healthcare agencies; and as a senior student you can base yourself at one of our innovative clinical schools.<br />
+< <br />
+< Based on contemporary research and evidence-based practice, this nursing degree focuses on intellectual development, critical thinking and professional practice.<br />
+< <br />
+< We also offer short or one-semester exchange programs with our international partners. For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hbn/">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>IELTS of 7.0 with no band less than 6.5<br />
+< <br />
+< TOEFL (Paper Based): A minimum score of 600 with a score of TWE 6 or better in the Test of Written English<br />
+< <br />
+< TOEFL (Internet Based): A minimum score of 96 with no individual score less than 24</dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 75<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 70.30<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 10<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - BBC<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 70<br />
+< Vietnam (Year 12) - 8.2<br />
+< Indonesia (SMA) - 8.2<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br /></dd><dt>Additional costs</dt><dd>You should allow approximately A$300 for a uniform and equipment. You can purchase these items from any supplier, however La Trobe University-branded uniforms must be purchased from a University approved vendor; these items remain your personal property.<br />
+< <br />
+< You must also complete a First Aid Level II course, A$160, which is not conducted by La Trobe University. A National Police Check at a cost of approximately A$15.50 and a Working with Children Check (no cost) are required for professional experience placements in clinical and community settings.<br />
+< <br />
+< To enable clinical placements, students enrolled in the program will be registered as students, at no cost, with the Nursing and Midwifery Board of Australia (NMBA). Prior to commencing clinical or community placements, students must provide proof of immunisations, the costs of which may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional placements may vary depending on the venue. Please note: costs are approximate and subject to change.</dd><dt>Professional recognition</dt><dd>Graduates are eligible to apply for registration with the Nursing and Midwifery Board of Australia (NMBA) as a Registered Nurse and are usually able to register with nurse registration authorities in several overseas countries.<br />
+< <br />
+< Please note students enrolled in the program will be registered as students, at no cost, with the Nursing and Midwifery Board of Australia (NMBA).<br />
+< <br />
+< Please note the NMBA Standard of English language required to register as a nurse in Australia, which was introduced July 1, 2010. The standard requires a minimum IELTS score of 7.0 overall with no individual band less than 7.0, or an equivalent OET score. Students should check the NMBA website for the latest registration requirements:<br />
+< <a href="http://www.nursingmidwiferyboard.gov.au/Registration-Standards.aspx">the website</a></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/pre-registration.htm"><span class="off-screen">Nursing (Pre-registration) </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/pre-registration.htm"><span class="off-screen">Nursing (Pre-registration) </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/pre-registration.htm"><span class="off-screen">Nursing (Pre-registration) </span>Mildura</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/pre-registration.htm"><span class="off-screen">Nursing (Pre-registration) </span>Shepparton</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/pre-registration.htm"><span class="off-screen">Nursing (Pre-registration) </span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> Please check the NMBA website for <a href="http://www.nursingmidwiferyboard.gov.au/Registration-Standards.aspx">the latest requirements</a></dd><dt>Academic entry requirements</dt><dd>You must provide evidence that you have current registration as a registered nurse in a country other than Australia, a letter (valid<br />
+> for the duration of the program) from the Australian Health Professionals Regulation Agency (AHPRA) stating that you will be<br />
+> eligible for registration as a registered nurse in Australia upon satisfactory completion of an ANMC-accredited Bridging Program, and meet the registration standard for English Language proficiency (an IELTS of 7 overall with no band lower than 7 or Pass the OET with a minimum B grade in all bands achieved at the one sitting).</dd><dt>Additional information</dt><dd>Some clinical placements may be located outside Bendigo.</dd><dt>Professional recognition</dt><dd>Successful completion of this course leads to registration as a registered nurse with AHPRA/NMBA.</dd></dl></div></div></div>
+419c254
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+422c257
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+436,449d270
+< <h3>Alternative pathways</h3>
+< 
+< <p>We offer a three-year undergraduate nursing degree for VCE students, a two-year graduate-entry program, a two-year Division 2 conversion course for students with TAFE qualifications and a one-year post-registration Bachelor for students with overseas certification. The one-year Bachelor course does not lead to registration with the Nursing and Midwifery Board of Australia.<br /></p>
+< 
+< <h3>Clinical Schools</h3>
+< 
+< <p>A considerable proportion of a nurse's undergraduate education is spent in the clinical setting and the Division has established <a href="http://www.latrobe.edu.au/health/professional/clinical-schools">clinical schools</a> at four different hospitals around Victoria.</p>
+< 
+< <h3>Specific Application Requirements</h3>
+< 
+< <p>How to apply for the <a href="http://www.latrobe.edu.au/health/study/pathways/application-requirements/division-2-enrolled-nurse-conversion">Bachelor of Nursing Division 2 Enrolled Nurse Conversion course</a>.</p>
+< 
+< <p>How to apply for the <a href="http://www.latrobe.edu.au/health/study/pathways/application-requirements/bachelor-of-nursing">Bachelor of Nursing course</a>.<br /></p>
+< 
+452,454c273
+< <p>Our courses include a number of placements in our clinical schools at major Victorian health care facilities.<br /></p>
+< 
+< <h3>Australian College of Nursing Scholarships</h3>
+---
+> <p>Most postgraduate courses require current employment in the specialised area in which you would like to study.<br /></p>
+456c275
+< <p>The Australian College of Nursing Australia has a Nursing and Allied Health Scholarship and Support Scheme available which is funded by the Australian Government. For details, eligibility and applications visit the <a href="http://acn.edu.au/australian-government-scholarships">ACN web site</a>.<br /></p>
+---
+> <h3>Course Coordinators</h3>
+458,466c277,279
+< <h3>Nursing International Programs</h3>
+< 
+< <p>The Bachelor of Nursing (Post-registration) is also conducted in Singapore in conjunction with the Singapore Nurses Association and in Hong Kong in collaboration with the School of Continuing and Professional Studies, The Chinese University of Hong Kong. The Singapore based program is accredited by the Singapore Nursing Board. The Hong Kong program is registered under the non-local courses registry of the Education Bureau of Hong Kong.</p>
+< 
+< <p>For further information about the Hong Kong Bachelor of Nursing program please visit the <a href="http://www.scs.cuhk.edu.hk/cuscs/search/course_details.php?lang=en&amp;term=113&amp;course_cd=261000&amp;class_cd=01"></a><a href="http://www.scs.cuhk.edu.hk/nursing">Chinese University of Hong Kong web site</a>.<br /></p>
+< 
+< <p>For further information about the Singapore Bachelor of Nursing program please visit the <a href="http://www.sna.org.sg/site/">Singapore Nursing Association web site</a>.&nbsp;<br /></p>
+< 
+< </div>
+---
+> <ul>
+>   <li><a href="http://www.latrobe.edu.au/__data/assets/pdf_file/0017/142316/nursing-pg-coursecoordinator2013sem2.pdf">2013 Postgraduate Course Coordinator Contact List [PDF 280KB]</a><br /></li>
+> </ul>
+468,469c281
+< <div id="content_div_106587">
+< <h3>Overseas study opportunities</h3>
+---
+> <h3>Australian College of Nursing Scholarships</h3>
+471c283
+< <p>You may be eligible for our <a href="http://www.latrobe.edu.au/international/edabroad/exchange">student exchange program</a>.</p>
+---
+> <p>The Australian College of Nursing Australia has a Nursing and Allied Health Scholarship and Support Scheme available which is funded by the Australian Government. For details, eligibility and applications visit the <a href="http://acn.edu.au/australian-government-scholarships">ACN web site</a>.</p>
+476c288
+< <p><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=91654"> <img src="http://www.latrobe.edu.au/student-profiles/images/laura-huguenin.jpg/thumbnail.jpg" width="53" height="80" alt="" title="haguenin_laura" /></a></p>
+---
+> <p><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=192472"> <img src="http://www.latrobe.edu.au/student-profiles/images/webster_chelsea.jpg/thumbnail.jpg" width="53" height="80" alt="Chelsea Webster" title="webster_chelsea" /></a></p>
+478c290
+< <p class="testimonial">I have participated in 5 clinical rotations so far, and believe these are the highlight of the course in its entirety. They enabled me to consolidate the knowledge and skills I had learnt and provided a realistic practical application of them.</p>
+---
+> <p class="testimonial">I like the flexibility of undertaking the course off campus.</p>
+480c292
+< <p><cite><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=91654">Ms Laura <strong>Huguenin</strong>, </a>  </cite></p>
+---
+> <p><cite><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=192472">Ms Chelsea <strong>Webster</strong>, </a> Health Sciences </cite></p>

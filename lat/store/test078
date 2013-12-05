@@ -1,0 +1,313 @@
+26c26
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+31,32c31,32
+< <meta name="description" content="Learn about the business side of medicine and combine health, health information management and health informatics-technology." />
+< <meta name="keywords" content="Health information management, health information services,  health administration, clinical risk management, disease registries, health computing, health information technology, drug trial data management, health screening, undergraduate, bachelor" />
+---
+> <meta name="description" content="Our postgraduate coursework program produces highly capable graduates with excellent practical skills. Combine theory with extensive practical experience across the health sector." />
+> <meta name="keywords" content="Health information management, health information services,  health administration, clinical risk management, disease registries, health computing, health information technology, health research, graduate certificate, postgraduate, Master" />
+42c42
+< <!-- 125966 -->
+---
+> <!-- 125986 -->
+67c67
+< <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/health-information-management"/>		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/health-information-management/postgraduate"/>		
+74c74
+<   Page generated: 11 November 2013 13:02:04
+---
+>   Page generated: 11 November 2013 15:35:21
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/health-information-management">Health information management</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/health-information-management">Health information management</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/health-information-management/postgraduate">Postgraduate</a></div>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/health-information-management">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/health-information-management/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/health-information-management">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/health-information-management/postgraduate">Postgraduate</a></li>
+154a155
+> 
+157,197c158
+<   <h2>Why study Health information management?</h2>
+< 
+<   <p>Work in the business side of medicine and be part of an important team running hospitals around Australasia.</p>
+< 
+<   <p>Learn about:</p>
+< 
+<   <ul>
+<     <li>medical/clinical classification</li>
+< 
+<     <li>health information management</li>
+< 
+<     <li>health informatics and e-health</li>
+< 
+<     <li>and learn to analyse and manage health data</li>
+<   </ul>
+< 
+<   <p><em>You have the option of an early-exit at the end of Year 3, with the Bachelor of Health Sciences (Medical Classification); you can work as a Medical/Clinical Coder in mid-size hospitals and health centres throughout Australasia.</em></p>
+< </div>
+< 
+< </div>
+< <div class="webmedia">
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:03:32',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/89yaHIM_V1.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/89yaHIM_V1.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1669.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'v1669', 'name':'1669'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1669', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< <h2 class="video-title">Health Information Management at La Trobe</h2>
+< 
+< 
+< <div id="v1669">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1669.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/qU2FHIM_V1_1.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+---
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0004/132376/him-study1.jpg" width="250" height="166" alt="" title="health-info-mgmnt-disc.jpg" />Why study Health information management?</h2>
+198a160
+>   <p>Our postgraduate coursework program produces highly capable graduates with excellent practical skills. Combine theory with extensive practical experience across the health sector. Develop your expertise in health classification and activity-based performance management, management of health information systems, health informatics, analysis of health data and research using health information.</p>
+201,213d162
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/qU2FHIM_V1_1.mp4"><span
+< class="off-screen">Health Information Management at La Trobe</span> MP4 [20.01 MB]</a></li>
+< 
+< <li><a href='https://webstat.latrobe.edu.au/webmedia/media/Nb2dHIM_V1.mp3'><span class='off-screen'>Health Information Management at La Trobe</span> MP3 [2.47 MB]</a></li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/UrLEtranscript-him-2014.docx"><span class="off-screen transcript-link">Health Information Management at La Trobe</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1669"><span class="off-screen">Health Information Management at La Trobe</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?1669">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+< </div>
+219,221c168
+< <p>There is a national shortage for health information management and medical/clinical coder graduates, which means are graduates are in high demand. Salaries range from <strong>$50,000 at entry level to over $180,000 at senior level</strong>.<br /></p>
+< 
+< <p>Our graduates work in a wide range of health care settings including hospitals, health services, health-related research centres and government health departments. You may move straight into management as the course includes management training. We also combine health and IT so people with IT talent may join a helping profession.</p>
+---
+> <p>There is a shortage of qualified health information managers and salaries range from $50,000 at entry level to over $180,000 at senior level. Graduates are prepared for work across the health sector including hospitals, health services, health-related research centres and government health departments. The course includes management training so you may move straight into management. We also combine health and IT so people with IT talent may join a helping profession.</p>
+228,232c175
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Health Sciences (Medical Classification) and Bachelor of Health Information Management</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time or part-time equivalent. </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">63.35</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Health information managers deal with the business side of medicine, mixing health, health information management (HIM) and health informatics/technology disciplines. This is a dynamic, specialist course that produces graduates with expertise to work in this ever-expanding field. There is a major shortage of qualified professional health information managers, so graduates are in high demand. You'll work in a wide range of healthcare settings including hospitals, health centres, government health departments, health screening agencies, health system development firms, e-health developments, clinical trials, and health research centres.<br />
+< <br />
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZHCHM/">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 25 in English (any), or<br />
+< 30 in English (ESL) and at least 20 in one of Biology, Chemistry,<br />
+< Physics, Mathematics (any) or Physical Education.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> detailing prior educational experience and reasons for interest in the course.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Health Information Management</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows graduates of other disciplines to gain the skills and knowledge to join this rapidly expanding field. In this program, you'll combine theory with extensive practical experience across the health sector.<br />
+234c177
+< Selection may also be based on ATAR, GPA or STAT Multiple Choice.<br />
+---
+> You'll develop your expertise in health classification and activity-based performance management, management of health information systems, health informatics, analysis of health data, and research using health information.<br />
+236c179,180
+< NOTE: basic knowledge of secondary mathematics (to Year 11) is assumed.</dd><dt>Costs</dt><dd>Students should allow approximately A$395 for specialised health classification/clinical coding books, which must be purchased every two years, and A$30-60 for a memory stick (purchased from any supplier). All students are required to obtain a Police Check A$15.50 and Working with Children Check (no cost) before undertaking a clinical Professional Practice placement. Accommodation costs for clinical placement vary depending on venue; there is a very limited number of placement scholarships. Students can purchase required items from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students' personal property.</dd><dt>Additional information</dt><dd>Applicants are invited to view the course DVD. Information sessions are presented at the University's Open Day (August).,<br />
+---
+> This course also includes management training so you can move straight into<br />
+> management positions.<br />
+238c182,183
+< For important information about clinical placements, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br /></dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for full-graduate membership of the Health Information Management Association of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/bhlthscmcbhim.htm.htm"><span class="off-screen">Health Sciences/Health Information Management</span>Melbourne</a></dd></dl></div></div></div>
+---
+> Please visit our <a href="http://www.latrobe.edu.au/study/help">Help and Frequently Asked Questions</a> for more information.</dd><dt>Prerequisite</dt><dd>Undergraduate degree (or subsequent postgraduate<br />
+> study and / or relevant work experience)</dd><dt>Fee amount</dt><dd>Indicative (2013): $20,240 per 120 credit points.</dd><dt>Costs</dt><dd>You should allow approximately A$350 for specialised health classification books. All books and equipment can be purchased from any supplier; they remain your own property. All students are required to obtain a National Police Check (A$15.50) and Working with Children Check (no cost) before undertaking a clinical professional practice placement. Accommodation costs for clinical placement vary depending on venue; there are a very limited number of placement scholarships.</dd><dt>Additional information</dt><dd>Please note: successful applicants who have not completed a degree in medicine, biomedical science, science (with studies in anatomy and physiology), dentistry, nursing, allied health or health sciences must do a Physiology &amp; Anatomy bridging course as a foundation for further studies. Incoming full-time students must complete a short (3-day) Bridging Course in Health Classification &amp; Clinical Coding, in Orientation Week.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>Graduates are eligible for full membership of the Health Information Management Association of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmhim.htm"><span class="off-screen">Health Information Management (Master)</span>Melbourne</a></dd></dl></div></div></div>
+241,242c186,187
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+244c189
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+248c193
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+250c195
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+255,259c200
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Health Sciences (Medical Classification) and Bachelor of Health Information Management (079548M)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 010</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Health information managers deal with the business side of medicine, mixing health, health information management (HIM) and health informatics/technology disciplines. This is a dynamic, specialist course that produces graduates with expertise to work in this ever-expanding field. There is a major shortage of qualified professional health information managers, so graduates are in high demand. You'll work in a wide range of healthcare settings including hospitals, health centres, government health departments, health screening agencies, health system development firms, e-health developments, clinical trials, and health research centres.<br />
+< <br />
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZHCHM/">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at postgraduate (EFS5 (70%) PG1) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Health Information Management (062804F)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>27 080</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows graduates of other disciplines to gain the skills and knowledge to join this rapidly expanding field. In this program, you'll combine theory with extensive practical experience across the health sector.<br />
+261c202
+< TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+---
+> You'll develop your expertise in health classification and activity-based performance management, management of health information systems, health informatics, analysis of health data, and research using health information.<br />
+263c204,205
+< TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+---
+> This course also includes management training so you can move straight into<br />
+> management positions.<br />
+265c207
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+---
+> Please visit our <a href="http://www.latrobe.edu.au/study/help">Help and Frequently Asked Questions</a> for more information.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+267,269c209
+< English as the language of instruction in tertiary studies may be accepted.<br />
+< Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+< for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> TOEFL Paper-based Test - A minimum score of 600 with a score of 6 or more in the Test of Written English;<br />
+271c211
+< Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 72 with no communicative skill score less than 68.<br />
+273c213
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+---
+> Cambridge Certificate of Advanced English (CAE): a grade of A or higher.<br />
+275c215
+< Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): A grade of B or higher.<br />
+277,292c217,219
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 63.35<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2x Level 4<br />
+< Sri Lankan A Levels - CCB<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>Applicants require a Bachelor's degree with a minimum grade average of 70 per cent in medicine, biomedical science, nursing, allied health, or health sciences, or a related degree with human anatomy and physiology content.<br />
+> Applicants with a relevant non-health degree e.g. computer-science, statistics, or business, are also eligible to apply, but will be required to undertake a short online Bridging Course in human anatomy and physiology which provides a foundation for further study and an understanding of the function and structure of the human body.<br /></dd><dt>Additional costs</dt><dd>You should allow approximately A$350 for specialised health classification books. All books and equipment can be purchased from any supplier; they remain your own property. All students are required to obtain a National Police Check (A$15.50) and Working with Children Check (no cost) before undertaking a clinical professional practice placement. Accommodation costs for clinical placement vary depending on venue; there are a very limited number of placement scholarships.</dd><dt>Additional information</dt><dd>All students are required to undertake block-mode bridging classes in the last two weeks of February, before the official commencement of Semester 1 (March).<br />
+> Students without a clinical background are required to undertake an off-campus, online bridging course which is offered with several available start dates in January and February 2014 (these applicants will be notified when they are offered a place on the course).<br />
+294c221,222
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>One of Biology, Chemistry, Physics or Year 12 Mathematics.</dd><dt>Additional costs</dt><dd>Students should allow approximately A$395 for specialised health classification/clinical coding books, which must be purchased every two years, and A$30-60 for a memory stick (purchased from any supplier). All students are required to obtain a Police Check A$15.50 and Working with Children Check (no cost) before undertaking a clinical Professional Practice placement. Accommodation costs for clinical placement vary depending on venue; there is a very limited number of placement scholarships. Students can purchase required items from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students' personal property.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for full-graduate membership of the national professional association, the Health Information Management Association of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/bhlthscmcbhim.htm.htm"><span class="off-screen">Health Sciences/Health Information Management</span>Melbourne</a></dd></dl></div></div></div>
+---
+> Applicants must also submit a<br />
+> <a href="http://www.latrobe.edu.au/international/apply/how-to/supplementary-admissions-forms">Supplementary Application Form</a></dd><dt>Professional recognition</dt><dd>Graduates are eligible for full graduate membership of the national professional association, the Health Information Management Association of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmhim.htm"><span class="off-screen">Health Information Management (Master)</span>Melbourne</a></dd></dl></div></div></div>
+297c225
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+300c228
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+310a239,243
+> <div id="related_study_options">
+> <br />
+> 
+> </div>
+> 
+318,319d250
+< <p>&nbsp;</p>
+< 
+327a259,319
+> <div class="webmedia">
+> <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+> 
+> <script type="text/javascript">
+> var params = {
+> 'videotitle':'00:03:22',
+> 'captionfile':'http://webmedia.latrobe.edu.au/media/',
+> 'mediafile':'http://webmedia.latrobe.edu.au/vod/eQJPTim-Price-HIM.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video571.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+> var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+> }
+> var attributes = {
+> 'id':'v571', 'name':'571'};
+> swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v571', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+> <h2 class="video-title">Studying Health Information Management</h2>
+> 
+> 
+> <div id="v571">
+>   <video poster="http://webmedia.latrobe.edu.au/production1/video571.jpg" controls="controls">
+>         <source src="http://webstat.latrobe.edu.au/webmedia/media/ZnNxTim-Price-HIM.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+>         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+>   </video>
+> 
+> </div>
+> 
+> <div class="jump-list">
+> <ul>
+> <li class="initial webmedia">Other formats</li>
+> <li><a href="http://webstat.latrobe.edu.au/webmedia/media/ZnNxTim-Price-HIM.mp4"><span
+> class="off-screen">Studying Health Information Management</span> MP4 [23.41 MB]</a></li>
+> 
+> <li><a href='https://webstat.latrobe.edu.au/webmedia/media/OnS8Tim-Price-HIM.mp3'><span class='off-screen'>Studying Health Information Management</span> MP3 [2.31 MB]</a></li>
+> <li><a href="http://webstat.latrobe.edu.au/webmedia/media/y795transcripts-him.docx"><span class="off-screen transcript-link">Studying Health Information Management</span> Transcript</a></li>
+> <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=571"><span class="off-screen">Studying Health Information Management</span> Permalink</a></li>
+> 
+> <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?571">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+> </ul>
+> </div>
+> </div>
+> <div class="webmedia">
+> <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+> 
+> <script type="text/javascript">
+> var params = {
+> 'videotitle':'00:01:42',
+> 'captionfile':'http://webmedia.latrobe.edu.au/media/myGeRenuka-Aarti_Profile.xml',
+> 'mediafile':'http://webmedia.latrobe.edu.au/vod/myGeRenuka-Aarti_Profile.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video687.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+> var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+> }
+> var attributes = {
+> 'id':'v687', 'name':'687'};
+> swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v687', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+> <h2 class="video-title">Aarti - Master of Health Information Management</h2>
+> 
+> 
+> <div id="v687">
+>   <video poster="http://webmedia.latrobe.edu.au/production1/video687.jpg" controls="controls">
+>         <source src="http://webstat.latrobe.edu.au/webmedia/media/O3CRRenuka-Aarti_Profile.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+>         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+>   </video>
+> 
+> </div>
+329,330c321,325
+< <div id="content_div_70640">
+< <h3>Student profiles</h3>
+---
+> <div class="jump-list">
+> <ul>
+> <li class="initial webmedia">Other formats</li>
+> <li><a href="http://webstat.latrobe.edu.au/webmedia/media/O3CRRenuka-Aarti_Profile.mp4"><span
+> class="off-screen">Aarti - Master of Health Information Management</span> MP4 [20.89 MB]</a></li>
+332c327,329
+< <p>Students from our Faculty <a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles">talk about their experience</a> at La Trobe.</p>
+---
+> <li><a href='https://webstat.latrobe.edu.au/webmedia/media/G65BRenuka-Aarti_Profile.mp3'><span class='off-screen'>Aarti - Master of Health Information Management</span> MP3 [1.18 MB]</a></li>
+> <li><a href="http://webstat.latrobe.edu.au/webmedia/media/6gjERenuka- Aarti.docx"><span class="off-screen transcript-link">Aarti - Master of Health Information Management</span> Transcript</a></li>
+> <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=687"><span class="off-screen">Aarti - Master of Health Information Management</span> Permalink</a></li>
+333a331,333
+> <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?687">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+> </ul>
+> </div>
+334a335,343
+> <P>Find out about the experiences of one of our students.</P>
+> <blockquote class="student-profile">
+> <p><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=185129"> <img src="http://www.latrobe.edu.au/student-profiles/images/galtieri_thomas.jpg/thumbnail.jpg" width="53" height="80" alt="Thomas Galtieri" title="galtieri_thomas" /></a></p>
+> 
+> <p class="testimonial">I enrolled in this course because of the ample opportunities for work since there is a shortage of qualified Health Information Managers across the country.</p>
+> 
+> <p><cite><a href="http://www.latrobe.edu.au/health/study/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=185129">Mr Thomas <strong>Galtieri</strong>, </a> Health Sciences </cite></p>
+> 
+> </blockquote>

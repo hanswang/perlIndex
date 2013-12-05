@@ -1,0 +1,226 @@
+20c20
+< <meta name="Campus" content="Melbourne" />
+---
+> <meta name="Campus" content="Melbourne,Bendigo" />
+26c26
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+31,32c31,32
+< <meta name="description" content="Our program leads to registration as a Division 1 Nurse and endorsement to practice as a midwife with the Nurses Board of Victoria." />
+< <meta name="keywords" content="Midwifery, midwife, registered nurse, health counselling, women's health, infant care, birth centres, undergraduate, bachelor" />
+---
+> <meta name="description" content="Our postgraduate coursework programs are for those with a nursing degree and experience who want to specialise in midwifery and for qualified midwives who want advanced training." />
+> <meta name="keywords" content="Midwifery, midwife, registered nurse, health counselling, women's health, infant care, neonatal intensive care nurse, maternal child health nurse, postgraduate, diploma, Master, graduate certificate" />
+42c42
+< <!-- 127090 -->
+---
+> <!-- 127110 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/midwifery"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/midwifery/postgraduate"/>		
+74c74
+<   Page generated: 10 November 2013 19:45:35
+---
+>   Page generated: 11 November 2013 13:48:23
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/midwifery">Midwifery</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/midwifery">Midwifery</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/midwifery/postgraduate">Postgraduate</a></div>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/midwifery">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/midwifery/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/midwifery">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/midwifery/postgraduate">Postgraduate</a></li>
+160c160
+<   <p>Midwives are highly specialised, they focus on supervision, care and advice to women during pregnancy, childbirth and the postnatal period. Our program leads to registration as a Division 1 Nurse and endorsement to practice as a midwife with the Nursing and Midwifery Board of Australia.</p>
+---
+>   <p>Our postgraduate coursework programs are for those with a nursing degree and experience who want to specialise in midwifery, and for qualified midwives who want advanced training to qualify as a maternal and child health nurse or neonatal intensive care nurse. Develop the knowledge and skills to be an expert clinical practitioner.</p>
+164,201d163
+< <div class="webmedia">
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:02:42',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/NhTVNursing_Midwifery_conversion.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/NhTVNursing_Midwifery_conversion.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video796.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'v796', 'name':'796'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v796', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< <h2 class="video-title">La Trobe’s Nursing & Midwifery Clinical School Model</h2>
+< 
+< 
+< <div id="v796">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video796.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/TMZNursing_Midwifery_conversion.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< 
+< </div>
+< 
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/TMZNursing_Midwifery_conversion.mp4"><span
+< class="off-screen">La Trobe’s Nursing & Midwifery Clinical School Model</span> MP4 [18.12 MB]</a></li>
+< 
+< <li><a href='https://webstat.latrobe.edu.au/webmedia/media/QM15Nursing_Midwifery_conversion.mp3'><span class='off-screen'>La Trobe’s Nursing & Midwifery Clinical School Model</span> MP3 [1.87 MB]</a></li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/HUy3nursing-clinical-schools-transcript.docx"><span class="off-screen transcript-link">La Trobe’s Nursing & Midwifery Clinical School Model</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=796"><span class="off-screen">La Trobe’s Nursing & Midwifery Clinical School Model</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video%20format%20request:%20http://webmedia.latrobe.edu.au/webmedia/perma.php?796">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+< </div>
+< </div>
+206c168
+< <p>Midwives have excellent employment prospects in Australia and overseas. Areas include health counselling and education for women, their families and community; preparation for parenthood and infant care. Midwives are also found in education and government.</p>
+---
+> <p>Graduates are prepared for careers in the health care industry, education and government.</p>
+213c175,193
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Nursing/Bachelor of Midwifery</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time.</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">81.05</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>La Trobe's nursing and midwifery course aims to prepare you for practice roles in a broad range of healthcare settings. It also leads to registration as a Registered Nurse (Division 1), and Nursing and Midwifery Board of Australia (NMBA) endorsement to practise as a midwife.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Diploma in Midwifery Science</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time</dd><dt>Semester starts :</dt><dd>See additional information</dd><dt>Campus:</dt><dd>Bendigo</dd><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to prepare graduates to practise as entry-level midwives across the wide spectrum of healthcare contexts and cultural groups. It aims to give you the skills necessary to provide direct midwifery care and evaluate the impact of that care, and the capacity to advocate for the women in your care. Please note the course will only be conducted in 2014 if sufficient enrolments are achieved.</dd><dt>Prerequisite</dt><dd>A three-year Bachelor's degree in nursing, or international equivalent, and current registration as a Division 1 nurse with the Australian Health Practitioners Regulation Agency (AHPRA) and at least one year's post-registration acute medical/surgical nursing experience.<br />
+> <br />
+> Applicants must also have a clinical place at an approved clinical midwifery agency in either the metropolitan or regional area before the start of the course.</dd><dt>Fee amount</dt><dd>Indicative (2013): $16,640 per 120 credit points.<br />
+> Commonwealth Supported Places also available.<br />
+> </dd><dt>Costs</dt><dd>There may be additional costs associated with National Police Checks, Working With Children Check, immunisations and with clinical placements.</dd><dt>Additional information</dt><dd>This course commences in early February (Week 8) of each year and runs until December. Clinical placement may extend after this time to ensure all requirements are met.<br />
+> <br />
+> Applicants must apply to the hospital for their clinical placement and apply separately for the course.<br />
+> <br />
+> It is advisable that you are up-to-date with all your immunisations. Current recommendations for practice in Midwifery include: hepatitis A, hepatitis B, influenza, measles, mumps, rubella, pertussis, tetanus, varicella and TB. You may have to provide details of your immunisation status for your placement hospital as part of your employment, and some hospitals will not permit your commencement without proof of these vaccinations. You will also need access to a broadband internet connection.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 October 2013. Please ensure you also provide all supplementary information required.<br />
+> <br />
+> Please complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0011/543971/grad-dip-mid-suppform2013.doc">Midwifery Supplementary Form</a> .</dd><dt>Professional recognition</dt><dd>Graduates are able to register to practise as midwives with the Australian Health Practitioners Regulation Agency (AHPRA).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hpms.htm"><span class="off-screen">Midwifery Science (Graduate Diploma)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hpms.htm"><span class="off-screen">Midwifery Science (Graduate Diploma)</span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Midwifery</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time or 2 - 3 years part-time </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Distance education</dd><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to prepare midwives to undertake an advanced practice role and provides them with sound research training.<br />
+> <br />
+> Please note the course will only be conducted if sufficient enrolments are achieved.</dd><dt>Prerequisite</dt><dd>Postgraduate Diploma of Midwifery Science or equivalent, with minimum B grade average, and current registration as a midwife with the Australian Health Practitioners Regulation Agency (AHPRA). Applicants must also have at least one year's recent clinical practice in midwifery and be employed in an approved area of midwifery practice.</dd><dt>Fee amount</dt><dd>Indicative (2013): $16,640 per 120 credit points.<br />
+> <br />
+> </dd><dt>Costs</dt><dd>Federal Police check - A$15 to A$43, Immunisations - approximately A$500, Working with Children Check - A$77. Accommodation for any clinical placements may vary according to the venue and location.<br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>.<br />
+> You must also complete our <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0014/543101/midwifery-master-supp-form-2014.doc">Supplementary Form</a> outlining previous studies and experience.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmm.htm"><span class="off-screen">Midwifery (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Nursing</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1.5 years full-time or part-time equivalent, except for child, family and community (2 years full-time or part-time equivalent)</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Distance education</dd><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is ideal for suitably qualified nurses who want to pursue a career in one of the specialisations offered, while undertaking advanced clinical training. You can choose from the following specialisations: acute care, breast care, cancer and palliative care, cardiac care, child, family and community, critical care, emergency care, intensive care, neonatal care, perianaesthetic care, perioperative care, renal care, urology and continence.<br />
+> <br />
+> Please note: you have the option to exit early from the degree with either a Graduate Certificate or a Postgraduate Diploma in all specialisations, except child, family and community which has an exit option at Postgraduate Diploma only.<br />
+215c195
+< The course provides a solid theoretical foundation in nursing and midwifery. You'll gain skills in public speaking, presentation and negotiation, and an in-depth understanding of the roles played by midwives and nurses in social change.<br />
+---
+> Students who exit the child, family and community specialty at Graduate Diploma level are qualified to practice in the maternal and child health service.<br />
+217c197
+< We've designed this course to prepare you for leadership roles in the healthcare system and to enable you to take a politically informed stance to support health for all.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: study score of at least 30 in English (ESL) or 25 in English (any).</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.<br />
+---
+> The Graduate Certificate requires completion of two Foundations for Specialty Practice subjects.<br />
+219c199
+< Selection may also be based on ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Re-ranking is based on Special Entry Access Scheme (SEAS) criteria.</dd><dt>Costs</dt><dd>Students should allow approximately AUD$300 for a uniform and equipment. Students can purchase these items from any supplier; however LTU branded uniform must be purchased from a university approved vendor; these items remain students personal property. In addition, students must obtain a National Police Certificate - AUD$15.50, immunisations - AUD$250-470, and a First Aid II Certificate - AUD$160. All prices are approximate. Students need to complete the First Aid Level II Certificate course which is not conducted by La Trobe University.  Clinical placements may incur accommodation and travel costs, and these will vary depending on the venue.  Costs are subject to change.</dd><dt>Additional information</dt><dd>All applicants must be aware of the physical components and location requirements of the course. Applicants with a disability, medical condition or other concerns that may affect their potential participation should contact the School on (03) 9479 5950 to discuss any possible course modifications.<br />
+---
+> The Graduate Diploma requires the completion of certificate subjects plus an additional 60 credit points, which include two core subjects (Clinical Practice Development and Research Foundations),and two advanced practice subjects with elective modules that focus on your chosen career pathway.<br />
+221,222c201,213
+< This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br /></dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>Graduates seeking registration must apply with the Nursing and Midwifery Board of Australia (NMBA) and meet the Boards registration standards. Visit the NMBA website for more information. Please note: the NMBA has set an English Language Skills<br />
+< Registration Standard. After registration, graduates may be eligible for registration in other countries as well as membership of the Royal College of Nursing Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/hznm.htm"><span class="off-screen">Nursing/Midwifery</span>Melbourne</a></dd></dl></div></div></div>
+---
+> The Master's component requires successful completion of the Certificate and Graduate Diploma subjects, and the final 60 credit points as either a clinical project and an independent study unit or minor thesis.<br />
+> <br />
+> For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/hmn">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>You must be a Division 1 Registered Nurse and hold a current practising certificate with the Australian Health Practitioner Regulation Agency (AHPRA) or equivalent international body. You must also have at least one year of recent relevant nursing experience, a degree or diploma from a college or university, or nursing certificate from a hospital-based program. You must either already be employed in the relevant clinical area or an agency approved by the Course Coordinator, or have applied to the agency to undertake their clinical placement at the time of applying for the course. In the latter case, an offer into the course will be conditional upon confirmation of the clinical placement.<br />
+> <br />
+> Applicants for the child, family and community clinical specialisation must also have APHRA registration to practise as a midwife (and at least one year's experience post-registration in midwifery). Although you are encouraged to organise your own clinical placement, clinical practicum in the Maternal and Child Health Service will be arranged by the University, through negotiation with the student and local government agencies.<br />
+> <br />
+> Some subjects are delivered online. Internet access is an essential requirement of this course.<br /></dd><dt>Fee amount</dt><dd>Indicative (2013): $16,640 per 120 credit points</dd><dt>Additional information</dt><dd>You may be eligible for institutional credit - please contact the Faculty for more information.<br />
+> <br />
+> Depending on your choice of specialisation, you'll study via our flexible online delivery mode and/or in-person at one of our affiliated hospitals. For most subjects, the online learning modules are supported by a limited number of on-campus workshop days (or equivalent online virtual classrooms) with location dependent on specialisation. All online subjects require broadband internet access.<br /></dd><dt>How to apply</dt><dd>Please <a href="http://latrobe-apply.custhelp.com/">apply online</a> and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0007/539071/pg-master-nursing-suppform2014.doc">Supplementary Form</a> outlining previous studies and experience.<br />
+> <br />
+> Applicants for the Child, Family and Community specialisation must also complete the following <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0006/539070/child-family-community-suppform2014.doc">Supplementary Form</a>.<br />
+> <br />
+> Late applications close Monday 2 December 2013.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmn.htm"><span class="off-screen">Nursing (Master)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/hmn.htm"><span class="off-screen">Nursing (Master)</span>Distance education</a></dd></dl></div></div></div>
+225,226c216,217
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+228c219
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+232c223
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+234c225
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+238c229,241
+< <h3 class="alert">No courses available</h3>
+---
+> <div class="accordion">
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Initial Registration for Overseas Nurses (IRON Program) (068287G )</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>13 weeks</dd><dt>Semester starts :</dt><dd>January, May</dd><dt>Annual Tuition Fee (A$) :</dt><dd>11 500</dd><dt id="campus">Campus</dt><dd>Bendigo</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Suitably qualified, internationally-registered nurses with approval from the Australian Health Practitioners Regulation Agency (AHPRA), are eligible to undertake this 13 week, non-award program. Successful completion of the program will lead to registration as a Registered Nurse in Australia and allow you to work as a nurse in Australia.<br />
+> <br />
+> It consists of twelve modules and addresses contemporary thinking and research about current best practice and evidence based health care and nursing practice. It also focuses on health care in the Australian context, interpersonal communication and teamwork with patients, other nurses<br />
+> and interdisciplinary health care staff. It provides you with nursing knowledge<br />
+> and skills required for the provision of person-centred care and health outcomes, information on roles and responsibilities expected of a Division 1 Registered Nurse in Victoria inclusive of areas around patient care, interdisciplinary practice and risk management.<br />
+> <br />
+> La Trobe University has agreements with a number of regional clinical venues for high-acuity clinical placements. The primary venues for clinical placements are Bendigo Health and St John of God Hospital, both located in Bendigo. Some clinical placements may be located outside Bendigo. The clinical component of the course consists of five, eight-hour shifts per week for the duration of the clinical period, to a maximum of 400 hours.</dd><dt>English Language Requirements</dt><dd>Applicants must provide evidence of an IELTS score of 7.0 overall with at least 7.0 in all components of the test, or pass an OET with A or B only in each of the four components.<br />
+> <br />
+> Please check the NMBA website for <a href="http://www.nursingmidwiferyboard.gov.au/Registration-Standards.aspx">the latest requirements</a></dd><dt>Academic entry requirements</dt><dd>You must provide evidence that you have current registration as a registered nurse in a country other than Australia, a letter (valid<br />
+> for the duration of the program) from the Australian Health Professionals Regulation Agency (AHPRA) stating that you will be<br />
+> eligible for registration as a registered nurse in Australia upon satisfactory completion of an ANMC-accredited Bridging Program, and meet the registration standard for English Language proficiency (an IELTS of 7 overall with no band lower than 7 or Pass the OET with a minimum B grade in all bands achieved at the one sitting).</dd><dt>Additional information</dt><dd>Some clinical placements may be located outside Bendigo.</dd><dt>Professional recognition</dt><dd>Successful completion of this course leads to registration as a registered nurse with AHPRA/NMBA.</dd></dl></div></div></div>
+> </div>
+240c243
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+243c246
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+257,260d259
+< <h3>Alternative pathways</h3>
+< 
+< <p>If you have completed a Bachelor of Nursing and have at least one- year&#8217;s experience, you may apply for the Postgraduate Diploma of Midwifery (see the postgraduate coursework section for more details).</p>
+< 
+263c262
+< <p>Our courses include a number of placements in our clinical schools based at major Victorian health care facilities. See clinical schools.</p>
+---
+> <p>Clinical placements are an important part of our courses and you must complete the requisite number of hours.<a href="/nursing/ProspectiveStudents/Postgraduate2009/index.php"></a></p>
+384,402c383
+< <!-- Google Code for Find a course Conversion Page -->
+< <script type="text/javascript">
+< /* <![CDATA[ */
+< var google_conversion_id = 1063865565;
+< var google_conversion_language = "en";
+< var google_conversion_format = "2";
+< var google_conversion_color = "ffffff";
+< var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+< var google_conversion_value = 0;
+< var google_remarketing_only = false;
+< /* ]]> */
+< </script>
+< <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+< </script>
+< <noscript>
+< <div style="display:inline;">
+< <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>
+< </div>
+< </noscript><script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+---
+> <script type="text/javascript" src="/__data/assets/js_file/0009/122868/jquery-cycle-litejs.js"></script>
+455a437,454
+> </div>
+> </noscript><!-- Google Code for Find a course Conversion Page -->
+> <script type="text/javascript">
+> /* <![CDATA[ */
+> var google_conversion_id = 1063865565;
+> var google_conversion_language = "en";
+> var google_conversion_format = "2";
+> var google_conversion_color = "ffffff";
+> var google_conversion_label = "y0K5CPe6vgIQ3Zml-wM";
+> var google_conversion_value = 0;
+> var google_remarketing_only = false;
+> /* ]]> */
+> </script>
+> <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+> </script>
+> <noscript>
+> <div style="display:inline;">
+> <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1063865565/?value=0&amp;label=y0K5CPe6vgIQ3Zml-wM&amp;guid=ON&amp;script=0"/>

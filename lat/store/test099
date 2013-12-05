@@ -1,0 +1,826 @@
+19,20c19,20
+< <meta name="description" content="A large number of rewarding career paths awaits graduates studying business with an emphasis on management. At La Trobe University you may take a 4-subject minor or 7-subject major in general management, sport, tourism, hospitality, events, human resources management or marketing. In addition double degrees are on offer." />
+< <meta name="keywords" content="management, Bachelor of Business, double degree, tourism, marketing, event management, undergraduate, bachelor" />
+---
+> <meta name="description" content="Develop advanced skills in business administration, corporate responsibility, international business and marketing. Choose a singe or double Master degree." />
+> <meta name="keywords" content="Management, Master's,  postgraduate, coursework" />
+23a24,35
+> <!-- Brokenlinks //-->
+> 
+> <!-- Info //-->
+> <meta name="TotalPages" content="Nil" />
+> <meta name="Links" content="" />
+> <meta name="TotalLinks" content="" />
+> 
+> <!-- Total Info //-->
+> <meta name="Num_Subsites_With_Broken_Links" content="" />
+> <meta name="Last_Update_Time" content="" />
+> <meta name="Num_Total_Broken_Links_Sitewide" content="" />
+> 
+37,38c49,50
+< <meta name="Campus" content="Campuses,Melbourne,Bendigo" />
+< <meta name="Related.School.or.Department" content="Department of Management" />
+---
+> <meta name="Campus" content="Campuses,Albury-Wodonga,Melbourne,City_Campus" />
+> <meta name="Related.School.or.Department" content="Faculties" />
+43c55
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+51c63
+< <!-- 88296 -->
+---
+> <!-- 88330 -->
+76c88
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/management"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/management/postgraduate"/>		
+83c95
+<   Page generated: 11 November 2013 17:00:05
+---
+>   Page generated: 10 November 2013 21:44:43
+124c136
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/management">Management</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/management">Management</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/management/postgraduate">Postgraduate</a></div>
+159c171
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/management">Undergraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/management">Undergraduate</a></li>
+161c173
+<   <li><a href="http://www.latrobe.edu.au/courses/management/postgraduate">Postgraduate</a></li>
+---
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/management/postgraduate">Postgraduate</a></li>
+167d178
+< 
+170,172c181
+<   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0019/92143/UG,-Honours,-PG,-SC.jpg" width="250" height="166" alt="Management" title="management" />Why study a Management course?</h2>
+< 
+<   <p>Our management courses are designed to train the future industry leaders. From the beginning, you&#8217;ll be immersed in a learning environment geared to equip you with problem solving and decision making skills valued by any business.</p>
+---
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0019/92143/UG,-Honours,-PG,-SC.jpg" width="250" height="166" alt="Management" title="management" />Why study Management?</h2>
+174c183
+<   <p>We place particular emphasis on small class sizes and you&#8217;ll enjoy contact with a large community of internationally respected professors.</p>
+---
+>   <p>La Trobe Business School is a leading provider of postgraduate and post-experience management training that is recognised in Australia and overseas. We provide a world-class business and management education that is academically rigorous and professionally relevant. Develop advanced skills in business administration, corporate responsibility, international business and marketing. Choose a double Master degree and study business administration with information technology, electronic engineering, telecommunication engineering or health administration.</p>
+176c185
+<   <p>Our management degrees offer specialisations in tourism, sport management, HR management, marketing and event management.</p>
+---
+>   <h2>EPAS Accreditation</h2>
+178,184c187
+<   <h3>First year framework</h3>
+< 
+<   <p>Our management courses are designed to give you a solid foundation in business. After first year, you will then have the flexibility to identify your own interests and choose the direction of your degree.</p>
+< 
+<   <h2>Accreditation</h2>
+< 
+<   <p><img src="http://www.latrobe.edu.au/__data/assets/image/0015/135015/EPAS-2009-80x61.jpg" alt="epas thumb" style="border: 0px solid rgb(0, 0, 0);" align="left" />The Bachelor of Business (Tourism and Hospitality) is accredited by the <a href="http://www.efmd.org/" target="_blank">European Foundation for Management Development (EMFD)</a> through the prestigious <a href="http://www.efmd.org/index.php?option=com_content&amp;view=article&amp;id=472&amp;Itemid=192" target="_blank">EFMD Programme Accreditation System (EPAS)</a>.</p>
+---
+>   <p><img src="http://www.latrobe.edu.au/__data/assets/image/0015/135015/EPAS-2009-80x61.jpg" align="left" alt="epas thumb" style="border: 0px solid rgb(0, 0, 0);" />Our MBA is the first MBA program in Australia to be awarded&nbsp;<a href="http://www.efmd.org/index.php?option=com_content&amp;view=article&amp;id=472&amp;Itemid=192" target="_blank">EPAS</a>&nbsp;accreditation from the&nbsp;<a href="http://www.efmd.org/" target="_blank">European Foundation for Management Development</a>.This world-class recognition from one of the leading global accreditation bodies in the field of business and management&nbsp;offers an assurance of quality and excellence.&nbsp;&nbsp;</p>
+190c193
+< <h2>Career opportunities in Management</h2>
+---
+> <h2>Career opportunities</h2>
+192c195
+< <p>Graduates are sought after across all areas of management. Our management courses expose you to leading&#8209;edge innovation and development, making you a desirable candidate in your chosen field. There will be career opportunities in a wide range of business, government and not&#8209;for&#8209;profit areas, in Australia and overseas.<br /></p>
+---
+> <p>Graduates can work in management in the public and private sectors, nationally and internationally. You may also start your own business.</p>
+194c197
+< <p><a href="http://www.latrobe.edu.au/students/careers/career-planning">Visit our Career Development Centre website and start planning your career</a>.&nbsp;</p>
+---
+> <p>&nbsp;</p>
+201,226c204,205
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Event Management)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">61.05</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>From community festivals to international sport, events management has evolved into big business. This degree is designed to produce future leaders for this emerging sector, providing you with many career options. It combines a solid business degree - encompassing areas such as accounting, marketing, business law, entrepreneurship and economics - with specialised professional studies related to the management and delivery of special events, such as project management, arts and community festivals, meetings, conferences and trade shows. You'll have the opportunity to plan, deliver and evaluate student-led events, and gain real-world experience through industry participation.<br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in English (any). Applicants with comparable qualifications are also considered. A limited number of applicants may also be considered for Special Entry.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< <br />
+< Selection may also be based on ENTER/ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Consideration is given to performance in prerequisite studies and Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbem.htm"><span class="off-screen">Business (Event Management)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Event Management/Marketing)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar">61.05</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This degree combines marketing fundamentals with a much sought-after<br />
+< background in event management. You'll graduate with a solid understanding of business essentials such as accounting, marketing, business law, tourism and project management, entrepreneurship and economics. The specialised areas of the course ensure you'll gain valuable skills in marketing, advertising, brand and product management coupled with the practical and theoretical skills necessary for effective management of events.<br />
+< <br />
+< <br />
+< <br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English. La Trobe also considers applicants with comparable qualifications.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.</dd><dt>Middle band</dt><dd>Completing business management gives you an additional aggregate point. Performance in prerequisite studies and Special Entry Access Scheme (SEAS) criteria are also considered.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>Graduates may be eligible for professional recognition as an accredited meeting manager with Meetings and Events Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbemt.htm"><span class="off-screen">Business (Event Management/Marketing)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/rbbemt.htm"><span class="off-screen">Business (Event Management/Marketing)</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Event Management/Tourism Management)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">61.3</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This dynamic degree is firmly grounded in business studies, specifically designed for future leaders in careers where events and tourism management intersect. Blending theory and practical work, this course gives you the opportunity to plan, stage and evaluate an event within a tourism context.<br />
+< The economic, social and environmental impacts of events and tourism are examined in a triple-bottom line approach.<br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.</dd><dt>Middle band</dt><dd>Completion of Business Management gives you an additional aggregate point. Performance in prerequisite studies and Special Entry Access Scheme (SEAS) criteria are also considered.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>Graduates may be eligible for professional recognition as an Accredited Meeting Manager with Meetings and Events Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbetm.htm"><span class="off-screen">Business (Event Management / Tourism Management)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Human Resource Management)  </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">61.05</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Managing people effectively is critical in every professional area. This course<br />
+< will equip you with the skills and knowledge to manage people in today's<br />
+< business environment. You'll develop the internationally transferable skills and<br />
+< capabilities of effective human resource managers. This course is professionally accredited (see Professional recognition, below).</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English. Applicants with comparable qualifications will be considered. A limited number of students may also be considered under Special Entry Schemes.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< <br />
+< Selection may also be based on ENTER/ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Completion of business management gives you an additional aggregate point. Performance in prerequisite studies is also considered.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>The course is accredited by the Australian Human Resources Institute (AHRI).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbhr.htm"><span class="off-screen">Business (Human Resource Management)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business Information Systems</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">60.65</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The design and use of software to store data records, a thorough understanding of information technology (IT) tools, and specialist knowledge in information systems and business management, marketing or accounting are the key elements of this course.<br />
+< <br />
+< The curriculum covers software applications helping you develop professional business management skills. Upon graduation, you should have extensive<br />
+< knowledge of business and information systems concepts, and be able to critically analyse and develop innovative solutions for business problems.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: a study score of 25 English (ESL) or 20 in any<br />
+< other English.<br />
+< VCE Units 1and 2: General Mathematics or Mathematical Methods<br />
+< (any combination).</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.</dd><dt>Middle band</dt><dd>La Trobe considers Special Entry Access Scheme (SEAS) criteria; and a regional bonus may apply. Performance in prerequisite studies is also considered.</dd><dt>Fee amount</dt><dd>Indicative (2011) CSP student contribution: $7752 (per 120 credit points). </dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>This course is fully accredited by the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbiy.htm"><span class="off-screen">Business Information Systems</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Sport Development and Management)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>One of the only programs of its kind, this new degree is delivered exclusively from our thriving Bendigo campus. It's designed to meet the specific needs of rural and regional communities.<br />
+< <br />
+< This degree combines sport with business and community engagement. The curriculum strongly emphasises the role of sport in forming cohesive communities, sports operations and industry.<br />
+< <br />
+< Providing a unique combination of indepth theoretical knowledge and practical management experience the course enables you to build professional networks while developing a strong understanding of the industry while you study.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.</dd><dt>Middle band</dt><dd>Consideration is given to performance in prerequisite studies, Business Studies (any), Mathematics (any), LOTE (any), and to Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lmsd.htm"><span class="off-screen">Business (Sport Development and Management)</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Sport Management)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">61.25</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you're passionate about sport - how it's played, managed, presented and<br />
+< promoted - this course will equip you with the skills and knowledge to enter this rapidly expanding global industry. You'll study the foundation principles of business alongside essential sport-specific development. Designed and delivered in collaboration with industry professionals, this degree ensures you graduate with a broad range of sport management competencies that are recognised within Australia and internationally.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English. Applicants with comparable qualifications will be considered. A limited number of students may also be considered under Special Entry Schemes.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< <br />
+< Selection may also be based on ENTER/ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Consideration is given to performance in prerequisite studies, Business Studies (any), Mathematics (any), LOTE (any), and to Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbsl.htm"><span class="off-screen">Business (Sport Management)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Tourism and Hospitality)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">63.75</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This globally accredited course covers a broad spectrum of issues across the tourism and hospitality industries, emphasising the practical skills and knowledge needed for effective tourism and hospitality management.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Certificate in Financial Risk Management</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>0.5 years full-time.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course gives students the opportunity to study the measurement and management of market, credit, operational and portfolio risk.</dd><dt>Prerequisite</dt><dd>La Trobe University three-year bachelor degree or approved equivalent undergraduate or postgraduate degree, with a grade average above 60 per cent in the final year.</dd><dt>Fee amount</dt><dd>Indicative (2012): $9555 (60 credit points). <br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/finance/lgcm.htm"><span class="off-screen">Financial Risk Management (Graduate Certificate)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Certificate in Information Systems Management</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year part-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is designed for graduates of any discipline who seek to combine their existing skills with industry-driven, business-focused IT skills. Graduates with a grade average of 60% may articulate into the Graduate Diploma in Information Systems Management.<br />
+228c207
+< The course combines a solid business degree - encompassing areas such as accounting, marketing and economics - with specialised tourism and hospitality studies.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any English.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+---
+> Content is designed to meet employer demands for professionals with an understanding of business processes and information systems management tools.</dd><dt>Prerequisite</dt><dd>Australian Bachelor's degree in any discipline, or approved equivalent. Admission may be granted to candidates deemed suitably qualified via professional experience.</dd><dt>Fee amount</dt><dd>Indicative (2012): $10185  (60 credit points).</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/info-sys-management/graduate-certificate-in-information-systems-management-melbourne-bundoora.htm"><span class="off-screen">Information Systems Management (Graduate Certificate)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Certificate in Sport Management</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>0.5 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Graduate Certificate in Sport Management qualification is designed as a stand-alone degree or as a pathway into postgraduate study.</dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants with demonstrated prior learning in the form of an Australian Bachelor's degree in a business related field or an approved equivalent qualification will be eligible to apply for advanced standing for the four subjects of the first semester of the course. Applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant and cognate business experience will be eligible to apply for advanced standing for the four subjects of the first semester of the course. In making an offer of advanced standing to an applicant, the University may give consideration to a range of factors including English proficiency, academic record, employment experience and/or satisfactory completion of a challenge exam for any one or all of the four first semester subjects</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/management-programs/lcsm.htm"><span class="off-screen">Sport Management  (Graduate Certificate)</span>City</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Graduate Diploma in Information Systems Management</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year full-time </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Employers are increasingly demanding professionals with an understanding of business processes and information systems management tools. You can combine your existing skills in any discipline with industry-driven, business-focused IT skills. It is part of a three-tier postgraduate program where you may articulate into the Master of Information Systems Management or the Master of Business Information Management and Systems. You will learn to develop business solutions in areas such as customer relationships, management, marketing or accounting and finance using industry based enterprise resource planning tools (e.g. SAP) and business intelligence tools (e.g. SAS). You will also develop an understanding of the analysis, design and application of business information systems and gain knowledge and skills in data warehousing, entrepreneurship, IT, information systems management and business intelligence.</dd><dt>Prerequisite</dt><dd>Australian Bachelor's degree in any discipline, or approved equivalent.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,370 per 120 credit points. </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The degree holds associate level accreditation with the Australian Computer Society (ACS) recognised both nationally and internationally for excellence in information and communication technology.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/info-sys-management/lgis.htm"><span class="off-screen">Information Systems Management (Graduate Diploma)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Accounting and Financial Management </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to achieve a professional accounting qualification and to extend your studies beyond the minimum requirement for membership of professional accounting bodies, particularly if you did not major in accounting or financial management.</dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience. In making an offer to an applicant, the University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants with demonstrated prior learning in the form of an Australian Bachelor's degree in a business related field or an approved equivalent qualification will be eligible to apply for advanced standing for the four subjects of the first semester of the course. Applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant and cognate business experience will be eligible to apply for advanced standing for the four subjects of the first semester of the course. In making an offer of advanced standing to an applicant, the University may give consideration to a range of factors including English proficiency, academic record, employment experience, and/or satisfactory completion of a challenge exam for any one or all of the four first semester subjects.</dd><dt>Fee amount</dt><dd>Indicative (2012): $19,110 per 120 credit points.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The degree satisfies the academic requirements for associate membership of CPA Australia (the professional body for Certified Practising Accountants in Australia) and admission to the Professional Year of the Institute of Chartered Accountants in Australia. It is also recognised by the international accounting body, the Association of Chartered Certified Accountants (ACCA) based in London.<br />
+230,232c209
+< Selection may also be based on ENTER/ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Re-ranking is based on prerequisite studies, Business (any), LOTE (any), and Rural and Regional Student Access Scheme criteria.</dd><dt>Costs</dt><dd>Melbourne Campus: Students are required to purchase a basic hospitality uniform at a cost of approximately A$150. This can be purchased from any supplier, and remains the student's personal property. <br />
+< </dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbth.htm
+< "><span class="off-screen">Business (Tourism and Hospitality)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Tourism Management)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course offers first-hand understanding of travel and tourism operations, broad industry knowledge, and core business management skills that can be applied professionally in small, medium and large tourism businesses. The curriculum complements a solid business degree (covering areas such as accounting marketing and economics) with specialised tourism subjects including destinations marketing and management, travel operations and ticketing, tour guiding, event management and tourist attraction operations.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English. Applicants with comparable qualifications will be considered. A limited number of students may also be considered under Special Entry Schemes.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+---
+> Students can undertake the Professional Year Program in some countries outside Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/accounting/lmafm.htm"><span class="off-screen">Accounting and Financial Management (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Business Administration</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1.5 year full-time or 4 years part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd><dd>Other</dd><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The La Trobe University MBA is the first in Australia that was awarded the prestigious EPAS Accreditation by the European Foundation for Management Development. It is also ranked in the top 100 MBA programs globally in the Beyond Grey Pinstripes ranking. The curriculum is designed to make you a modern and responsible business leader who has the expertise to develop and sustain competitive advantages for your organisation. The program focuses on the UN-backed Principles for Responsible Management Education, general management skills and comprehensive personal and professional skills development.<br />
+234,235c211,234
+< Selection may also be based on ENTER/ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Consideration is given to performance in prerequisite studies, Business (any), LOTE (any), and Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbtm.htm
+< "><span class="off-screen">Business (Tourism Management) </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Business (Tourism Management/Marketing)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar"> n/a</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Travel and tourism are big business. This course gives you firm grounding in business studies, coupled with an understanding of the critical role of marketing in this rapidly evolving industry. Blending theory and practical work, this degree allows you to gain real-world experience with the opportunity to undertake an industry project and/or an international study tour. The economic, social and environmental impacts of tourism are examined with a triple-bottom line approach. You'll study under acknowledged academic leaders in this exciting international field.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 25 in English (ESL) or 20 in any other English. Applicants with comparable qualifications will be considered. A limited number of students may also be considered under Special Entry Schemes.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.</dd><dt>Middle band</dt><dd>Completion of Business Management gives you an additional aggregate point. Consideration is also given to performance in prerequisite studies and to Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC.&nbsp; If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.<br /></dd><dt>Professional recognition</dt><dd>Graduates may be eligible for professional recognition as an Accredited Meeting Manager with Meetings and Events Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbetmm.htm"><span class="off-screen">Business (Tourism Management / Marketing)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws/Bachelor of Business</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar">93.15</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Bachelor of Laws/Bachelor of Business provides an accredited professional qualification in law as well as a degree in business. You'll gain an innovative, high-quality legal education with a strong global and social justice perspective and a real emphasis on hands-on experiences. The course includes all the compulsory law subjects required for admission to practise law in Victoria. You'll also choose from a wide range of law electives, including subjects complementary to business such as banking and finance law, income taxation law and global business law.<br />
+---
+> The course builds on a long tradition of flexible delivery, with two intakes per year and different delivery modes allowing you to shape your studies to match your interests and goals.</dd><dt>Prerequisite</dt><dd>Australian Bachelor's degree or international equivalent, with a minimum C grade (60%) average in the final year and three years' relevant postgraduate managerial experience. Applicants with more than eight year's relevant managerial experience but without an undergraduate degree may be considered for professional entry.</dd><dt>Fee amount</dt><dd>Indicative (2012): $30 000 per 120 credit points (MBA indicative total tuition fee: $45 000)</dd><dt>Costs</dt><dd>Students must pay all costs related to international study tours, including travel, meals and accommodation. Costs vary depending on location (all accepted students are eligible to apply for travel grants).</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 7 February 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The La Trobe MBA holds current EPAS Accreditation, awarded by the European Foundation for Management Development.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/business-administration/lmbac.htm"><span class="off-screen">Business Administration (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Business Administration and Master of Health Administration</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2.5 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>City</dd><dd>Franklin Street</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is a comprehensive study package for professionals in health service settings who want to expand their career pathway into senior management roles in public or private organisations. It also provides an entry into the health sector for managers working in non-healthcare settings.</dd><dt>Prerequisite</dt><dd>A three-year undergraduate degree in business or health and a minimum of two years of professional work experience. Applicants are also required to submit a one-page statement outlining their reasons for applying, with two supporting references.</dd><dt>Fee amount</dt><dd>Indicative (2013): $18,750 per 120 credit points.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>by 31 October 2013.<br />
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0018/540027/public-health-pgchecklist-domestic2014.doc">Supplementary Form</a>.<br /></dd><dt>Professional recognition</dt><dd>The MHA is accredited by the Australian College of Health Service Executives. It is also accredited by the Royal Australian College of Medical Administrators. The MBA is an internationally recognised professional qualification in business.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/city/health-sciences/master-degrees-by-coursework/mzbaha.htm "><span class="off-screen">Business Administration/Health Administration</span>City</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/city/health-sciences/master-degrees-by-coursework/mzbaha.htm"><span class="off-screen">Business Administration/Health Administration</span>Franklin Street</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Business Administration / Master of Electronic Engineering </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This program equips students with various professional skills that are highly sought after by the electronic engineering industry. This skill set allows graduates to fast-track their careers into senior management positions in high-technology companies, or to form their own technology start-up company.</dd><dt>Prerequisite</dt><dd>Four-year Australian electronic or communication/telecommunication engineering degree, or approved international equivalent that includes the fundamentals of analogue and digital communication techniques and systems.</dd><dt>Fee amount</dt><dd>Indicative (2012): $17,890 per 120 credit points. <br />
+> <br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/szbaee.htm"><span class="off-screen">Business Administration/Electronic Engineering (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Business Administration / Master of Telecommunication Engineering </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>In this double Master's program, gradauates gain various professional skills that are highly sought after by the telecommunications industry. Graduates can fast-track their careers into senior management positions in high-technology companies, or to form their own technology start-up company.</dd><dt>Prerequisite</dt><dd>Four-year electronic or communication/telecommunication engineering degree, or approved equivalent, covering the fundamentals of analogue and digital communication techniques and systems.</dd><dt>Fee amount</dt><dd>Indicative (2012): $17,890 per 120 credit points. <br />
+> <br />
+> </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/szbate.htm"><span class="off-screen">Business Administration/Telecommunication Engineering </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Business Information Management and Systems</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give you an understanding of industry-based IT tools and information systems concepts applied to business environments. You will gain knowledge and skills along four dimensions: industry-based IT tools, business subjects, business-focused IT subjects and an industry-based business intelligence project.<br />
+> <br />
+> Industry-based IT tools include enterprise information systems (e.g. SAP), and business intelligence (e.g. SAS). Business-focused IT subjects are based on information systems design, information systems management, enterprise resource planning and customer relationship management, human computer interaction, business intelligence, entrepreneurship and IT data warehousing, knowledge management, IT project management and decision support systems.</dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience. In making an offer to an applicant, the University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants with demonstrated prior learning in the form of an Australian Bachelor's degree in a business related field or an approved equivalent qualification will be eligible to apply for advanced standing for the four subjects of the first semester of the course. Applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant and cognate business experience will be eligible to apply for advanced standing for the four subjects of the first semester of the course. In making an offer of advanced standing to an applicant, the University may give consideration to a range of factors including English proficiency, academic record, employment experience, and/or satisfactory completion of a challenge exam for any one or all of the four first semester subjects.</dd><dt>Fee amount</dt><dd>Indicative (2012): $20,370 per 120 credit points.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The Master of Business Information Management and Systems holds Professional level accreditation with the Australian Computer Society (ACS) recognised both nationally and internationally for excellence in information and communication technology.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/info-sys-management/lmbisc.htm"><span class="off-screen">Business Information Management and Systems (Master) </span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Financial Analysis/Master of Business Administration</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or part-time equivalent. </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree combines the specialist knowledge necessary for success in the finance industry with essential management techniques necessary to create value in the world of business and meet the priorities<br />
+> of government organisations. The MFA program facilitates entry into a wide range of challenging and rewarding careers in the finance sector, as well as providing a pathway to several widely-recognised designations of professional excellence within the investment industry. The MBA prepares you to tackle<br />
+> problems creatively in order to achieve optimum results.</dd><dt>Prerequisite</dt><dd>A three-year bachelor degree or an approved equivalent undergraduate or postgraduate degree with an average of 60% or higher in the final year. The primary admission requirement focuses on post-experience entry based on a minimum of three years professional experience at a managerial level.</dd><dt>Fee amount</dt><dd>Indicative (2012): $19,110 per 120 credit points. <br />
+> </dd><dt>Additional information</dt><dd>Advanced Standing for Foundation subjects is available to<br />
+> " Students who sit a challenge exam and obtain more than 60%.<br />
+> " Students who have passed CFA Level 1.<br />
+> " Students who have at least two years' relevant professional experience.<br />
+> A summer semester offering allows students the option of commencing study in summer.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 7 February 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The Master of Financial Analysis is a CFA Program Partner. The CFA Charter is the most widely recognised professional accreditation in finance globally.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/finance/lyfaba.htm"><span class="off-screen">Financial Analysis/Business Administration</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Management</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>January, April, June, September</dd><dt>Campus:</dt><dd>Melbourne</dd><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If youre seeking to develop a career in management or leadership, this degree has been developed for you. It starts with core foundation knowledge required of all managers, whatever the context. It then goes on to provide opportunities for you to develop knowledge in specialised areas of management or to maintain a more general orientation. Your fellow students will be from a diverse mix of academic backgrounds, ranging from engineering, humanities and science to management. Classes facilitate<br />
+> dynamic multidisciplinary innovation and exchange of ideas.<br />
+> <br />
+> You will be equipped with the tools and skills necessary to develop ideas, to lead and manage organisational activities across corporate, government and not-for-profit sectors, and in small, medium, and large scale enterprises.</dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience. In making an offer to an applicant, the University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants with demonstrated prior learning in the form of an Australian Bachelor's degree in a business related field or an approved equivalent qualification will be eligible to apply for advanced standing for the four subjects of the first semester of the course. Applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant and cognate business experience will be eligible to apply for advanced standing for the four subjects of the first semester of the course. In making an offer of advanced standing to an applicant, the University may give consideration to a range of factors including English proficiency, academic record, employment experience, and/or satisfactory completion of a challenge exam for any one or all of the four first semester subjects.</dd><dt>Fee amount</dt><dd>Indicative (2012): $19,110 per 120 credit points.</dd><dt>Additional information</dt><dd>Opportunities for international study tour and placement/practicum are being investigated.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/management-programs/lmmgt.htm"><span class="off-screen">Management</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Management (Entrepreneurship and Innovation)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd> 2 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you wish to create and lead the development of new business opportunities<br />
+> and to manage innovation across broad and diverse sectors in society, this course is tailored to you. You will find your peers are from a varied mix of academic backgrounds ranging from engineering, arts and humanities, and science to management - this leads to a lively exchange of ideas from<br />
+> differing points of view and experiences.<br />
+> <br />
+> Innovation and entrepreneurship provides a significant opportunity to directly address the worlds economic and social challenges and to support prosperity. The programme aims to equip students with the tools and skills necessary to develop ideas, to lead and manage entrepreneurial activities for creating new business ventures and to develop and sustain innovation practice across corporate, government and not-for-profit sectors.</dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience. In making an offer to an applicant, the University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants with demonstrated prior learning in the form of an Australian Bachelor's degree in a business related field or an approved equivalent qualification will be eligible to apply for advanced standing for the four subjects of the first semester of the course. Applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant and cognate business experience will be eligible to apply for advanced standing for the four subjects of the first semester of the course. In making an offer of advanced standing to an applicant, the University may give consideration to a range of factors including English proficiency, academic record, employment experience, and/or satisfactory completion of a challenge exam for any one or all of the four first semester subjects.</dd><dt>Fee amount</dt><dd>Indicative (2012): $19,110 per 120 credit points.</dd><dt>Additional information</dt><dd>Opportunities for international study tour and placement/practicum are being investigated.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a>. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/management-programs/lmmei.htm "><span class="off-screen">Management (Entrepreneurship and Innovation)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Management (Human Resource Management)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or part-time equivalent.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus:</dt><dd>Melbourne</dd><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If youre seeking to develop a career in management or leadership, this degree has been developed for you. It starts with core foundation knowledge required of all managers, whatever the context. It then goes on to provide opportunities for you to develop knowledge in specialised areas of<br />
+> management or to maintain a more general orientation. Your fellow students will be from a diverse mix of academic backgrounds, ranging from engineering, humanities and science to management. Classes facilitate<br />
+> dynamic multidisciplinary innovation and exchange of ideas.<br />
+237c236,237
+< The degree allows you to complete a major in business, economics, financial management, financial planning, human resource management, macroeconomics, management information systems, international management, management or marketing. See individual course entries for more details.<br />
+---
+> You will be equipped with the tools and skills necessary to develop ideas, to lead and manage organisational activities across corporate, government and not-for-profit sectors, and in small, medium, and large scale enterprises.</dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant business experience. In making an offer to an applicant, the University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants with demonstrated prior learning in the form of an Australian Bachelor's degree in a business related field or an approved equivalent qualification will be eligible to apply for advanced standing for the four subjects of the first semester of the course. Applicants without an undergraduate degree but with a demonstrated minimum of at least five years relevant and cognate business experience will be eligible to apply for advanced standing for the four subjects of the first semester of the course. In making an offer of advanced standing to an applicant, the University may give consideration to a range of factors including English proficiency, academic record, employment experience, and/or satisfactory completion of a challenge exam for any one or all of the four first semester subjects.</dd><dt>Fee amount</dt><dd>Indicative (2012): $19,110 per 120 credit points.</dd><dt>Additional information</dt><dd>Opportunities for international study tour and placement/practicum are being investigated.</dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/management-programs/lmmhr.htm  "><span class="off-screen">Management (Human Resource Management)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Marketing Management</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or equivalent part-time.</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus:</dt><dd>Melbourne</dd><dd>City</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you wish to establish a career in marketing, in either a national or<br />
+> international business setting, this course will provide you with the postgraduate pathway you need.<br />
+239c239
+< Please note: if you commence your studies at Bendigo, you'll normally transfer to Melbourne after two years of full-time study, where you'll complete the remainder of your course.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 35 in English (ESL) or 30 in any other English.<br /></dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a VTAC Personal History online for other information to be considered during the selection process, e.g. details on work experience or reason for applying.</dd><dt>Middle band</dt><dd>Re-ranking is based on results in prerequisite studies, Business (any), and Humanities (any). A <a href="http://latrobe.custhelp.com/app/answers/detail/a_id/96/kw/RRSAS/r_id/166">regional bonus</a> may apply.</dd><dt>Additional information</dt><dd>Please note: Bendigo students normally transfer to Melbourne after two years of full-time study. However, students who wish to remain in Bendigo are offered the ability to complete their later year core subjects and some electives through e-learning and/or intensive courses. Bendigo students who want to major in accounting can apply to transfer into the Bachelor of Laws/Bachelor of Accounting at Melbourne.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practise as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).<br />
+---
+> It will provide you with the knowledge, skills and attitude necessary to function effectively in a marketing setting, in either a specialist or generalist role in the public or private sector, including for-profit and not-for-profit organisations.<br />
+241,243c241
+< Graduates with a marketing major are eligible for associate membership of the Australian Marketing Institute or the Australian Market and Social Research Society. Graduates with a human resource management major are eligible for admission to the Australian Human Resource Institute (subject to relevant work experience).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlbus.htm
+< "><span class="off-screen">Laws/Business</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lwlbusb.htm
+< "><span class="off-screen">Laws/Business</span>Bendigo</a></dd></dl></div></div></div>
+---
+> For more information visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/LMMM/">Frequently Asked Questions</a> page.</dd><dt>Prerequisite</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with five or more years of relevant work experience. In making an offer to an applicant, the University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Fee amount</dt><dd>Indicative (2012): $18,860 per 120 credit points. </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 14 February 2014. Please provide all supplementary information required.</dd><dt>Professional recognition</dt><dd>The degree is an internationally recognised professional qualification.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/marketing/lmmm.htm"><span class="off-screen">Marketing Management (Master)</span>Melbourne</a></dd></dl></div></div></div>
+246,247c244,245
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+249c247
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+253c251
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+255c253
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+260,262c258
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Event Management) (072274M)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>From community festivals to international sport, events management has evolved into big business. This degree is designed to produce future leaders for this emerging sector, providing you with many career options. It combines a solid business degree - encompassing areas such as accounting, marketing, business law, entrepreneurship and economics - with specialised professional studies related to the management and delivery of special events, such as project management, arts and community festivals, meetings, conferences and trade shows. You'll have the opportunity to plan, deliver and evaluate student-led events, and gain real-world experience through industry participation.<br /></dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Graduate Diploma in Information Systems Management (059107B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1 year </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Employers are increasingly demanding professionals with an understanding of business processes and information systems management tools. You can combine your existing skills in any discipline with industry-driven, business-focused IT skills. It is part of a three-tier postgraduate program where you may articulate into the Master of Information Systems Management or the Master of Business Information Management and Systems. You will learn to develop business solutions in areas such as customer relationships, management, marketing or accounting and finance using industry based enterprise resource planning tools (e.g. SAP) and business intelligence tools (e.g. SAS). You will also develop an understanding of the analysis, design and application of business information systems and gain knowledge and skills in data warehousing, entrepreneurship, IT, information systems management and business intelligence.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+264c260
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+266c262
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+268c264
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+270c266,268
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+272c270
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+276,293c274
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 61.05<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+295,296c276
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Completion of VCE and Units 3 &amp; 4 with study score of at least 25 in English (ESL) or 20 English (any). Applicants with comparable qualifications will be considered.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbem.htm"><span class="off-screen">Business (Event Management)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Event Management/Marketing) (072766B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Melbourne, Bendigo</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This degree combines marketing fundamentals with a much sought-after<br />
+< background in event management. You'll graduate with a solid understanding of business essentials such as accounting, marketing, business law, tourism and project management, entrepreneurship and economics. The specialised areas of the course ensure you'll gain valuable skills in marketing, advertising, brand and product management coupled with the practical and theoretical skills necessary for effective management of events.<br />
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification.</dd><dt>Professional recognition</dt><dd>The course has associate level accreditation with the Australian Computer Society (ACS).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/info-sys-management/lgis.htm"><span class="off-screen">Information Systems Management (Graduate Diploma)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Accounting and Financial Management  (052343B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course allows you to achieve a professional accounting qualification and to extend your studies beyond the minimum requirement for membership of professional accounting bodies, particularly if you did not major in accounting or financial management.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+297a278
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+299c280
+< <br /></dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+301c282
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+303c284,286
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+305c288
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+307c290
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+309c292
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+311c294,295
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with five or more years of relevant work experience. In making an offer to an applicant, the university may give consideration to a range of factors including English proficiency, academic record and employment experience.<br />
+> <br /></dd><dt>Professional recognition</dt><dd>This course satisfies the academic requirements for associate membership of CPA Australia (the professional body for Certified Practicing Accountants in Australia) and admission to the Professional Year of the Institute of Chartered Accountants in Australia (ICAA).<br />
+313c297
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+---
+> The Professional Year Program may be undertaken in some countries outside Australia. The course is also recognised by the Institute of Public Accountants (IPA) and the Association of Chartered Certified Accountants (ACCA), based in London.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/accounting/lmafm.htm"><span class="off-screen">Accounting and Financial Management (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Business Administration (075421C)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>1.5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>31 000</dd><dt id="campus">Campus</dt><dd>City</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The La Trobe University MBA is the first in Australia that was awarded the prestigious EPAS Accreditation by the European Foundation for Management Development. It is also ranked in the top 100 MBA programs globally in the Beyond Grey Pinstripes ranking. The curriculum is designed to make you a modern and responsible business leader who has the expertise to develop and sustain competitive advantages for your organisation. The program focuses on the UN-backed Principles for Responsible Management Education, general management skills and comprehensive personal and professional skills development.<br />
+315c299
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> The course builds on a long tradition of flexible delivery, with two intakes per year and different delivery modes allowing you to shape your studies to match your interests and goals.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+317,339c301
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 61.05<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbemt.htm"><span class="off-screen">Business (Event Management/Marketing)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/rbbemt.htm"><span class="off-screen">Business (Event Management/Marketing)</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Event Management/Tourism Management) (072762F)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This dynamic degree is firmly grounded in business studies, specifically designed for future leaders in careers where events and tourism management intersect. Blending theory and practical work, this course gives you the opportunity to plan, stage and evaluate an event within a tourism context.<br />
+< The economic, social and environmental impacts of events and tourism are examined in a triple-bottom line approach.<br /></dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe University Language Centre; for more information please visit the <a href="http://www.latrobe.edu.au/icollege">La Trobe International College</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+341c303
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+343c305
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+345c307,309
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+347c311
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+351c315,317
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+> <br />
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>Australian Bachelors degree or approved international equivalent, with a minimum C grade (60 per cent) average in the final year and three years of relevant managerial experience. If you have more than eight years of relevant managerial experience but do not have an undergraduate degree, you may still be considered for professional entry.</dd><dt>Additional costs</dt><dd>Students must pay all costs related to international study tours, including travel, meals and accommodation. Costs vary depending on location (all accepted students are eligible to apply for travel grants).</dd><dt>Additional information</dt><dd>You must pay all costs related to international study tours, including travel, meals and accommodation. Costs vary depending on location (you will be eligible to apply for travel grants).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/business-administration/lmbac.htm"><span class="off-screen">Business Administration (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Business Administration and Master of Health Administration (077914K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2.5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>28 280</dd><dt id="campus">Campus</dt><dd>Franklin Street, City</dd></dl><div class="course-detail" id="course_i-3"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course is a comprehensive study package for professionals in health service settings who want to expand their career pathway into senior management roles in public or private organisations. It also provides an entry into the health sector for managers working in non-healthcare settings.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+353,377c319
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 61.30<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br /></dd><dt>Professional recognition</dt><dd>Graduates may be eligible for professional recognition as an Accredited Meeting Manager with Meetings and Events Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbetm.htm"><span class="off-screen">Business (Event Management / Tourism Management)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Human Resource Management)   (067107B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-3"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Managing people effectively is critical in every professional area. This course<br />
+< will equip you with the skills and knowledge to manage people in today's<br />
+< business environment. You'll develop the internationally transferable skills and<br />
+< capabilities of effective human resource managers. This course is professionally accredited (see Professional recognition, below).</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60 per cent) UG) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+379c321
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+381c323
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+383c325,327
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+385c329
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+389c333
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+391,406c335
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 61.05<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2x Level 4<br />
+< STPM - 8<br />
+< Sri Lankan A Levels - CCC<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>Applicants are required to have a three year undergraduate Bachelor's degree in a business or related field and have a minimum of two years relevant management experience in the health sector. Applicants are also required to submit a one page statement of reasons for study and be supported by two referees.<br />
+408c337
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Professional recognition</dt><dd>The Bachelor of Business (Human Resource Management) is accredited by the Australian Human Resources Institute (AHRI).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbhr.htm"><span class="off-screen">Business (Human Resource Management)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business Information Systems (075223J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 140</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-4"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The design and use of software to store data records, a thorough understanding of information technology (IT) tools, and specialist knowledge in information systems and business management, marketing or accounting are the key elements of this course.<br />
+---
+> Minimum grade avergae equivalent to 70% in previous qualification if in a related field, of 75% if in an unrelated field.</dd><dt>Additional information</dt><dd>Please note that this course is also held at the Franklin Street - Campus and City Campus.<br />
+410,411c339,341
+< The curriculum covers software applications helping you develop professional business management skills. Upon graduation, you should have extensive<br />
+< knowledge of business and information systems concepts, and be able to critically analyse and develop innovative solutions for business problems.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> You must review the Supplementary Checklist.<br />
+> Applications for this course close end of November 2013.<br /></dd><dt>Professional recognition</dt><dd>The MHA is accredited by the Australasian College of Health Service Management. Its also accredited by the Royal Australian<br />
+> College of Medical Administrators. Our MBA is an internationally recognised professional qualification in business.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/city/health-sciences/master-degrees-by-coursework/mzbaha.htm "><span class="off-screen">Business Administration/Health Administration</span>City</a><br /><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/city/health-sciences/master-degrees-by-coursework/mzbaha.htm"><span class="off-screen">Business Administration/Health Administration</span>Franklin Street</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Business Information Management and Systems (059103F)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-4"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course aims to give you an understanding of industry-based IT tools and information systems concepts applied to business environments. You will gain knowledge and skills along four dimensions: industry-based IT tools, business subjects, business-focused IT subjects and an industry-based business intelligence project.<br />
+413c343
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> Industry-based IT tools include enterprise information systems (e.g. SAP), and business intelligence (e.g. SAS). Business-focused IT subjects are based on information systems design, information systems management, enterprise resource planning and customer relationship management, human computer interaction, business intelligence, entrepreneurship and IT data warehousing, knowledge management, IT project management and decision support systems.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+415c345
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+417c347
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+419c349
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+421c351,353
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+423c355
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+427,444c359
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 60.65<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 60<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+446,447c361,363
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br /></dd><dt>Subject prerequisite</dt><dd>Equivalent to the Australian VCE Units 3 and 4, a minimum study score of at least 25 in English (ESL) or 20 in any other English.</dd><dt>Professional recognition</dt><dd>This course is fully accredited by the Australian Computer Society.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbbiy.htm"><span class="off-screen">Business Information Systems</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Sport Development and Management) (078466K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Bendigo</dd></dl><div class="course-detail" id="course_i-5"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>One of the only programs of its kind, this new degree is delivered exclusively from our thriving Bendigo campus. It's designed to meet the specific needs of rural and regional communities.<br />
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelors degree in any discipline or an approved equivalent qualification. Admission may be granted if you dont have an undergraduate degree but have five or more years of relevant work experience. The University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/info-sys-management/lmbisc.htm"><span class="off-screen">Business Information Management and Systems (Master) </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Financial Analysis/Master of Business Administration (073460A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2.5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>28 000</dd><dt id="campus">Campus</dt><dd>City</dd></dl><div class="course-detail" id="course_i-5"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree combines the specialist knowledge necessary for success in the finance industry with essential management techniques necessary to create value in the world of business and meet the priorities<br />
+> of government organisations. The MFA program facilitates entry into a wide range of challenging and rewarding careers in the finance sector, as well as providing a pathway to several widely-recognised designations of professional excellence within the investment industry. The MBA prepares you to tackle<br />
+> problems creatively in order to achieve optimum results.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+449c365
+< This degree combines sport with business and community engagement. The curriculum strongly emphasises the role of sport in forming cohesive communities, sports operations and industry.<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+451c367
+< Providing a unique combination of indepth theoretical knowledge and practical management experience the course enables you to build professional networks while developing a strong understanding of the industry while you study.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+453c369
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+455c371,373
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+457c375
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+459c377
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+461c379
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+463c381,382
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>A three-year bachelor degree or an approved equivalent undergraduate or postgraduate degree with an average of 60% or higher in the final year. The primary admission requirement focuses on post-experience entry based on a minimum of three years professional experience at a managerial level.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/finance/lyfaba.htm"><span class="off-screen">Financial Analysis/Business Administration</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Management (077460B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>City</dd></dl><div class="course-detail" id="course_i-6"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If youre seeking to develop a career in management or leadership, this degree has been developed for you. It starts with core foundation knowledge required of all managers, whatever the context. It then goes on to provide opportunities for you to develop knowledge in specialised areas of management or to maintain a more general orientation. Your fellow students will be from a diverse mix of academic backgrounds, ranging from engineering, humanities and science to management. Classes facilitate<br />
+> dynamic multidisciplinary innovation and exchange of ideas.<br />
+465c384
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> You will be equipped with the tools and skills necessary to develop ideas, to lead and manage organisational activities across corporate, government and not-for-profit sectors, and in small, medium, and large scale enterprises.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+467,489c386
+< or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - n/a<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE- 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Indonesia (SMA) - 7.5<br />
+< Vietnam (Year 12) - 8<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lmsd.htm"><span class="off-screen">Business (Sport Development and Management)</span>Bendigo</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Sport Management) (072759A)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-6"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you're passionate about sport - how it's played, managed, presented and<br />
+< promoted - this course will equip you with the skills and knowledge to enter this rapidly expanding global industry. You'll study the foundation principles of business alongside essential sport-specific development. Designed and delivered in collaboration with industry professionals, this degree ensures you graduate with a broad range of sport management competencies that are recognised within Australia and internationally.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+491c388
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+493c390
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+495c392,394
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+497c396
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+501,518c400
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 61.25<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+520c402,404
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbsl.htm"><span class="off-screen">Business (Sport Management)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Tourism and Hospitality) (020412C)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-7"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This globally accredited course covers a broad spectrum of issues across the tourism and hospitality industries, emphasising the practical skills and knowledge needed for effective tourism and hospitality management.<br />
+---
+> or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted if you don't have an undergraduate degree but have five or more years of relevant work experience. The university may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/management-programs/lmmgt.htm"><span class="off-screen">Management</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Management (Entrepreneurship and Innovation) (077450D)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>City</dd></dl><div class="course-detail" id="course_i-7"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you wish to create and lead the development of new business opportunities<br />
+> and to manage innovation across broad and diverse sectors in society, this course is tailored to you. You will find your peers are from a varied mix of academic backgrounds ranging from engineering, arts and humanities, and science to management - this leads to a lively exchange of ideas from<br />
+> differing points of view and experiences.<br />
+522c406
+< The course combines a solid business degree - encompassing areas such as accounting, marketing and economics - with specialised tourism and hospitality studies.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> Innovation and entrepreneurship provides a significant opportunity to directly address the worlds economic and social challenges and to support prosperity. The programme aims to equip students with the tools and skills necessary to develop ideas, to lead and manage entrepreneurial activities for creating new business ventures and to develop and sustain innovation practice across corporate, government and not-for-profit sectors.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+524c408
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+526c410
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+528c412
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+530d413
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+532c415,417
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+534c419
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+538,570c423
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 63.75<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Additional costs</dt><dd>Melbourne Campus: Students are required to purchase a basic hospitality uniform at a cost of approximately A$150. This can be purchased from any supplier, and remains the student's personal property.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbth.htm
+< "><span class="off-screen">Business (Tourism and Hospitality)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Tourism Management) (028231K)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-8"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course offers first-hand understanding of travel and tourism operations, broad industry knowledge, and core business management skills that can be applied professionally in small, medium and large tourism businesses. The curriculum complements a solid business degree (covering areas such as accounting marketing and economics) with specialised tourism subjects including destinations marketing and management, travel operations and ticketing, tour guiding, event management and tourist attraction operations.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+572c425,427
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+---
+> or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted if you don't have an undergraduate degree but have five or more years of relevant work experience. The university may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/management-programs/lmmei.htm "><span class="off-screen">Management (Entrepreneurship and Innovation)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Management (Human Resource Management) (077454M)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>City</dd></dl><div class="course-detail" id="course_i-8"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If youre seeking to develop a career in management or leadership, this degree has been developed for you. It starts with core foundation knowledge required of all managers, whatever the context. It then goes on to provide opportunities for you to develop knowledge in specialised areas of<br />
+> management or to maintain a more general orientation. Your fellow students will be from a diverse mix of academic backgrounds, ranging from engineering, humanities and science to management. Classes facilitate<br />
+> dynamic multidisciplinary innovation and exchange of ideas.<br />
+574c429
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+---
+> You will be equipped with the tools and skills necessary to develop ideas, to lead and manage organisational activities across corporate, government and not-for-profit sectors, and in small, medium, and large scale enterprises.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+576,598c431
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - n/a<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbtm.htm
+< "><span class="off-screen">Business (Tourism Management) </span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Business (Tourism Management/Marketing) (072765C)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>22 080</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-9"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Travel and tourism are big business. This course gives you firm grounding in business studies, coupled with an understanding of the critical role of marketing in this rapidly evolving industry. Blending theory and practical work, this degree allows you to gain real-world experience with the opportunity to undertake an industry project and/or an international study tour. The economic, social and environmental impacts of tourism are examined with a triple-bottom line approach. You'll study under acknowledged academic leaders in this exciting international field.</dd><dt>English Language Requirements</dt><dd>Successful completion of English for Further Studies Advanced Stage 5B certificate at undergraduate (EFS5 (60%) UG) level conducted by La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+---
+> TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+600c433
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+---
+> TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+602c435
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+---
+> La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+604c437,439
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> English as the language of instruction in tertiary studies may be accepted.<br />
+> Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+> for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+606c441
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+---
+> Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+610,627c445
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 65<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - n/a<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - CCC<br />
+< STPM - 8<br />
+< MICSS (UEC) - 5<br />
+< Canada Secondary School (or CPU) - 65<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 60<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+629c447,448
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lbbetmm.htm"><span class="off-screen">Business (Tourism Management / Marketing)</span>Melbourne</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws/Bachelor of Business (075229C)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-10"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Bachelor of Laws/Bachelor of Business provides an accredited professional qualification in law as well as a degree in business. You'll gain an innovative, high-quality legal education with a strong global and social justice perspective and a real emphasis on hands-on experiences. The course includes all the compulsory law subjects required for admission to practise law in Victoria. You'll also choose from a wide range of law electives, including subjects complementary to business such as banking and finance law, income taxation law and global business law.<br />
+---
+> or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted to applicants without an undergraduate degree but with five or more years of relevant work experience. The University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/management-programs/lmmhr.htm  "><span class="off-screen">Management (Human Resource Management)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Marketing Management (065932G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 400</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-9"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you wish to establish a career in marketing, in either a national or<br />
+> international business setting, this course will provide you with the postgraduate pathway you need.<br />
+631c450
+< The degree allows you to complete a major in business, economics, financial management, financial planning, human resource management, macroeconomics, management information systems, international management, management or marketing. See individual course entries for more details.<br />
+---
+> It will provide you with the knowledge, skills and attitude necessary to function effectively in a marketing setting, in either a specialist or generalist role in the public or private sector, including for-profit and not-for-profit organisations.<br />
+633c452
+< Please note: if you commence your studies at Bendigo, you'll normally transfer to Melbourne after two years of full-time study, where you'll complete the remainder of your course.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> For more information visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/LMMM/">Frequently Asked Questions</a> page.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+641,642d459
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+< <br />
+653,676c470
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 95<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - Melbourne 93.15<br />
+< International Baccalaureate - 34<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - not eligible<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Additional information</dt><dd>The relevant visa is required to complete a supervised workplace traineeship in Australia. Graduates should seek assurance or recognition of the course by relevant professional bodies in their preferred country of practice.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).<br />
+< International graduates: the relevant visa is required to complete a supervised workplace traineeship in Australia. You should seek assurance of recognition of the course by relevant professional bodies in the country of intended practice.<br />
+< <br />
+< Graduates with a marketing major: associate membership of the Australian Marketing Institute or the Marketing Research Society of Australia. Graduates with a human resource management major: admission to the Australian Human Resource Institute (subject to relevant work experience).</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlbus.htm
+< "><span class="off-screen">Laws/Business</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lwlbusb.htm
+< "><span class="off-screen">Laws/Business</span>Bendigo</a></dd></dl></div></div></div>
+---
+> Or approved international equivalent.</dd><dt>Academic entry requirements</dt><dd>An Australian Bachelor's degree in any discipline or an approved equivalent qualification. Admission may be granted if you don't have an undergraduate degree but have five or more years of relevant work experience. The University may give consideration to a range of factors including English proficiency, academic record and employment experience.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/fbel/marketing/lmmm.htm"><span class="off-screen">Marketing Management (Master)</span>Melbourne</a></dd></dl></div></div></div>
+679c473
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+682c476
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+693c487
+< <div id="related_study_options">
+---
+> <div id="study_options">
+696c490
+< <p>Didn't find a suitable course? You could also try these study options:</p>
+---
+> <p>Didn&#39;t find a suitable course? You could also try these study options:</p>
+701c495
+<   <li><a href="http://www.latrobe.edu.au/courses/sport-management">Sport management</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/tourism-and-hospitality-management/postgraduate"></a><a href="http://www.latrobe.edu.au/courses/tourism-and-hospitality-management/postgraduate">Tourism and hospitality&nbsp;management</a></li>
+709,712d502
+< <h3>Management placement opportunities</h3>
+< 
+< <p>As part of our commitment to innovating curriculum design and development, we have recently appointed several Work Integrated Learning Coordinators at our Melbourne and Regional campuses. Work integrated learning means you&#39;ll get to apply your skills in the workplace, as you study. You can earn credit towards your degree through work placements or simulations. Work integrated learning is endorsed by the Federal Government and industry groups such as the Australian Chamber of Commerce and Industry. It will assist to increase your employability potential when you graduate.</p>
+< 
+722,727c512,513
+< <div id="alt_pathways_nest">
+< 
+< <div id="alt_pathways_ug">
+< <h3>Alternative pathways</h3>
+< 
+< <p>Going straight from school to university isn’t an option for everyone. There may be other pathways to help you gain entry into this course. <a href="http://www.latrobe.edu.au/business/study/business">See alternative course pathways</a>.</p>
+---
+> <div id="content_div_113937">
+> <h3>About the academic staff</h3>
+729c515
+< </div>
+---
+> <p>You&#39;ll get to meet a large number of academics during your course, from tutors through to lecturers. You can <a href="http://www.latrobe.edu.au/fbel/about/staff">view all the staff</a> from the Faculty of Business, Economics and Law or focus on <a href="http://www.latrobe.edu.au/law/about/staff/study-option?areaofstudy=Management">staff in Management</a>.</p>
+736c522
+< <p>Find out about the experiences of one of our Management students.</p>
+---
+> <p>Find out about the experiences of one of our Management postgraduate students.</p>
+740c526
+< <p><a href="http://www.latrobe.edu.au/fbel/full-profile?mode=results&amp;queries_id_query=90321"> <img src="http://www.latrobe.edu.au/student-profiles/images/christine-watson.jpg/thumbnail.jpg" width="53" height="80" alt="" title="christine-watson" /></a></p>
+---
+> <p><a href="http://www.latrobe.edu.au/fbel/full-profile?mode=results&amp;queries_id_query=90182"> <img src="http://www.latrobe.edu.au/student-profiles/images/madelene-mcwha.jpg/thumbnail.jpg" width="53" height="80" alt="" title="Madelene Rose McWha" /></a></p>
+742c528
+< <p class="testimonial">La Trobe is a great place to study, especially when you are on a regional campus.</p>
+---
+> <p class="testimonial">Postgraduate studies have offered me a greater degree of individualism and autonomy to explore personalised areas of interest.</p>
+744c530
+< <p><cite><a href="http://www.latrobe.edu.au/fbel/full-profile?mode=results&amp;queries_id_query=90321">Ms Christine <strong>Watson</strong></a>,  Business, Economics and Law </cite></p>
+---
+> <p><cite><a href="http://www.latrobe.edu.au/fbel/full-profile?mode=results&amp;queries_id_query=90182">Ms Madelene Rose <strong>McWha</strong></a>,  Business, Economics and Law </cite></p>
+747,753d532
+< 
+< <div id="content_div_113937">
+< <h3>About the academic staff</h3>
+< 
+< <p>You&#39;ll get to meet a large number of academics during your course, from tutors through to lecturers. You can <a href="http://www.latrobe.edu.au/fbel/about/staff">view all the staff</a> from the Faculty of Business, Economics and Law or focus on <a href="http://www.latrobe.edu.au/law/about/staff/study-option?areaofstudy=Management">staff in Management</a>.</p>
+< 
+< </div>

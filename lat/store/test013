@@ -1,0 +1,228 @@
+20c20
+< <meta name="Campus" content="Melbourne" />
+---
+> <meta name="Campus" content="Campuses" />
+26c26
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+31,32c31,32
+< <meta name="description" content="We offer the opportunity to complete a Bachelor of Health Sciences alongside a Master of Dietetic Practice in only four years." />
+< <meta name="keywords" content="dietetics, dietitian, nutrition, community nutrition, public health, food industry, food product development, food regulation, food safety, education, marketing, food service management, undergraduate, bachelor, master, la trobe" />
+---
+> <meta name="description" content="The Master of Dietetic Practice is a two-year degree for graduates seeking to qualify as a dietitian." />
+> <meta name="keywords" content="Dietetics, dietitian, nutrition, patient nutritional care, public health, food industry, product development, food regulation, food safety, consumer education, food service management, postgraduate, Master" />
+42c42
+< <!-- 125614 -->
+---
+> <!-- 125664 -->
+67c67
+< <link rel="canonical" href="http://www.latrobe.edu.au/courses/dietetics"/><link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" />		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/dietetics/postgraduate"/>		
+74c74
+<   Page generated: 11 November 2013 08:19:51
+---
+>   Page generated: 11 November 2013 12:41:10
+115c115
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/dietetics">Dietetics</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/dietetics">Dietetics</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/dietetics/postgraduate">Postgraduate</a></div>
+150,151c150,151
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/dietetics">Undergraduate</a></li>
+<   <li><a href="http://www.latrobe.edu.au/courses/dietetics/postgraduate">Postgraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/dietetics">Undergraduate</a></li>
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/dietetics/postgraduate">Postgraduate</a></li>
+155d154
+< 
+160c159,161
+<   <p>Dietitians apply the art and science of human nutrition to help people understand the relationship between food and health. They have a key role in the management of diseases and conditions such as diabetes, heart disease, kidney disease, gastrointestinal disorders, obesity, malnutrition, food allergy and intolerance. Dietitians also work toward the prevention of many diseases and conditions through nutrition education, health promotion and advocacy. You will gain practical experience in clinical and other dietetic environments and study chemistry, human biosciences, public health, research, food science, nutrition and dietetics.<br /></p>
+---
+>   <p>Dietitians apply the art and science of human nutrition to help people understand the relationship between food and health. They have a key role in the management of diseases and conditions such as diabetes, heart disease, kidney disease, gastrointestinal disorders, obesity, malnutrition, food allergy and intolerance.</p>
+> 
+>   <p>A degree in dietetics is essential for practice as a dietitian. We plan to offer a two-year Master of Dietetic Practice in 2013 to graduates seeking to qualify as a dietitian. You must have completed a relevant bachelor degree and meet the prerequisites in biochemistry, physiology and human nutrition. Gain valuable practical experience in clinical and other dietetic environments. Study public health, research, food service, nutrition and dietetics.</p>
+168c169
+< <p>There is a growing demand for dietitians in Australia and overseas. Graduates are prepared for work in a range of fields including private practice, patient/client care in hospitals, health centres, nursing homes, community nutrition and public health, food service management, research, teaching and training, management, writing, media, marketing, public relations and the food industry (including product development, food regulation, safety, consumer nutrition education and nutrition marketing).</p>
+---
+> <p>There is a growing demand for dietitians in Australia and overseas. You may work in a range of fields including patient/client care in hospitals, health centres, nursing homes and private practice; community nutrition and public health; food service management; research; teaching and training; management; writing; media; marketing; public relations; and the food industry (including product development, food regulation, safety, consumer nutrition education and nutrition marketing).</p>
+175,176c176,179
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Health Sciences and Master of Dietetic Practice</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years full-time </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">93.35</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Dietitians apply the art and science of human nutrition to help us understand<br />
+< the relationship between food and health. They play a key role in the management of conditions such as diabetes, heart disease, kidney disease, gastrointestinal disorders, obesity, malnutrition, and food allergy/intolerance.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Dietetic Practice</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you have a relevant degree, the Master of Dietetic Practice will give you the opportunity to obtain a professional qualification as a dietitian. Dietitians have a key role in the nutrition management of diseases and conditions such as diabetes, heart disease, kidney disease, gastrointestinal disorders, obesity, malnutrition, food allergies and intolerance. Dietitians also work toward the prevention of many diseases and conditions through nutrition education, health promotion and advocacy. Once you have graduated, you will work in all areas of dietetics, including in hospitals, private practice, community health and the food industry.</dd><dt>Prerequisite</dt><dd>Successful completion of a Bachelor's degree in a health or science related area, completed within the last five years with a minimum grade average of 70 per cent (or subsequent postgraduate study and/or relevant work experience). Subject prerequisites in the Bachelor's degree or postgraduate course, or taken as single subject (non-award) studies are:<br />
+> - Two full semester subjects of human physiology at second year tertiary level or higher<br />
+> - Two full semester subjects of biochemistry at second year tertiary level or higher<br />
+> - Two full semester subjects of human nutrition science at any tertiary level.<br />
+178c181
+< Dietetics offers you many exciting career options - whether helping individual clients to maximise their nutrition, or focusing on nutrition science or policy within a large organisation. To help you develop the skills needed for your career path, this course includes clinical practice, community health and food service, and interdisciplinary work with health sciences peers.<br />
+---
+> Note: Each subject must be equivalent to at least 0.125 Effective Full-time Study Unit (EFTSU). Prerequisite subjects specified to be at second year tertiary level or higher must be at Australian Qualifications Framework (AQF) Level 6 or higher or equivalent.<br />
+180c183
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZHSDP/">Frequently Asked Questions</a> webpage.</dd><dt>Prerequisite</dt><dd>Units 3 &amp; 4: study score of at least 30 in English (ESL) or 25 in any other English, and at least 25 in two of Biology, Chemistry, Mathematics (any), Physical Education, or Physics.</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants are welcome to provide supporting documentation. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/mature-age/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying.<br />
+---
+> Biochemistry studies must have included fundamentals of molecular biology, protein structure and function, cellular metabolism and regulation, energy and macronutrient metabolism.<br />
+182c185
+< Selection may also be based on ATAR, GPA or STAT Multiple Choice.</dd><dt>Middle band</dt><dd>Re-ranking is based on work experience and Special Entry Access Scheme (SEAS) criteria.</dd><dt>Costs</dt><dd>A National Police Check at a cost of approximately A$15.50 and a Working with Children Check (no cost) are required for the professional experience placements in clinical and community settings in this course, plus a kitchen chemistry and safety kit, approximately A$120. Prior to commencing clinical or community placements, students must provide proof of immunisations. Costs may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional practice placements may vary depending on the venue. Please note: costs are approximate and subject to change.</dd><dt>Additional information</dt><dd>This course has a clinical component. For further information, please visit the <a href="http://www.latrobe.edu.au/health/study/placements">Health Sciences website</a>.<br /></dd><dt>How to apply</dt><dd>Apply through VTAC</dd><dt>Professional recognition</dt><dd>The degree will be submitted to the Dietitians Association of Australia (DAA) for accreditation. Once accreditation is finalised, you'll graduate with eligibility for full membership of DAA and the Accredited Practising Dietitian program.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/bachelor-of-health-sciences-master-of-dietetic-practice.htm"><span class="off-screen">Health Sciences/Dietetic Practice</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Human Nutrition</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent. </dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">72.2</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Nutritionists help individuals and communities make the right food choices for a healthy diet. To do this, nutritionists consider the nutritive value of foods, the nutrients bodies need at different stages of development, and the role nutrients and diet play in health and disease prevention.<br />
+---
+> Physiology studies must have included systemic physiology and/or pathophysiology, including homeostatic mechanisms and at least six of the following eight systems: body defences (immune system), gastrointestinal, renal, endocrine, cardiovascular, respiratory, muscular and nervous systems.<br />
+184c187
+< They can also do research such as working on new food products, or examining the relationships between nutrients or dietary patterns and disease. However, nutritionists do not help treat disease through nutrition - that is the role of dietitians.<br />
+---
+> Nutrition science must have included macronutrients and micronutrients (food sources, metabolism, storage and function), principles of energy balance, nutrient analysis of foods and aetiology of nutrition-related diseases.<br /></dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>All applicants must download and complete the Supplementary Information Form from: http://www.latrobe.edu.au/health and submit it alongside subject outlines for completed studies in prerequisite subjects.<br />
+186c189
+< This multidisciplinary course aims to give you a thorough understanding of human nutrition, to prepare you for a range of careers in the promotion of health and fitness at individual and community levels.<br />
+---
+> Successful applicants: students must comply with the Clinical and Professional Placements Policy (see institutional page).</dd><dt>Middle band</dt><dd><br /></dd><dt>Fee amount</dt><dd>Indicative (2013): $23,600 per 120 credit points</dd><dt>Costs</dt><dd>Accommodation and travel costs for professional practice placements may vary depending on the venue. A kitchen chemistry and safety kit will cost approximately A$120. A National Police Check will cost approximately A$15.50 per year, and a Working with Children Check (no cost) are required for the professional placements in clinical and community settings in this course. </dd><dt>Additional information</dt><dd>No deferral is available for this course. Classes, placement attendance and/or assessments may take place outside of the normal teaching periods for semester 1 and semester 2.<br />
+188c191
+< Please see our <a href="http://latrobe.custhelp.com/app">Frequently Asked Questions</a> page for more information.</dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: a study score of at least 30 in English (ESL) or 25 in any other English, and a study score of at least 25 in two of Biology, Chemistry, Mathematics (any), Physical Education or Physics</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process. This may include information such as work experience or reasons for applying. Applicants may wish to provide other documentation in support of their application.<br />
+---
+> Applicants may be required to undertake a bridging program prior to the commencement of the course, depending on content and scope of prior study.<br /></dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 11 November 2013.<br />
+190,191c193
+< Selection may also be based on ATAR, GPA or STAT Multiple Choice.</dd><dt>Costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - a dissecting kit - about A$40, and a kitchen chemistry ad safety kit - about A$120. Students can purchase these items from any supplier; they remain students' personal property. Additional costs of field trips - food, accommodation and travel - may also apply. </dd><dt>Additional information</dt><dd>Modifications to this course to align it with postgraduate courses in dietetics are under discussion.<br />
+< <br /></dd><dt>How to apply</dt><dd>VTAC</dd><dt>Professional recognition</dt><dd>Graduates may apply to the Nutrition Society of Australia for accreditation as an associate nutritionist. This course also provides prerequisites for entry into postgraduate courses, including those professionally accredited by the Dieticians Association of Australia. Please note: entry to postgraduate courses is competitive and places are limited.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/bachelor-of-human-nutrition.htm "><span class="off-screen">Human Nutrition</span>Melbourne</a></dd></dl></div></div></div>
+---
+> Applicants should also download and complete the <a href="http://www.latrobe.edu.au/__data/assets/word_doc/0008/540908/dietetics-gem-suppform2014.doc">Supplementary Form</a> regarding pre-requisite subjects and relevant work/voluntary experience. Evidence of completed prerequisite subjects including subject outlines/handbook entries must be submitted with your application.</dd><dt>Professional recognition</dt><dd>The degree will be submitted to the Dietitians Association of Australia (DAA) for accreditation. Once accreditation is finalised, graduates will be eligible for full membership of the DAA and the Accredited Practising Dietitian program.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/mdietprac.htm"><span class="off-screen">Dietetic Practice (Master)</span>Melbourne</a></dd></dl></div></div></div>
+194,195c196,197
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+197c199
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+201c203
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+203c205
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+208,213c210
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Health Sciences and Master of Dietetic Practice (062598G/071313F)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>4 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>28 390</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Dietitians apply the art and science of human nutrition to help us understand<br />
+< the relationship between food and health. They play a key role in the management of conditions such as diabetes, heart disease, kidney disease, gastrointestinal disorders, obesity, malnutrition, and food allergy/intolerance.<br />
+< <br />
+< Dietetics offers you many exciting career options - whether helping individual clients to maximise their nutrition, or focusing on nutrition science or policy within a large organisation. To help you develop the skills needed for your career path, this course includes clinical practice, community health and food service, and interdisciplinary work with health sciences peers.<br />
+< <br />
+< For more information please visit our <a href="http://latrobe.custhelp.com/app/answers/list/kw/HZHSDP/">Frequently Asked Questions</a> webpage.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Dietetic Practice (071313F)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>28 390</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>If you have a relevant degree, the Master of Dietetic Practice will give you the opportunity to obtain a professional qualification as a dietitian. Dietitians have a key role in the nutrition management of diseases and conditions such as diabetes, heart disease, kidney disease, gastrointestinal disorders, obesity, malnutrition, food allergies and intolerance. Dietitians also work toward the prevention of many diseases and conditions through nutrition education, health promotion and advocacy. Once you have graduated, you will work in all areas of dietetics, including in hospitals, private practice, community health and the food industry.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 7.0 with no individual band score less than 7.0;<br />
+217,244c214
+< TOEFL Internet-based Test - A minimum score of 94 with a minimum for SLR 24; W27;<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): minimum score of 72 with no communicative skill score less than 68.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of A or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): A grade of B or higher.<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 85 and at least two As including an A in English<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 93.35<br />
+< International Baccalaureate - 35<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2x Level 5<br />
+< Sri Lankan A Levels - AAA<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 8.9<br />
+< Indonesia (SMA) - 8.5<br />
+< GAC Cert. IV - GPA 3.3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Two of Biology, Chemistry, Year 12 Mathematics or Physics.</dd><dt>Additional costs</dt><dd>A National Police Check at a cost of approximately A$15.50 and a Working with Children Check (no cost) are required for the professional experience placements in clinical and community settings in this course, plus a kitchen chemistry and safety kit, approximately A$120. Prior to commencing clinical or community placements, students must provide proof of immunisations. Costs may vary depending on previous immunisations, approximately A$250 - $470. Accommodation and travel costs for professional practice placements may vary depending on the venue. Please note: costs are approximate and subject to change.</dd><dt>Professional recognition</dt><dd>La Trobe University will be submitting the degree to the Dietitians Association of Australia (DAA) for accreditation. Once accreditation is finalised, graduates will be eligible for full membership of DAA and the Accredited Practising Dietitian program.<br /></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/double-degrees/bachelor-of-health-sciences-master-of-dietetic-practice.htm"><span class="off-screen">Health Sciences/Dietetic Practice</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Human Nutrition (075872J)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>24 680</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>Nutritionists help individuals and communities make the right food choices for a healthy diet. To do this, nutritionists consider the nutritive value of foods, the nutrients bodies need at different stages of development, and the role nutrients and diet play in health and disease prevention.<br />
+< <br />
+< They can also do research such as working on new food products, or examining the relationships between nutrients or dietary patterns and disease. However, nutritionists do not help treat disease through nutrition - that is the role of dietitians.<br />
+---
+> TOEFL Internet-based Test - A minimum score of 94 with a minimum for SLR 20; W27;<br />
+246c216,217
+< This multidisciplinary course aims to give you a thorough understanding of human nutrition, to prepare you for a range of careers in the promotion of health and fitness at individual and community levels.<br />
+---
+> Pearson Test of English (Academic) (PTE):<br />
+> Minimum score of 72 with no communicative skill score less than 68.<br />
+248c219,220
+< Please see our <a href="http://latrobe.custhelp.com/app">Frequently Asked Questions</a> page for more information.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> Cambridge Certificate of Advanced English (CAE):<br />
+> A grade of A or higher.<br />
+250c222
+< TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+---
+> Cambridge Certificate of Proficiency in English (CPE): A grade of B or higher.<br /></dd><dt>Academic entry requirements</dt><dd>You must have a relevant Bachelors degree equivalent to an Australian Bachelors degree, completed in the past five years (or subsequent postgraduate study and/or relevant work experience with a minimum grade average of 70 per cent.<br />
+252c224
+< TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+---
+> Prerequisites include two semester long subjects at the second year level or higher of a tertiary program in both human physiology and biochemistry, plus two semester long subjects in human nutrition at any level.<br />
+254c226,227
+< La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level.<br />
+---
+> Each subject must be equivalent to at least 0.125 Effective Full-time Study Units (EFTSU). Prerequisite subjects specified to be at second year tertiary level or higher must be at or higher than Australian Qualifications Framework (AQF) Level 6 or equivalent.<br />
+> Biochemistry studies must have included fundamentals of molecular biology, protein structure and function, cellular metabolism and regulation, energy and macronutrient metabolism.<br />
+256c229
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+---
+> Previous physiology studies must have included systemic physiology and or pathophysiology including homeostatic mechanisms and at least six of the following systems: body defences (immune system), gastrointestinal, renal, endocrine, cardiovascular, respiratory, muscular and nervous systems.<br />
+258,289c231
+< English as the language of instruction in tertiary studies may be accepted.<br />
+< Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+< for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+< <br />
+< or approved international equivalent.<br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe Melbourne's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe Melbourne's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br /></dd><dt>Academic entry requirements</dt><dd>La Trobe Melbourne Foundation Studies - 70<br />
+< <br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 72.20<br />
+< International Baccalaureate - 25<br />
+< GCE A Levels - 10<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - BBC<br />
+< STPM - 8.67<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 70<br />
+< <br />
+< Norway Upper Secondary Certificate - 4<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 70<br />
+< Vietnam (Year 12) - 8.2<br />
+< Indonesia (SMA) - 8.2<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br /></dd><dt>Subject prerequisite</dt><dd>Two of Biology, Chemistry, Year 12 Mathematics or Physics.</dd><dt>Additional costs</dt><dd>Depending on the subjects chosen, extra costs can include a laboratory coat - about A$30 - a dissecting kit - about A$40, and a kitchen chemistry ad safety kit - about A$120. Students can purchase these items from any supplier; they remain students' personal property. Additional costs of field trips - food, accommodation and travel - may also apply.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for registration as associate nutritionists with the Nutrition Society of Australia.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/health-sciences/single-degrees/bachelor-of-human-nutrition.htm "><span class="off-screen">Human Nutrition</span>Melbourne</a></dd></dl></div></div></div>
+---
+> Previous nutrition science studies must include macronutrients and micronutrients (food sources, metabolism, storage and function), principles of energy balance, nutrient analysis of foods and aetiology of nutrition-related diseases.</dd><dt>Additional costs</dt><dd>Accommodation and travel costs for professional practice placements may vary depending on the venue. A kitchen chemistry and safety kit will cost approximately A$120. A National Police Check will cost approximately A$15.50 per year, and a Working with Children Check (no cost) are required for the professional placements in clinical and community settings in this course.</dd><dt>Additional information</dt><dd>Applicants must also submit a <a href="http://www.latrobe.edu.au/international/apply/how-to/supplementary-admissions-forms">Supplementary Form</a>.</dd><dt>Professional recognition</dt><dd>La Trobe University will be submitting the degree to the Dietitians association of Australia (DAA) for accreditation. Once accreditation is finalised, youll graduate with eligibility for full membership of DAA and the Accredited Practising Dietitian program.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/health-sciences/coursework/mdietprac.htm"><span class="off-screen">Dietetic Practice (Master)</span>Melbourne</a></dd></dl></div></div></div>
+292c234
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+295c237
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+315a258,261
+> <h2>Am I eligible to apply?</h2>
+> 
+> <p>Complete the <a href="http://www.latrobe.edu.au/health/downloads/dietetics-self-assessment-checklist.pdf">Self Assessment Checklist [PDF 194KB]</a><br /></p><br />
+> 
+320c266
+< <p>You will undertake supervised professional placements in a variety of dietetic workplaces, including clinical environments such as hospitals; community care, food service and advocacy. The third and fourth years of the course include a substantial component of professional placement.</p>
+---
+> <p>Both years of the degree include substantial professional placement in dietetic workplaces including clinical environments such as hospitals, community care, food service and advocacy.</p>
+324,326c270
+< <p>If you have completed part or all of an undergraduate degree at another university, apply through VTAC for entry into the first year of the Bachelor of Health Sciences/Master of Dietetic Practice. If you have completed the first year of another course in our faculty, you may apply to transfer into the course.<br /></p>
+< 
+< <p>We also offer a two-year graduate entry <a href="http://www.latrobe.edu.au/courses/dietetics/postgraduate">Master of Dietetic Practice</a>.<br /></p>
+---
+> <p>If you do not meet the prerequisites for the Master of Dietetic Practice, you may take the necessary units as <a href="http://www.latrobe.edu.au/mature-age/apply/pathways/single-subject">single subjects</a> with us or another university.</p>

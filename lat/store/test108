@@ -1,0 +1,456 @@
+15a16,27
+> <!-- Brokenlinks //-->
+> 
+> <!-- Info //-->
+> <meta name="TotalPages" content="Nil" />
+> <meta name="Links" content="" />
+> <meta name="TotalLinks" content="" />
+> 
+> <!-- Total Info //-->
+> <meta name="Num_Subsites_With_Broken_Links" content="" />
+> <meta name="Last_Update_Time" content="" />
+> <meta name="Num_Total_Broken_Links_Sitewide" content="" />
+> 
+19,20c31,32
+< <meta name="description" content="Our Bachelor of Psychological Science will help you develop the skills needed for a career in clinical psychology, management, research, marketing, teaching, human resources and more." />
+< <meta name="keywords" content="psychology, psychological, science, psychiatry, psychiatric, clinic, hospital, school, counselling, marketing, advertising, human resources, undergraduate, bachelor" />
+---
+> <meta name="description" content="We prepare students for practice and research in clinical psychology or clinical neuropsychology and provide specialist training for registration as a professional psychologist. Courses are approved by the Australian Psychology Accreditation Council (APAC)." />
+> <meta name="keywords" content="psychology, postgraduate, Master's, coursework" />
+37c49
+< <meta name="Campus" content="Albury-Wodonga,Bendigo,Melbourne" />
+---
+> <meta name="Campus" content="Melbourne" />
+43c55
+< <meta name="Level.of.study" content="Undergraduate" />
+---
+> <meta name="Level.of.study" content="Level of study" />
+51c63
+< <!-- 108784 -->
+---
+> <!-- 110423 -->
+76c88
+< <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/psychology"/>		
+---
+> <link rel="stylesheet" type="text/css" media="all" href="/__data/assets/css_file/0005/126536/Coursefindercss.css" /><link rel="canonical" href="http://www.latrobe.edu.au/courses/psychology/postgraduate"/>		
+83c95
+<   Page generated: 11 November 2013 17:27:13
+---
+>   Page generated: 11 November 2013 17:43:17
+124c136
+<     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/psychology">Psychology</a></div>
+---
+>     You are here: <a href="/">University home</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses">Courses</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/psychology">Psychology</a>&nbsp;&gt;&nbsp;<a href="http://www.latrobe.edu.au/courses/psychology/postgraduate">Postgraduate</a></div>
+159c171
+<   <li><a class="current" href="http://www.latrobe.edu.au/courses/psychology">Undergraduate</a></li>
+---
+>   <li><a href="http://www.latrobe.edu.au/courses/psychology">Undergraduate</a></li>
+161c173
+<   <li><a href="http://www.latrobe.edu.au/courses/psychology/postgraduate">Postgraduate</a></li>
+---
+>   <li><a class="current" href="http://www.latrobe.edu.au/courses/psychology/postgraduate">Postgraduate</a></li>
+165,205d176
+< <div class="inline-video">
+< 	<div>
+< 		<img class="play-video" style="background:transparent url(http://webmedia.latrobe.edu.au/production1/video1530.jpg.std.jpg) no-repeat 0 0" src="http://webmedia.latrobe.edu.au/images/view-video-overlay-std.png" alt="" width="250" height="166" />
+< 	</div>
+< 
+<   <div class="webmedia">
+< 
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:05:24',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/lWlSLTU_psych_v3.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/lWlSLTU_psych_v3.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video1530.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'1530', 'name':'1530'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v1530', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< 
+< 
+< <div id="v1530">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video1530.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/Pg9RLTU_psych_v3_1.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< </div>
+< 
+< 		<div class="jump-list">
+< 			<ul>
+< 				<li class="initial webmedia">Other formats</li>
+< 				<li><a href="http://webstat.latrobe.edu.au/webmedia/media/Pg9RLTU_psych_v3_1.mp4"><span
+< 				class="off-screen">Studying Psychology at La Trobe University</span> MP4 [30.56 MB]</a></li>
+< 				<li><a href="http://webstat.latrobe.edu.au/webmedia/media/06r0LTU_psych_v3.mp3"><span class="off-screen">Studying Psychology at La Trobe University</span> MP3 [3.72 MB]</a></li>
+< 								<li><a href="http://webstat.latrobe.edu.au/webmedia/media/kOz4Psychology.doc"><span class="off-screen transcript-link">Studying Psychology at La Trobe University</span> Transcript</a></li>
+< 								<li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=1530"><span class="off-screen">Studying Psychology at La Trobe University</span> Permalink</a></li>
+< 				<li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video format request: http://webmedia.latrobe.edu.au/webmedia/perma.php?1530">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< 			</ul>
+< 		</div>
+< 	</div>
+< </div>
+< 
+207c178,179
+< <h2>Why study Psychology?</h2>
+---
+> <div class="feature feature-big">
+>   <h2><img src="http://www.latrobe.edu.au/__data/assets/image/0004/119929/Physiology.jpg" width="250" height="166" alt="" title="Physiology.jpg" />Why pursue postgraduate study in Psychology?</h2>
+209c181
+< <p>Our psychology course gives you the opportunity to develop knowledge and skills needed for a career in clinical psychology, management, research, marketing, teaching, human resources and more.<br /></p>
+---
+>   <p>Our postgraduate coursework program prepares you for practice and research in clinical psychology or clinical neuropsychology. Gain the specialist training for registration as a professional psychologist and membership of the <a href="http://www.psychology.org.au/">Australian Psychological Society</a>. We emphasise research based on developments in psychological knowledge.&nbsp;</p>
+211c183,184
+< <p>We offer more psychology based subjects than other Victorian universities and the flexibility for you to do a range of subjects in other disciplines<br /></p>
+---
+>   <p><a href="http://www.latrobe.edu.au/psy">To find out more about studying Psychology at La Trobe, visit the School of Psychological Science website</a>.<br /></p>
+> </div>
+213c186
+< <p>You will attend weekly practical classes and undertake small group work. We also offer regular guest lectures by expert researchers and practitioners. You'll have access to outstanding neuroscience laboratory facilities and Australia's first <a href="http://www.latrobe.edu.au/otarc">Autism Research Centre</a>.<br /></p>
+---
+> </div>
+215c188,189
+< <p>Courses are approved by the <a href="http://www.psychologycouncil.org.au/">Australian Psychology Accreditation Council</a> (APAC).</p>
+---
+> <div id="intro_txt_2">
+> <h2>Career opportunities</h2>
+217c191
+< <p><a href="http://www.latrobe.edu.au/psy">To find out more about studying Psychology at La Trobe, visit the School of Psychological Science website</a>.<br /></p>
+---
+> <p>Graduates are prepared for work as psychologists in the health and government sectors, community organisations, research institutions and industry. You may also work as a clinician, case manager, psychotherapist, manager, researcher, specialist consultant or adviser.</p>
+221,222c195,196
+< <div id="intro_txt_2">
+< <h2>Career opportunities</h2>
+---
+> <div id="new_div_194751">
+> <h2>Professional Psychology options</h2>
+224c198
+< <p>If you are aiming to practise as an accredited clinical psychologist, you are required to continue study and complete an Honours year, and a postgraduate degree or work-based internship. We offer a fourth year of study, required by law before you can continue with specialised training. See&nbsp;<a href="http://www.latrobe.edu.au/psy/professional/employment/become">Become&nbsp;a Psychologist</a>&nbsp;for more information about psychology, the professional accreditation process and study requirements.<br /></p>
+---
+> <p>To help you choose the right course for your professional goals, see our <a href="http://www.latrobe.edu.au/psy/professional/employment">psychology and employment</a> pages.</p>
+226c200,206
+< <p>If you complete a Bachelor of Psychological Science, you can work in a range of organisations, including research institutes, hospitals, schools, human resources, marketing and advertising, recruitment, counselling and statistics.<br /></p>
+---
+> <p>We offer</p>
+> 
+> <ul>
+>   <li>Clinical Master’s degrees (coursework) – see the Courses table below</li>
+> 
+>   <li>Professional Doctorates (combined coursework and research) and&nbsp; Master’s or PhD (by research) - see the <a href="http://www.latrobe.edu.au/courses/psychology/research">research tab</a>.</li>
+> </ul>
+233c213
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Laws/ Bachelor of Psychological Science  </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years full-time or part-time equivalent </dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (February and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Bendigo <span class="atar"> n/a</span></dd><dd>Melbourne <span class="atar">94.5</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree aims to prepare you for a career in the law, psychology or mental health fields, and the fascinating area where these disciplines intersect. You'll choose from a wide range of law electives, many with a practical skills component, and compulsory specialised law subjects relevant to psychology, such as Mental Disorder and Criminal Responsibility.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Clinical Neuropsychology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or up to 4 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course prepares you for research and practice in clinical neuropsychology. It provides students with the specialist training required for registration as a professional psychologist with the Australian Psychological Society (APS). Students will also be eligible for specialised supervision leading to full membership with the APS College of Clinical Neuropsychologists.<br />
+235c215
+< The Bachelor of Psychological Science aims to provide students with broad knowledge and skills in psychology as well as biological and social aspects of behaviour. Note that this course does not qualify graduates for registration to work as a psychologist - you'll also need to complete specific postgraduate studies. See individual course entries for more details.<br />
+---
+> In keeping with the scientist-professional training model, the course emphasises the application of research based on developments in the field of psychology.<br />
+237,239c217,222
+< Students commencing their studies at Bendigo normally transfer to Melbourne after two years of study where they complete the remainder of their course (this is only available to local students). However, students who wish to remain in Bendigo are offered the ability to complete their later year core law subjects and a limited number of law electives through blended learning/video conferencing.</dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: study score of at least 30 in English (any)</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+< Selection may also be based on GPA or STAT Multiple Choice.<br /></dd><dt>Middle band</dt><dd>Consideration is given to study scores in prerequisite studies, Humanities (any) Biology, Psychology, and to Special Entry Access Scheme (SEAS) criteria.</dd><dt>How to apply</dt><dd>VTAC. If you are not currently studying Year 12, and intend to apply only to La Trobe, you can <a href="http://latrobe-apply.custhelp.com">apply direct to the University</a> until 6 December. Applicants intending to apply to more than one institution and current Year 12 students must apply through VTAC.</dd><dt>Professional recognition</dt><dd>All La Trobe University law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practise as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an<br />
+< approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria). Eligibility for membership of Australian Psychological Society and Victorian registration as a psychologist requires at least two more years study beyond fourth year, such as a Master of Psychology or a Doctor of Psychology professional training program.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlps.htm"><span class="off-screen">Laws/Psychological Science </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lwlpsb.htm"><span class="off-screen">Laws/Psychological Science </span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Psychological Science </a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years full-time or part-time equivalent</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Albury-Wodonga <span class="atar">60.1</span></dd><dd>Bendigo <span class="atar">60.15</span></dd><dd>Melbourne <span class="atar">70.2</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This psychology course gives you the opportunity to develop the knowledge and skills for a career in clinical psychology, management, research, marketing, teaching, human resources and more.<br />
+---
+> Please note: International students cannot undertake studies on overseas exchange in this program.</dd><dt>Prerequisite</dt><dd>Applicants should have:<br />
+> - an APAC-accredited Australian Bachelo's degree with a major in psychology and a minimum B grade average (70 per cent or above) or equivalent across all years<br />
+> - an APAC-accredited fourth-year program in psychology including a major thesis component with an upper H2A average (75 per cent or above)<br />
+> - two academic referee reports, as set out in the proforma <a href="http://www.latrobe.edu.au/psy/research/becoming/apply">here</a><br />
+> - two professional referee reports, as set out in the proforma (see above)<br />
+> - experience in volunteer work or work related to psychology.</dd><dt>Fee amount</dt><dd>Indicative (2013): $21,600 per 120 credit points. </dd><dt>Costs</dt><dd>Annual fee for provisional psychologist registration - A$419, subject to change. </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 October 2013.<br />
+241c224,225
+< We offer you more psychology-based subjects than other Victorian universities, while maintaining enough flexibility for you to do a range of subjects from other disciplines. These might include biology, or sociology subjects, or electives in subjects from foreign languages to business.<br />
+---
+> For this course, applicants must also submit two academic and two professional references. See <a href="http://www.latrobe.edu.au/psy/research/becoming/apply">here</a>.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for registration as professional psychologists with the Psychology Board of Australia, and for endorsement as a specialist clinical neuropsychologist following further supervised practice within a registrar program. Graduates can gain membership<br />
+> with the Australian Psychological Society (APS), and are eligible for full membership with the APS College of Clinical neuropsychologists after fulfilling all requirements of the registrar program.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smcnp.htm"><span class="off-screen">Clinical Neuropsychology (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="LOCAL" href="#">Master of Clinical Psychology</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years full-time or up to 4 years part-time</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus:</dt><dd>Melbourne</dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course prepares you for research and practice in clinical psychology. It provides you with the specialist training required for membership with the Australian Psychological Society (APS).<br />
+243,244c227
+< You'll have weekly practical classes and small group work, and access to regular guest lectures by expert researchers and practitioners. Tutorial and laboratory sessions combine theoretical study with practical skill development. You'll work in our outstanding neuroscience laboratory facilities and Australia's first autism research centre, the <a href="http://www.latrobe.edu.au/otarc">Olga Tennison Autism Research Centre</a>.<br /></dd><dt>Prerequisite</dt><dd>VCE Units 3 and 4: English (any)<br />
+< NSW HSC: satisfy English requirements</dd><dt>Year 12 and non-year 12 extra requirements</dt><dd>Applicants may wish to provide other documentation in support of their application. Non-Year 12 applicants must complete and submit a <a href="http://www.latrobe.edu.au/matureage/">VTAC Personal History online</a> for other information to be considered during the selection process e.g. details on work experience or reasons for applying.<br />
+---
+> You will also be eligible for specialised supervision leading to full membership of the APS College of Clinical Neuropsychologists. In keeping with the scientist-professional training model, the course emphasises the application of research based on development in the field of psychology.<br />
+246c229,239
+< Selection may also be based on GPA or STAT Multiple Choice.<br />
+---
+> Please note: International students cannot undertake studies on overseas exchange in this program.</dd><dt>Prerequisite</dt><dd>Applicants should have:<br />
+> - an APAC-accredited Australian Bachelors degree with<br />
+> a major in psychology and a minimum B grade average<br />
+> (70 per cent or above) or equivalent across all years<br />
+> - an APAC-accredited fourth-year program in psychology<br />
+> including a major thesis component with an upper H2A<br />
+> average (75 per cent or above)<br />
+> - two academic referee reports, as set out <a href="http://www.latrobe.edu.au/psy/research/becoming/apply">here</a><br />
+> - two professional referee reports, as set out in the proforma<br />
+> (see above)<br />
+> - experience in volunteer work or work related to psychology.</dd><dt>Fee amount</dt><dd>Indicative (2013): $21,600 per 120 credit points. </dd><dt>Costs</dt><dd>Annual fee for provisional psychologist registration - A$419, subject to change. </dd><dt>How to apply</dt><dd><a href="http://latrobe-apply.custhelp.com/">Apply online</a> by 31 October 2013.<br />
+249,251d241
+< Albury-Wodonga: UAC applicants may need to complete the La Trobe Alternative Category form at: www.latrobe.edu.au/studadmin/aw/downloads/Altentry.pdf<br />
+< For more information, call (03) 9479 2220 or send an email to sci.tech@latrobe.edu.au</dd><dt>Middle band</dt><dd>Successful completion of the following gives you an additional 1.5 aggregate points per study, to a maximum of 3 points: Biology, Health and Human Development, Information Technology (any), Mathematical Methods, Specialist Mathematics, Psychology or any Science study. Consideration is given to Special Entry Access Scheme (SEAS) criteria. A regional bonus may apply.</dd><dt>How to apply</dt><dd>Melbourne and Bendigo: VTAC<br />
+< Albury-Wodonga: VTAC/UAC</dd><dt>Professional recognition</dt><dd>The degree is accredited by the Australian Psychology Accreditation Council (APAC). Graduates are eligible to apply for APAC-accredited fourth-year courses, such as the Bachelor of Psychological Science (Honours) at La Trobe, which enables associate membership of the Australian Psychological Society (APS).<br />
+253c243
+< Eligibility for registration as a psychologist with the Psychology Board of Australia and full membership of the APS require at least two years' appropriate study beyond fourth year, such as a Masters or Doctoral degree.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbps.htm"><span class="off-screen">Psychological Science </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbpsb.htm"><span class="off-screen">Psychological Science </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbpsw.htm"><span class="off-screen">Psychological Science </span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="LOCAL" href="#">Bachelor of Science (Applications in Society)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 (February)</dd><dt>Campus/<b>ATAR</b>:</dt><dd>Melbourne <span class="atar">55.45</span></dd><dd>Bendigo <span class="atar">57.1</span></dd><dd>Albury-Wodonga <span class="atar">73.5</span></dd></dl><div class="course-detail"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Bachelor of Science (Applications in Society) combines major studies in science with complementary disciplines from other areas. The degree is designed to place science in context and to explore the applications of science in society, giving you a deep understanding of at least one area of science and the ability to work effectively in non-science disciplines. This cross-disciplinary degree gives graduates the skills to work as knowledge brokers in business, government, education or science.<br />
+---
+> For this course, applicants must also provide two academic and two professional references. See <a href="http://www.latrobe.edu.au/psy/research/becoming/apply">here</a>.</dd><dt>Professional recognition</dt><dd>Graduates are eligible for registration as a professional psychologist with the Psychology Board of Australia, and for endorsement as a specialist clinical psychologist following further supervised practice within a registrar program.<br />
+255,256c245,246
+< The course also includes the optional <a href="http://www.latrobe.edu.au/scitecheng/study/work-ready-science%3E'Work%20Ready%20Science'%20program%3C/a%3E%20(WRS)%20with%20career%20development%20workshops%20and%20subjects%20that%20count%20towards%20your%20degree.%20The%20program%20coordinator%20will%20help%20you%20find%20work%20placement%20opportunities,%20study%20exchange%20programs%20or%20cadetship%20placements%20in%20your%20area%20of%20interest.%3Cbr%20/%3E"></a></dd><dt>Prerequisite</dt><dd>VCE Units 3 &amp; 4: a study score of at least 25 in English (ESL) or 20 in any other English<br />
+< HSC (NSW): English Band 2 or equivalent</dd><dt>How to apply</dt><dd>VTAC/UAC.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsap.htm"><span class="off-screen">Science (Applications in Society)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsapb.htm"><span class="off-screen">Science (Applications in Society)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsapw.htm "><span class="off-screen">Science (Applications in Society)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> Graduates can gain membership with the<br />
+> Australian Psychological Society (APS) and are eligible for full membership with the APS College of Clinical Psychologists after fulfilling all requirements of the registrar program.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smcp.htm"><span class="off-screen">Clinical Psychology (Master)</span>Melbourne</a></dd></dl></div></div></div>
+259,260c249,250
+< <div id="how_to_apply_-_local_-_ug">
+< <h4>Want to know more?</h4>
+---
+> <div id="how_to_apply_-_local_-_pg">
+> <h4>How to apply?</h4>
+262c252
+< <p>Feel free to <a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a>.</p><!--p>Feel free to <a href=""></a><a href="http://latrobe.custhelp.com/app/home/">ask us a question about any course for local students</a> or find out <a href="./?a=24114">how to apply as a local student</a>.</p-->
+---
+> <p>Methods of application vary from course to course. Please see the course entry above for details of how to apply for the course you are interested in.</p>
+266c256
+< <p>Undergraduate courses are <a href="http://www.latrobe.edu.au/school/costs/course-costs">Commonwealth Supported Places</a> (CSP) for eligible Australian and New Zealand citizens. The <a href="http://www.latrobe.edu.au/students/fees/course">domestic fee calculator</a> can be used to calculate the cost of subjects this year.</p>
+---
+> <p>Some postgraduate courses are fee-paying which means that you pay the full cost of the course (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/FullFeesAndFEE-HELP/Default.htm">FEE-HELP</a> is available). Others offer Commonwealth Supported Places (CSP) &#8211; where the Commonwealth Government subsidises the cost of your course and you pay a contribution (<a href="http://www.goingtouni.gov.au/Main/FeesLoansAndScholarships/Postgraduate/CommonwealthSupportForYourPlaceAndHECS-HELP/Default.htm">HECS-HELP</a> is available).</p>
+268c258
+< <p>There is also a wide range of <a href="http://www.latrobe.edu.au/scholarships"></a><a href="http://www.latrobe.edu.au/international/fees/scholarships/coursework">scholarships available for local students</a>.&nbsp;</p>
+---
+> <p>Students enrolled for certain postgraduate coursework programs may be eligible for <a href="http://www.latrobe.edu.au/students/fees/assistance">student income support</a>.</p>
+273,320c263
+< <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Laws/ Bachelor of Psychological Science   (075227E)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>5 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 420</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This double degree aims to prepare you for a career in the law, psychology or mental health fields, and the fascinating area where these disciplines intersect. You'll choose from a wide range of law electives, many with a practical skills component, and compulsory specialised law subjects relevant to psychology, such as Mental Disorder and Criminal Responsibility.<br />
+< <br />
+< The Bachelor of Psychological Science aims to provide students with broad knowledge and skills in psychology as well as biological and social aspects of behaviour. Note that this course does not qualify graduates for registration to work as a psychologist - you'll also need to complete specific postgraduate studies. See individual course entries for more details.<br />
+< <br />
+< Students commencing their studies at Bendigo normally transfer to Melbourne after two years of study where they complete the remainder of their course (this is only available to local students). However, students who wish to remain in Bendigo are offered the ability to complete their later year core law subjects and a limited number of law electives through blended learning/video conferencing.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+< <br />
+< TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+< <br />
+< TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+< <br />
+< La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted.<br />
+< Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+< for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+< <br />
+< or approved international equivalent.<br />
+< <br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 95<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 94.5<br />
+< International Baccalaureate - 35<br />
+< GCE A Levels - 14<br />
+< HKDSE - 2 x Level 5<br />
+< Sri Lankan A Levels - AAB<br />
+< STPM - 11<br />
+< MICSS (UEC) - 2.5<br />
+< Canada Secondary School (or CPU) - 85<br />
+< Norway Upper Secondary Certificate - 4.5<br />
+< Sweden Slutbetyg - VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 85<br />
+< Vietnam (Year 12) - 9<br />
+< Indonesia (SMA) - not eligible<br />
+< GAC Cert. IV - GPA 3.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Australian VCE Units 3 and 4, a study score of at least 35 in English (ESL) or 30 in any other English.</dd><dt>Additional information</dt><dd>International students are advised to obtain assurance of recognition of the course by relevant professional bodies in their preferred country of practice.</dd><dt>Professional recognition</dt><dd>All La Trobe University Law courses include the subjects required by the Victorian Council of Legal Education to qualify for admission to legal practice. Admission to practice as a barrister and solicitor of the Supreme Court of Victoria usually requires the completion of a traineeship (formerly referred to as articles of clerkship) or an approved practical legal training course (for example, the Leo Cussen Institute or the College of Law Victoria).<br />
+< Graduates can complete a suitable fourth-year program (e.g. Honours) to qualify for associate membership of the Australian Psychological Society (APS), such as specialised Postgraduate Diploma courses. Eligibility for membership of the APS and for Victorian registration as a psychologist require at least two more years of appropriate study beyond fourth year, such as a Master's or Doctorate in psychology.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/fbel/courses/lwlps.htm"><span class="off-screen">Laws/Psychological Science </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/bendigo/fbel/lwlpsb.htm"><span class="off-screen">Laws/Psychological Science </span>Bendigo</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Psychological Science  (002915G)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>3 years</dd><dt>Semester starts :</dt><dd>Semester 1 and 2 (March and July)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 060</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This psychology course gives you the opportunity to develop the knowledge and skills for a career in clinical psychology, management, research, marketing, teaching, human resources and more.<br />
+< <br />
+< We offer you more psychology-based subjects than other Victorian universities, while maintaining enough flexibility for you to do a range of subjects from other disciplines. These might include biology, or sociology subjects, or electives in subjects from foreign languages to business.<br />
+< <br />
+< You'll have weekly practical classes and small group work, and access to regular guest lectures by expert researchers and practitioners. Tutorial and laboratory sessions combine theoretical study with practical skill development. You'll work in our outstanding neuroscience laboratory facilities and Australia's first autism research centre, the <a href="http://www.latrobe.edu.au/otarc">Olga Tennison Autism Research Centre</a>.<br /></dd><dt>English Language Requirements</dt><dd>IELTS (Academic): minimum score of 6.5 with no individual band score less than 6.0.<br />
+---
+> <h3 class="accordion-title course_default">2014</h3><div class="content"><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Master of Clinical Neuropsychology (026671B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 750</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-0"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course prepares you for research and practice in clinical neuropsychology. It provides students with the specialist training required for registration as a professional psychologist with the Australian Psychological Society (APS). Students will also be eligible for specialised supervision leading to full membership with the APS College of Clinical Neuropsychologists.<br />
+322c265
+< TOEFL Paper-based Test: minimum score of 575 (minimum score of 5 in the Test of Written English).<br />
+---
+> In keeping with the scientist-professional training model, the course emphasises the application of research based on developments in the field of psychology.<br />
+324c267
+< TOEFL Internet-based Test: minimum score of 80 with minimum overall for SLR 18; W 22.<br />
+---
+> Please note: International students cannot undertake studies on overseas exchange in this program.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) - minimum overall band score of 7.0 with no individual band score less than 7.0. Please note the Psychology Board of Australia only accepts IELTS results for English language requirements.<br /></dd><dt>Academic entry requirements</dt><dd>You should have at least a B grade average (70 per cent or above) in an Australian Bachelors degree with a major in psychology, or approved international equivalent as assessed by the Australian Psychological Society (APS). You must have completed a fourth year in psychology including a major thesis component with at least a high B grade average (75 per cent or above) or approved international equivalent as assessed by the APS. You also need experience in voluntary work, or work related to psychology, two academic referee reports and two professional referee reports - see the proforma for more information.<br />
+326c269
+< La Trobe Melbourne (ELICOS): completion of English for Further Studies Advanced Stage 5B Certificate at postgraduate (EFS5 (70 per cent) PG1) level. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+---
+> Contact the School of Psychological Science on (+61 3) 9479 1984 for copies of the referee proforma. They can also be accessed at <a href="http://www.latrobe.edu.au/international/apply/how-to/supplementary-admissions-forms%3Cbr%20/%3E">this website</a><br />
+328c271
+< La Trobe Melbourne Foundation Studies: 70 per cent final result in a course.<br />
+---
+> Applications are ranked on the basis of academic and professional suitability for selection by interview.</dd><dt>Additional costs</dt><dd>Annual fee for provisional psychologist registration - A$419, subject to change.</dd><dt>Additional information</dt><dd>Applications close on 30 September.</dd><dt>Professional recognition</dt><dd>This course provides the specialist training required to gain registration as a professional psychologist with the Psychology Board of Australia (PBA). You can gain membership to the APS and are eligible for specialised supervision leading to full membership of the APS College of Clinical Neuropsychologists.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smcnp.htm"><span class="off-screen">Clinical Neuropsychology (Master)</span>Melbourne</a></dd></dl></div></div><div class="course-container course-even" ><h4 class="course-title"><a class="INT" href="#">Master of Clinical Psychology (006277M)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd>2 years</dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>26 750</dd><dt id="campus">Campus</dt><dd>Melbourne</dd></dl><div class="course-detail" id="course_i-1"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>This course prepares you for research and practice in clinical psychology. It provides you with the specialist training required for membership with the Australian Psychological Society (APS).<br />
+330,332c273
+< English as the language of instruction in tertiary studies may be accepted.<br />
+< Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English)<br />
+< for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+---
+> You will also be eligible for specialised supervision leading to full membership of the APS College of Clinical Neuropsychologists. In keeping with the scientist-professional training model, the course emphasises the application of research based on development in the field of psychology.<br />
+334c275
+< Pearson Test of English (Academic) (PTE): minimum score of 64 with no communicative skill score less than 59.<br />
+---
+> Please note: International students cannot undertake studies on overseas exchange in this program.</dd><dt>English Language Requirements</dt><dd>IELTS (Academic) - minimum overall band score of 7.0 with no individual band score less than 7.0. Please note the Psychology Board of Australia only accepts IELTS results for English language requirements.<br /></dd><dt>Academic entry requirements</dt><dd>You should have at least a B grade average (70 per cent or above) in an Australian Bachelors degree with a major in psychology, or approved international equivalent as assessed by the Australian Psychological Society (APS). You must have completed a fourth year in psychology including a major thesis component with at least a high B grade average (75 per cent or above) or approved international equivalent as assessed by the APS. You also need experience in voluntary work, or work related to psychology, two academic referee reports and two professional referee reports - see the proforma for more information.<br />
+336c277
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+---
+> Contact the School of Psychological Science on (+61 3) 9479 1984 for copies of the referee proforma. They can also be accessed at <a href="http://www.latrobe.edu.au/international/apply/how-to/supplementary-admissions-forms%3Cbr%20/%3E">this website</a><br />
+338c279
+< Cambridge Certificate of Proficiency in English (CPE): a grade of C or higher.<br />
+---
+> Applications are ranked on the basis of academic and professional suitability for selection by interview.</dd><dt>Additional costs</dt><dd>Annual fee for provisional psychologist registration - A$419, subject to change.</dd><dt>Additional information</dt><dd>Applications close on 30 September.<br />
+340,403c281
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 73<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 70.20 Melbourne campus<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 3 x Level 4<br />
+< Sri Lankan A Levels - BCC<br />
+< STPM - 9<br />
+< MICSS (UEC) - 4.5<br />
+< Canada Secondary School (or CPU) - 73<br />
+< Norway Upper Secondary Certificate - 3.7<br />
+< Sweden Slutbetyg - G/VG<br />
+< All Indian Sen SC (Best 5 Subjects) - 70<br />
+< Vietnam (Year 12) - 8.5<br />
+< Indonesia (SMA) - 8<br />
+< GAC Cert. IV - GPA 2.6<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate program. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.</dd><dt>Subject prerequisite</dt><dd>Equivalent to Australian Units 3 and 4: English (any).</dd><dt>Additional information</dt><dd>Semester 2 (July) entry is subject to the availability of places.</dd><dt>Professional recognition</dt><dd>To qualify for further training as a psychologist, you must complete a suitable fourth year programs such as Honours, which must be accredited by the Australian Psychology Accreditation Council (APAC) for further study in psychology.<br />
+< <br />
+< Eligibility for full registration as a psychologist with the Psychology Board of Australia and full membership of the APS require at least two years' appropriate study beyond fourth year, such as a Master's or Doctoral degree, or by undertaking supervised experience with a registered psychologist.<br />
+< <br />
+< The Psychology Board of Australia registers psychologists in Australia. Membership of the Australian Psychological Society (APS) also provides professional recognition and support.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbps.htm"><span class="off-screen">Psychological Science </span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbpsb.htm"><span class="off-screen">Psychological Science </span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbpsw.htm"><span class="off-screen">Psychological Science </span>Albury-Wodonga</a></dd></dl></div></div><div class="course-container course_odd" ><h4 class="course-title"><a class="INT" href="#">Bachelor of Science (Applications in Society) (077313B)</a></h4><dl class="course-summary separate"><dt>Duration :</dt><dd></dd><dt>Semester starts :</dt><dd>Semester 1 (March)</dd><dt>Annual Tuition Fee (A$) :</dt><dd>25 810</dd><dt id="campus">Campus</dt><dd>Albury-Wodonga, Bendigo, Melbourne</dd></dl><div class="course-detail" id="course_i-2"><dl class="course-summary"><dt>Year</dt><dd>2014</dd><dt>Course description</dt><dd>The Bachelor of Science (Applications in Society) combines major studies in science with complementary disciplines from other areas. The degree is designed to place science in context and to explore the applications of science in society, giving you a deep understanding of at least one area of science and the ability to work effectively in non-science disciplines. This cross-disciplinary degree gives graduates the skills to work as knowledge brokers in business, government, education or science.<br />
+< <br />
+< The course also includes the optional <a href="http://www.latrobe.edu.au/scitecheng/study/work-ready-science%3E'Work%20Ready%20Science'%20program%3C/a%3E%20(WRS)%20with%20career%20development%20workshops%20and%20subjects%20that%20count%20towards%20your%20degree.%20The%20program%20coordinator%20will%20help%20you%20find%20work%20placement%20opportunities,%20study%20exchange%20programs%20or%20cadetship%20placements%20in%20your%20area%20of%20interest.%3Cbr%20/%3E"></a></dd><dt>English Language Requirements</dt><dd>IELTS (Academic) score of 6.0 with no individual band score less than 6.0;<br />
+< <br />
+< TOEFL Paper-based Test - a minimum overall score of 550 with a score of 5 or more in the Test of Written English;<br />
+< <br />
+< TOEFL Internet-based Test - a minimum overall score of 60 with a minimum for SLR 18; W 22;<br />
+< <br />
+< Satisfactory completion of the English for Further Studies Advanced Stage 5B (EFS5 UG minimum 60 per cent) which is available from La Trobe Melbourne; for more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br />
+< La Trobe Melbourne Foundation Studies: 60 per cent final result in a course;<br />
+< <br />
+< English as the language of instruction in tertiary studies may be accepted. Please note: English as the language of instruction in previous study will not be accepted as a basis of admission (English) for courses where the approved test score requirement is above an IELTS 6.5 with no band score lower than 6.0.<br />
+< <br />
+< Pearson Test of English (Academic) (PTE): a minimum score of 57 with no communicative skill score less than 50.<br />
+< <br />
+< Cambridge Certificate of Advanced English (CAE): a grade of B or higher.<br />
+< <br />
+< Cambridge Certificate of Proficiency in English (CPE): a pass grade of C or higher;<br />
+< <br />
+< or approved international equivalent.<br /></dd><dt>Academic entry requirements</dt><dd>LTM Foundation Studies - 60<br />
+< Aust. Yr 12 (ATAR) 2013 (indicative only) - 55.45<br />
+< International Baccalaureate - 24<br />
+< GCE A Levels - 8<br />
+< HKDSE - 2 x Level 4<br />
+< Sri Lankan A Levels - BCC<br />
+< STPM - 8<br />
+< Canada Secondary School (or CPU) - 70<br />
+< Norway Upper Secondary Certificate - 3.5<br />
+< Sweden Slutbetyg - G<br />
+< All Indian Sen SC (Best 5 Subjects) - 65<br />
+< Vietnam (Year 12) - 8<br />
+< Indonesia (SMA) - 7.5<br />
+< GAC Cert. IV - GPA 2.6 3<br />
+< GAOKAO - see: <a href="http://www.latrobe.edu.au/international/apply/how-to/academic-entry-requirements">the website</a><br />
+< <br />
+< If you do not meet these entry requirements you might be interested in La Trobe's Foundation Studies and Diploma Programs, which provide an alternative pathway to La Trobe's undergraduate programs. For more information please visit the <a href="http://www.latrobemelbourne.edu.au">La Trobe Melbourne</a> website.<br />
+< <br /></dd><dt>Additional information</dt><dd>Work Ready Science (WRS) offers students the chance to build their future career from the moment they start this course. This program focuses on the transition between university and the workforce by building experience and developing the skills employers value.<br />
+< <br />
+< The overall objective of Work Ready is to give students a competitive advantage, by learning to communicate achievements and experiences to an employer in a competent and confident manner.<br />
+< <br />
+< WRS is available at La Trobe Universitys Melbourne, Bendigo and Albury-Wodonga<br />
+< <a href="http://www.latrobe.edu.au/scitecheng/study/work-ready-science">campuses</a></dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsap.htm"><span class="off-screen">Science (Applications in Society)</span>Melbourne</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsapb.htm"><span class="off-screen">Science (Applications in Society)</span>Bendigo</a><br /><a href="http://www.latrobe.edu.au/handbook/current/undergraduate/science-tech/single-degrees/sbsapw.htm "><span class="off-screen">Science (Applications in Society)</span>Albury-Wodonga</a></dd></dl></div></div></div>
+---
+> Annual fee for provisional psychologist registration (A$390, subject to change).</dd><dt>Professional recognition</dt><dd>This course provides you with the specialised training required to gain registration as a professional psychologist with the Psychology Board of Australia (PBA). You can gain membership to the APS and are eligible for specialised supervision leading to full membership of the APS College of Clinical Psychologists.</dd><dt>Full course details</dt><dd><a href="http://www.latrobe.edu.au/handbook/current/postgraduate/science-tech/coursework/smcp.htm"><span class="off-screen">Clinical Psychology (Master)</span>Melbourne</a></dd></dl></div></div></div>
+406c284
+< <div id="how_to_apply_-_int_-_ug">
+---
+> <div id="how_to_apply_-_int_-_pg">
+409c287
+< <p><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>
+---
+> <p><a href="http://www.bblatrobe.internationalstudent.info/"></a><a href="http://www.latrobe.edu.au/international/ask-a-question">Enquire now</a> about any course for international students or find out <a href="http://www.latrobe.edu.au/international/apply/how-to">how to apply</a>.</p>&nbsp;
+419,455c297,299
+< </div><!-- close .tabs --><div class="video-thumb">
+< 	<div>
+< 		<img class="video-on" style="background:transparent url(http://webmedia.latrobe.edu.au/production1/video805.jpg.thumb.jpg) no-repeat 0 0" src="http://webmedia.latrobe.edu.au/images/view-video-overlay-thumb.png" alt="" width="80" height="53" />
+< 		<h2 class="video-on">Bachelor of Psychology - Dr Arthur Stukas</h2>
+< 		<p>Dr Arthur Stukas discusses the benefits of studying the Bachelor of Psychology at La Trobe University</p>
+< 	</div>
+<   <div class="webmedia reveal-video">
+< 
+< <script type="text/javascript" src="http://webmedia.latrobe.edu.au/webmedia/includes/swfobject.js"></script>
+< 
+< <script type="text/javascript">
+< var params = {
+< 'videotitle':'00:01:20',
+< 'captionfile':'http://webmedia.latrobe.edu.au/media/CCaHArtV2.xml',
+< 'mediafile':'http://webmedia.latrobe.edu.au/vod/CCaHArtV2.flv','imagefile':'http://webmedia.latrobe.edu.au/production1/video805.jpg', 'allowscriptaccess':'always', 'enablefullscreen':'true', 'autostart':'false'};
+< var flashvars = { 'allowfullscreen':'true', 'wmode':'opaque'
+< }
+< var attributes = {
+< 'id':'805', 'name':'805'};
+< swfobject.embedSWF('http://webmedia.latrobe.edu.au/webmedia/InclusiveMediaPlayer1.19.swf', 'v805', '430', '272', '9', 'false', params, flashvars, attributes); </script>
+< 
+< 
+< <div id="v805">
+<   <video poster="http://webmedia.latrobe.edu.au/production1/video805.jpg" controls="controls">
+<         <source src="http://webstat.latrobe.edu.au/webmedia/media/eo2zArtV2.mp4" type="video/mp4" codecs="avc1.4D401E, mp4a.40.2" />
+<         <p>Please enable <a href="http://www.adobe.com/go/getflashplayer">Flash</a> or upgrade your browser.</p>
+<   </video>
+< 
+< </div>
+< 
+< <div class="jump-list">
+< <ul>
+< <li class="initial webmedia">Other formats</li>
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/eo2zArtV2.mp4"><span
+< class="off-screen">Bachelor of Psychology - Dr Arthur Stukas</span> MP4 [4.38 MB]</a></li>
+< 
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/LoS9ArtV2.mp3"><span class="off-screen">Bachelor of Psychology - Dr Arthur Stukas</span> MP3 [0.93 MB]</a></li>
+---
+> </div><!-- close .tabs -->
+> <div id="study_options">
+> <p>Find out more about <a href="http://www.latrobe.edu.au/psy/research/becoming/apply">how to apply</a>&nbsp;for Psychology courses.</p>
+457,461d300
+< <li><a href="http://webstat.latrobe.edu.au/webmedia/media/rK0ZTranscript - Art Stukas BPsySci.docx"><span class="off-screen transcript-link">Bachelor of Psychology - Dr Arthur Stukas</span> Transcript</a></li>
+< <li><a href="http://webmedia.latrobe.edu.au/webmedia/perma.php?id=805"><span class="off-screen">Bachelor of Psychology - Dr Arthur Stukas</span> Permalink</a></li>
+< 
+< <li><a href="mailto:webmarketing@latrobe.edu.au?subject=Video format request: http://webmedia.latrobe.edu.au/webmedia/perma.php?805">Other formats on request: webmarketing@latrobe.edu.au</a></li>
+< </ul>
+464,473c303
+< 
+< 
+< 	</div>
+< </div>
+< <blockquote class="student-profile">
+< <p><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=256040"> <img src="http://www.latrobe.edu.au/student-profiles/images/Daniel_Wright_web.jpg/thumbnail.jpg" width="53" height="80" alt="" title="wright_daniel" /></a><cite><a href="http://www.latrobe.edu.au/scitecheng/study/student-experiences/student-graduate-profiles/full-profile?mode=results&amp;queries_id_query=256040"> Daniel <strong>Wright</strong>,</a>  <br />Bachelor of Psychological Science</cite></p><p class="testimonial">"Fundamentally, psychology is about understanding people, why they think, feel and behave the way they do."</p>
+< 
+< 
+< </blockquote>
+< <div id="related_study_options">
+---
+> <div id="new_div_106813">
+476c306,308
+< <h3>Alternative pathways</h3>
+---
+> <h3>Psychology placements</h3>
+> 
+> <p>Practical placements are an important part of our program and are worth 30% of assessment. You will receive practical training and carry out therapy under the supervision of experienced registered psychologists at the La Trobe Psychology Clinic and various external agencies.</p>
+478c310
+< <p>Alternative pathways include TAFE; transferring from another degree or campus at La&nbsp;Trobe; transferring from another university where you are enrolled in a related degree, provided you meet the entry requirements; or enrol in a degree through our special mature age entry scheme or via single subject enrolment. See <a href="http://www.latrobe.edu.au/study">undergraduate pathways</a> or <a href="http://www.latrobe.edu.au/international">information for international students</a>.</p>
+---
+> <h3>Student and graduate profiles</h3>
+481,483d312
+< <h3>Overseas study opportunities</h3>
+< <p>As a La Trobe student, you can broaden your horizons by <a href="http://www.latrobe.edu.au/international/edabroad">studying overseas</a> with one of our global exchange partners. We have partnerships with more than 100 universities in over 30 countries throughout Asia, Europe and North and South America.</p>
+< <div id="staff_profile_nest">
+488,490c317
+< <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Psychology&amp;submit=submit&amp;showform=no">staff in Psychology</a>.</p-->
+< </div>
+< <!-- Content end -->
+---
+> <!--p>You can <a href="http://www.latrobe.edu.au/scitecheng/about/staff">view all the staff</a> from the Faculty of Science, Technology and Engineering or focus on <a href="http://www.latrobe.edu.au/scitecheng/about/staff/advanced-search?areaofstudy=Psychology&amp;submit=submit&amp;showform=no">staff in Psychology</a>.</p--><!-- Content end -->
